@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 中东炮火声中，中国车商的博弈、洗牌与补课](http://localhost:2368/xing-ye-feng-xiang-zhong-dong-pao-huo-sheng-zhong-zhong-guo-che-shang-de-bo-yi-xi-pai-yu-bu-ke/) - 2026-06-19 (#insights)
 - [智投前沿洞察：程序化广告、CTV融合与行业洗牌新趋势](http://localhost:2368/zhi-tou-qian-yan-dong-cha-cheng-xu-hua-yan-gao-ctvrong-he-yu-xing-ye-xi-pai-xin-qu-shi/) - 2026-06-19 (#growth)
 - [全球数字媒体巨头整合再深化：Penske Media Corp完成对Vox Media剩余资产的收购](http://localhost:2368/quan-qiu-shu-zi-mei-ti-ju-tou-zheng-he-zai-shen-hua-penske-media-corpwan-cheng-dui-vox-mediasheng-yu-zi-chan-de-shou-gou/) - 2026-06-19 (#growth)
 - [The Trade Desk Ventura OS深度解析：重塑互联电视广告生态，直面行业利益冲突](http://localhost:2368/the-trade-desk-ventura-osshen-du-jie-xi-zhong-su-hu-lian-dian-shi-yan-gao-sheng-tai-zhi-mian-xing-ye-li-yi-chong-tu/) - 2026-06-19 (#growth)
