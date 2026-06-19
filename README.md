@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Sumsub推出AI代理工具，助力合规团队智能化构建验证工作流](http://localhost:2368/sumsubtui-chu-aidai-li-gong-ju-zhu-li-he-gui-tuan-dui-zhi-neng-hua-gou-jian-yan-zheng-gong-zuo-liu/) - 2026-06-19 (#insights)
 - [早期投资者拟斥资20亿美元从Meta回购新加坡AI初创公司Manus股权](http://localhost:2368/zao-qi-tou-zi-zhe-ni-chi-zi-20yi-mei-yuan-cong-metahui-gou-xin-jia-po-aichu-chuang-gong-si-manusgu-quan/) - 2026-06-19 (#insights)
 - [Wise战略收购Expatica，赋能全球迁徙用户生活与金融服务](http://localhost:2368/wisezhan-lue-shou-gou-expatica-fu-neng-quan-qiu-qian-xi-yong-hu-sheng-huo-yu-jin-rong-fu-wu/) - 2026-06-19 (#insights)
 - [Sima 全平台多渠道内容分发测试首贴](https://firstclass.com/test-distribute) - 这是一条用于验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
