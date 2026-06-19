@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球数字媒体巨头整合再深化：Penske Media Corp完成对Vox Media剩余资产的收购](http://localhost:2368/quan-qiu-shu-zi-mei-ti-ju-tou-zheng-he-zai-shen-hua-penske-media-corpwan-cheng-dui-vox-mediasheng-yu-zi-chan-de-shou-gou/) - 2026-06-19 (#growth)
 - [The Trade Desk Ventura OS深度解析：重塑互联电视广告生态，直面行业利益冲突](http://localhost:2368/the-trade-desk-ventura-osshen-du-jie-xi-zhong-su-hu-lian-dian-shi-yan-gao-sheng-tai-zhi-mian-xing-ye-li-yi-chong-tu/) - 2026-06-19 (#growth)
 - [“中国基因”如何重塑东南亚：多业态连锁巨头的本土化与规模化路径](http://localhost:2368/zhong-guo-ji-yin-ru-he-zhong-su-dong-nan-ya-duo-ye-tai-lian-suo-ju-tou-de-ben-tu-hua-yu-gui-mo-hua-lu-jing/) - 2026-06-19 (#growth)
 - [Luvina Software落子新加坡：越南企业级技术巨头全球化战略再下一城](http://localhost:2368/luvina-softwareluo-zi-xin-jia-po-yue-nan-qi-ye-ji-ji-zhu-ju-tou-quan-qiu-hua-zhan-lue-zai-xia-yi-cheng/) - 2026-06-19 (#growth)
