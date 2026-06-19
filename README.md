@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [“中国基因”如何重塑东南亚：多业态连锁巨头的本土化与规模化路径](http://localhost:2368/zhong-guo-ji-yin-ru-he-zhong-su-dong-nan-ya-duo-ye-tai-lian-suo-ju-tou-de-ben-tu-hua-yu-gui-mo-hua-lu-jing/) - 2026-06-19 (#growth)
 - [Luvina Software落子新加坡：越南企业级技术巨头全球化战略再下一城](http://localhost:2368/luvina-softwareluo-zi-xin-jia-po-yue-nan-qi-ye-ji-ji-zhu-ju-tou-quan-qiu-hua-zhan-lue-zai-xia-yi-cheng/) - 2026-06-19 (#growth)
 - [亚太建筑业数字化转型加速：越南与新加坡领跑科技应用新趋势](http://localhost:2368/ya-tai-jian-zhu-ye-shu-zi-hua-zhuan-xing-jia-su-yue-nan-yu-xin-jia-po-ling-pao-ke-ji-ying-yong-xin-qu-shi/) - 2026-06-19 (#growth)
 - [Sumsub推出AI代理工具，助力合规团队智能化构建验证工作流](http://localhost:2368/sumsubtui-chu-aidai-li-gong-ju-zhu-li-he-gui-tuan-dui-zhi-neng-hua-gou-jian-yan-zheng-gong-zuo-liu/) - 2026-06-19 (#insights)
