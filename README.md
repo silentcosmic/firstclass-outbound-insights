@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [W2A的技术实现](https://fcvoyage.com/w2ade-ji-zhu-shi-xian/) - 2026-06-21 (#growth)
 - [行业风向 | 中东炮火声中，中国车商的博弈、洗牌与补课](https://fcvoyage.com/xing-ye-feng-xiang-zhong-dong-pao-huo-sheng-zhong-zhong-guo-che-shang-de-bo-yi-xi-pai-yu-bu-ke/) - 2026-06-19 (#insights)
 - [智投前沿洞察：程序化广告、CTV融合与行业洗牌新趋势](https://fcvoyage.com/zhi-tou-qian-yan-dong-cha-cheng-xu-hua-yan-gao-ctvrong-he-yu-xing-ye-xi-pai-xin-qu-shi/) - 2026-06-19 (#growth)
 - [全球数字媒体巨头整合再深化：Penske Media Corp完成对Vox Media剩余资产的收购](https://fcvoyage.com/quan-qiu-shu-zi-mei-ti-ju-tou-zheng-he-zai-shen-hua-penske-media-corpwan-cheng-dui-vox-mediasheng-yu-zi-chan-de-shou-gou/) - 2026-06-19 (#growth)
