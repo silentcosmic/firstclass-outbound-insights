@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | Claude Code costs up to $200 a month. Goose does the same thing for free.](https://fcvoyage.com/xing-ye-feng-xiang-claude-code-costs-up-to-200-a-month-goose-does-the-same-thing-for-free/) - 2026-06-21 (#ai)
 - [全球广告峰会：戛纳一周洞察与高层视点](https://fcvoyage.com/quan-qiu-yan-gao-feng-hui-jia-na-yi-zhou-dong-cha-yu-gao-ceng-shi-dian/) - 2026-06-21 (#growth)
 - [Penske Media 集团完成对 Vox Media 剩余资产的收购，数字媒体版图再调整](https://fcvoyage.com/penske-media-ji-tuan-wan-cheng-dui-vox-media-sheng-yu-zi-chan-de-shou-gou-shu-zi-mei-ti-ban-tu-zai-diao-zheng/) - 2026-06-21 (#growth)
 - [深入解读The Trade Desk的Ventura OS：重塑智能电视广告生态，挑战行业既有冲突](https://fcvoyage.com/shen-ru-jie-du-the-trade-deskde-ventura-os-zhong-su-zhi-neng-dian-shi-yan-gao-sheng-tai-tiao-zhan-xing-ye-ji-you-chong-tu/) - 2026-06-21 (#growth)
@@ -33,5 +34,4 @@
 - [新加坡金管局局长警示：全球经济依赖AI或蕴含新风险，呼吁筑牢韧性](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-yi-lai-aihuo-yun-han-xin-feng-xian-hu-xu-zhu-lao-ren-xing/) - 新加坡金融管理局局长日前指出，全球经济对人工智能的日益依赖，在带来增长动力的同时也可能催生新的脆弱性，呼吁各国需审慎管理风险，并通过财政货币政策及国际合作来增强经济韧性。 (#growth)
 - [新加坡启动逾3700万美元计划，加速媒体产业数字内容创作与能力提升](https://fcvoyage.com/xin-jia-po-qi-dong-yu-3700mo-mei-yuan-ji-hua-jia-su-mei-ti-chan-ye-shu-zi-nei-rong-chuang-zuo-yu-neng-li-ti-sheng/) - 新加坡资讯通信媒体发展局（IMDA）最新推出一项逾3700万美元的“数字内容与能力发展计划”，旨在赋能本土媒体专业人士深度参与数字内容创作，并借助人工智能技术，全面提升其全球市场竞争力与创新叙事能力。 (#growth)
 - [行业风向 | Vietnam’s developers are moving from outsourcing to AI building](https://fcvoyage.com/xing-ye-feng-xiang-vietnams-developers-are-moving-from-outsourcing-to-ai-building/) - I have always felt a personal connection to Vietnam. Part of it comes from the familiarity of seeing Chinese characters in certain places, but most of it comes from the country its... (#growth)
-- [警惕营销自动化中的“智能陷阱”：为何“自主智能”并非真智能？](https://fcvoyage.com/jing-ti-ying-xiao-zi-dong-hua-zhong-de-zhi-neng-xian-jing-wei-he-zi-zhu-zhi-neng-bing-fei-zhen-zhi-neng/) - 当前广告行业热议的“自主智能”实质上多为高级自动化，而非基于深度数据学习的真正智能。企业需警惕将效率提升误认为智能突破，以免在营销投资中错失真正的价值。 (#growth)
 <!-- END_POSTS -->
