@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [越南技术图景深度解析：开发者从外包交付转向AI构建的结构性变革](https://fcvoyage.com/yue-nan-ji-zhu-tu-jing-shen-du-jie-xi-kai-fa-zhe-cong-wai-bao-jiao-fu-zhuan-xiang-aigou-jian-de-jie-gou-xing-bian-ge/) - 2026-06-21 (#growth)
 - [出海深度：中国“基因”如何驱动东南亚多业态扩张，成就本土市场独角兽？](https://fcvoyage.com/chu-hai-shen-du-zhong-guo-ji-yin-ru-he-qu-dong-dong-nan-ya-duo-ye-tai-kuo-zhang-cheng-jiu-ben-tu-shi-chang-du-jiao-shou/) - 2026-06-21 (#growth)
 - [Sumsub发布AI智能代理工具，赋能企业高效构建合规验证流程](https://fcvoyage.com/sumsubfa-bu-aizhi-neng-dai-li-gong-ju-fu-neng-qi-ye-gao-xiao-gou-jian-he-gui-yan-zheng-liu-cheng/) - 2026-06-21 (#insights)
 - [深度解析：某数字银行用户画像揭示，逾四分之一客户年龄在55岁以上](https://fcvoyage.com/shen-du-jie-xi-mou-shu-zi-yin-xing-yong-hu-hua-xiang-jie-shi-yu-si-fen-zhi-yi-ke-hu-nian-ling-zai-55sui-yi-shang/) - 2026-06-21 (#insights)
@@ -33,5 +34,4 @@
 - [智能驱动广告运营：出海·头等舱解读AI聊天机器人如何革新发布商广告管理](https://fcvoyage.com/zhi-neng-qu-dong-yan-gao-yun-ying-chu-hai-tou-deng-cang-jie-du-ailiao-tian-ji-qi-ren-ru-he-ge-xin-fa-bu-shang-yan-gao-guan-li/) - 该平台新推出的AI聊天机器人“Ask Ad Manager”，旨在通过即时故障诊断、数据查询及操作引导，大幅简化发布商广告运营团队的复杂任务，助力提升广告活动效益与收益。 (#growth)
 - [AI大模型竞争：中国厂商追赶Fable的全球视点与时间预判](https://fcvoyage.com/aida-mo-xing-jing-zheng-zhong-guo-han-shang-zhui-gan-fablede-quan-qiu-shi-dian-yu-shi-jian-yu-pan/) - 围绕中国大模型何时能与国际顶尖水平匹敌，业界展开激烈讨论。特斯拉首席执行官马斯克预测中国厂商有望在2027年一季度达到Fable级别，而部分专家则认为这一时间表可能更为紧凑。 (#insights)
 - [出海观察：BilibiliWorld布局全球市场；“AI+消费”驱动新增长；自动驾驶与物流科技创新提速](https://fcvoyage.com/chu-hai-guan-cha-bilibiliworldbu-ju-quan-qiu-shi-chang-ai-xiao-fei-qu-dong-xin-zeng-chang-zi-dong-jia-shi-yu-wu-liu-ke-ji-chuang-xin-ti-su/) - BilibiliWorld 2026首次面向全球售票，标志着国内ACG展会国际化进程提速。同时，中国推出17项措施推动“AI+消费”发展，自动驾驶、物流机器人等领域创新不断，金融市场也迎来新产品与政策调整。 (#insights)
-- [擎仓机器人赋能欧莱雅产线：轻量化具身智能VLA模型实现30天极速部署，重塑工业自动化范式](https://fcvoyage.com/qing-cang-ji-qi-ren-fu-neng-ou-lai-ya-chan-xian-qing-liang-hua-ju-shen-zhi-neng-vlamo-xing-shi-xian-30tian-ji-su-bu-shu-zhong-su-gong-ye-zi-dong-hua-fan-shi/) - 擎仓机器人凭借其独有的轻量化VLA模型，成功在欧莱雅全球战略生产基地实现工业机器人30天极速部署，彻底颠覆传统自动化部署周期，为高端柔性制造树立了新的行业标杆。 (#insights)
 <!-- END_POSTS -->
