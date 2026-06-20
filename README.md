@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球广告峰会：戛纳一周洞察与高层视点](https://fcvoyage.com/quan-qiu-yan-gao-feng-hui-jia-na-yi-zhou-dong-cha-yu-gao-ceng-shi-dian/) - 2026-06-21 (#growth)
 - [Penske Media 集团完成对 Vox Media 剩余资产的收购，数字媒体版图再调整](https://fcvoyage.com/penske-media-ji-tuan-wan-cheng-dui-vox-media-sheng-yu-zi-chan-de-shou-gou-shu-zi-mei-ti-ban-tu-zai-diao-zheng/) - 2026-06-21 (#growth)
 - [深入解读The Trade Desk的Ventura OS：重塑智能电视广告生态，挑战行业既有冲突](https://fcvoyage.com/shen-ru-jie-du-the-trade-deskde-ventura-os-zhong-su-zhi-neng-dian-shi-yan-gao-sheng-tai-tiao-zhan-xing-ye-ji-you-chong-tu/) - 2026-06-21 (#growth)
 - [NewGen战略增持K25.ai股权至10%，助推其完成Pre-A轮融资](https://fcvoyage.com/newgenzhan-lue-zeng-chi-k25-aigu-quan-zhi-10-zhu-tui-qi-wan-cheng-pre-alun-rong-zi/) - 2026-06-21 (#growth)
@@ -33,5 +34,4 @@
 - [新加坡启动逾3700万美元计划，加速媒体产业数字内容创作与能力提升](https://fcvoyage.com/xin-jia-po-qi-dong-yu-3700mo-mei-yuan-ji-hua-jia-su-mei-ti-chan-ye-shu-zi-nei-rong-chuang-zuo-yu-neng-li-ti-sheng/) - 新加坡资讯通信媒体发展局（IMDA）最新推出一项逾3700万美元的“数字内容与能力发展计划”，旨在赋能本土媒体专业人士深度参与数字内容创作，并借助人工智能技术，全面提升其全球市场竞争力与创新叙事能力。 (#growth)
 - [行业风向 | Vietnam’s developers are moving from outsourcing to AI building](https://fcvoyage.com/xing-ye-feng-xiang-vietnams-developers-are-moving-from-outsourcing-to-ai-building/) - I have always felt a personal connection to Vietnam. Part of it comes from the familiarity of seeing Chinese characters in certain places, but most of it comes from the country its... (#growth)
 - [警惕营销自动化中的“智能陷阱”：为何“自主智能”并非真智能？](https://fcvoyage.com/jing-ti-ying-xiao-zi-dong-hua-zhong-de-zhi-neng-xian-jing-wei-he-zi-zhu-zhi-neng-bing-fei-zhen-zhi-neng/) - 当前广告行业热议的“自主智能”实质上多为高级自动化，而非基于深度数据学习的真正智能。企业需警惕将效率提升误认为智能突破，以免在营销投资中错失真正的价值。 (#growth)
-- [Magnite 引入数据质量校验层，全面提升 CTV 广告投放精准度](https://fcvoyage.com/magnite-yin-ru-shu-ju-zhi-liang-xiao-yan-ceng-quan-mian-ti-sheng-ctv-yan-gao-tou-fang-jing-zhun-du/) - Magnite与Truthset集成，为CTV等渠道引入数据质量验证层，旨在从源头提升受众数据的精准度与投放匹配率，从而优化广告主营销效能并助力数据供应商实现高质量定价。 (#growth)
 <!-- END_POSTS -->
