@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海巨头Sea集团：进军美国消费级AI市场，秘密测试聊天机器人Migoo](https://fcvoyage.com/chu-hai-ju-tou-seaji-tuan-jin-jun-mei-guo-xiao-fei-ji-aishi-chang-mi-mi-ce-shi-liao-tian-ji-qi-ren-migoo/) - 2026-06-21 (#insights)
 - [W2A的技术实现](https://fcvoyage.com/w2ade-ji-zhu-shi-xian/) - 2026-06-21 (#growth)
 - [行业风向 | 中东炮火声中，中国车商的博弈、洗牌与补课](https://fcvoyage.com/xing-ye-feng-xiang-zhong-dong-pao-huo-sheng-zhong-zhong-guo-che-shang-de-bo-yi-xi-pai-yu-bu-ke/) - 2026-06-19 (#insights)
 - [智投前沿洞察：程序化广告、CTV融合与行业洗牌新趋势](https://fcvoyage.com/zhi-tou-qian-yan-dong-cha-cheng-xu-hua-yan-gao-ctvrong-he-yu-xing-ye-xi-pai-xin-qu-shi/) - 2026-06-19 (#growth)
