@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [AI原生云基础设施新格局：Railway融资1亿美元挑战传统巨头](https://fcvoyage.com/aiyuan-sheng-yun-ji-chu-she-shi-xin-ge-ju-railwayrong-zi-1yi-mei-yuan-tiao-zhan-chuan-tong-ju-tou/) - 2026-06-21 (#ai)
 - [行业风向 | Claude Code costs up to $200 a month. Goose does the same thing for free.](https://fcvoyage.com/xing-ye-feng-xiang-claude-code-costs-up-to-200-a-month-goose-does-the-same-thing-for-free/) - 2026-06-21 (#ai)
 - [全球广告峰会：戛纳一周洞察与高层视点](https://fcvoyage.com/quan-qiu-yan-gao-feng-hui-jia-na-yi-zhou-dong-cha-yu-gao-ceng-shi-dian/) - 2026-06-21 (#growth)
 - [Penske Media 集团完成对 Vox Media 剩余资产的收购，数字媒体版图再调整](https://fcvoyage.com/penske-media-ji-tuan-wan-cheng-dui-vox-media-sheng-yu-zi-chan-de-shou-gou-shu-zi-mei-ti-ban-tu-zai-diao-zheng/) - 2026-06-21 (#growth)
@@ -33,5 +34,4 @@
 - [保加利亚欧元过渡期：BORICA与合作伙伴共筑支付系统韧性](https://fcvoyage.com/bao-jia-li-ya-ou-yuan-guo-du-qi-boricayu-he-zuo-huo-ban-gong-zhu-zhi-fu-xi-tong-ren-xing/) - 保加利亚成功过渡至欧元支付系统，BORICA的案例研究揭示了大规模基础设施变革中，支付生态系统协调、技术平台韧性及长期战略合作的关键作用。这为全球支付企业应对高风险系统转型提供了宝贵经验。 (#insights)
 - [新加坡金管局局长警示：全球经济依赖AI或蕴含新风险，呼吁筑牢韧性](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-yi-lai-aihuo-yun-han-xin-feng-xian-hu-xu-zhu-lao-ren-xing/) - 新加坡金融管理局局长日前指出，全球经济对人工智能的日益依赖，在带来增长动力的同时也可能催生新的脆弱性，呼吁各国需审慎管理风险，并通过财政货币政策及国际合作来增强经济韧性。 (#growth)
 - [新加坡启动逾3700万美元计划，加速媒体产业数字内容创作与能力提升](https://fcvoyage.com/xin-jia-po-qi-dong-yu-3700mo-mei-yuan-ji-hua-jia-su-mei-ti-chan-ye-shu-zi-nei-rong-chuang-zuo-yu-neng-li-ti-sheng/) - 新加坡资讯通信媒体发展局（IMDA）最新推出一项逾3700万美元的“数字内容与能力发展计划”，旨在赋能本土媒体专业人士深度参与数字内容创作，并借助人工智能技术，全面提升其全球市场竞争力与创新叙事能力。 (#growth)
-- [行业风向 | Vietnam’s developers are moving from outsourcing to AI building](https://fcvoyage.com/xing-ye-feng-xiang-vietnams-developers-are-moving-from-outsourcing-to-ai-building/) - I have always felt a personal connection to Vietnam. Part of it comes from the familiarity of seeing Chinese characters in certain places, but most of it comes from the country its... (#growth)
 <!-- END_POSTS -->
