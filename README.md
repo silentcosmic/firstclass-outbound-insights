@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [伊朗宣布关闭霍尔木兹海峡：全球航运面临严峻挑战](https://t.me/c/4392427626/376) - 2026-06-21 (#dubai)
 - [陕西经济领跑全国，半导体投资再添新引擎](https://t.me/c/4392427626/375) - 2026-06-21 (#dubai)
 - [中国区域经济透视：陕西前五月稳步增长，半导体产业投资再添新动能](https://fcvoyage.com/zhong-guo-qu-yu-jing-ji-tou-shi-shan-xi-qian-wu-yue-wen-bu-zeng-chang-ban-dao-ti-chan-ye-tou-zi-zai-tian-xin-dong-neng/) - 2026-06-21 (#insights)
 - [谷歌搜索核心交互25年首度巨变：AI重塑搜索范式，解锁商业新机遇](https://fcvoyage.com/gu-ge-sou-suo-he-xin-jiao-hu-25nian-shou-du-ju-bian-aizhong-su-sou-suo-fan-shi-jie-suo-shang-ye-xin-ji-yu/) - 2026-06-21 (#ai)
@@ -33,5 +34,4 @@
 - [Sima 实机全渠道分发校验二贴](https://fcvoyage.com/test-distribute-v2) - 这是一条用于再次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
 - [Sima 实机全渠道分发校验三贴](https://fcvoyage.com/test-distribute-v3) - 这是一条用于第三次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
 - [Sima 实机全渠道分发校验四贴](https://fcvoyage.com/test-distribute-v4) - 这是一条用于第四次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
-- [BitGo任命前MAS与TRM Labs高管Angela Ang为亚太区董事总经理，深耕机构数字资产市场](https://fcvoyage.com/bitgoren-ming-qian-masyu-trm-labsgao-guan-angela-angwei-ya-tai-qu-dong-shi-zong-jing-li-shen-geng-ji-gou-shu-zi-zi-chan-shi-chang/) - 数字资产服务商 BitGo 迎来前新加坡金融管理局高管 Angela Ang 执掌亚太区业务，此举旨在深化其机构服务布局，并借力新加坡领先的监管框架，加速区域市场拓展。 (#insights)
 <!-- END_POSTS -->
