@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [日本签证费拟飙升5倍，出海成本将显著增加](https://t.me/c/4392427626/377) - 2026-06-21 (#dubai)
 - [伊朗宣布关闭霍尔木兹海峡：全球航运面临严峻挑战](https://t.me/c/4392427626/376) - 2026-06-21 (#dubai)
 - [陕西经济领跑全国，半导体投资再添新引擎](https://t.me/c/4392427626/375) - 2026-06-21 (#dubai)
 - [中国区域经济透视：陕西前五月稳步增长，半导体产业投资再添新动能](https://fcvoyage.com/zhong-guo-qu-yu-jing-ji-tou-shi-shan-xi-qian-wu-yue-wen-bu-zeng-chang-ban-dao-ti-chan-ye-tou-zi-zai-tian-xin-dong-neng/) - 2026-06-21 (#insights)
@@ -33,5 +34,4 @@
 - [Sima 全平台多渠道内容分发测试首贴](https://fcvoyage.com/test-distribute) - 这是一条用于验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
 - [Sima 实机全渠道分发校验二贴](https://fcvoyage.com/test-distribute-v2) - 这是一条用于再次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
 - [Sima 实机全渠道分发校验三贴](https://fcvoyage.com/test-distribute-v3) - 这是一条用于第三次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
-- [Sima 实机全渠道分发校验四贴](https://fcvoyage.com/test-distribute-v4) - 这是一条用于第四次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
 <!-- END_POSTS -->
