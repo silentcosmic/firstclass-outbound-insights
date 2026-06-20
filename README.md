@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [深入解读The Trade Desk的Ventura OS：重塑智能电视广告生态，挑战行业既有冲突](https://fcvoyage.com/shen-ru-jie-du-the-trade-deskde-ventura-os-zhong-su-zhi-neng-dian-shi-yan-gao-sheng-tai-tiao-zhan-xing-ye-ji-you-chong-tu/) - 2026-06-21 (#growth)
 - [NewGen战略增持K25.ai股权至10%，助推其完成Pre-A轮融资](https://fcvoyage.com/newgenzhan-lue-zeng-chi-k25-aigu-quan-zhi-10-zhu-tui-qi-wan-cheng-pre-alun-rong-zi/) - 2026-06-21 (#growth)
 - [越南技术图景深度解析：开发者从外包交付转向AI构建的结构性变革](https://fcvoyage.com/yue-nan-ji-zhu-tu-jing-shen-du-jie-xi-kai-fa-zhe-cong-wai-bao-jiao-fu-zhuan-xiang-aigou-jian-de-jie-gou-xing-bian-ge/) - 2026-06-21 (#growth)
 - [出海深度：中国“基因”如何驱动东南亚多业态扩张，成就本土市场独角兽？](https://fcvoyage.com/chu-hai-shen-du-zhong-guo-ji-yin-ru-he-qu-dong-dong-nan-ya-duo-ye-tai-kuo-zhang-cheng-jiu-ben-tu-shi-chang-du-jiao-shou/) - 2026-06-21 (#growth)
@@ -33,5 +34,4 @@
 - [警惕营销自动化中的“智能陷阱”：为何“自主智能”并非真智能？](https://fcvoyage.com/jing-ti-ying-xiao-zi-dong-hua-zhong-de-zhi-neng-xian-jing-wei-he-zi-zhu-zhi-neng-bing-fei-zhen-zhi-neng/) - 当前广告行业热议的“自主智能”实质上多为高级自动化，而非基于深度数据学习的真正智能。企业需警惕将效率提升误认为智能突破，以免在营销投资中错失真正的价值。 (#growth)
 - [Magnite 引入数据质量校验层，全面提升 CTV 广告投放精准度](https://fcvoyage.com/magnite-yin-ru-shu-ju-zhi-liang-xiao-yan-ceng-quan-mian-ti-sheng-ctv-yan-gao-tou-fang-jing-zhun-du/) - Magnite与Truthset集成，为CTV等渠道引入数据质量验证层，旨在从源头提升受众数据的精准度与投放匹配率，从而优化广告主营销效能并助力数据供应商实现高质量定价。 (#growth)
 - [智能驱动广告运营：出海·头等舱解读AI聊天机器人如何革新发布商广告管理](https://fcvoyage.com/zhi-neng-qu-dong-yan-gao-yun-ying-chu-hai-tou-deng-cang-jie-du-ailiao-tian-ji-qi-ren-ru-he-ge-xin-fa-bu-shang-yan-gao-guan-li/) - 该平台新推出的AI聊天机器人“Ask Ad Manager”，旨在通过即时故障诊断、数据查询及操作引导，大幅简化发布商广告运营团队的复杂任务，助力提升广告活动效益与收益。 (#growth)
-- [AI大模型竞争：中国厂商追赶Fable的全球视点与时间预判](https://fcvoyage.com/aida-mo-xing-jing-zheng-zhong-guo-han-shang-zhui-gan-fablede-quan-qiu-shi-dian-yu-shi-jian-yu-pan/) - 围绕中国大模型何时能与国际顶尖水平匹敌，业界展开激烈讨论。特斯拉首席执行官马斯克预测中国厂商有望在2027年一季度达到Fable级别，而部分专家则认为这一时间表可能更为紧凑。 (#insights)
 <!-- END_POSTS -->
