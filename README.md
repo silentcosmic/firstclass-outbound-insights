@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中国区域经济透视：陕西前五月稳步增长，半导体产业投资再添新动能](https://fcvoyage.com/zhong-guo-qu-yu-jing-ji-tou-shi-shan-xi-qian-wu-yue-wen-bu-zeng-chang-ban-dao-ti-chan-ye-tou-zi-zai-tian-xin-dong-neng/) - 2026-06-21 (#insights)
 - [谷歌搜索核心交互25年首度巨变：AI重塑搜索范式，解锁商业新机遇](https://fcvoyage.com/gu-ge-sou-suo-he-xin-jiao-hu-25nian-shou-du-ju-bian-aizhong-su-sou-suo-fan-shi-jie-suo-shang-ye-xin-ji-yu/) - 2026-06-21 (#ai)
 - [AI原生云基础设施新格局：Railway融资1亿美元挑战传统巨头](https://fcvoyage.com/aiyuan-sheng-yun-ji-chu-she-shi-xin-ge-ju-railwayrong-zi-1yi-mei-yuan-tiao-zhan-chuan-tong-ju-tou/) - 2026-06-21 (#ai)
 - [行业风向 | Claude Code costs up to $200 a month. Goose does the same thing for free.](https://fcvoyage.com/xing-ye-feng-xiang-claude-code-costs-up-to-200-a-month-goose-does-the-same-thing-for-free/) - 2026-06-21 (#ai)
@@ -33,5 +34,4 @@
 - [Sima 实机全渠道分发校验四贴](https://fcvoyage.com/test-distribute-v4) - 这是一条用于第四次验证自动化资产归档与推特/GitHub推送的测试摘要。确保跨平台逻辑解耦及防重校验工作正常。 (#growth, #insights)
 - [BitGo任命前MAS与TRM Labs高管Angela Ang为亚太区董事总经理，深耕机构数字资产市场](https://fcvoyage.com/bitgoren-ming-qian-masyu-trm-labsgao-guan-angela-angwei-ya-tai-qu-dong-shi-zong-jing-li-shen-geng-ji-gou-shu-zi-zi-chan-shi-chang/) - 数字资产服务商 BitGo 迎来前新加坡金融管理局高管 Angela Ang 执掌亚太区业务，此举旨在深化其机构服务布局，并借力新加坡领先的监管框架，加速区域市场拓展。 (#insights)
 - [保加利亚欧元过渡期：BORICA与合作伙伴共筑支付系统韧性](https://fcvoyage.com/bao-jia-li-ya-ou-yuan-guo-du-qi-boricayu-he-zuo-huo-ban-gong-zhu-zhi-fu-xi-tong-ren-xing/) - 保加利亚成功过渡至欧元支付系统，BORICA的案例研究揭示了大规模基础设施变革中，支付生态系统协调、技术平台韧性及长期战略合作的关键作用。这为全球支付企业应对高风险系统转型提供了宝贵经验。 (#insights)
-- [新加坡金管局局长警示：全球经济依赖AI或蕴含新风险，呼吁筑牢韧性](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-yi-lai-aihuo-yun-han-xin-feng-xian-hu-xu-zhu-lao-ren-xing/) - 新加坡金融管理局局长日前指出，全球经济对人工智能的日益依赖，在带来增长动力的同时也可能催生新的脆弱性，呼吁各国需审慎管理风险，并通过财政货币政策及国际合作来增强经济韧性。 (#growth)
 <!-- END_POSTS -->
