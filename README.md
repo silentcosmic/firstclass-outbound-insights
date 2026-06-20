@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [沙迦安全指数达99.7%，居民信任度大幅提升](https://t.me/c/4392427626/382) - 2026-06-21 (#dubai)
 - [富查伊拉射击俱乐部：迪拜周边高性价比休闲新选择](https://t.me/c/4392427626/381) - 2026-06-21 (#dubai)
 - [特朗普：霍尔木兹海峡“守护天使”收费论引发关注](https://t.me/c/4392427626/380) - 2026-06-21 (#dubai)
 - [斯里兰卡预警：反诈风暴或将席卷，警惕高薪陷阱](https://t.me/c/4392427626/379) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [Luvina Software落子新加坡：越南企业级技术巨头全球化战略再下一城](https://fcvoyage.com/luvina-softwareluo-zi-xin-jia-po-yue-nan-qi-ye-ji-ji-zhu-ju-tou-quan-qiu-hua-zhan-lue-zai-xia-yi-cheng/) - 2026-06-19 (#growth)
 - [亚太建筑业数字化转型加速：越南与新加坡领跑科技应用新趋势](https://fcvoyage.com/ya-tai-jian-zhu-ye-shu-zi-hua-zhuan-xing-jia-su-yue-nan-yu-xin-jia-po-ling-pao-ke-ji-ying-yong-xin-qu-shi/) - 2026-06-19 (#growth)
 - [Sumsub推出AI代理工具，助力合规团队智能化构建验证工作流](https://fcvoyage.com/sumsubtui-chu-aidai-li-gong-ju-zhu-li-he-gui-tuan-dui-zhi-neng-hua-gou-jian-yan-zheng-gong-zuo-liu/) - 2026-06-19 (#insights)
-- [早期投资者拟斥资20亿美元从Meta回购新加坡AI初创公司Manus股权](https://fcvoyage.com/zao-qi-tou-zi-zhe-ni-chi-zi-20yi-mei-yuan-cong-metahui-gou-xin-jia-po-aichu-chuang-gong-si-manusgu-quan/) - 2026-06-19 (#insights)
 <!-- END_POSTS -->
