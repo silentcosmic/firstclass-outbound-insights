@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [深度解析：某数字银行用户画像揭示，逾四分之一客户年龄在55岁以上](https://fcvoyage.com/shen-du-jie-xi-mou-shu-zi-yin-xing-yong-hu-hua-xiang-jie-shi-yu-si-fen-zhi-yi-ke-hu-nian-ling-zai-55sui-yi-shang/) - 2026-06-21 (#insights)
 - [出海巨头Sea集团：进军美国消费级AI市场，秘密测试聊天机器人Migoo](https://fcvoyage.com/chu-hai-ju-tou-seaji-tuan-jin-jun-mei-guo-xiao-fei-ji-aishi-chang-mi-mi-ce-shi-liao-tian-ji-qi-ren-migoo/) - 2026-06-21 (#insights)
 - [W2A的技术实现](https://fcvoyage.com/w2ade-ji-zhu-shi-xian/) - 2026-06-21 (#growth)
 - [行业风向 | 中东炮火声中，中国车商的博弈、洗牌与补课](https://fcvoyage.com/xing-ye-feng-xiang-zhong-dong-pao-huo-sheng-zhong-zhong-guo-che-shang-de-bo-yi-xi-pai-yu-bu-ke/) - 2026-06-19 (#insights)
