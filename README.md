@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [境外涉诈案回国取保：律师揭示成功关键](https://t.me/c/4392427626/419) - 2026-06-22 (#dubai)
 - [伊美首轮谈判落幕：瑞士会谈未透露细节](https://t.me/c/4392427626/418) - 2026-06-21 (#dubai)
 - [️ 宝莱坞女星迪拜“转型”：告别光影，深耕豪宅市场](https://t.me/c/4392427626/417) - 2026-06-21 (#dubai)
 - [柬埔寨电诈新变种：埃尔法车内设流动诈骗站](https://t.me/c/4392427626/416) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [日本金主曼谷落网：跨境诈骗曝“AI深伪”新威胁](https://t.me/c/4392427626/392) - 2026-06-21 (#dubai)
 - [Listen Labs突破性AI客户访谈获6900万美元B轮融资，估值跃升5亿美元](https://fcvoyage.com/listen-labstu-po-xing-aike-hu-fang-tan-huo-6900mo-mei-yuan-blun-rong-zi-gu-zhi-yue-sheng-5yi-mei-yuan/) - 2026-06-21 (#ai)
 - [赛富时（Salesforce）推出全新智能助理Slackbot，重塑企业协作AI格局](https://fcvoyage.com/sai-fu-shi-salesforce-tui-chu-quan-xin-zhi-neng-zhu-li-slackbot-zhong-su-qi-ye-xie-zuo-aige-ju/) - 2026-06-21 (#ai)
-- [行业风向 | Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment](https://fcvoyage.com/xing-ye-feng-xiang-nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in-the-claude-code-moment/) - 2026-06-21 (#ai)
 <!-- END_POSTS -->
