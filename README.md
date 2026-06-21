@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [今日赛事前瞻：热门对决深度解析](https://t.me/c/4392427626/411) - 2026-06-21 (#dubai)
 - [特朗普警告伊朗：不收敛将面临更严厉打击](https://t.me/c/4392427626/410) - 2026-06-21 (#dubai)
 - [胡志明市警方重拳出击：捣毁两大跨国诈骗基地，168名华人落网](https://t.me/c/4392427626/409) - 2026-06-21 (#dubai)
 - [京东刘强东：70万快递员将转型技术岗，应对AI冲击](https://t.me/c/4392427626/408) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [宏桥公司加入Anthropic“翼影项目”：以前沿AI模型强化网络安全防御](https://fcvoyage.com/hong-qiao-gong-si-jia-ru-anthropic-yi-ying-xiang-mu-yi-qian-yan-aimo-xing-qiang-hua-wang-luo-an-quan-fang-yu/) - 2026-06-21 (#insights)
 - [️ 迪拜华人圈警示：前中企员工涉嫌卷款潜逃](https://t.me/c/4392427626/383) - 2026-06-21 (#dubai)
 - [沙迦安全指数达99.7%，居民信任度大幅提升](https://t.me/c/4392427626/382) - 2026-06-21 (#dubai)
-- [富查伊拉射击俱乐部：迪拜周边高性价比休闲新选择](https://t.me/c/4392427626/381) - 2026-06-21 (#dubai)
 <!-- END_POSTS -->
