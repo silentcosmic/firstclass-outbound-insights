@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [日本金主曼谷落网：跨境诈骗曝“AI深伪”新威胁](https://t.me/c/4392427626/392) - 2026-06-21 (#dubai)
 - [Listen Labs突破性AI客户访谈获6900万美元B轮融资，估值跃升5亿美元](https://fcvoyage.com/listen-labstu-po-xing-aike-hu-fang-tan-huo-6900mo-mei-yuan-blun-rong-zi-gu-zhi-yue-sheng-5yi-mei-yuan/) - 2026-06-21 (#ai)
 - [赛富时（Salesforce）推出全新智能助理Slackbot，重塑企业协作AI格局](https://fcvoyage.com/sai-fu-shi-salesforce-tui-chu-quan-xin-zhi-neng-zhu-li-slackbot-zhong-su-qi-ye-xie-zuo-aige-ju/) - 2026-06-21 (#ai)
 - [行业风向 | Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment](https://fcvoyage.com/xing-ye-feng-xiang-nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in-the-claude-code-moment/) - 2026-06-21 (#ai)
@@ -33,5 +34,4 @@
 - [出海深度：中国“基因”如何驱动东南亚多业态扩张，成就本土市场独角兽？](https://fcvoyage.com/chu-hai-shen-du-zhong-guo-ji-yin-ru-he-qu-dong-dong-nan-ya-duo-ye-tai-kuo-zhang-cheng-jiu-ben-tu-shi-chang-du-jiao-shou/) - 2026-06-21 (#growth)
 - [Sumsub发布AI智能代理工具，赋能企业高效构建合规验证流程](https://fcvoyage.com/sumsubfa-bu-aizhi-neng-dai-li-gong-ju-fu-neng-qi-ye-gao-xiao-gou-jian-he-gui-yan-zheng-liu-cheng/) - 2026-06-21 (#insights)
 - [深度解析：某数字银行用户画像揭示，逾四分之一客户年龄在55岁以上](https://fcvoyage.com/shen-du-jie-xi-mou-shu-zi-yin-xing-yong-hu-hua-xiang-jie-shi-yu-si-fen-zhi-yi-ke-hu-nian-ling-zai-55sui-yi-shang/) - 2026-06-21 (#insights)
-- [出海巨头Sea集团：进军美国消费级AI市场，秘密测试聊天机器人Migoo](https://fcvoyage.com/chu-hai-ju-tou-seaji-tuan-jin-jun-mei-guo-xiao-fei-ji-aishi-chang-mi-mi-ce-shi-liao-tian-ji-qi-ren-migoo/) - 2026-06-21 (#insights)
 <!-- END_POSTS -->
