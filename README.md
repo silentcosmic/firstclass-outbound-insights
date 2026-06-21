@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡金管局局长警示：全球经济韧性背后，AI投资暗藏潜在风险](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-ren-xing-bei-hou-aitou-zi-an-cang-qian-zai-feng-xian/) - 2026-06-21 (#growth)
 - [Roblox全球推出分龄账户体系，强化未成年用户保护与家长控制功能](https://fcvoyage.com/robloxquan-qiu-tui-chu-fen-ling-zhang-hu-ti-xi-qiang-hua-wei-cheng-nian-yong-hu-bao-hu-yu-jia-chang-kong-zhi-gong-neng/) - 2026-06-21 (#growth)
 - [行业风向 | Fime Wants to FACT-Check Whether AI Buys What You Really Asked For](https://fcvoyage.com/xing-ye-feng-xiang-fime-wants-to-fact-check-whether-ai-buys-what-you-really-asked-for-2/) - 2026-06-21 (#insights)
 - [宏桥公司加入Anthropic“翼影项目”：以前沿AI模型强化网络安全防御](https://fcvoyage.com/hong-qiao-gong-si-jia-ru-anthropic-yi-ying-xiang-mu-yi-qian-yan-aimo-xing-qiang-hua-wang-luo-an-quan-fang-yu/) - 2026-06-21 (#insights)
@@ -33,5 +34,4 @@
 - [行业风向 | 中东炮火声中，中国车商的博弈、洗牌与补课](https://fcvoyage.com/xing-ye-feng-xiang-zhong-dong-pao-huo-sheng-zhong-zhong-guo-che-shang-de-bo-yi-xi-pai-yu-bu-ke/) - 2026-06-19 (#insights)
 - [智投前沿洞察：程序化广告、CTV融合与行业洗牌新趋势](https://fcvoyage.com/zhi-tou-qian-yan-dong-cha-cheng-xu-hua-yan-gao-ctvrong-he-yu-xing-ye-xi-pai-xin-qu-shi/) - 2026-06-19 (#growth)
 - [全球数字媒体巨头整合再深化：Penske Media Corp完成对Vox Media剩余资产的收购](https://fcvoyage.com/quan-qiu-shu-zi-mei-ti-ju-tou-zheng-he-zai-shen-hua-penske-media-corpwan-cheng-dui-vox-mediasheng-yu-zi-chan-de-shou-gou/) - 2026-06-19 (#growth)
-- [The Trade Desk Ventura OS深度解析：重塑互联电视广告生态，直面行业利益冲突](https://fcvoyage.com/the-trade-desk-ventura-osshen-du-jie-xi-zhong-su-hu-lian-dian-shi-yan-gao-sheng-tai-zhi-mian-xing-ye-li-yi-chong-tu/) - 2026-06-19 (#growth)
 <!-- END_POSTS -->
