@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜涉债纠纷：暴力催收案致多方入狱](https://t.me/c/4392427626/398) - 2026-06-21 (#dubai)
 - [大马重拳整治非法外籍：超1.7万人被捕](https://t.me/c/4392427626/397) - 2026-06-21 (#dubai)
 - [赴泰出海：警惕“真心”变“跨国业务”](https://t.me/c/4392427626/396) - 2026-06-21 (#dubai)
 - [柬埔寨官宣：中国公民2026年起免签入境](https://t.me/c/4392427626/395) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | Claude Code costs up to $200 a month. Goose does the same thing for free.](https://fcvoyage.com/xing-ye-feng-xiang-claude-code-costs-up-to-200-a-month-goose-does-the-same-thing-for-free/) - 2026-06-21 (#ai)
 - [全球广告峰会：戛纳一周洞察与高层视点](https://fcvoyage.com/quan-qiu-yan-gao-feng-hui-jia-na-yi-zhou-dong-cha-yu-gao-ceng-shi-dian/) - 2026-06-21 (#growth)
 - [Penske Media 集团完成对 Vox Media 剩余资产的收购，数字媒体版图再调整](https://fcvoyage.com/penske-media-ji-tuan-wan-cheng-dui-vox-media-sheng-yu-zi-chan-de-shou-gou-shu-zi-mei-ti-ban-tu-zai-diao-zheng/) - 2026-06-21 (#growth)
-- [深入解读The Trade Desk的Ventura OS：重塑智能电视广告生态，挑战行业既有冲突](https://fcvoyage.com/shen-ru-jie-du-the-trade-deskde-ventura-os-zhong-su-zhi-neng-dian-shi-yan-gao-sheng-tai-tiao-zhan-xing-ye-ji-you-chong-tu/) - 2026-06-21 (#growth)
 <!-- END_POSTS -->
