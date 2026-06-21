@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 宝莱坞女星迪拜“转型”：告别光影，深耕豪宅市场](https://t.me/c/4392427626/417) - 2026-06-21 (#dubai)
 - [柬埔寨电诈新变种：埃尔法车内设流动诈骗站](https://t.me/c/4392427626/416) - 2026-06-21 (#dubai)
 - [伊朗关闭霍尔木兹海峡，回应以黎冲突与美国失信](https://t.me/c/4392427626/415) - 2026-06-21 (#dubai)
 - [迪拜租房续约费：合同未载明，可拒付！](https://t.me/c/4392427626/414) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [赛富时（Salesforce）推出全新智能助理Slackbot，重塑企业协作AI格局](https://fcvoyage.com/sai-fu-shi-salesforce-tui-chu-quan-xin-zhi-neng-zhu-li-slackbot-zhong-su-qi-ye-xie-zuo-aige-ju/) - 2026-06-21 (#ai)
 - [行业风向 | Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment](https://fcvoyage.com/xing-ye-feng-xiang-nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in-the-claude-code-moment/) - 2026-06-21 (#ai)
 - [新加坡重磅推出3700万美元计划，赋能媒体专业人士加速数字内容创新与能力建设](https://fcvoyage.com/xin-jia-po-zhong-bang-tui-chu-3700mo-mei-yuan-ji-hua-fu-neng-mei-ti-zhuan-ye-ren-shi-jia-su-shu-zi-nei-rong-chuang-xin-yu-neng-li-jian-she/) - 2026-06-21 (#growth)
-- [新加坡金管局局长警示：全球经济韧性背后，AI投资暗藏潜在风险](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-ren-xing-bei-hou-aitou-zi-an-cang-qian-zai-feng-xian/) - 2026-06-21 (#growth)
 <!-- END_POSTS -->
