@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [大马重拳整治非法外籍：超1.7万人被捕](https://t.me/c/4392427626/397) - 2026-06-21 (#dubai)
 - [赴泰出海：警惕“真心”变“跨国业务”](https://t.me/c/4392427626/396) - 2026-06-21 (#dubai)
 - [柬埔寨官宣：中国公民2026年起免签入境](https://t.me/c/4392427626/395) - 2026-06-21 (#dubai)
 - [阿联酋气温逼近50°C：极端酷热引关注](https://t.me/c/4392427626/394) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [全球广告峰会：戛纳一周洞察与高层视点](https://fcvoyage.com/quan-qiu-yan-gao-feng-hui-jia-na-yi-zhou-dong-cha-yu-gao-ceng-shi-dian/) - 2026-06-21 (#growth)
 - [Penske Media 集团完成对 Vox Media 剩余资产的收购，数字媒体版图再调整](https://fcvoyage.com/penske-media-ji-tuan-wan-cheng-dui-vox-media-sheng-yu-zi-chan-de-shou-gou-shu-zi-mei-ti-ban-tu-zai-diao-zheng/) - 2026-06-21 (#growth)
 - [深入解读The Trade Desk的Ventura OS：重塑智能电视广告生态，挑战行业既有冲突](https://fcvoyage.com/shen-ru-jie-du-the-trade-deskde-ventura-os-zhong-su-zhi-neng-dian-shi-yan-gao-sheng-tai-tiao-zhan-xing-ye-ji-you-chong-tu/) - 2026-06-21 (#growth)
-- [NewGen战略增持K25.ai股权至10%，助推其完成Pre-A轮融资](https://fcvoyage.com/newgenzhan-lue-zeng-chi-k25-aigu-quan-zhi-10-zhu-tui-qi-wan-cheng-pre-alun-rong-zi/) - 2026-06-21 (#growth)
 <!-- END_POSTS -->
