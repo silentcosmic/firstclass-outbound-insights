@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [泰国突查非法挖矿：窃电近900万泰铢](https://t.me/c/4392427626/403) - 2026-06-21 (#dubai)
 - [中国商人斯里兰卡机场被捕：涉千万卢比香烟走私案](https://t.me/c/4392427626/402) - 2026-06-21 (#dubai)
 - [阿联酋“骑士行动3”：向加沙运送786吨人道物资](https://t.me/c/4392427626/401) - 2026-06-21 (#dubai)
 - [迪拜华人失联一年：曾涉换汇与房产交易](https://t.me/c/4392427626/400) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [伊朗宣布关闭霍尔木兹海峡：全球航运面临严峻挑战](https://t.me/c/4392427626/376) - 2026-06-21 (#dubai)
 - [陕西经济领跑全国，半导体投资再添新引擎](https://t.me/c/4392427626/375) - 2026-06-21 (#dubai)
 - [中国区域经济透视：陕西前五月稳步增长，半导体产业投资再添新动能](https://fcvoyage.com/zhong-guo-qu-yu-jing-ji-tou-shi-shan-xi-qian-wu-yue-wen-bu-zeng-chang-ban-dao-ti-chan-ye-tou-zi-zai-tian-xin-dong-neng/) - 2026-06-21 (#insights)
-- [谷歌搜索核心交互25年首度巨变：AI重塑搜索范式，解锁商业新机遇](https://fcvoyage.com/gu-ge-sou-suo-he-xin-jiao-hu-25nian-shou-du-ju-bian-aizhong-su-sou-suo-fan-shi-jie-suo-shang-ye-xin-ji-yu/) - 2026-06-21 (#ai)
 <!-- END_POSTS -->
