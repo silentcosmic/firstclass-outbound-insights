@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [伊朗关闭霍尔木兹海峡，回应以黎冲突与美国失信](https://t.me/c/4392427626/415) - 2026-06-21 (#dubai)
 - [迪拜租房续约费：合同未载明，可拒付！](https://t.me/c/4392427626/414) - 2026-06-21 (#dubai)
 - [️ Polymarket涉嫌社媒“假赢”骗局：诱导美国用户](https://t.me/c/4392427626/413) - 2026-06-21 (#dubai)
 - [跨境偷渡组织者被遣返：国家移民局通报](https://t.me/c/4392427626/412) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [新加坡重磅推出3700万美元计划，赋能媒体专业人士加速数字内容创新与能力建设](https://fcvoyage.com/xin-jia-po-zhong-bang-tui-chu-3700mo-mei-yuan-ji-hua-fu-neng-mei-ti-zhuan-ye-ren-shi-jia-su-shu-zi-nei-rong-chuang-xin-yu-neng-li-jian-she/) - 2026-06-21 (#growth)
 - [新加坡金管局局长警示：全球经济韧性背后，AI投资暗藏潜在风险](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-ren-xing-bei-hou-aitou-zi-an-cang-qian-zai-feng-xian/) - 2026-06-21 (#growth)
 - [Roblox全球推出分龄账户体系，强化未成年用户保护与家长控制功能](https://fcvoyage.com/robloxquan-qiu-tui-chu-fen-ling-zhang-hu-ti-xi-qiang-hua-wei-cheng-nian-yong-hu-bao-hu-yu-jia-chang-kong-zhi-gong-neng/) - 2026-06-21 (#growth)
-- [行业风向 | Fime Wants to FACT-Check Whether AI Buys What You Really Asked For](https://fcvoyage.com/xing-ye-feng-xiang-fime-wants-to-fact-check-whether-ai-buys-what-you-really-asked-for-2/) - 2026-06-21 (#insights)
 <!-- END_POSTS -->
