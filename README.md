@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [伊朗突发：霍尔木兹海峡航运通道关闭！](https://t.me/c/4392427626/393) - 2026-06-21 (#dubai)
 - [日本金主曼谷落网：跨境诈骗曝“AI深伪”新威胁](https://t.me/c/4392427626/392) - 2026-06-21 (#dubai)
 - [Listen Labs突破性AI客户访谈获6900万美元B轮融资，估值跃升5亿美元](https://fcvoyage.com/listen-labstu-po-xing-aike-hu-fang-tan-huo-6900mo-mei-yuan-blun-rong-zi-gu-zhi-yue-sheng-5yi-mei-yuan/) - 2026-06-21 (#ai)
 - [赛富时（Salesforce）推出全新智能助理Slackbot，重塑企业协作AI格局](https://fcvoyage.com/sai-fu-shi-salesforce-tui-chu-quan-xin-zhi-neng-zhu-li-slackbot-zhong-su-qi-ye-xie-zuo-aige-ju/) - 2026-06-21 (#ai)
@@ -33,5 +34,4 @@
 - [越南技术图景深度解析：开发者从外包交付转向AI构建的结构性变革](https://fcvoyage.com/yue-nan-ji-zhu-tu-jing-shen-du-jie-xi-kai-fa-zhe-cong-wai-bao-jiao-fu-zhuan-xiang-aigou-jian-de-jie-gou-xing-bian-ge/) - 2026-06-21 (#growth)
 - [出海深度：中国“基因”如何驱动东南亚多业态扩张，成就本土市场独角兽？](https://fcvoyage.com/chu-hai-shen-du-zhong-guo-ji-yin-ru-he-qu-dong-dong-nan-ya-duo-ye-tai-kuo-zhang-cheng-jiu-ben-tu-shi-chang-du-jiao-shou/) - 2026-06-21 (#growth)
 - [Sumsub发布AI智能代理工具，赋能企业高效构建合规验证流程](https://fcvoyage.com/sumsubfa-bu-aizhi-neng-dai-li-gong-ju-fu-neng-qi-ye-gao-xiao-gou-jian-he-gui-yan-zheng-liu-cheng/) - 2026-06-21 (#insights)
-- [深度解析：某数字银行用户画像揭示，逾四分之一客户年龄在55岁以上](https://fcvoyage.com/shen-du-jie-xi-mou-shu-zi-yin-xing-yong-hu-hua-xiang-jie-shi-yu-si-fen-zhi-yi-ke-hu-nian-ling-zai-55sui-yi-shang/) - 2026-06-21 (#insights)
 <!-- END_POSTS -->
