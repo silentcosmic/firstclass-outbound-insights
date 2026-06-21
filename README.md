@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | Fime Wants to FACT-Check Whether AI Buys What You Really Asked For](https://fcvoyage.com/xing-ye-feng-xiang-fime-wants-to-fact-check-whether-ai-buys-what-you-really-asked-for-2/) - 2026-06-21 (#insights)
 - [宏桥公司加入Anthropic“翼影项目”：以前沿AI模型强化网络安全防御](https://fcvoyage.com/hong-qiao-gong-si-jia-ru-anthropic-yi-ying-xiang-mu-yi-qian-yan-aimo-xing-qiang-hua-wang-luo-an-quan-fang-yu/) - 2026-06-21 (#insights)
 - [️ 迪拜华人圈警示：前中企员工涉嫌卷款潜逃](https://t.me/c/4392427626/383) - 2026-06-21 (#dubai)
 - [沙迦安全指数达99.7%，居民信任度大幅提升](https://t.me/c/4392427626/382) - 2026-06-21 (#dubai)
@@ -33,5 +34,4 @@
 - [全球数字媒体巨头整合再深化：Penske Media Corp完成对Vox Media剩余资产的收购](https://fcvoyage.com/quan-qiu-shu-zi-mei-ti-ju-tou-zheng-he-zai-shen-hua-penske-media-corpwan-cheng-dui-vox-mediasheng-yu-zi-chan-de-shou-gou/) - 2026-06-19 (#growth)
 - [The Trade Desk Ventura OS深度解析：重塑互联电视广告生态，直面行业利益冲突](https://fcvoyage.com/the-trade-desk-ventura-osshen-du-jie-xi-zhong-su-hu-lian-dian-shi-yan-gao-sheng-tai-zhi-mian-xing-ye-li-yi-chong-tu/) - 2026-06-19 (#growth)
 - [“中国基因”如何重塑东南亚：多业态连锁巨头的本土化与规模化路径](https://fcvoyage.com/zhong-guo-ji-yin-ru-he-zhong-su-dong-nan-ya-duo-ye-tai-lian-suo-ju-tou-de-ben-tu-hua-yu-gui-mo-hua-lu-jing/) - 2026-06-19 (#growth)
-- [Luvina Software落子新加坡：越南企业级技术巨头全球化战略再下一城](https://fcvoyage.com/luvina-softwareluo-zi-xin-jia-po-yue-nan-qi-ye-ji-ji-zhu-ju-tou-quan-qiu-hua-zhan-lue-zai-xia-yi-cheng/) - 2026-06-19 (#growth)
 <!-- END_POSTS -->
