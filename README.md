@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [赛富时（Salesforce）推出全新智能助理Slackbot，重塑企业协作AI格局](https://fcvoyage.com/sai-fu-shi-salesforce-tui-chu-quan-xin-zhi-neng-zhu-li-slackbot-zhong-su-qi-ye-xie-zuo-aige-ju/) - 2026-06-21 (#ai)
 - [行业风向 | Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment](https://fcvoyage.com/xing-ye-feng-xiang-nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in-the-claude-code-moment/) - 2026-06-21 (#ai)
 - [新加坡重磅推出3700万美元计划，赋能媒体专业人士加速数字内容创新与能力建设](https://fcvoyage.com/xin-jia-po-zhong-bang-tui-chu-3700mo-mei-yuan-ji-hua-fu-neng-mei-ti-zhuan-ye-ren-shi-jia-su-shu-zi-nei-rong-chuang-xin-yu-neng-li-jian-she/) - 2026-06-21 (#growth)
 - [新加坡金管局局长警示：全球经济韧性背后，AI投资暗藏潜在风险](https://fcvoyage.com/xin-jia-po-jin-guan-ju-ju-chang-jing-shi-quan-qiu-jing-ji-ren-xing-bei-hou-aitou-zi-an-cang-qian-zai-feng-xian/) - 2026-06-21 (#growth)
@@ -33,5 +34,4 @@
 - [深度解析：某数字银行用户画像揭示，逾四分之一客户年龄在55岁以上](https://fcvoyage.com/shen-du-jie-xi-mou-shu-zi-yin-xing-yong-hu-hua-xiang-jie-shi-yu-si-fen-zhi-yi-ke-hu-nian-ling-zai-55sui-yi-shang/) - 2026-06-21 (#insights)
 - [出海巨头Sea集团：进军美国消费级AI市场，秘密测试聊天机器人Migoo](https://fcvoyage.com/chu-hai-ju-tou-seaji-tuan-jin-jun-mei-guo-xiao-fei-ji-aishi-chang-mi-mi-ce-shi-liao-tian-ji-qi-ren-migoo/) - 2026-06-21 (#insights)
 - [W2A的技术实现](https://fcvoyage.com/w2ade-ji-zhu-shi-xian/) - 2026-06-21 (#growth)
-- [行业风向 | 中东炮火声中，中国车商的博弈、洗牌与补课](https://fcvoyage.com/xing-ye-feng-xiang-zhong-dong-pao-huo-sheng-zhong-zhong-guo-che-shang-de-bo-yi-xi-pai-yu-bu-ke/) - 2026-06-19 (#insights)
 <!-- END_POSTS -->
