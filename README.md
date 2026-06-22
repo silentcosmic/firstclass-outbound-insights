@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚大规模清查：逾1.7万无证外籍人士被捕](https://t.me/c/4392427626/456) - 2026-06-22 (#dubai)
 - [柬埔寨高官身份遭冒用，嫌犯诈骗超11万美元落网](https://t.me/c/4392427626/455) - 2026-06-22 (#dubai)
 - [️ 迪拜商家警惕：新型汇款骗局致千U损失](https://t.me/c/4392427626/454) - 2026-06-22 (#dubai)
 - [️ 阿联酋航空：迪拜头等商务舱享五星酒店免费住](https://t.me/c/4392427626/453) - 2026-06-22 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 新加坡部长呼吁东盟深化AI，警惕数据壁垒](https://t.me/c/4392427626/429) - 2026-06-22 (#dubai)
 - [洞察东南亚：新加坡倡议东盟深化AI应用，警示数据壁垒与主权误区](https://fcvoyage.com/dong-cha-dong-nan-ya-xin-jia-po-chang-yi-dong-meng-shen-hua-aiying-yong-jing-shi-shu-ju-bi-lei-yu-zhu-quan-wu-qu/) - 2026-06-22 (#growth)
 - [越南企业技术服务商Luvina进驻新加坡，赋能亚太数字化转型新浪潮](https://fcvoyage.com/yue-nan-qi-ye-ji-zhu-fu-wu-shang-luvinajin-zhu-xin-jia-po-fu-neng-ya-tai-shu-zi-hua-zhuan-xing-xin-lang-chao/) - 2026-06-22 (#growth)
-- [沙迦-迪拜新隧道2026年试运行，通勤时间将大幅缩短](https://t.me/c/4392427626/426) - 2026-06-22 (#dubai)
 <!-- END_POSTS -->
