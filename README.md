@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [洞察东南亚：新加坡倡议东盟深化AI应用，警示数据壁垒与主权误区](https://fcvoyage.com/dong-cha-dong-nan-ya-xin-jia-po-chang-yi-dong-meng-shen-hua-aiying-yong-jing-shi-shu-ju-bi-lei-yu-zhu-quan-wu-qu/) - 2026-06-22 (#growth)
 - [越南企业技术服务商Luvina进驻新加坡，赋能亚太数字化转型新浪潮](https://fcvoyage.com/yue-nan-qi-ye-ji-zhu-fu-wu-shang-luvinajin-zhu-xin-jia-po-fu-neng-ya-tai-shu-zi-hua-zhuan-xing-xin-lang-chao/) - 2026-06-22 (#growth)
 - [沙迦-迪拜新隧道2026年试运行，通勤时间将大幅缩短](https://t.me/c/4392427626/426) - 2026-06-22 (#dubai)
 - [️ 东南亚回国遇金融审查：银行卡管控升级](https://t.me/c/4392427626/425) - 2026-06-22 (#dubai)
@@ -33,5 +34,4 @@
 - [阿联酋“骑士行动3”：向加沙运送786吨人道物资](https://t.me/c/4392427626/401) - 2026-06-21 (#dubai)
 - [迪拜华人失联一年：曾涉换汇与房产交易](https://t.me/c/4392427626/400) - 2026-06-21 (#dubai)
 - [泰国百亿比特币洗钱案：跨国灰产网络浮出水面](https://t.me/c/4392427626/399) - 2026-06-21 (#dubai)
-- [迪拜涉债纠纷：暴力催收案致多方入狱](https://t.me/c/4392427626/398) - 2026-06-21 (#dubai)
 <!-- END_POSTS -->
