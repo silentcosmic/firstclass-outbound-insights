@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海 · 头等舱深度报告：国产AI模型加速迭代，全球算力市场景气度持续高企](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-bao-gao-guo-chan-aimo-xing-jia-su-die-dai-quan-qiu-suan-li-shi-chang-jing-qi-du-chi-xu-gao-qi/) - 2026-06-22 (#insights)
 - [上市公司股权收购警示：*ST海利紧急修订交易条款应对监管问询](https://fcvoyage.com/shang-shi-gong-si-gu-quan-shou-gou-jing-shi-sthai-li-jin-ji-xiu-ding-jiao-yi-tiao-kuan-ying-dui-jian-guan-wen-xun/) - 2026-06-22 (#insights)
 - [新加坡职场AI应用深度洞察：青年劳动力使用率缘何不及资深群体？](https://fcvoyage.com/xin-jia-po-zhi-chang-aiying-yong-shen-du-dong-cha-qing-nian-lao-dong-li-shi-yong-lu-yuan-he-bu-ji-zi-shen-qun-ti/) - 2026-06-22 (#growth)
 - [️ 新加坡部长呼吁东盟深化AI，警惕数据壁垒](https://t.me/c/4392427626/429) - 2026-06-22 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 西港转型：扫荡诈骗窝点后，基建提速引外资](https://t.me/c/4392427626/405) - 2026-06-21 (#dubai)
 - [马来西亚新山移民突查：大批外籍人士被捕待遣返](https://t.me/c/4392427626/404) - 2026-06-21 (#dubai)
 - [泰国突查非法挖矿：窃电近900万泰铢](https://t.me/c/4392427626/403) - 2026-06-21 (#dubai)
-- [中国商人斯里兰卡机场被捕：涉千万卢比香烟走私案](https://t.me/c/4392427626/402) - 2026-06-21 (#dubai)
 <!-- END_POSTS -->
