@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中国升级“信息战”防御：全面封锁境外广告链接](https://t.me/c/4392427626/461) - 2026-06-23 (#dubai)
 - [越南“杀猪盘”大案告破：中国籍主谋操控，涉案逾70亿](https://t.me/c/4392427626/460) - 2026-06-23 (#dubai)
 - [阿联酋或采购印度防空武器，深化战略合作](https://t.me/c/4392427626/459) - 2026-06-22 (#dubai)
 - [太子集团高管日本被捕，涉电诈引外交部回应](https://t.me/c/4392427626/458) - 2026-06-22 (#dubai)
@@ -33,5 +34,4 @@
 - [太子集团核心人物胡希日本落网：涉虚假登记被捕](https://t.me/c/4392427626/434) - 2026-06-22 (#dubai)
 - [Plaud软件订阅年化收入突破一亿美元：从硬件明星到企业级软件巨头的战略转型](https://fcvoyage.com/plaudruan-jian-ding-yue-nian-hua-shou-ru-tu-po-yi-yi-mei-yuan-cong-ying-jian-ming-xing-dao-qi-ye-ji-ruan-jian-ju-tou-de-zhan-lue-zhuan-xing/) - 2026-06-22 (#insights)
 - [出海 · 头等舱深度报告：国产AI模型加速迭代，全球算力市场景气度持续高企](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-bao-gao-guo-chan-aimo-xing-jia-su-die-dai-quan-qiu-suan-li-shi-chang-jing-qi-du-chi-xu-gao-qi/) - 2026-06-22 (#insights)
-- [上市公司股权收购警示：*ST海利紧急修订交易条款应对监管问询](https://fcvoyage.com/shang-shi-gong-si-gu-quan-shou-gou-jing-shi-sthai-li-jin-ji-xiu-ding-jiao-yi-tiao-kuan-ying-dui-jian-guan-wen-xun/) - 2026-06-22 (#insights)
 <!-- END_POSTS -->
