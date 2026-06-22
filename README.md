@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [太子集团核心人物胡希日本落网：涉虚假登记被捕](https://t.me/c/4392427626/434) - 2026-06-22 (#dubai)
 - [Plaud软件订阅年化收入突破一亿美元：从硬件明星到企业级软件巨头的战略转型](https://fcvoyage.com/plaudruan-jian-ding-yue-nian-hua-shou-ru-tu-po-yi-yi-mei-yuan-cong-ying-jian-ming-xing-dao-qi-ye-ji-ruan-jian-ju-tou-de-zhan-lue-zhuan-xing/) - 2026-06-22 (#insights)
 - [出海 · 头等舱深度报告：国产AI模型加速迭代，全球算力市场景气度持续高企](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-bao-gao-guo-chan-aimo-xing-jia-su-die-dai-quan-qiu-suan-li-shi-chang-jing-qi-du-chi-xu-gao-qi/) - 2026-06-22 (#insights)
 - [上市公司股权收购警示：*ST海利紧急修订交易条款应对监管问询](https://fcvoyage.com/shang-shi-gong-si-gu-quan-shou-gou-jing-shi-sthai-li-jin-ji-xiu-ding-jiao-yi-tiao-kuan-ying-dui-jian-guan-wen-xun/) - 2026-06-22 (#insights)
@@ -33,5 +34,4 @@
 - [️ 阿联酋全国将迎降雨降温，出行需注意](https://t.me/c/4392427626/407) - 2026-06-21 (#dubai)
 - [香港机场700万黄金劫案：警方速破，7人落网或涉内鬼](https://t.me/c/4392427626/406) - 2026-06-21 (#dubai)
 - [️ 西港转型：扫荡诈骗窝点后，基建提速引外资](https://t.me/c/4392427626/405) - 2026-06-21 (#dubai)
-- [马来西亚新山移民突查：大批外籍人士被捕待遣返](https://t.me/c/4392427626/404) - 2026-06-21 (#dubai)
 <!-- END_POSTS -->
