@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋强化反洗钱：携手金融学院升级监管能力](https://t.me/c/4392427626/507) - 2026-06-24 (#dubai)
 - [️ 柬埔寨遣返亲历者忠告：平安回国为上，切勿口无遮拦](https://t.me/c/4392427626/506) - 2026-06-24 (#dubai)
 - [西港省设专线打击网络诈骗，鼓励公众积极举报](https://t.me/c/4392427626/505) - 2026-06-23 (#dubai)
 - [槟城KTV争执升级：两从业者街头互殴，车辆卷入](https://t.me/c/4392427626/504) - 2026-06-23 (#dubai)
@@ -33,5 +34,4 @@
 - [映界科技：以时空感知构筑具身智能新基石](https://fcvoyage.com/ying-jie-ke-ji-yi-shi-kong-gan-zhi-gou-zhu-ju-shen-zhi-neng-xin-ji-shi/) - 2026-06-23 (#insights)
 - [行业风向 | 圆桌论坛：在没人相信之前，乘风破浪的创er | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-lun-tan-zai-mei-ren-xiang-xin-zhi-qian-cheng-feng-po-lang-de-chuang-er-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
 - [行业风向 | 圆桌讨论：在番禺，我们造了什么？ | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-tao-lun-zai-fan-yu-wo-men-zao-liao-shi-yao-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
-- [菲律宾SunAsia与越南VinEnergo达成战略合作：4.06亿美元共建水面光伏项目，赋能区域能源转型](https://fcvoyage.com/fei-lu-bin-sunasiayu-yue-nan-vinenergoda-cheng-zhan-lue-he-zuo-4-06yi-mei-yuan-gong-jian-shui-mian-guang-fu-xiang-mu-fu-neng-qu-yu-neng-yuan-zhuan-xing/) - 2026-06-23 (#growth)
 <!-- END_POSTS -->
