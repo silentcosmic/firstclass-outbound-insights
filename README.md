@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [伊朗宣布：霍尔木兹海峡限时免费开放](https://t.me/c/4392427626/502) - 2026-06-23 (#dubai)
 - [从350迪拉姆到成功企业：一位阿联酋创业者的逆袭](https://t.me/c/4392427626/501) - 2026-06-23 (#dubai)
 - [️ 斯里兰卡博睿集团陷欠薪风波：员工曝工资减半、支付受阻](https://t.me/c/4392427626/500) - 2026-06-23 (#dubai)
 - [洪森访华：中柬“铁杆友谊”再升级，或谈打诈与投资](https://t.me/c/4392427626/499) - 2026-06-23 (#dubai)
@@ -33,5 +34,4 @@
 - [Sea集团联手OpenAI，为Shopee用户及商家拓展AI应用深度](https://fcvoyage.com/seaji-tuan-lian-shou-openai-wei-shopeeyong-hu-ji-shang-jia-tuo-zhan-aiying-yong-shen-du/) - 2026-06-23 (#growth)
 - [出海支付新纪元：Payfuture携手APA，构建新兴市场跨境支付高效通道](https://fcvoyage.com/chu-hai-zhi-fu-xin-ji-yuan-payfuturexi-shou-apa-gou-jian-xin-xing-shi-chang-kua-jing-zhi-fu-gao-xiao-tong-dao/) - 2026-06-23 (#insights)
 - [SaaScada 战略落子新加坡，深耕亚太核心银行系统现代化市场](https://fcvoyage.com/saascada-zhan-lue-luo-zi-xin-jia-po-shen-geng-ya-tai-he-xin-yin-xing-xi-tong-xian-dai-hua-shi-chang/) - 2026-06-23 (#insights)
-- [MoMo拟出售半数股权，重塑越南金融科技版图](https://t.me/c/4392427626/472) - 2026-06-23 (#dubai)
 <!-- END_POSTS -->
