@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [槟城KTV争执升级：两从业者街头互殴，车辆卷入](https://t.me/c/4392427626/504) - 2026-06-23 (#dubai)
 - [涉太子集团“陈小二”日本落网：多重身份迷局曝光](https://t.me/c/4392427626/503) - 2026-06-23 (#dubai)
 - [伊朗宣布：霍尔木兹海峡限时免费开放](https://t.me/c/4392427626/502) - 2026-06-23 (#dubai)
 - [从350迪拉姆到成功企业：一位阿联酋创业者的逆袭](https://t.me/c/4392427626/501) - 2026-06-23 (#dubai)
@@ -33,5 +34,4 @@
 - [菲律宾SunAsia与越南VinEnergo达成战略合作：4.06亿美元共建水面光伏项目，赋能区域能源转型](https://fcvoyage.com/fei-lu-bin-sunasiayu-yue-nan-vinenergoda-cheng-zhan-lue-he-zuo-4-06yi-mei-yuan-gong-jian-shui-mian-guang-fu-xiang-mu-fu-neng-qu-yu-neng-yuan-zhuan-xing/) - 2026-06-23 (#growth)
 - [越南Masan高科技材料扩储1.15亿吨钨矿，剑指AI半导体供应链核心地位](https://fcvoyage.com/yue-nan-masangao-ke-ji-cai-liao-kuo-chu-1-15yi-dun-wu-kuang-jian-zhi-aiban-dao-ti-gong-ying-lian-he-xin-di-wei/) - 2026-06-23 (#growth)
 - [Sea集团联手OpenAI，为Shopee用户及商家拓展AI应用深度](https://fcvoyage.com/seaji-tuan-lian-shou-openai-wei-shopeeyong-hu-ji-shang-jia-tuo-zhan-aiying-yong-shen-du/) - 2026-06-23 (#growth)
-- [出海支付新纪元：Payfuture携手APA，构建新兴市场跨境支付高效通道](https://fcvoyage.com/chu-hai-zhi-fu-xin-ji-yuan-payfuturexi-shou-apa-gou-jian-xin-xing-shi-chang-kua-jing-zhi-fu-gao-xiao-tong-dao/) - 2026-06-23 (#insights)
 <!-- END_POSTS -->
