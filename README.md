@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [MoMo拟出售半数股权，重塑越南金融科技版图](https://t.me/c/4392427626/472) - 2026-06-23 (#dubai)
 - [越南金融科技巨头MoMo或出售半数股权，重塑投资者格局](https://fcvoyage.com/yue-nan-jin-rong-ke-ji-ju-tou-momohuo-chu-shou-ban-shu-gu-quan-zhong-su-tou-zi-zhe-ge-ju/) - 2026-06-23 (#insights)
 - [黑五联盟营销5个爆单技巧(含实操案例)](https://fcvoyage.com/hei-wu-lian-meng-ying-xiao-5ge-bao-dan-ji-qiao-han-shi-cao-an-li/) - 2026-06-23 (#growth)
 - [迪拜城市品牌价值破万亿：跻身全球前五](https://t.me/c/4392427626/469) - 2026-06-23 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 迪拜网络隐私警示：擅传私照面临巨额罚款](https://t.me/c/4392427626/445) - 2026-06-22 (#dubai)
 - [波贝赌场突袭：数千外籍人士聚集，警方却“一无所获”？](https://t.me/c/4392427626/444) - 2026-06-22 (#dubai)
 - [中东四国重申地区安全：美伊协议与巴勒斯坦问题](https://t.me/c/4392427626/443) - 2026-06-22 (#dubai)
-- [伊美谈判突破：石油制裁豁免，冻结资产解冻](https://t.me/c/4392427626/442) - 2026-06-22 (#dubai)
 <!-- END_POSTS -->
