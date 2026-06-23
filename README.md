@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [越南Masan高科技材料扩储1.15亿吨钨矿，剑指AI半导体供应链核心地位](https://fcvoyage.com/yue-nan-masangao-ke-ji-cai-liao-kuo-chu-1-15yi-dun-wu-kuang-jian-zhi-aiban-dao-ti-gong-ying-lian-he-xin-di-wei/) - 2026-06-23 (#growth)
 - [Sea集团联手OpenAI，为Shopee用户及商家拓展AI应用深度](https://fcvoyage.com/seaji-tuan-lian-shou-openai-wei-shopeeyong-hu-ji-shang-jia-tuo-zhan-aiying-yong-shen-du/) - 2026-06-23 (#growth)
 - [出海支付新纪元：Payfuture携手APA，构建新兴市场跨境支付高效通道](https://fcvoyage.com/chu-hai-zhi-fu-xin-ji-yuan-payfuturexi-shou-apa-gou-jian-xin-xing-shi-chang-kua-jing-zhi-fu-gao-xiao-tong-dao/) - 2026-06-23 (#insights)
 - [SaaScada 战略落子新加坡，深耕亚太核心银行系统现代化市场](https://fcvoyage.com/saascada-zhan-lue-luo-zi-xin-jia-po-shen-geng-ya-tai-he-xin-yin-xing-xi-tong-xian-dai-hua-shi-chang/) - 2026-06-23 (#insights)
@@ -33,5 +34,4 @@
 - [埃及绑架案宣判：曾“失联”中国女子获刑15年](https://t.me/c/4392427626/449) - 2026-06-22 (#dubai)
 - [️ 柬埔寨灰产退潮：中国商家面临“正常化”生存考验](https://t.me/c/4392427626/448) - 2026-06-22 (#dubai)
 - [东南亚诈骗风向变：胡志明市重拳出击，捣毁多起跨国窝点](https://t.me/c/4392427626/447) - 2026-06-22 (#dubai)
-- [金边警方重拳出击：打击网诈与人口贩卖](https://t.me/c/4392427626/446) - 2026-06-22 (#dubai)
 <!-- END_POSTS -->
