@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [索尼战略洞察：AI重塑游戏开发，赋能创意核心与玩家体验](https://fcvoyage.com/suo-ni-zhan-lue-dong-cha-aizhong-su-you-xi-kai-fa-fu-neng-chuang-yi-he-xin-yu-wan-jia-ti-yan/) - 2026-06-23 (#growth)
 - [深度解析巴西市场：资深观察者二十五载洞察，揭示中国企业出海盈利之困](https://fcvoyage.com/shen-du-jie-xi-ba-xi-shi-chang-zi-shen-guan-cha-zhe-er-shi-wu-zai-dong-cha-jie-shi-zhong-guo-qi-ye-chu-hai-ying-li-zhi-kun/) - 2026-06-23 (#insights)
 - [映界科技：以时空感知构筑具身智能新基石](https://fcvoyage.com/ying-jie-ke-ji-yi-shi-kong-gan-zhi-gou-zhu-ju-shen-zhi-neng-xin-ji-shi/) - 2026-06-23 (#insights)
 - [行业风向 | 圆桌论坛：在没人相信之前，乘风破浪的创er | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-lun-tan-zai-mei-ren-xiang-xin-zhi-qian-cheng-feng-po-lang-de-chuang-er-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
@@ -33,5 +34,4 @@
 - [柬埔寨高官身份遭冒用，嫌犯诈骗超11万美元落网](https://t.me/c/4392427626/455) - 2026-06-22 (#dubai)
 - [️ 迪拜商家警惕：新型汇款骗局致千U损失](https://t.me/c/4392427626/454) - 2026-06-22 (#dubai)
 - [️ 阿联酋航空：迪拜头等商务舱享五星酒店免费住](https://t.me/c/4392427626/453) - 2026-06-22 (#dubai)
-- [拉斯海玛聚焦中国科技：打造多元经济增长极](https://t.me/c/4392427626/452) - 2026-06-22 (#dubai)
 <!-- END_POSTS -->
