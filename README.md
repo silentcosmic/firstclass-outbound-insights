@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 圆桌论坛：在没人相信之前，乘风破浪的创er | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-lun-tan-zai-mei-ren-xiang-xin-zhi-qian-cheng-feng-po-lang-de-chuang-er-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
 - [行业风向 | 圆桌讨论：在番禺，我们造了什么？ | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-tao-lun-zai-fan-yu-wo-men-zao-liao-shi-yao-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
 - [菲律宾SunAsia与越南VinEnergo达成战略合作：4.06亿美元共建水面光伏项目，赋能区域能源转型](https://fcvoyage.com/fei-lu-bin-sunasiayu-yue-nan-vinenergoda-cheng-zhan-lue-he-zuo-4-06yi-mei-yuan-gong-jian-shui-mian-guang-fu-xiang-mu-fu-neng-qu-yu-neng-yuan-zhuan-xing/) - 2026-06-23 (#growth)
 - [越南Masan高科技材料扩储1.15亿吨钨矿，剑指AI半导体供应链核心地位](https://fcvoyage.com/yue-nan-masangao-ke-ji-cai-liao-kuo-chu-1-15yi-dun-wu-kuang-jian-zhi-aiban-dao-ti-gong-ying-lian-he-xin-di-wei/) - 2026-06-23 (#growth)
@@ -33,5 +34,4 @@
 - [拉斯海玛聚焦中国科技：打造多元经济增长极](https://t.me/c/4392427626/452) - 2026-06-22 (#dubai)
 - [️ 阿布扎比航班突发悲剧：印度侨民机上病逝](https://t.me/c/4392427626/451) - 2026-06-22 (#dubai)
 - [卡塔尔LNG枢纽爆炸：13人遇难，数十人受伤](https://t.me/c/4392427626/450) - 2026-06-22 (#dubai)
-- [埃及绑架案宣判：曾“失联”中国女子获刑15年](https://t.me/c/4392427626/449) - 2026-06-22 (#dubai)
 <!-- END_POSTS -->
