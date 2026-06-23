@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 斯里兰卡博睿集团陷欠薪风波：员工曝工资减半、支付受阻](https://t.me/c/4392427626/500) - 2026-06-23 (#dubai)
 - [洪森访华：中柬“铁杆友谊”再升级，或谈打诈与投资](https://t.me/c/4392427626/499) - 2026-06-23 (#dubai)
 - [美国务卿鲁比奥将出访中东三国：聚焦海湾外交](https://t.me/c/4392427626/498) - 2026-06-23 (#dubai)
 - [菲律宾华商遭绑索300万美元赎金，两名中国籍嫌犯落网！](https://t.me/c/4392427626/497) - 2026-06-23 (#dubai)
@@ -33,5 +34,4 @@
 - [SaaScada 战略落子新加坡，深耕亚太核心银行系统现代化市场](https://fcvoyage.com/saascada-zhan-lue-luo-zi-xin-jia-po-shen-geng-ya-tai-he-xin-yin-xing-xi-tong-xian-dai-hua-shi-chang/) - 2026-06-23 (#insights)
 - [MoMo拟出售半数股权，重塑越南金融科技版图](https://t.me/c/4392427626/472) - 2026-06-23 (#dubai)
 - [越南金融科技巨头MoMo或出售半数股权，重塑投资者格局](https://fcvoyage.com/yue-nan-jin-rong-ke-ji-ju-tou-momohuo-chu-shou-ban-shu-gu-quan-zhong-su-tou-zi-zhe-ge-ju/) - 2026-06-23 (#insights)
-- [黑五联盟营销5个爆单技巧(含实操案例)](https://fcvoyage.com/hei-wu-lian-meng-ying-xiao-5ge-bao-dan-ji-qiao-han-shi-cao-an-li/) - 2026-06-23 (#growth)
 <!-- END_POSTS -->
