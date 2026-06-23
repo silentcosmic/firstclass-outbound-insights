@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海支付新纪元：Payfuture携手APA，构建新兴市场跨境支付高效通道](https://fcvoyage.com/chu-hai-zhi-fu-xin-ji-yuan-payfuturexi-shou-apa-gou-jian-xin-xing-shi-chang-kua-jing-zhi-fu-gao-xiao-tong-dao/) - 2026-06-23 (#insights)
 - [SaaScada 战略落子新加坡，深耕亚太核心银行系统现代化市场](https://fcvoyage.com/saascada-zhan-lue-luo-zi-xin-jia-po-shen-geng-ya-tai-he-xin-yin-xing-xi-tong-xian-dai-hua-shi-chang/) - 2026-06-23 (#insights)
 - [MoMo拟出售半数股权，重塑越南金融科技版图](https://t.me/c/4392427626/472) - 2026-06-23 (#dubai)
 - [越南金融科技巨头MoMo或出售半数股权，重塑投资者格局](https://fcvoyage.com/yue-nan-jin-rong-ke-ji-ju-tou-momohuo-chu-shou-ban-shu-gu-quan-zhong-su-tou-zi-zhe-ge-ju/) - 2026-06-23 (#insights)
@@ -33,5 +34,4 @@
 - [东南亚诈骗风向变：胡志明市重拳出击，捣毁多起跨国窝点](https://t.me/c/4392427626/447) - 2026-06-22 (#dubai)
 - [金边警方重拳出击：打击网诈与人口贩卖](https://t.me/c/4392427626/446) - 2026-06-22 (#dubai)
 - [️ 迪拜网络隐私警示：擅传私照面临巨额罚款](https://t.me/c/4392427626/445) - 2026-06-22 (#dubai)
-- [波贝赌场突袭：数千外籍人士聚集，警方却“一无所获”？](https://t.me/c/4392427626/444) - 2026-06-22 (#dubai)
 <!-- END_POSTS -->
