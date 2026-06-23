@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜RTA推出上门验车服务：便利升级，全阿联酋覆盖](https://t.me/c/4392427626/508) - 2026-06-24 (#dubai)
 - [阿联酋强化反洗钱：携手金融学院升级监管能力](https://t.me/c/4392427626/507) - 2026-06-24 (#dubai)
 - [️ 柬埔寨遣返亲历者忠告：平安回国为上，切勿口无遮拦](https://t.me/c/4392427626/506) - 2026-06-24 (#dubai)
 - [西港省设专线打击网络诈骗，鼓励公众积极举报](https://t.me/c/4392427626/505) - 2026-06-23 (#dubai)
@@ -33,5 +34,4 @@
 - [深度解析巴西市场：资深观察者二十五载洞察，揭示中国企业出海盈利之困](https://fcvoyage.com/shen-du-jie-xi-ba-xi-shi-chang-zi-shen-guan-cha-zhe-er-shi-wu-zai-dong-cha-jie-shi-zhong-guo-qi-ye-chu-hai-ying-li-zhi-kun/) - 2026-06-23 (#insights)
 - [映界科技：以时空感知构筑具身智能新基石](https://fcvoyage.com/ying-jie-ke-ji-yi-shi-kong-gan-zhi-gou-zhu-ju-shen-zhi-neng-xin-ji-shi/) - 2026-06-23 (#insights)
 - [行业风向 | 圆桌论坛：在没人相信之前，乘风破浪的创er | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-lun-tan-zai-mei-ren-xiang-xin-zhi-qian-cheng-feng-po-lang-de-chuang-er-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
-- [行业风向 | 圆桌讨论：在番禺，我们造了什么？ | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-yuan-zhuo-tao-lun-zai-fan-yu-wo-men-zao-liao-shi-yao-waves2026xin-lang-chao/) - 2026-06-23 (#insights)
 <!-- END_POSTS -->
