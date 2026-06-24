@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [泰国权衡收紧BNPL监管 小额消费信贷风险引关注](https://fcvoyage.com/tai-guo-quan-heng-shou-jin-bnpljian-guan-xiao-e-xiao-fei-xin-dai-feng-xian-yin-guan-zhu/) - 2026-06-24 (#insights)
 - [马来西亚毒品泛滥：青年群体与合成毒品成最大挑战](https://t.me/c/4392427626/517) - 2026-06-24 (#dubai)
 - [卢比奥中东行：3000亿伊朗重建基金谁来买单？](https://t.me/c/4392427626/516) - 2026-06-24 (#dubai)
 - [柬埔寨捣毁“波贝观察”情报网：16名内线被捕](https://t.me/c/4392427626/515) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [柬埔寨RPR：太子地产客户须限期更新产权信息](https://t.me/c/4392427626/491) - 2026-06-23 (#dubai)
 - [柬埔寨女导演坠亡案反转：两名嫌犯获释](https://t.me/c/4392427626/490) - 2026-06-23 (#dubai)
 - [SpaceX秘密试飞Starfall：太空货运新突破](https://t.me/c/4392427626/489) - 2026-06-23 (#dubai)
-- [️ 阿布扎比警方：警惕假期租房诈骗高发](https://t.me/c/4392427626/488) - 2026-06-23 (#dubai)
 <!-- END_POSTS -->
