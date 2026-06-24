@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜租金新政：弹性支付缓解居民压力](https://t.me/c/4392427626/546) - 2026-06-24 (#dubai)
 - [印度市场新动态：Telegram平台恢复服务](https://t.me/c/4392427626/545) - 2026-06-24 (#dubai)
 - [老挝KTV深夜突袭：跨国犯罪团伙涉枪落网](https://t.me/c/4392427626/544) - 2026-06-24 (#dubai)
 - [马来西亚娱乐场所遭突查：房东将负连带责任](https://t.me/c/4392427626/543) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [泰国BNPL监管升级：防范家庭债务风险](https://t.me/c/4392427626/519) - 2026-06-24 (#dubai)
 - [泰国权衡收紧BNPL监管 小额消费信贷风险引关注](https://fcvoyage.com/tai-guo-quan-heng-shou-jin-bnpljian-guan-xiao-e-xiao-fei-xin-dai-feng-xian-yin-guan-zhu/) - 2026-06-24 (#insights)
 - [马来西亚毒品泛滥：青年群体与合成毒品成最大挑战](https://t.me/c/4392427626/517) - 2026-06-24 (#dubai)
-- [卢比奥中东行：3000亿伊朗重建基金谁来买单？](https://t.me/c/4392427626/516) - 2026-06-24 (#dubai)
 <!-- END_POSTS -->
