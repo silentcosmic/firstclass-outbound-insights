@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋航空A380机翼现裂纹：部分飞机紧急检查](https://t.me/c/4392427626/547) - 2026-06-24 (#dubai)
 - [迪拜租金新政：弹性支付缓解居民压力](https://t.me/c/4392427626/546) - 2026-06-24 (#dubai)
 - [印度市场新动态：Telegram平台恢复服务](https://t.me/c/4392427626/545) - 2026-06-24 (#dubai)
 - [老挝KTV深夜突袭：跨国犯罪团伙涉枪落网](https://t.me/c/4392427626/544) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [国际足联以区块链技术筑牢防线，加密诈骗却趁势侵袭：数字票务攻防战](https://fcvoyage.com/guo-ji-zu-lian-yi-qu-kuai-lian-ji-zhu-zhu-lao-fang-xian-jia-mi-zha-pian-que-chen-shi-qin-xi-shu-zi-piao-wu-gong-fang-zhan/) - 2026-06-24 (#insights)
 - [泰国BNPL监管升级：防范家庭债务风险](https://t.me/c/4392427626/519) - 2026-06-24 (#dubai)
 - [泰国权衡收紧BNPL监管 小额消费信贷风险引关注](https://fcvoyage.com/tai-guo-quan-heng-shou-jin-bnpljian-guan-xiao-e-xiao-fei-xin-dai-feng-xian-yin-guan-zhu/) - 2026-06-24 (#insights)
-- [马来西亚毒品泛滥：青年群体与合成毒品成最大挑战](https://t.me/c/4392427626/517) - 2026-06-24 (#dubai)
 <!-- END_POSTS -->
