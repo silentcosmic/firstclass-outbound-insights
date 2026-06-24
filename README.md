@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [拼多多打破轻资产策略：重金购入雄安办公楼，深拓数字经济新版图](https://fcvoyage.com/pin-duo-duo-da-po-qing-zi-chan-ce-lue-zhong-jin-gou-ru-xiong-an-ban-gong-lou-shen-tuo-shu-zi-jing-ji-xin-ban-tu/) - 2026-06-24 (#insights)
 - [出海·头等舱深度观察：年度创新峰会洞察，探寻中国创投与产业创新动能](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-guan-cha-nian-du-chuang-xin-feng-hui-dong-cha-tan-xun-zhong-guo-chuang-tou-yu-chan-ye-chuang-xin-dong-neng/) - 2026-06-24 (#insights)
 - [行业风向 | 回到没有AI的那一天，寻找第一性原理 | WAVES2026](https://fcvoyage.com/xing-ye-feng-xiang-hui-dao-mei-you-aide-na-yi-tian-xun-zhao-di-yi-xing-yuan-li-waves2026/) - 2026-06-24 (#insights)
 - [超大规模投资浪潮助推泰国数据中心市场腾飞，未来容量有望翻四番](https://fcvoyage.com/chao-da-gui-mo-tou-zi-lang-chao-zhu-tui-tai-guo-shu-ju-zhong-xin-shi-chang-teng-fei-wei-lai-rong-liang-you-wang-fan-si-fan/) - 2026-06-24 (#growth)
@@ -33,5 +34,4 @@
 - [️ 斯里兰卡博睿集团陷欠薪风波：员工曝工资减半、支付受阻](https://t.me/c/4392427626/500) - 2026-06-23 (#dubai)
 - [洪森访华：中柬“铁杆友谊”再升级，或谈打诈与投资](https://t.me/c/4392427626/499) - 2026-06-23 (#dubai)
 - [美国务卿鲁比奥将出访中东三国：聚焦海湾外交](https://t.me/c/4392427626/498) - 2026-06-23 (#dubai)
-- [菲律宾华商遭绑索300万美元赎金，两名中国籍嫌犯落网！](https://t.me/c/4392427626/497) - 2026-06-23 (#dubai)
 <!-- END_POSTS -->
