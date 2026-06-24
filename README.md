@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 使馆警告：泰缅边境诈骗猖獗，赴达府需警惕](https://t.me/c/4392427626/554) - 2026-06-24 (#dubai)
 - [柬埔寨刘任案：深挖跨境诈骗与政商网络](https://t.me/c/4392427626/553) - 2026-06-24 (#dubai)
 - [东盟齐聚暹粒：誓言联手打击网络诈骗](https://t.me/c/4392427626/552) - 2026-06-24 (#dubai)
 - [马来西亚中国留学生遇害：同居男子被捕](https://t.me/c/4392427626/551) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [拼多多打破轻资产策略：重金购入雄安办公楼，深拓数字经济新版图](https://fcvoyage.com/pin-duo-duo-da-po-qing-zi-chan-ce-lue-zhong-jin-gou-ru-xiong-an-ban-gong-lou-shen-tuo-shu-zi-jing-ji-xin-ban-tu/) - 2026-06-24 (#insights)
 - [出海·头等舱深度观察：年度创新峰会洞察，探寻中国创投与产业创新动能](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-guan-cha-nian-du-chuang-xin-feng-hui-dong-cha-tan-xun-zhong-guo-chuang-tou-yu-chan-ye-chuang-xin-dong-neng/) - 2026-06-24 (#insights)
 - [行业风向 | 回到没有AI的那一天，寻找第一性原理 | WAVES2026](https://fcvoyage.com/xing-ye-feng-xiang-hui-dao-mei-you-aide-na-yi-tian-xun-zhao-di-yi-xing-yuan-li-waves2026/) - 2026-06-24 (#insights)
-- [超大规模投资浪潮助推泰国数据中心市场腾飞，未来容量有望翻四番](https://fcvoyage.com/chao-da-gui-mo-tou-zi-lang-chao-zhu-tui-tai-guo-shu-ju-zhong-xin-shi-chang-teng-fei-wei-lai-rong-liang-you-wang-fan-si-fan/) - 2026-06-24 (#growth)
 <!-- END_POSTS -->
