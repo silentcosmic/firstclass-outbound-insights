@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨刘任案：深挖跨境诈骗与政商网络](https://t.me/c/4392427626/553) - 2026-06-24 (#dubai)
 - [东盟齐聚暹粒：誓言联手打击网络诈骗](https://t.me/c/4392427626/552) - 2026-06-24 (#dubai)
 - [马来西亚中国留学生遇害：同居男子被捕](https://t.me/c/4392427626/551) - 2026-06-24 (#dubai)
 - [泉州警方斩断“养号”诈骗链条，6嫌犯落网](https://t.me/c/4392427626/550) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [出海·头等舱深度观察：年度创新峰会洞察，探寻中国创投与产业创新动能](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-guan-cha-nian-du-chuang-xin-feng-hui-dong-cha-tan-xun-zhong-guo-chuang-tou-yu-chan-ye-chuang-xin-dong-neng/) - 2026-06-24 (#insights)
 - [行业风向 | 回到没有AI的那一天，寻找第一性原理 | WAVES2026](https://fcvoyage.com/xing-ye-feng-xiang-hui-dao-mei-you-aide-na-yi-tian-xun-zhao-di-yi-xing-yuan-li-waves2026/) - 2026-06-24 (#insights)
 - [超大规模投资浪潮助推泰国数据中心市场腾飞，未来容量有望翻四番](https://fcvoyage.com/chao-da-gui-mo-tou-zi-lang-chao-zhu-tui-tai-guo-shu-ju-zhong-xin-shi-chang-teng-fei-wei-lai-rong-liang-you-wang-fan-si-fan/) - 2026-06-24 (#growth)
-- [智能代理商务、银行支持钱包与点击支付：重塑消费者支付格局的关键技术](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-yin-xing-zhi-chi-qian-bao-yu-dian-ji-zhi-fu-zhong-su-xiao-fei-zhe-zhi-fu-ge-ju-de-guan-jian-ji-zhu/) - 2026-06-24 (#growth)
 <!-- END_POSTS -->
