@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚中国留学生遇害：同居男子被捕](https://t.me/c/4392427626/551) - 2026-06-24 (#dubai)
 - [泉州警方斩断“养号”诈骗链条，6嫌犯落网](https://t.me/c/4392427626/550) - 2026-06-24 (#dubai)
 - [迪拜酷夏新选择：免费室内健身中心开放！](https://t.me/c/4392427626/549) - 2026-06-24 (#dubai)
 - [沙迦停车新规：收费延长至午夜，7月1日实施](https://t.me/c/4392427626/548) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [超大规模投资浪潮助推泰国数据中心市场腾飞，未来容量有望翻四番](https://fcvoyage.com/chao-da-gui-mo-tou-zi-lang-chao-zhu-tui-tai-guo-shu-ju-zhong-xin-shi-chang-teng-fei-wei-lai-rong-liang-you-wang-fan-si-fan/) - 2026-06-24 (#growth)
 - [智能代理商务、银行支持钱包与点击支付：重塑消费者支付格局的关键技术](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-yin-xing-zhi-chi-qian-bao-yu-dian-ji-zhi-fu-zhong-su-xiao-fei-zhe-zhi-fu-ge-ju-de-guan-jian-ji-zhu/) - 2026-06-24 (#growth)
 - [新加坡ChemT生物科技完成400万美元种子轮融资，赋能生物制造智能化转型](https://fcvoyage.com/xin-jia-po-chemtsheng-wu-ke-ji-wan-cheng-400mo-mei-yuan-chong-zi-lun-rong-zi-fu-neng-sheng-wu-zhi-zao-zhi-neng-hua-zhuan-xing/) - 2026-06-24 (#growth)
-- [Backbase并购Kasisto，深度布局代理式AI银行新生态](https://fcvoyage.com/backbasebing-gou-kasisto-shen-du-bu-ju-dai-li-shi-aiyin-xing-xin-sheng-tai/) - 2026-06-24 (#insights)
 <!-- END_POSTS -->
