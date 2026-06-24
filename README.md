@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海·头等舱深度观察：年度创新峰会洞察，探寻中国创投与产业创新动能](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-guan-cha-nian-du-chuang-xin-feng-hui-dong-cha-tan-xun-zhong-guo-chuang-tou-yu-chan-ye-chuang-xin-dong-neng/) - 2026-06-24 (#insights)
 - [行业风向 | 回到没有AI的那一天，寻找第一性原理 | WAVES2026](https://fcvoyage.com/xing-ye-feng-xiang-hui-dao-mei-you-aide-na-yi-tian-xun-zhao-di-yi-xing-yuan-li-waves2026/) - 2026-06-24 (#insights)
 - [超大规模投资浪潮助推泰国数据中心市场腾飞，未来容量有望翻四番](https://fcvoyage.com/chao-da-gui-mo-tou-zi-lang-chao-zhu-tui-tai-guo-shu-ju-zhong-xin-shi-chang-teng-fei-wei-lai-rong-liang-you-wang-fan-si-fan/) - 2026-06-24 (#growth)
 - [智能代理商务、银行支持钱包与点击支付：重塑消费者支付格局的关键技术](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-yin-xing-zhi-chi-qian-bao-yu-dian-ji-zhi-fu-zhong-su-xiao-fei-zhe-zhi-fu-ge-ju-de-guan-jian-ji-zhu/) - 2026-06-24 (#growth)
@@ -33,5 +34,4 @@
 - [洪森访华：中柬“铁杆友谊”再升级，或谈打诈与投资](https://t.me/c/4392427626/499) - 2026-06-23 (#dubai)
 - [美国务卿鲁比奥将出访中东三国：聚焦海湾外交](https://t.me/c/4392427626/498) - 2026-06-23 (#dubai)
 - [菲律宾华商遭绑索300万美元赎金，两名中国籍嫌犯落网！](https://t.me/c/4392427626/497) - 2026-06-23 (#dubai)
-- [阿联酋家族响应号召：简化婚礼，减轻青年负担](https://t.me/c/4392427626/496) - 2026-06-23 (#dubai)
 <!-- END_POSTS -->
