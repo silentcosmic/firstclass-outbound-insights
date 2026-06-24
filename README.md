@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [国际足联以区块链技术筑牢防线，加密诈骗却趁势侵袭：数字票务攻防战](https://fcvoyage.com/guo-ji-zu-lian-yi-qu-kuai-lian-ji-zhu-zhu-lao-fang-xian-jia-mi-zha-pian-que-chen-shi-qin-xi-shu-zi-piao-wu-gong-fang-zhan/) - 2026-06-24 (#insights)
 - [泰国BNPL监管升级：防范家庭债务风险](https://t.me/c/4392427626/519) - 2026-06-24 (#dubai)
 - [泰国权衡收紧BNPL监管 小额消费信贷风险引关注](https://fcvoyage.com/tai-guo-quan-heng-shou-jin-bnpljian-guan-xiao-e-xiao-fei-xin-dai-feng-xian-yin-guan-zhu/) - 2026-06-24 (#insights)
 - [马来西亚毒品泛滥：青年群体与合成毒品成最大挑战](https://t.me/c/4392427626/517) - 2026-06-24 (#dubai)
@@ -33,5 +34,4 @@
 - [洪都撤诉半岛电视台：柬埔寨权贵止损止战](https://t.me/c/4392427626/493) - 2026-06-23 (#dubai)
 - [汇旺用户再聚央行，要求退还存款！](https://t.me/c/4392427626/492) - 2026-06-23 (#dubai)
 - [柬埔寨RPR：太子地产客户须限期更新产权信息](https://t.me/c/4392427626/491) - 2026-06-23 (#dubai)
-- [柬埔寨女导演坠亡案反转：两名嫌犯获释](https://t.me/c/4392427626/490) - 2026-06-23 (#dubai)
 <!-- END_POSTS -->
