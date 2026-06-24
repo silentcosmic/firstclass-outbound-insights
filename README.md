@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [智能代理商务、银行支持钱包与点击支付：重塑消费者支付格局的关键技术](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-yin-xing-zhi-chi-qian-bao-yu-dian-ji-zhi-fu-zhong-su-xiao-fei-zhe-zhi-fu-ge-ju-de-guan-jian-ji-zhu/) - 2026-06-24 (#growth)
 - [新加坡ChemT生物科技完成400万美元种子轮融资，赋能生物制造智能化转型](https://fcvoyage.com/xin-jia-po-chemtsheng-wu-ke-ji-wan-cheng-400mo-mei-yuan-chong-zi-lun-rong-zi-fu-neng-sheng-wu-zhi-zao-zhi-neng-hua-zhuan-xing/) - 2026-06-24 (#growth)
 - [Backbase并购Kasisto，深度布局代理式AI银行新生态](https://fcvoyage.com/backbasebing-gou-kasisto-shen-du-bu-ju-dai-li-shi-aiyin-xing-xin-sheng-tai/) - 2026-06-24 (#insights)
 - [国际足联以区块链技术筑牢防线，加密诈骗却趁势侵袭：数字票务攻防战](https://fcvoyage.com/guo-ji-zu-lian-yi-qu-kuai-lian-ji-zhu-zhu-lao-fang-xian-jia-mi-zha-pian-que-chen-shi-qin-xi-shu-zi-piao-wu-gong-fang-zhan/) - 2026-06-24 (#insights)
@@ -33,5 +34,4 @@
 - [阿联酋家族响应号召：简化婚礼，减轻青年负担](https://t.me/c/4392427626/496) - 2026-06-23 (#dubai)
 - [迪拜酋长推“Dubai-it”：将城市变为动词，强调极速卓越执行](https://t.me/c/4392427626/495) - 2026-06-23 (#dubai)
 - [阿联酋拟购印度旗舰防空系统，中东军贸格局生变](https://t.me/c/4392427626/494) - 2026-06-23 (#dubai)
-- [洪都撤诉半岛电视台：柬埔寨权贵止损止战](https://t.me/c/4392427626/493) - 2026-06-23 (#dubai)
 <!-- END_POSTS -->
