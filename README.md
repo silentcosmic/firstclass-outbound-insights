@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋伊朗外长通话，促全面履行美伊备忘录](https://t.me/c/4392427626/633) - 2026-06-27 (#dubai)
 - [伊朗对霍尔木兹海峡航运划定红线，警告处置](https://t.me/c/4392427626/632) - 2026-06-27 (#dubai)
 - [阿布扎比地毯市场火灾：无人员伤亡](https://t.me/c/4392427626/631) - 2026-06-27 (#dubai)
 - [阿联酋总统会晤美国国务卿：共促中东地区安全稳定](https://t.me/c/4392427626/630) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [东盟携手伙伴打击跨国犯罪：AI技术将升级移民管理](https://t.me/c/4392427626/606) - 2026-06-26 (#dubai)
 - [中国商人涉加密货币洗钱，泰国国际通缉高管](https://t.me/c/4392427626/605) - 2026-06-26 (#dubai)
 - [苹果产品全线涨价：MacBook、iPad系列售价上调](https://t.me/c/4392427626/604) - 2026-06-26 (#dubai)
-- [权威内容生成挑战：维基百科联合创始人警示AI“幻觉”风险，审慎评估直接编辑能力](https://fcvoyage.com/quan-wei-nei-rong-sheng-cheng-tiao-zhan-wei-ji-bai-ke-lian-he-chuang-shi-ren-jing-shi-ai-huan-jue-feng-xian-shen-shen-ping-gu-zhi-jie-bian-ji-neng-li/) - 2026-06-26 (#growth)
 <!-- END_POSTS -->
