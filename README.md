@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [启明创投胡奇：从AI算法工程师到资深投资人，深耕人工智能领域的十年洞察](https://fcvoyage.com/qi-ming-chuang-tou-hu-qi-cong-aisuan-fa-gong-cheng-shi-dao-zi-shen-tou-zi-ren-shen-geng-ren-gong-zhi-neng-ling-yu-de-shi-nian-dong-cha/) - 2026-06-26 (#insights)
 - [Jungle Ventures深度解析：赋能初创企业超越独角兽界限，构建韧性增长基石](https://fcvoyage.com/jungle-venturesshen-du-jie-xi-fu-neng-chu-chuang-qi-ye-chao-yue-du-jiao-shou-jie-xian-gou-jian-ren-xing-zeng-chang-ji-shi/) - 2026-06-26 (#growth)
 - [亿联网络新加坡全球运营总部与客户体验中心启用，强化亚太战略支点](https://fcvoyage.com/yi-lian-wang-luo-xin-jia-po-quan-qiu-yun-ying-zong-bu-yu-ke-hu-ti-yan-zhong-xin-qi-yong-qiang-hua-ya-tai-zhan-lue-zhi-dian/) - 2026-06-26 (#growth)
 - [FPT与微软深化AI战略合作，加速亚洲企业级智能转型](https://fcvoyage.com/fptyu-wei-ruan-shen-hua-aizhan-lue-he-zuo-jia-su-ya-zhou-qi-ye-ji-zhi-neng-zhuan-xing/) - 2026-06-26 (#growth)
@@ -33,5 +34,4 @@
 - [霍尔木兹海峡生变：伊阿联手欲征“通行费”](https://t.me/c/4392427626/572) - 2026-06-25 (#dubai)
 - [️ 柬埔寨“杀猪盘”新变种：中国外籍劳工深陷网恋骗局](https://t.me/c/4392427626/571) - 2026-06-25 (#dubai)
 - [洪森访华：边境争端非核心，金边另有深意？](https://t.me/c/4392427626/570) - 2026-06-25 (#dubai)
-- [金边突击清查：24名中国人涉电诈被捕](https://t.me/c/4392427626/569) - 2026-06-25 (#dubai)
 <!-- END_POSTS -->
