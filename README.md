@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [亿联网络新加坡全球运营总部与客户体验中心启用，强化亚太战略支点](https://fcvoyage.com/yi-lian-wang-luo-xin-jia-po-quan-qiu-yun-ying-zong-bu-yu-ke-hu-ti-yan-zhong-xin-qi-yong-qiang-hua-ya-tai-zhan-lue-zhi-dian/) - 2026-06-26 (#growth)
 - [FPT与微软深化AI战略合作，加速亚洲企业级智能转型](https://fcvoyage.com/fptyu-wei-ruan-shen-hua-aizhan-lue-he-zuo-jia-su-ya-zhou-qi-ye-ji-zhi-neng-zhuan-xing/) - 2026-06-26 (#growth)
 - [Airwallex完成3.2亿美元H轮融资，估值突破110亿美元，重塑AI驱动型金融软件未来](https://fcvoyage.com/airwallexwan-cheng-3-2yi-mei-yuan-hlun-rong-zi-gu-zhi-tu-po-110yi-mei-yuan-zhong-su-aiqu-dong-xing-jin-rong-ruan-jian-wei-lai/) - 2026-06-26 (#insights)
 - [星展银行2.1亿美元融资，力促亚洲能源转型](https://t.me/c/4392427626/594) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [洪森访华：边境争端非核心，金边另有深意？](https://t.me/c/4392427626/570) - 2026-06-25 (#dubai)
 - [金边突击清查：24名中国人涉电诈被捕](https://t.me/c/4392427626/569) - 2026-06-25 (#dubai)
 - [柬埔寨Hpay资金冻结：大批华人央行维权](https://t.me/c/4392427626/568) - 2026-06-25 (#dubai)
-- [️ 东南亚情感陷阱：警惕“高端”人设背后的经济风险](https://t.me/c/4392427626/567) - 2026-06-25 (#dubai)
 <!-- END_POSTS -->
