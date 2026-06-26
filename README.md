@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋：导弹警报系统故障，虚惊一场！](https://t.me/c/4392427626/628) - 2026-06-27 (#dubai)
 - [8个月蒸发2.3万亿！加密市场创史上最大回撤](https://t.me/c/4392427626/627) - 2026-06-27 (#dubai)
 - [沙迦青少年毒瘾问题引关注：330家庭求助免罚](https://t.me/c/4392427626/626) - 2026-06-27 (#dubai)
 - [浦发银行迪拉姆跨境服务落地：中企出海再添便利](https://t.me/c/4392427626/625) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [深耕下一代人机交互与具身智能数据入口，念象科技获近千万元天使轮融资](https://fcvoyage.com/shen-geng-xia-yi-dai-ren-ji-jiao-hu-yu-ju-shen-zhi-neng-shu-ju-ru-kou-nian-xiang-ke-ji-huo-jin-qian-mo-yuan-tian-shi-lun-rong-zi/) - 2026-06-26 (#insights)
 - [美光业绩映射全球资本新格局：AI链磁吸效应与黄金市场K型分化](https://fcvoyage.com/mei-guang-ye-ji-ying-she-quan-qiu-zi-ben-xin-ge-ju-ailian-ci-xi-xiao-ying-yu-huang-jin-shi-chang-kxing-fen-hua/) - 2026-06-26 (#insights)
 - [启明创投胡奇：从AI算法工程师到资深投资人，深耕人工智能领域的十年洞察](https://fcvoyage.com/qi-ming-chuang-tou-hu-qi-cong-aisuan-fa-gong-cheng-shi-dao-zi-shen-tou-zi-ren-shen-geng-ren-gong-zhi-neng-ling-yu-de-shi-nian-dong-cha/) - 2026-06-26 (#insights)
-- [Jungle Ventures深度解析：赋能初创企业超越独角兽界限，构建韧性增长基石](https://fcvoyage.com/jungle-venturesshen-du-jie-xi-fu-neng-chu-chuang-qi-ye-chao-yue-du-jiao-shou-jie-xian-gou-jian-ren-xing-zeng-chang-ji-shi/) - 2026-06-26 (#growth)
 <!-- END_POSTS -->
