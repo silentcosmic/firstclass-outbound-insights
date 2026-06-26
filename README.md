@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [东盟携手伙伴打击跨国犯罪：AI技术将升级移民管理](https://t.me/c/4392427626/606) - 2026-06-26 (#dubai)
 - [中国商人涉加密货币洗钱，泰国国际通缉高管](https://t.me/c/4392427626/605) - 2026-06-26 (#dubai)
 - [苹果产品全线涨价：MacBook、iPad系列售价上调](https://t.me/c/4392427626/604) - 2026-06-26 (#dubai)
 - [权威内容生成挑战：维基百科联合创始人警示AI“幻觉”风险，审慎评估直接编辑能力](https://fcvoyage.com/quan-wei-nei-rong-sheng-cheng-tiao-zhan-wei-ji-bai-ke-lian-he-chuang-shi-ren-jing-shi-ai-huan-jue-feng-xian-shen-shen-ping-gu-zhi-jie-bian-ji-neng-li/) - 2026-06-26 (#growth)
@@ -33,5 +34,4 @@
 - [️ 拉斯海马TikTok骂战升级：一人判监一人罚款](https://t.me/c/4392427626/579) - 2026-06-25 (#dubai)
 - [阿联酋总统会晤美国务卿：聚焦中东战略合作](https://t.me/c/4392427626/578) - 2026-06-25 (#dubai)
 - [迪拜逾五万株凤凰木点亮夏日，王储指示扩大种植](https://t.me/c/4392427626/577) - 2026-06-25 (#dubai)
-- [比特币跌破6万：近18万人爆仓，市场蒸发近10亿！](https://t.me/c/4392427626/576) - 2026-06-25 (#dubai)
 <!-- END_POSTS -->
