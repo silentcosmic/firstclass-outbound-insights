@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚捣毁中国电诈窝点：9名中国籍嫌疑人落网](https://t.me/c/4392427626/621) - 2026-06-26 (#dubai)
 - [️ 阿联酋TikTok直播惹祸：辱骂威胁将面临监禁与罚款](https://t.me/c/4392427626/620) - 2026-06-26 (#dubai)
 - [美伊谈判取得突破：同意建立直接军事沟通渠道](https://t.me/c/4392427626/619) - 2026-06-26 (#dubai)
 - [越南严打电诈：四名中国籍嫌犯与房东落网](https://t.me/c/4392427626/618) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [星展银行2.1亿美元融资，力促亚洲能源转型](https://t.me/c/4392427626/594) - 2026-06-26 (#dubai)
 - [星展银行向ETAFCo提供2.1亿美元融资，加速亚洲能源转型](https://fcvoyage.com/xing-zhan-yin-xing-xiang-etafcoti-gong-2-1yi-mei-yuan-rong-zi-jia-su-ya-zhou-neng-yuan-zhuan-xing/) - 2026-06-26 (#insights)
 - [NTT Data引入AI编码平台Cursor，赋能全球软件工程加速旧系统现代化](https://fcvoyage.com/ntt-datayin-ru-aibian-ma-ping-tai-cursor-fu-neng-quan-qiu-ruan-jian-gong-cheng-jia-su-jiu-xi-tong-xian-dai-hua/) - 2026-06-26 (#insights)
-- [️ 英国TikTok网红迪拜机场被捕，卷入谋杀疑云](https://t.me/c/4392427626/591) - 2026-06-26 (#dubai)
 <!-- END_POSTS -->
