@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [伊朗对霍尔木兹海峡航运划定红线，警告处置](https://t.me/c/4392427626/632) - 2026-06-27 (#dubai)
 - [阿布扎比地毯市场火灾：无人员伤亡](https://t.me/c/4392427626/631) - 2026-06-27 (#dubai)
 - [阿联酋总统会晤美国国务卿：共促中东地区安全稳定](https://t.me/c/4392427626/630) - 2026-06-27 (#dubai)
 - [️ 特朗普：伊朗违反停火，美伊谈判仍将继续](https://t.me/c/4392427626/629) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [中国商人涉加密货币洗钱，泰国国际通缉高管](https://t.me/c/4392427626/605) - 2026-06-26 (#dubai)
 - [苹果产品全线涨价：MacBook、iPad系列售价上调](https://t.me/c/4392427626/604) - 2026-06-26 (#dubai)
 - [权威内容生成挑战：维基百科联合创始人警示AI“幻觉”风险，审慎评估直接编辑能力](https://fcvoyage.com/quan-wei-nei-rong-sheng-cheng-tiao-zhan-wei-ji-bai-ke-lian-he-chuang-shi-ren-jing-shi-ai-huan-jue-feng-xian-shen-shen-ping-gu-zhi-jie-bian-ji-neng-li/) - 2026-06-26 (#growth)
-- [马来西亚电动车准入门槛升级：中国出海车企的战略新考量](https://fcvoyage.com/ma-lai-xi-ya-dian-dong-che-zhun-ru-men-jian-sheng-ji-zhong-guo-chu-hai-che-qi-de-zhan-lue-xin-kao-liang/) - 2026-06-26 (#insights)
 <!-- END_POSTS -->
