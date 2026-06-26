@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋总统会晤美国国务卿：共促中东地区安全稳定](https://t.me/c/4392427626/630) - 2026-06-27 (#dubai)
 - [️ 特朗普：伊朗违反停火，美伊谈判仍将继续](https://t.me/c/4392427626/629) - 2026-06-27 (#dubai)
 - [阿联酋：导弹警报系统故障，虚惊一场！](https://t.me/c/4392427626/628) - 2026-06-27 (#dubai)
 - [8个月蒸发2.3万亿！加密市场创史上最大回撤](https://t.me/c/4392427626/627) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [权威内容生成挑战：维基百科联合创始人警示AI“幻觉”风险，审慎评估直接编辑能力](https://fcvoyage.com/quan-wei-nei-rong-sheng-cheng-tiao-zhan-wei-ji-bai-ke-lian-he-chuang-shi-ren-jing-shi-ai-huan-jue-feng-xian-shen-shen-ping-gu-zhi-jie-bian-ji-neng-li/) - 2026-06-26 (#growth)
 - [马来西亚电动车准入门槛升级：中国出海车企的战略新考量](https://fcvoyage.com/ma-lai-xi-ya-dian-dong-che-zhun-ru-men-jian-sheng-ji-zhong-guo-chu-hai-che-qi-de-zhan-lue-xin-kao-liang/) - 2026-06-26 (#insights)
 - [深耕下一代人机交互与具身智能数据入口，念象科技获近千万元天使轮融资](https://fcvoyage.com/shen-geng-xia-yi-dai-ren-ji-jiao-hu-yu-ju-shen-zhi-neng-shu-ju-ru-kou-nian-xiang-ke-ji-huo-jin-qian-mo-yuan-tian-shi-lun-rong-zi/) - 2026-06-26 (#insights)
-- [美光业绩映射全球资本新格局：AI链磁吸效应与黄金市场K型分化](https://fcvoyage.com/mei-guang-ye-ji-ying-she-quan-qiu-zi-ben-xin-ge-ju-ailian-ci-xi-xiao-ying-yu-huang-jin-shi-chang-kxing-fen-hua/) - 2026-06-26 (#insights)
 <!-- END_POSTS -->
