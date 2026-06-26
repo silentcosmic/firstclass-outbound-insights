@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [NTT Data引入AI编码平台Cursor，赋能全球软件工程加速旧系统现代化](https://fcvoyage.com/ntt-datayin-ru-aibian-ma-ping-tai-cursor-fu-neng-quan-qiu-ruan-jian-gong-cheng-jia-su-jiu-xi-tong-xian-dai-hua/) - 2026-06-26 (#insights)
 - [️ 英国TikTok网红迪拜机场被捕，卷入谋杀疑云](https://t.me/c/4392427626/591) - 2026-06-26 (#dubai)
 - [中国红通富豪在泰落网！](https://t.me/c/4392427626/590) - 2026-06-26 (#dubai)
 - [迪拜“黑美元”骗局：老人深信不疑，损失惨重](https://t.me/c/4392427626/589) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 缅甸山区运营：酷热环境挑战极限](https://t.me/c/4392427626/565) - 2026-06-25 (#dubai)
 - [️ 迪拜新地标招标推迟：成本与供应链承压](https://t.me/c/4392427626/564) - 2026-06-25 (#dubai)
 - [越南胡志明市重拳出击：捣毁跨国诈骗窝点，多名中国公民涉案](https://t.me/c/4392427626/563) - 2026-06-25 (#dubai)
-- [阿联酋更新落地签政策：新增六国享60天停留期](https://t.me/c/4392427626/562) - 2026-06-25 (#dubai)
 <!-- END_POSTS -->
