@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚电动车准入门槛升级：中国出海车企的战略新考量](https://fcvoyage.com/ma-lai-xi-ya-dian-dong-che-zhun-ru-men-jian-sheng-ji-zhong-guo-chu-hai-che-qi-de-zhan-lue-xin-kao-liang/) - 2026-06-26 (#insights)
 - [深耕下一代人机交互与具身智能数据入口，念象科技获近千万元天使轮融资](https://fcvoyage.com/shen-geng-xia-yi-dai-ren-ji-jiao-hu-yu-ju-shen-zhi-neng-shu-ju-ru-kou-nian-xiang-ke-ji-huo-jin-qian-mo-yuan-tian-shi-lun-rong-zi/) - 2026-06-26 (#insights)
 - [美光业绩映射全球资本新格局：AI链磁吸效应与黄金市场K型分化](https://fcvoyage.com/mei-guang-ye-ji-ying-she-quan-qiu-zi-ben-xin-ge-ju-ailian-ci-xi-xiao-ying-yu-huang-jin-shi-chang-kxing-fen-hua/) - 2026-06-26 (#insights)
 - [启明创投胡奇：从AI算法工程师到资深投资人，深耕人工智能领域的十年洞察](https://fcvoyage.com/qi-ming-chuang-tou-hu-qi-cong-aisuan-fa-gong-cheng-shi-dao-zi-shen-tou-zi-ren-shen-geng-ren-gong-zhi-neng-ling-yu-de-shi-nian-dong-cha/) - 2026-06-26 (#insights)
@@ -33,5 +34,4 @@
 - [柬埔寨警方严打网诈：私营安保被警告绝不包庇](https://t.me/c/4392427626/575) - 2026-06-25 (#dubai)
 - [迪拜夏季惊喜豪礼升级：总奖池超5000万迪拉姆](https://t.me/c/4392427626/574) - 2026-06-25 (#dubai)
 - [美伊原则同意建立军事沟通渠道](https://t.me/c/4392427626/573) - 2026-06-25 (#dubai)
-- [霍尔木兹海峡生变：伊阿联手欲征“通行费”](https://t.me/c/4392427626/572) - 2026-06-25 (#dubai)
 <!-- END_POSTS -->
