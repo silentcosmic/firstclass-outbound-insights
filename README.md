@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [星展银行2.1亿美元融资，力促亚洲能源转型](https://t.me/c/4392427626/594) - 2026-06-26 (#dubai)
 - [星展银行向ETAFCo提供2.1亿美元融资，加速亚洲能源转型](https://fcvoyage.com/xing-zhan-yin-xing-xiang-etafcoti-gong-2-1yi-mei-yuan-rong-zi-jia-su-ya-zhou-neng-yuan-zhuan-xing/) - 2026-06-26 (#insights)
 - [NTT Data引入AI编码平台Cursor，赋能全球软件工程加速旧系统现代化](https://fcvoyage.com/ntt-datayin-ru-aibian-ma-ping-tai-cursor-fu-neng-quan-qiu-ruan-jian-gong-cheng-jia-su-jiu-xi-tong-xian-dai-hua/) - 2026-06-26 (#insights)
 - [️ 英国TikTok网红迪拜机场被捕，卷入谋杀疑云](https://t.me/c/4392427626/591) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 东南亚情感陷阱：警惕“高端”人设背后的经济风险](https://t.me/c/4392427626/567) - 2026-06-25 (#dubai)
 - [波贝华福酒店遭突袭：警方联合行动](https://t.me/c/4392427626/566) - 2026-06-25 (#dubai)
 - [️ 缅甸山区运营：酷热环境挑战极限](https://t.me/c/4392427626/565) - 2026-06-25 (#dubai)
-- [️ 迪拜新地标招标推迟：成本与供应链承压](https://t.me/c/4392427626/564) - 2026-06-25 (#dubai)
 <!-- END_POSTS -->
