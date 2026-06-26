@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中老警务合作升级：78名涉赌中国公民被移交](https://t.me/c/4392427626/623) - 2026-06-26 (#dubai)
 - [吉隆坡诈骗头目遭公开警告：证据已提交国内部门](https://t.me/c/4392427626/622) - 2026-06-26 (#dubai)
 - [马来西亚捣毁中国电诈窝点：9名中国籍嫌疑人落网](https://t.me/c/4392427626/621) - 2026-06-26 (#dubai)
 - [️ 阿联酋TikTok直播惹祸：辱骂威胁将面临监禁与罚款](https://t.me/c/4392427626/620) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [FPT与微软深化AI战略合作，加速亚洲企业级智能转型](https://fcvoyage.com/fptyu-wei-ruan-shen-hua-aizhan-lue-he-zuo-jia-su-ya-zhou-qi-ye-ji-zhi-neng-zhuan-xing/) - 2026-06-26 (#growth)
 - [Airwallex完成3.2亿美元H轮融资，估值突破110亿美元，重塑AI驱动型金融软件未来](https://fcvoyage.com/airwallexwan-cheng-3-2yi-mei-yuan-hlun-rong-zi-gu-zhi-tu-po-110yi-mei-yuan-zhong-su-aiqu-dong-xing-jin-rong-ruan-jian-wei-lai/) - 2026-06-26 (#insights)
 - [星展银行2.1亿美元融资，力促亚洲能源转型](https://t.me/c/4392427626/594) - 2026-06-26 (#dubai)
-- [星展银行向ETAFCo提供2.1亿美元融资，加速亚洲能源转型](https://fcvoyage.com/xing-zhan-yin-xing-xiang-etafcoti-gong-2-1yi-mei-yuan-rong-zi-jia-su-ya-zhou-neng-yuan-zhuan-xing/) - 2026-06-26 (#insights)
 <!-- END_POSTS -->
