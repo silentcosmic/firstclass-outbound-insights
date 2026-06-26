@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [8个月蒸发2.3万亿！加密市场创史上最大回撤](https://t.me/c/4392427626/627) - 2026-06-27 (#dubai)
 - [沙迦青少年毒瘾问题引关注：330家庭求助免罚](https://t.me/c/4392427626/626) - 2026-06-27 (#dubai)
 - [浦发银行迪拉姆跨境服务落地：中企出海再添便利](https://t.me/c/4392427626/625) - 2026-06-27 (#dubai)
 - [柬埔寨打击电诈：173名中国嫌犯被遣返](https://t.me/c/4392427626/624) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [美光业绩映射全球资本新格局：AI链磁吸效应与黄金市场K型分化](https://fcvoyage.com/mei-guang-ye-ji-ying-she-quan-qiu-zi-ben-xin-ge-ju-ailian-ci-xi-xiao-ying-yu-huang-jin-shi-chang-kxing-fen-hua/) - 2026-06-26 (#insights)
 - [启明创投胡奇：从AI算法工程师到资深投资人，深耕人工智能领域的十年洞察](https://fcvoyage.com/qi-ming-chuang-tou-hu-qi-cong-aisuan-fa-gong-cheng-shi-dao-zi-shen-tou-zi-ren-shen-geng-ren-gong-zhi-neng-ling-yu-de-shi-nian-dong-cha/) - 2026-06-26 (#insights)
 - [Jungle Ventures深度解析：赋能初创企业超越独角兽界限，构建韧性增长基石](https://fcvoyage.com/jungle-venturesshen-du-jie-xi-fu-neng-chu-chuang-qi-ye-chao-yue-du-jiao-shou-jie-xian-gou-jian-ren-xing-zeng-chang-ji-shi/) - 2026-06-26 (#growth)
-- [亿联网络新加坡全球运营总部与客户体验中心启用，强化亚太战略支点](https://fcvoyage.com/yi-lian-wang-luo-xin-jia-po-quan-qiu-yun-ying-zong-bu-yu-ke-hu-ti-yan-zhong-xin-qi-yong-qiang-hua-ya-tai-zhan-lue-zhi-dian/) - 2026-06-26 (#growth)
 <!-- END_POSTS -->
