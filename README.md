@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [浦发银行迪拉姆跨境服务落地：中企出海再添便利](https://t.me/c/4392427626/625) - 2026-06-27 (#dubai)
 - [柬埔寨打击电诈：173名中国嫌犯被遣返](https://t.me/c/4392427626/624) - 2026-06-27 (#dubai)
 - [中老警务合作升级：78名涉赌中国公民被移交](https://t.me/c/4392427626/623) - 2026-06-26 (#dubai)
 - [吉隆坡诈骗头目遭公开警告：证据已提交国内部门](https://t.me/c/4392427626/622) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [Jungle Ventures深度解析：赋能初创企业超越独角兽界限，构建韧性增长基石](https://fcvoyage.com/jungle-venturesshen-du-jie-xi-fu-neng-chu-chuang-qi-ye-chao-yue-du-jiao-shou-jie-xian-gou-jian-ren-xing-zeng-chang-ji-shi/) - 2026-06-26 (#growth)
 - [亿联网络新加坡全球运营总部与客户体验中心启用，强化亚太战略支点](https://fcvoyage.com/yi-lian-wang-luo-xin-jia-po-quan-qiu-yun-ying-zong-bu-yu-ke-hu-ti-yan-zhong-xin-qi-yong-qiang-hua-ya-tai-zhan-lue-zhi-dian/) - 2026-06-26 (#growth)
 - [FPT与微软深化AI战略合作，加速亚洲企业级智能转型](https://fcvoyage.com/fptyu-wei-ruan-shen-hua-aizhan-lue-he-zuo-jia-su-ya-zhou-qi-ye-ji-zhi-neng-zhuan-xing/) - 2026-06-26 (#growth)
-- [Airwallex完成3.2亿美元H轮融资，估值突破110亿美元，重塑AI驱动型金融软件未来](https://fcvoyage.com/airwallexwan-cheng-3-2yi-mei-yuan-hlun-rong-zi-gu-zhi-tu-po-110yi-mei-yuan-zhong-su-aiqu-dong-xing-jin-rong-ruan-jian-wei-lai/) - 2026-06-26 (#insights)
 <!-- END_POSTS -->
