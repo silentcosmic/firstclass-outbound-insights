@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [美伊谈判取得突破：同意建立直接军事沟通渠道](https://t.me/c/4392427626/619) - 2026-06-26 (#dubai)
 - [越南严打电诈：四名中国籍嫌犯与房东落网](https://t.me/c/4392427626/618) - 2026-06-26 (#dubai)
 - [东盟与伙伴国强化合作：剑指跨国网络诈骗](https://t.me/c/4392427626/617) - 2026-06-26 (#dubai)
 - [加密市场8个月蒸发2.3万亿，总市值腰斩](https://t.me/c/4392427626/616) - 2026-06-26 (#dubai)
@@ -33,5 +34,4 @@
 - [NTT Data引入AI编码平台Cursor，赋能全球软件工程加速旧系统现代化](https://fcvoyage.com/ntt-datayin-ru-aibian-ma-ping-tai-cursor-fu-neng-quan-qiu-ruan-jian-gong-cheng-jia-su-jiu-xi-tong-xian-dai-hua/) - 2026-06-26 (#insights)
 - [️ 英国TikTok网红迪拜机场被捕，卷入谋杀疑云](https://t.me/c/4392427626/591) - 2026-06-26 (#dubai)
 - [中国红通富豪在泰落网！](https://t.me/c/4392427626/590) - 2026-06-26 (#dubai)
-- [迪拜“黑美元”骗局：老人深信不疑，损失惨重](https://t.me/c/4392427626/589) - 2026-06-26 (#dubai)
 <!-- END_POSTS -->
