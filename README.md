@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海 · 头等舱晚报 | 具身智能独角兽估值飙升，小鹏自动驾驶全球化提速，苹果预警AI内存需求激增](https://fcvoyage.com/chu-hai-tou-deng-cang-wan-bao-ju-shen-zhi-neng-du-jiao-shou-gu-zhi-biao-sheng-xiao-peng-zi-dong-jia-shi-quan-qiu-hua-ti-su-ping-guo-yu-jing-ainei-cun-xu-qiu-ji-zeng/) - 2026-06-27 (#insights)
 - [中国糖果巨头逐鹿海外：27亿营收背后的北美策略与未来考量](https://fcvoyage.com/zhong-guo-tang-guo-ju-tou-zhu-lu-hai-wai-27yi-ying-shou-bei-hou-de-bei-mei-ce-lue-yu-wei-lai-kao-liang/) - 2026-06-27 (#insights)
 - [行业风向 | 主题圆桌：我们永远赞美冒险 更早、更小、更下水 | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-zhu-ti-yuan-zhuo-wo-men-yong-yuan-zan-mei-mou-xian-geng-zao-geng-xiao-geng-xia-shui-waves2026xin-lang-chao/) - 2026-06-27 (#insights)
 - [三星战略注资1.1亿美元予GRAIL，加速亚洲癌症早筛市场布局](https://fcvoyage.com/san-xing-zhan-lue-zhu-zi-1-1yi-mei-yuan-yu-grail-jia-su-ya-zhou-yan-zheng-zao-shai-shi-chang-bu-ju/) - 2026-06-27 (#growth)
@@ -33,5 +34,4 @@
 - [柬埔寨打击电诈：173名中国嫌犯被遣返](https://t.me/c/4392427626/624) - 2026-06-27 (#dubai)
 - [中老警务合作升级：78名涉赌中国公民被移交](https://t.me/c/4392427626/623) - 2026-06-26 (#dubai)
 - [吉隆坡诈骗头目遭公开警告：证据已提交国内部门](https://t.me/c/4392427626/622) - 2026-06-26 (#dubai)
-- [马来西亚捣毁中国电诈窝点：9名中国籍嫌疑人落网](https://t.me/c/4392427626/621) - 2026-06-26 (#dubai)
 <!-- END_POSTS -->
