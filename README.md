@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 伊朗警告美国违反霍尔木兹海峡谅解备忘录](https://t.me/c/4392427626/654) - 2026-06-27 (#dubai)
 - [洪玛奈：柬埔寨打诈获国际认可](https://t.me/c/4392427626/653) - 2026-06-27 (#dubai)
 - [重磅！柬埔寨电诈“盘总”雅加达落网](https://t.me/c/4392427626/652) - 2026-06-27 (#dubai)
 - [出海 · 头等舱晚报 | 具身智能独角兽估值飙升，小鹏自动驾驶全球化提速，苹果预警AI内存需求激增](https://fcvoyage.com/chu-hai-tou-deng-cang-wan-bao-ju-shen-zhi-neng-du-jiao-shou-gu-zhi-biao-sheng-xiao-peng-zi-dong-jia-shi-quan-qiu-hua-ti-su-ping-guo-yu-jing-ainei-cun-xu-qiu-ji-zeng/) - 2026-06-27 (#insights)
@@ -33,5 +34,4 @@
 - [8个月蒸发2.3万亿！加密市场创史上最大回撤](https://t.me/c/4392427626/627) - 2026-06-27 (#dubai)
 - [沙迦青少年毒瘾问题引关注：330家庭求助免罚](https://t.me/c/4392427626/626) - 2026-06-27 (#dubai)
 - [浦发银行迪拉姆跨境服务落地：中企出海再添便利](https://t.me/c/4392427626/625) - 2026-06-27 (#dubai)
-- [柬埔寨打击电诈：173名中国嫌犯被遣返](https://t.me/c/4392427626/624) - 2026-06-27 (#dubai)
 <!-- END_POSTS -->
