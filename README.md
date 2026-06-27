@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡银行业亚洲首创：简化遗产与老年金融服务](https://t.me/c/4392427626/644) - 2026-06-27 (#dubai)
 - [新加坡银行业领跑亚洲，规划更清晰的遗产继承与哀伤期金融服务流程](https://fcvoyage.com/xin-jia-po-yin-xing-ye-ling-pao-ya-zhou-gui-hua-geng-qing-xi-de-yi-chan-ji-cheng-yu-ai-shang-qi-jin-rong-fu-wu-liu-cheng/) - 2026-06-27 (#insights)
 - [Jumio携手Trinsic拓展数字身份验证版图，网络触达全球60余国](https://fcvoyage.com/jumioxi-shou-trinsictuo-zhan-shu-zi-shen-fen-yan-zheng-ban-tu-wang-luo-hong-da-quan-qiu-60yu-guo/) - 2026-06-27 (#insights)
 - [迪拜“商业”平台启动：数据驱动，重塑全球经济叙事](https://t.me/c/4392427626/641) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [东盟与伙伴国强化合作：剑指跨国网络诈骗](https://t.me/c/4392427626/617) - 2026-06-26 (#dubai)
 - [加密市场8个月蒸发2.3万亿，总市值腰斩](https://t.me/c/4392427626/616) - 2026-06-26 (#dubai)
 - [柬埔寨重拳反诈：捣毁超500窝点，起诉近2000人](https://t.me/c/4392427626/615) - 2026-06-26 (#dubai)
-- [世界杯淘汰赛激战在即：豪门对决格局初现](https://t.me/c/4392427626/614) - 2026-06-26 (#dubai)
 <!-- END_POSTS -->
