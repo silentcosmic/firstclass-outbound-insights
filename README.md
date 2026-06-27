@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [洪玛奈：柬埔寨打诈获国际认可](https://t.me/c/4392427626/653) - 2026-06-27 (#dubai)
 - [重磅！柬埔寨电诈“盘总”雅加达落网](https://t.me/c/4392427626/652) - 2026-06-27 (#dubai)
 - [出海 · 头等舱晚报 | 具身智能独角兽估值飙升，小鹏自动驾驶全球化提速，苹果预警AI内存需求激增](https://fcvoyage.com/chu-hai-tou-deng-cang-wan-bao-ju-shen-zhi-neng-du-jiao-shou-gu-zhi-biao-sheng-xiao-peng-zi-dong-jia-shi-quan-qiu-hua-ti-su-ping-guo-yu-jing-ainei-cun-xu-qiu-ji-zeng/) - 2026-06-27 (#insights)
 - [中国糖果巨头逐鹿海外：27亿营收背后的北美策略与未来考量](https://fcvoyage.com/zhong-guo-tang-guo-ju-tou-zhu-lu-hai-wai-27yi-ying-shou-bei-hou-de-bei-mei-ce-lue-yu-wei-lai-kao-liang/) - 2026-06-27 (#insights)
@@ -33,5 +34,4 @@
 - [沙迦青少年毒瘾问题引关注：330家庭求助免罚](https://t.me/c/4392427626/626) - 2026-06-27 (#dubai)
 - [浦发银行迪拉姆跨境服务落地：中企出海再添便利](https://t.me/c/4392427626/625) - 2026-06-27 (#dubai)
 - [柬埔寨打击电诈：173名中国嫌犯被遣返](https://t.me/c/4392427626/624) - 2026-06-27 (#dubai)
-- [中老警务合作升级：78名涉赌中国公民被移交](https://t.me/c/4392427626/623) - 2026-06-26 (#dubai)
 <!-- END_POSTS -->
