@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [香港汇丰500亿港元巨额骗局曝光，内地男女被捕](https://t.me/c/4392427626/676) - 2026-06-28 (#dubai)
 - [️ 柬埔寨电诈盘口蠢动：小团队试探复苏，风险警报拉响！](https://t.me/c/4392427626/675) - 2026-06-28 (#dubai)
 - [️ 越南胡志明周边电诈团伙覆灭：多名通缉犯被遣返](https://t.me/c/4392427626/674) - 2026-06-28 (#dubai)
 - [沙特卡塔尔强烈谴责伊朗无人机袭巴林](https://t.me/c/4392427626/673) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 主题圆桌：我们永远赞美冒险 更早、更小、更下水 | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-zhu-ti-yuan-zhuo-wo-men-yong-yuan-zan-mei-mou-xian-geng-zao-geng-xiao-geng-xia-shui-waves2026xin-lang-chao/) - 2026-06-27 (#insights)
 - [三星战略注资1.1亿美元予GRAIL，加速亚洲癌症早筛市场布局](https://fcvoyage.com/san-xing-zhan-lue-zhu-zi-1-1yi-mei-yuan-yu-grail-jia-su-ya-zhou-yan-zheng-zao-shai-shi-chang-bu-ju/) - 2026-06-27 (#growth)
 - [富士康战略扩张：斥资9160万美元深化全球供应链布局](https://fcvoyage.com/fu-shi-kang-zhan-lue-kuo-zhang-chi-zi-9160mo-mei-yuan-shen-hua-quan-qiu-gong-ying-lian-bu-ju/) - 2026-06-27 (#growth)
-- [Sea Ltd旗下AI助手Migoo：重塑用户互动，解锁生态长期价值](https://fcvoyage.com/sea-ltdqi-xia-aizhu-shou-migoo-zhong-su-yong-hu-hu-dong-jie-suo-sheng-tai-chang-qi-jie-zhi/) - 2026-06-27 (#growth)
 <!-- END_POSTS -->
