@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [富士康战略扩张：斥资9160万美元深化全球供应链布局](https://fcvoyage.com/fu-shi-kang-zhan-lue-kuo-zhang-chi-zi-9160mo-mei-yuan-shen-hua-quan-qiu-gong-ying-lian-bu-ju/) - 2026-06-27 (#growth)
 - [Sea Ltd旗下AI助手Migoo：重塑用户互动，解锁生态长期价值](https://fcvoyage.com/sea-ltdqi-xia-aizhu-shou-migoo-zhong-su-yong-hu-hu-dong-jie-suo-sheng-tai-chang-qi-jie-zhi/) - 2026-06-27 (#growth)
 - [新加坡金管局设立未来金融研究院，引领AI与代币化技术迈向深度应用](https://fcvoyage.com/xin-jia-po-jin-guan-ju-she-li-wei-lai-jin-rong-yan-jiu-yuan-yin-ling-aiyu-dai-bi-hua-ji-zhu-mai-xiang-shen-du-ying-yong/) - 2026-06-27 (#insights)
 - [新加坡银行业亚洲首创：简化遗产与老年金融服务](https://t.me/c/4392427626/644) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 阿联酋TikTok直播惹祸：辱骂威胁将面临监禁与罚款](https://t.me/c/4392427626/620) - 2026-06-26 (#dubai)
 - [美伊谈判取得突破：同意建立直接军事沟通渠道](https://t.me/c/4392427626/619) - 2026-06-26 (#dubai)
 - [越南严打电诈：四名中国籍嫌犯与房东落网](https://t.me/c/4392427626/618) - 2026-06-26 (#dubai)
-- [东盟与伙伴国强化合作：剑指跨国网络诈骗](https://t.me/c/4392427626/617) - 2026-06-26 (#dubai)
 <!-- END_POSTS -->
