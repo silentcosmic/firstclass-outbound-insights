@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜海关新政：关税可分期，罚款最高减80%](https://t.me/c/4392427626/679) - 2026-06-28 (#dubai)
 - [阿联酋总统指示：向黎巴嫩提供紧急人道援助](https://t.me/c/4392427626/678) - 2026-06-28 (#dubai)
 - [广州机场突发：金融分析师下机即遭带走](https://t.me/c/4392427626/677) - 2026-06-28 (#dubai)
 - [香港汇丰500亿港元巨额骗局曝光，内地男女被捕](https://t.me/c/4392427626/676) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [重磅！柬埔寨电诈“盘总”雅加达落网](https://t.me/c/4392427626/652) - 2026-06-27 (#dubai)
 - [出海 · 头等舱晚报 | 具身智能独角兽估值飙升，小鹏自动驾驶全球化提速，苹果预警AI内存需求激增](https://fcvoyage.com/chu-hai-tou-deng-cang-wan-bao-ju-shen-zhi-neng-du-jiao-shou-gu-zhi-biao-sheng-xiao-peng-zi-dong-jia-shi-quan-qiu-hua-ti-su-ping-guo-yu-jing-ainei-cun-xu-qiu-ji-zeng/) - 2026-06-27 (#insights)
 - [中国糖果巨头逐鹿海外：27亿营收背后的北美策略与未来考量](https://fcvoyage.com/zhong-guo-tang-guo-ju-tou-zhu-lu-hai-wai-27yi-ying-shou-bei-hou-de-bei-mei-ce-lue-yu-wei-lai-kao-liang/) - 2026-06-27 (#insights)
-- [行业风向 | 主题圆桌：我们永远赞美冒险 更早、更小、更下水 | WAVES2026新浪潮](https://fcvoyage.com/xing-ye-feng-xiang-zhu-ti-yuan-zhuo-wo-men-yong-yuan-zan-mei-mou-xian-geng-zao-geng-xiao-geng-xia-shui-waves2026xin-lang-chao/) - 2026-06-27 (#insights)
 <!-- END_POSTS -->
