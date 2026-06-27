@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [沙特卡塔尔强烈谴责伊朗无人机袭巴林](https://t.me/c/4392427626/673) - 2026-06-28 (#dubai)
 - [马来西亚槟城夜场冲突：疑涉华人暴力事件](https://t.me/c/4392427626/672) - 2026-06-28 (#dubai)
 - [迪拜高端海鲜市场新标杆：直采模式创极致性价比](https://t.me/c/4392427626/671) - 2026-06-28 (#dubai)
 - [美国调整缅甸策略：聚焦打击跨境诈骗与犯罪](https://t.me/c/4392427626/670) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [Sea Ltd旗下AI助手Migoo：重塑用户互动，解锁生态长期价值](https://fcvoyage.com/sea-ltdqi-xia-aizhu-shou-migoo-zhong-su-yong-hu-hu-dong-jie-suo-sheng-tai-chang-qi-jie-zhi/) - 2026-06-27 (#growth)
 - [新加坡金管局设立未来金融研究院，引领AI与代币化技术迈向深度应用](https://fcvoyage.com/xin-jia-po-jin-guan-ju-she-li-wei-lai-jin-rong-yan-jiu-yuan-yin-ling-aiyu-dai-bi-hua-ji-zhu-mai-xiang-shen-du-ying-yong/) - 2026-06-27 (#insights)
 - [新加坡银行业亚洲首创：简化遗产与老年金融服务](https://t.me/c/4392427626/644) - 2026-06-27 (#dubai)
-- [新加坡银行业领跑亚洲，规划更清晰的遗产继承与哀伤期金融服务流程](https://fcvoyage.com/xin-jia-po-yin-xing-ye-ling-pao-ya-zhou-gui-hua-geng-qing-xi-de-yi-chan-ji-cheng-yu-ai-shang-qi-jin-rong-fu-wu-liu-cheng/) - 2026-06-27 (#insights)
 <!-- END_POSTS -->
