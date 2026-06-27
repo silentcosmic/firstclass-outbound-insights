@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜高端海鲜市场新标杆：直采模式创极致性价比](https://t.me/c/4392427626/671) - 2026-06-28 (#dubai)
 - [美国调整缅甸策略：聚焦打击跨境诈骗与犯罪](https://t.me/c/4392427626/670) - 2026-06-28 (#dubai)
 - [芭提雅少女遇害藏尸案：澳籍嫌犯机场落网，将追加谋杀指控](https://t.me/c/4392427626/669) - 2026-06-27 (#dubai)
 - [港陆警方联手：捣毁逾2亿跨境网恋投资诈骗团伙](https://t.me/c/4392427626/668) - 2026-06-27 (#dubai)
@@ -33,5 +34,4 @@
 - [新加坡银行业亚洲首创：简化遗产与老年金融服务](https://t.me/c/4392427626/644) - 2026-06-27 (#dubai)
 - [新加坡银行业领跑亚洲，规划更清晰的遗产继承与哀伤期金融服务流程](https://fcvoyage.com/xin-jia-po-yin-xing-ye-ling-pao-ya-zhou-gui-hua-geng-qing-xi-de-yi-chan-ji-cheng-yu-ai-shang-qi-jin-rong-fu-wu-liu-cheng/) - 2026-06-27 (#insights)
 - [Jumio携手Trinsic拓展数字身份验证版图，网络触达全球60余国](https://fcvoyage.com/jumioxi-shou-trinsictuo-zhan-shu-zi-shen-fen-yan-zheng-ban-tu-wang-luo-hong-da-quan-qiu-60yu-guo/) - 2026-06-27 (#insights)
-- [迪拜“商业”平台启动：数据驱动，重塑全球经济叙事](https://t.me/c/4392427626/641) - 2026-06-27 (#dubai)
 <!-- END_POSTS -->
