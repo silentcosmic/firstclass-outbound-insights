@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [实时数据：赋能亚太公共服务责任式AI的关键缺失层](https://fcvoyage.com/shi-shi-shu-ju-fu-neng-ya-tai-gong-gong-fu-wu-ze-ren-shi-aide-guan-jian-que-shi-ceng/) - 2026-06-28 (#growth)
 - [新加坡金管局与银行公会携手擘画PayNow Gen2，定义即时支付系统新浪潮](https://fcvoyage.com/xin-jia-po-jin-guan-ju-yu-yin-xing-gong-hui-xi-shou-bo-hua-paynow-gen2-ding-yi-ji-shi-zhi-fu-xi-tong-xin-lang-chao/) - 2026-06-28 (#growth)
 - [瑞典发展基金注资1500万美元，赋能菲律宾中型企业加速增长](https://fcvoyage.com/rui-dian-fa-zhan-ji-jin-zhu-zi-1500mo-mei-yuan-fu-neng-fei-lu-bin-zhong-xing-qi-ye-jia-su-zeng-chang/) - 2026-06-28 (#growth)
 - [新加坡主要银行战略部署：2027年前实现公共住宅区自动取款机服务广覆盖](https://fcvoyage.com/xin-jia-po-zhu-yao-yin-xing-zhan-lue-bu-shu-2027nian-qian-shi-xian-gong-gong-zhu-zhai-qu-zi-dong-qu-kuan-ji-fu-wu-yan-fu-gai/) - 2026-06-28 (#insights)
@@ -33,5 +34,4 @@
 - [阿联酋油价七月或迎大幅下调](https://t.me/c/4392427626/659) - 2026-06-27 (#dubai)
 - [柬波贝“杀猪盘”窝点被端：45名外籍嫌犯落网](https://t.me/c/4392427626/658) - 2026-06-27 (#dubai)
 - [️ 北京中信大厦遭飞机撞击：1死13伤](https://t.me/c/4392427626/657) - 2026-06-27 (#dubai)
-- [诈骗三天即遭解雇，马籍男子狮城获刑16个月](https://t.me/c/4392427626/656) - 2026-06-27 (#dubai)
 <!-- END_POSTS -->
