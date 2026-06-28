@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨严打网络犯罪：涉案人员或遣返或起诉](https://t.me/c/4392427626/710) - 2026-06-28 (#dubai)
 - [柬埔寨出海公司遭员工实名举报：拖欠工资引发威胁！](https://t.me/c/4392427626/709) - 2026-06-28 (#dubai)
 - [沙特阿美直升机坠毁：14名公民遇难](https://t.me/c/4392427626/708) - 2026-06-28 (#dubai)
 - [伊朗阿联酋贸易航线全面恢复](https://t.me/c/4392427626/707) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [新加坡主要银行战略部署：2027年前实现公共住宅区自动取款机服务广覆盖](https://fcvoyage.com/xin-jia-po-zhu-yao-yin-xing-zhan-lue-bu-shu-2027nian-qian-shi-xian-gong-gong-zhu-zhai-qu-zi-dong-qu-kuan-ji-fu-wu-yan-fu-gai/) - 2026-06-28 (#insights)
 - [新加坡PayNow支付系统迈向“二代”升级：重塑交易格局，扩展多元应用场景](https://fcvoyage.com/xin-jia-po-paynowzhi-fu-xi-tong-mai-xiang-er-dai-sheng-ji-zhong-su-jiao-yi-ge-ju-kuo-zhan-duo-yuan-ying-yong-chang-jing/) - 2026-06-28 (#insights)
 - [Airwallex迎回前CFO强化财务领导力](https://t.me/c/4392427626/681) - 2026-06-28 (#dubai)
-- [Airwallex在H轮融资后强化财务领导力：前高管Pranav Sood回归出任首席财务官](https://fcvoyage.com/airwallexzai-hlun-rong-zi-hou-qiang-hua-cai-wu-ling-dao-li-qian-gao-guan-pranav-soodhui-gui-chu-ren-shou-xi-cai-wu-guan/) - 2026-06-28 (#insights)
 <!-- END_POSTS -->
