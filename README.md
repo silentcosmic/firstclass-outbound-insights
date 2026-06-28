@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜夏日惊喜购物节启幕：60天狂欢激活消费市场](https://t.me/c/4392427626/714) - 2026-06-29 (#dubai)
 - [迪拜创业：越南美甲师的财富逆袭](https://t.me/c/4392427626/713) - 2026-06-29 (#dubai)
 - [️ 四川宜宾突发5.5级地震，川渝震感明显](https://t.me/c/4392427626/712) - 2026-06-29 (#dubai)
 - [823万诈骗案主犯越南落网，中越联手斩断逃亡路](https://t.me/c/4392427626/711) - 2026-06-29 (#dubai)
@@ -33,5 +34,4 @@
 - [A+H企业强劲领跑港股IPO募资：龙头力量独占八席](https://fcvoyage.com/a-hqi-ye-qiang-jing-ling-pao-gang-gu-ipomu-zi-long-tou-li-liang-du-zhan-ba-xi/) - 2026-06-28 (#insights)
 - [实时数据：赋能亚太公共服务责任式AI的关键缺失层](https://fcvoyage.com/shi-shi-shu-ju-fu-neng-ya-tai-gong-gong-fu-wu-ze-ren-shi-aide-guan-jian-que-shi-ceng/) - 2026-06-28 (#growth)
 - [新加坡金管局与银行公会携手擘画PayNow Gen2，定义即时支付系统新浪潮](https://fcvoyage.com/xin-jia-po-jin-guan-ju-yu-yin-xing-gong-hui-xi-shou-bo-hua-paynow-gen2-ding-yi-ji-shi-zhi-fu-xi-tong-xin-lang-chao/) - 2026-06-28 (#growth)
-- [瑞典发展基金注资1500万美元，赋能菲律宾中型企业加速增长](https://fcvoyage.com/rui-dian-fa-zhan-ji-jin-zhu-zi-1500mo-mei-yuan-fu-neng-fei-lu-bin-zhong-xing-qi-ye-jia-su-zeng-chang/) - 2026-06-28 (#growth)
 <!-- END_POSTS -->
