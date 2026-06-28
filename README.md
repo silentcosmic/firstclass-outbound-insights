@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Airwallex在H轮融资后强化财务领导力：前高管Pranav Sood回归出任首席财务官](https://fcvoyage.com/airwallexzai-hlun-rong-zi-hou-qiang-hua-cai-wu-ling-dao-li-qian-gao-guan-pranav-soodhui-gui-chu-ren-shou-xi-cai-wu-guan/) - 2026-06-28 (#insights)
 - [迪拜海关新政：关税可分期，罚款最高减80%](https://t.me/c/4392427626/679) - 2026-06-28 (#dubai)
 - [阿联酋总统指示：向黎巴嫩提供紧急人道援助](https://t.me/c/4392427626/678) - 2026-06-28 (#dubai)
 - [广州机场突发：金融分析师下机即遭带走](https://t.me/c/4392427626/677) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [洪玛奈：柬埔寨打诈获国际认可](https://t.me/c/4392427626/653) - 2026-06-27 (#dubai)
 - [重磅！柬埔寨电诈“盘总”雅加达落网](https://t.me/c/4392427626/652) - 2026-06-27 (#dubai)
 - [出海 · 头等舱晚报 | 具身智能独角兽估值飙升，小鹏自动驾驶全球化提速，苹果预警AI内存需求激增](https://fcvoyage.com/chu-hai-tou-deng-cang-wan-bao-ju-shen-zhi-neng-du-jiao-shou-gu-zhi-biao-sheng-xiao-peng-zi-dong-jia-shi-quan-qiu-hua-ti-su-ping-guo-yu-jing-ainei-cun-xu-qiu-ji-zeng/) - 2026-06-27 (#insights)
-- [中国糖果巨头逐鹿海外：27亿营收背后的北美策略与未来考量](https://fcvoyage.com/zhong-guo-tang-guo-ju-tou-zhu-lu-hai-wai-27yi-ying-shou-bei-hou-de-bei-mei-ce-lue-yu-wei-lai-kao-liang/) - 2026-06-27 (#insights)
 <!-- END_POSTS -->
