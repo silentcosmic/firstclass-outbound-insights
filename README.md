@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 港女美容师涉人口贩卖，诱骗赴泰转卖缅甸诈骗园区](https://t.me/c/4392427626/690) - 2026-06-28 (#dubai)
 - [行业风向 | 秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完](https://fcvoyage.com/xing-ye-feng-xiang-qiu-sheng-da-qin-chu-neng-chong-gang-gu-ipo-li-jie-50mo-shan-ding-dun-huo-xie-lei-shi-yu-ben-san-nian-cai-qing-wan/) - 2026-06-28 (#insights)
 - [行业风向 | 苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元](https://fcvoyage.com/xing-ye-feng-xiang-ping-guo-zhang-jie-yin-shan-mu-dai-gou-chao-deepseekda-gui-mo-zhao-pin-huang-jin-zai-du-die-po-4000mei-yuan/) - 2026-06-28 (#insights)
 - [A+H企业强劲领跑港股IPO募资：龙头力量独占八席](https://fcvoyage.com/a-hqi-ye-qiang-jing-ling-pao-gang-gu-ipomu-zi-long-tou-li-liang-du-zhan-ba-xi/) - 2026-06-28 (#insights)
@@ -33,5 +34,4 @@
 - [泰国破获跨国偷渡网：6名中国公民被查](https://t.me/c/4392427626/663) - 2026-06-27 (#dubai)
 - [阿联酋荣膺全球最具创业竞争力国家！](https://t.me/c/4392427626/662) - 2026-06-27 (#dubai)
 - [阿联酋八旬老人：50载芒果种植铸就本土农业传奇](https://t.me/c/4392427626/661) - 2026-06-27 (#dubai)
-- [波贝警方突袭：5名中国籍嫌犯涉诈落网，搜出枪支](https://t.me/c/4392427626/660) - 2026-06-27 (#dubai)
 <!-- END_POSTS -->
