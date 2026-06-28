@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元](https://fcvoyage.com/xing-ye-feng-xiang-ping-guo-zhang-jie-yin-shan-mu-dai-gou-chao-deepseekda-gui-mo-zhao-pin-huang-jin-zai-du-die-po-4000mei-yuan/) - 2026-06-28 (#insights)
 - [A+H企业强劲领跑港股IPO募资：龙头力量独占八席](https://fcvoyage.com/a-hqi-ye-qiang-jing-ling-pao-gang-gu-ipomu-zi-long-tou-li-liang-du-zhan-ba-xi/) - 2026-06-28 (#insights)
 - [实时数据：赋能亚太公共服务责任式AI的关键缺失层](https://fcvoyage.com/shi-shi-shu-ju-fu-neng-ya-tai-gong-gong-fu-wu-ze-ren-shi-aide-guan-jian-que-shi-ceng/) - 2026-06-28 (#growth)
 - [新加坡金管局与银行公会携手擘画PayNow Gen2，定义即时支付系统新浪潮](https://fcvoyage.com/xin-jia-po-jin-guan-ju-yu-yin-xing-gong-hui-xi-shou-bo-hua-paynow-gen2-ding-yi-ji-shi-zhi-fu-xi-tong-xin-lang-chao/) - 2026-06-28 (#growth)
@@ -33,5 +34,4 @@
 - [阿联酋八旬老人：50载芒果种植铸就本土农业传奇](https://t.me/c/4392427626/661) - 2026-06-27 (#dubai)
 - [波贝警方突袭：5名中国籍嫌犯涉诈落网，搜出枪支](https://t.me/c/4392427626/660) - 2026-06-27 (#dubai)
 - [阿联酋油价七月或迎大幅下调](https://t.me/c/4392427626/659) - 2026-06-27 (#dubai)
-- [柬波贝“杀猪盘”窝点被端：45名外籍嫌犯落网](https://t.me/c/4392427626/658) - 2026-06-27 (#dubai)
 <!-- END_POSTS -->
