@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜“光鲜”下的真实：外籍人士的四大生存法则](https://t.me/c/4392427626/719) - 2026-06-29 (#dubai)
 - [迪拜海关部署智能K9犬队：强化边境缉毒](https://t.me/c/4392427626/718) - 2026-06-29 (#dubai)
 - [数字支付平台OKPay遭黑客攻击，官方称漏洞已修复](https://t.me/c/4392427626/717) - 2026-06-29 (#dubai)
 - [泰国“杀猪盘”惊现FBI身影，高管急谋出路](https://t.me/c/4392427626/716) - 2026-06-29 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 阿联酋二手车欺诈零容忍：消费者维权有法可依](https://t.me/c/4392427626/692) - 2026-06-28 (#dubai)
 - [️ 东南亚海外关系警示：谨防财务独立性陷阱](https://t.me/c/4392427626/691) - 2026-06-28 (#dubai)
 - [️ 港女美容师涉人口贩卖，诱骗赴泰转卖缅甸诈骗园区](https://t.me/c/4392427626/690) - 2026-06-28 (#dubai)
-- [行业风向 | 秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完](https://fcvoyage.com/xing-ye-feng-xiang-qiu-sheng-da-qin-chu-neng-chong-gang-gu-ipo-li-jie-50mo-shan-ding-dun-huo-xie-lei-shi-yu-ben-san-nian-cai-qing-wan/) - 2026-06-28 (#insights)
 <!-- END_POSTS -->
