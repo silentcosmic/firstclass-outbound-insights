@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡PayNow支付系统迈向“二代”升级：重塑交易格局，扩展多元应用场景](https://fcvoyage.com/xin-jia-po-paynowzhi-fu-xi-tong-mai-xiang-er-dai-sheng-ji-zhong-su-jiao-yi-ge-ju-kuo-zhan-duo-yuan-ying-yong-chang-jing/) - 2026-06-28 (#insights)
 - [Airwallex迎回前CFO强化财务领导力](https://t.me/c/4392427626/681) - 2026-06-28 (#dubai)
 - [Airwallex在H轮融资后强化财务领导力：前高管Pranav Sood回归出任首席财务官](https://fcvoyage.com/airwallexzai-hlun-rong-zi-hou-qiang-hua-cai-wu-ling-dao-li-qian-gao-guan-pranav-soodhui-gui-chu-ren-shou-xi-cai-wu-guan/) - 2026-06-28 (#insights)
 - [迪拜海关新政：关税可分期，罚款最高减80%](https://t.me/c/4392427626/679) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [巴林谴责伊朗无人机袭击，保留自卫权](https://t.me/c/4392427626/655) - 2026-06-27 (#dubai)
 - [️ 伊朗警告美国违反霍尔木兹海峡谅解备忘录](https://t.me/c/4392427626/654) - 2026-06-27 (#dubai)
 - [洪玛奈：柬埔寨打诈获国际认可](https://t.me/c/4392427626/653) - 2026-06-27 (#dubai)
-- [重磅！柬埔寨电诈“盘总”雅加达落网](https://t.me/c/4392427626/652) - 2026-06-27 (#dubai)
 <!-- END_POSTS -->
