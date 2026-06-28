@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [伊朗阿联酋贸易航线全面恢复](https://t.me/c/4392427626/707) - 2026-06-28 (#dubai)
 - [梅西破纪录再进一球：阿根廷世界杯三连胜晋级](https://t.me/c/4392427626/706) - 2026-06-28 (#dubai)
 - [️ 阿联酋国防部痛失一员：士兵训练中不幸殉职](https://t.me/c/4392427626/705) - 2026-06-28 (#dubai)
 - [柬泰边境电诈园区曝光：伪造多国警局专骗海外公民](https://t.me/c/4392427626/704) - 2026-06-28 (#dubai)
@@ -33,5 +34,4 @@
 - [Airwallex在H轮融资后强化财务领导力：前高管Pranav Sood回归出任首席财务官](https://fcvoyage.com/airwallexzai-hlun-rong-zi-hou-qiang-hua-cai-wu-ling-dao-li-qian-gao-guan-pranav-soodhui-gui-chu-ren-shou-xi-cai-wu-guan/) - 2026-06-28 (#insights)
 - [迪拜海关新政：关税可分期，罚款最高减80%](https://t.me/c/4392427626/679) - 2026-06-28 (#dubai)
 - [阿联酋总统指示：向黎巴嫩提供紧急人道援助](https://t.me/c/4392427626/678) - 2026-06-28 (#dubai)
-- [广州机场突发：金融分析师下机即遭带走](https://t.me/c/4392427626/677) - 2026-06-28 (#dubai)
 <!-- END_POSTS -->
