@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球产业洞察：化工市场景气修复，AI短剧盈利模式重塑](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-hua-gong-shi-chang-jing-qi-xiu-fu-aiduan-ju-ying-li-mo-shi-zhong-su/) - 2026-06-29 (#insights)
 - [中国电动汽车出海建厂潮：宏伟蓝图下的现实审视与未来展望](https://fcvoyage.com/zhong-guo-dian-dong-qi-che-chu-hai-jian-han-chao-hong-wei-lan-tu-xia-de-xian-shi-shen-shi-yu-wei-lai-zhan-wang/) - 2026-06-29 (#infrastructure)
 - [电动车电池回收的全球战略分歧：中西方路径与深层考量](https://fcvoyage.com/dian-dong-che-dian-chi-hui-shou-de-quan-qiu-zhan-lue-fen-qi-zhong-xi-fang-lu-jing-yu-shen-ceng-kao-liang/) - 2026-06-29 (#infrastructure)
 - [AI世界杯的幕后引擎：数千名数据工作者的无形支撑](https://fcvoyage.com/aishi-jie-bei-de-mu-hou-yin-qing-shu-qian-ming-shu-ju-gong-zuo-zhe-de-wu-xing-zhi-cheng/) - 2026-06-29 (#infrastructure)
@@ -33,5 +34,4 @@
 - [行业警示：2亿U跑分盘爆雷，平台信任危机加剧](https://t.me/c/4392427626/702) - 2026-06-28 (#dubai)
 - [️ 阿联酋谴责伊朗再袭巴林科威特](https://t.me/c/4392427626/701) - 2026-06-28 (#dubai)
 - [中老边境反诈新进展：中国警方成功押解嫌犯回国](https://t.me/c/4392427626/700) - 2026-06-28 (#dubai)
-- [波贝突袭清查：逾80名印尼籍人员被盘查，涉诈手机被缴](https://t.me/c/4392427626/699) - 2026-06-28 (#dubai)
 <!-- END_POSTS -->
