@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 迪拜跨境股盘模式面临绝境：反诈升级，收益无望](https://t.me/c/4392427626/732) - 2026-06-29 (#dubai)
 - [缅甸妙瓦底打击电诈：77栋违建已拆65栋](https://t.me/c/4392427626/731) - 2026-06-29 (#dubai)
 - [深度解析：会员制特卖如何重塑奢侈品库存管理与渠道生态](https://fcvoyage.com/shen-du-jie-xi-hui-yuan-zhi-te-mai-ru-he-zhong-su-she-chi-pin-ku-cun-guan-li-yu-qu-dao-sheng-tai/) - 2026-06-29 (#insights)
 - [全球产业洞察：化工市场景气修复，AI短剧盈利模式重塑](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-hua-gong-shi-chang-jing-qi-xiu-fu-aiduan-ju-ying-li-mo-shi-zhong-su/) - 2026-06-29 (#insights)
@@ -33,5 +34,4 @@
 - [️ 阿联酋国防部痛失一员：士兵训练中不幸殉职](https://t.me/c/4392427626/705) - 2026-06-28 (#dubai)
 - [柬泰边境电诈园区曝光：伪造多国警局专骗海外公民](https://t.me/c/4392427626/704) - 2026-06-28 (#dubai)
 - [苹果阿联酋大涨价：iPhone 18 Pro或创历史新高](https://t.me/c/4392427626/703) - 2026-06-28 (#dubai)
-- [行业警示：2亿U跑分盘爆雷，平台信任危机加剧](https://t.me/c/4392427626/702) - 2026-06-28 (#dubai)
 <!-- END_POSTS -->
