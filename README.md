@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋2026交通新规：违规成本大幅提升](https://t.me/c/4392427626/759) - 2026-06-30 (#dubai)
 - [泰国警局突发枪击：副督察中弹身亡](https://t.me/c/4392427626/758) - 2026-06-30 (#dubai)
 - [卡塔尔船只遭袭：一死一伤，区域安全引关注](https://t.me/c/4392427626/757) - 2026-06-30 (#dubai)
 - [️ 冲突后首航：德黑兰-迪拜直飞航线重启](https://t.me/c/4392427626/756) - 2026-06-30 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 迪拜跨境股盘模式面临绝境：反诈升级，收益无望](https://t.me/c/4392427626/732) - 2026-06-29 (#dubai)
 - [缅甸妙瓦底打击电诈：77栋违建已拆65栋](https://t.me/c/4392427626/731) - 2026-06-29 (#dubai)
 - [深度解析：会员制特卖如何重塑奢侈品库存管理与渠道生态](https://fcvoyage.com/shen-du-jie-xi-hui-yuan-zhi-te-mai-ru-he-zhong-su-she-chi-pin-ku-cun-guan-li-yu-qu-dao-sheng-tai/) - 2026-06-29 (#insights)
-- [全球产业洞察：化工市场景气修复，AI短剧盈利模式重塑](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-hua-gong-shi-chang-jing-qi-xiu-fu-aiduan-ju-ying-li-mo-shi-zhong-su/) - 2026-06-29 (#insights)
 <!-- END_POSTS -->
