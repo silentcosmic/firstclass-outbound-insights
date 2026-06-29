@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [美国头部风投机构携手新加坡国立大学，启动1.17亿美元深科技投资新篇章](https://fcvoyage.com/mei-guo-tou-bu-feng-tou-ji-gou-xi-shou-xin-jia-po-guo-li-da-xue-qi-dong-1-17yi-mei-yuan-shen-ke-ji-tou-zi-xin-pian-zhang/) - 2026-06-29 (#growth)
 - [新加坡设立未来金融研究院，加速金融创新规模化应用](https://fcvoyage.com/xin-jia-po-she-li-wei-lai-jin-rong-yan-jiu-yuan-jia-su-jin-rong-chuang-xin-gui-mo-hua-ying-yong/) - 2026-06-29 (#growth)
 - [摩根大通深化东南亚布局：任命双联席主管强化投行业务](https://t.me/c/4392427626/722) - 2026-06-29 (#dubai)
 - [摩根大通深化东南亚布局，任命两位联席主管领航区域投行业务](https://fcvoyage.com/mo-gen-da-tong-shen-hua-dong-nan-ya-bu-ju-ren-ming-liang-wei-lian-xi-zhu-guan-ling-hang-qu-yu-tou-xing-ye-wu/) - 2026-06-29 (#insights)
@@ -33,5 +34,4 @@
 - [柬埔寨遣返170名中国籍诈骗嫌犯](https://t.me/c/4392427626/697) - 2026-06-28 (#dubai)
 - [中信银行高管爆仓疑云：驾机撞击中国尊？](https://t.me/c/4392427626/696) - 2026-06-28 (#dubai)
 - [印尼特大网赌案：52亿资金流转，287名外籍人员涉案](https://t.me/c/4392427626/695) - 2026-06-28 (#dubai)
-- [宜昌警方拦截10万现金，揭露中东石油投资骗局](https://t.me/c/4392427626/694) - 2026-06-28 (#dubai)
 <!-- END_POSTS -->
