@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [缅甸妙瓦底打击电诈：77栋违建已拆65栋](https://t.me/c/4392427626/731) - 2026-06-29 (#dubai)
 - [深度解析：会员制特卖如何重塑奢侈品库存管理与渠道生态](https://fcvoyage.com/shen-du-jie-xi-hui-yuan-zhi-te-mai-ru-he-zhong-su-she-chi-pin-ku-cun-guan-li-yu-qu-dao-sheng-tai/) - 2026-06-29 (#insights)
 - [全球产业洞察：化工市场景气修复，AI短剧盈利模式重塑](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-hua-gong-shi-chang-jing-qi-xiu-fu-aiduan-ju-ying-li-mo-shi-zhong-su/) - 2026-06-29 (#insights)
 - [中国电动汽车出海建厂潮：宏伟蓝图下的现实审视与未来展望](https://fcvoyage.com/zhong-guo-dian-dong-qi-che-chu-hai-jian-han-chao-hong-wei-lan-tu-xia-de-xian-shi-shen-shi-yu-wei-lai-zhan-wang/) - 2026-06-29 (#infrastructure)
@@ -33,5 +34,4 @@
 - [柬泰边境电诈园区曝光：伪造多国警局专骗海外公民](https://t.me/c/4392427626/704) - 2026-06-28 (#dubai)
 - [苹果阿联酋大涨价：iPhone 18 Pro或创历史新高](https://t.me/c/4392427626/703) - 2026-06-28 (#dubai)
 - [行业警示：2亿U跑分盘爆雷，平台信任危机加剧](https://t.me/c/4392427626/702) - 2026-06-28 (#dubai)
-- [️ 阿联酋谴责伊朗再袭巴林科威特](https://t.me/c/4392427626/701) - 2026-06-28 (#dubai)
 <!-- END_POSTS -->
