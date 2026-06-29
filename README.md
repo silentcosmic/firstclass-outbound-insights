@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜政府夏季新政：员工可选四天工作制](https://t.me/c/4392427626/752) - 2026-06-30 (#dubai)
 - [百事泰国推“迪拜巧克力”可乐，口味大胆创新](https://t.me/c/4392427626/751) - 2026-06-30 (#dubai)
 - [上海婚介诈骗案：50元“演员”冒充相亲对象](https://t.me/c/4392427626/750) - 2026-06-30 (#dubai)
 - [印尼破获跨国“订购婚姻”团伙：3名中国籍嫌犯遭遣返](https://t.me/c/4392427626/749) - 2026-06-30 (#dubai)
@@ -33,5 +34,4 @@
 - [狮集团战略注资1200万美元，深化印尼稳定币及数字金融基础设施布局](https://fcvoyage.com/shi-ji-tuan-zhan-lue-zhu-zi-1200mo-mei-yuan-shen-hua-yin-ni-wen-ding-bi-ji-shu-zi-jin-rong-ji-chu-she-shi-bu-ju/) - 2026-06-29 (#growth)
 - [美国头部风投机构携手新加坡国立大学，启动1.17亿美元深科技投资新篇章](https://fcvoyage.com/mei-guo-tou-bu-feng-tou-ji-gou-xi-shou-xin-jia-po-guo-li-da-xue-qi-dong-1-17yi-mei-yuan-shen-ke-ji-tou-zi-xin-pian-zhang/) - 2026-06-29 (#growth)
 - [新加坡设立未来金融研究院，加速金融创新规模化应用](https://fcvoyage.com/xin-jia-po-she-li-wei-lai-jin-rong-yan-jiu-yuan-jia-su-jin-rong-chuang-xin-gui-mo-hua-ying-yong/) - 2026-06-29 (#growth)
-- [摩根大通深化东南亚布局：任命双联席主管强化投行业务](https://t.me/c/4392427626/722) - 2026-06-29 (#dubai)
 <!-- END_POSTS -->
