@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中国电动汽车出海建厂潮：宏伟蓝图下的现实审视与未来展望](https://fcvoyage.com/zhong-guo-dian-dong-qi-che-chu-hai-jian-han-chao-hong-wei-lan-tu-xia-de-xian-shi-shen-shi-yu-wei-lai-zhan-wang/) - 2026-06-29 (#infrastructure)
 - [电动车电池回收的全球战略分歧：中西方路径与深层考量](https://fcvoyage.com/dian-dong-che-dian-chi-hui-shou-de-quan-qiu-zhan-lue-fen-qi-zhong-xi-fang-lu-jing-yu-shen-ceng-kao-liang/) - 2026-06-29 (#infrastructure)
 - [AI世界杯的幕后引擎：数千名数据工作者的无形支撑](https://fcvoyage.com/aishi-jie-bei-de-mu-hou-yin-qing-shu-qian-ming-shu-ju-gong-zuo-zhe-de-wu-xing-zhi-cheng/) - 2026-06-29 (#infrastructure)
 - [狮集团战略注资1200万美元，深化印尼稳定币及数字金融基础设施布局](https://fcvoyage.com/shi-ji-tuan-zhan-lue-zhu-zi-1200mo-mei-yuan-shen-hua-yin-ni-wen-ding-bi-ji-shu-zi-jin-rong-ji-chu-she-shi-bu-ju/) - 2026-06-29 (#growth)
@@ -33,5 +34,4 @@
 - [️ 阿联酋谴责伊朗再袭巴林科威特](https://t.me/c/4392427626/701) - 2026-06-28 (#dubai)
 - [中老边境反诈新进展：中国警方成功押解嫌犯回国](https://t.me/c/4392427626/700) - 2026-06-28 (#dubai)
 - [波贝突袭清查：逾80名印尼籍人员被盘查，涉诈手机被缴](https://t.me/c/4392427626/699) - 2026-06-28 (#dubai)
-- [马来西亚移民局突袭：吉隆坡M Vertica大厦展开严查](https://t.me/c/4392427626/698) - 2026-06-28 (#dubai)
 <!-- END_POSTS -->
