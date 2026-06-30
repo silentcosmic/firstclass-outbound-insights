@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [智能代理商务市场潜力洞察：2031年用户规模将达13亿，交易额或突破3.5万亿美元](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-shi-chang-qian-li-dong-cha-2031nian-yong-hu-gui-mo-jiang-da-13yi-jiao-yi-e-huo-tu-po-3-5mo-yi-mei-yuan/) - 2026-06-30 (#growth)
 - [新加坡金管局启动2026年全球金融科技加速营及SFF卓越奖评选](https://fcvoyage.com/xin-jia-po-jin-guan-ju-qi-dong-2026nian-quan-qiu-jin-rong-ke-ji-jia-su-ying-ji-sffzhuo-yue-jiang-ping-xuan/) - 2026-06-30 (#insights)
 - [洞悉新加坡比特币投资：2026年合规操作要点](https://fcvoyage.com/dong-xi-xin-jia-po-bi-te-bi-tou-zi-2026nian-he-gui-cao-zuo-yao-dian/) - 2026-06-30 (#insights)
 - [华为联手CP All：7-Eleven支付入驻可穿戴设备](https://t.me/c/4392427626/771) - 2026-06-30 (#dubai)
@@ -33,5 +34,4 @@
 - [美国退休老人加密杀猪盘：22万积蓄被骗](https://t.me/c/4392427626/747) - 2026-06-29 (#dubai)
 - [迪拜重金悬赏AI公园设计：重塑未来城市绿地](https://t.me/c/4392427626/746) - 2026-06-29 (#dubai)
 - [美伊停火协议达成，多哈将聚焦霍尔木兹海峡](https://t.me/c/4392427626/745) - 2026-06-29 (#dubai)
-- [金边森速区夜查：重点打击毒品枪支](https://t.me/c/4392427626/744) - 2026-06-29 (#dubai)
 <!-- END_POSTS -->
