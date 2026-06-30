@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜购房“一站式”居留服务：黄金签证直通售楼中心](https://t.me/c/4392427626/809) - 2026-07-01 (#dubai)
 - [以色列防长：以军已备好独立打击伊朗](https://t.me/c/4392427626/808) - 2026-07-01 (#dubai)
 - [迪拜百迪拉姆玩转一天：省钱攻略大公开！](https://t.me/c/4392427626/807) - 2026-07-01 (#dubai)
 - [柔佛新山移民局突袭：夜市商圈大规模抓捕行动](https://t.me/c/4392427626/806) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [37亿美元医保诈骗主犯落网：美国史上最大案之一](https://t.me/c/4392427626/782) - 2026-06-30 (#dubai)
 - [泰航空姐澳洲涉毒被捕：藏匿1.13公斤海洛因](https://t.me/c/4392427626/781) - 2026-06-30 (#dubai)
 - [深度解析 | AI浪潮下白领职场变革：AWS高管驳斥“末日论”](https://fcvoyage.com/shen-du-jie-xi-ailang-chao-xia-bai-ling-zhi-chang-bian-ge-awsgao-guan-bo-chi-mo-ri-lun/) - 2026-06-30 (#growth)
-- [全球产业瞭望 | 百度OCR模型技术突破；中国教育强国战略布局；美国养老金市场异动](https://fcvoyage.com/quan-qiu-chan-ye-liao-wang-bai-du-ocrmo-xing-ji-zhu-tu-po-zhong-guo-jiao-yu-qiang-guo-zhan-lue-bu-ju-mei-guo-yang-lao-jin-shi-chang-yi-dong/) - 2026-06-30 (#insights)
 <!-- END_POSTS -->
