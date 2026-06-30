@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [华为联手CP All：7-Eleven支付入驻可穿戴设备](https://t.me/c/4392427626/771) - 2026-06-30 (#dubai)
 - [华为携手泰国CP All，创新引领7-Eleven可穿戴支付体验](https://fcvoyage.com/hua-wei-xi-shou-tai-guo-cp-all-chuang-xin-yin-ling-7-elevenke-chuan-dai-zhi-fu-ti-yan/) - 2026-06-30 (#insights)
 - [奢享迪拜：阿联酋航空送JW万豪免费住宿](https://t.me/c/4392427626/769) - 2026-06-30 (#dubai)
 - [迪拜十年规划：体育经济规模将翻倍至183亿迪拉姆](https://t.me/c/4392427626/768) - 2026-06-30 (#dubai)
@@ -33,5 +34,4 @@
 - [金边森速区夜查：重点打击毒品枪支](https://t.me/c/4392427626/744) - 2026-06-29 (#dubai)
 - [马来西亚沙巴：涉灰产人员街头裸体扰序，恐遭遣返重罚](https://t.me/c/4392427626/743) - 2026-06-29 (#dubai)
 - [️ 缅甸帕安市酒店疑成诈骗团伙新据点](https://t.me/c/4392427626/742) - 2026-06-29 (#dubai)
-- [菲律宾“假菲籍”清查升级：老华侨理发途中被捕](https://t.me/c/4392427626/741) - 2026-06-29 (#dubai)
 <!-- END_POSTS -->
