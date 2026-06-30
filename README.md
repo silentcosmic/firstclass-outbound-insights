@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [37亿美元医保诈骗主犯落网：美国史上最大案之一](https://t.me/c/4392427626/782) - 2026-06-30 (#dubai)
 - [泰航空姐澳洲涉毒被捕：藏匿1.13公斤海洛因](https://t.me/c/4392427626/781) - 2026-06-30 (#dubai)
 - [深度解析 | AI浪潮下白领职场变革：AWS高管驳斥“末日论”](https://fcvoyage.com/shen-du-jie-xi-ailang-chao-xia-bai-ling-zhi-chang-bian-ge-awsgao-guan-bo-chi-mo-ri-lun/) - 2026-06-30 (#growth)
 - [全球产业瞭望 | 百度OCR模型技术突破；中国教育强国战略布局；美国养老金市场异动](https://fcvoyage.com/quan-qiu-chan-ye-liao-wang-bai-du-ocrmo-xing-ji-zhu-tu-po-zhong-guo-jiao-yu-qiang-guo-zhan-lue-bu-ju-mei-guo-yang-lao-jin-shi-chang-yi-dong/) - 2026-06-30 (#insights)
@@ -33,5 +34,4 @@
 - [马斯克私密聊天XChat登陆安卓，剑指隐私市场](https://t.me/c/4392427626/755) - 2026-06-30 (#dubai)
 - [️ 迪拜警示：国内股票盘模式，资金流转风险剧增！](https://t.me/c/4392427626/754) - 2026-06-30 (#dubai)
 - [️ 英国网红迪拜面临死刑指控：自卫杀人案引关注](https://t.me/c/4392427626/753) - 2026-06-30 (#dubai)
-- [迪拜政府夏季新政：员工可选四天工作制](https://t.me/c/4392427626/752) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
