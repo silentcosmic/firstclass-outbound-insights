@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜酋长发文祝贺摩洛哥队世界杯晋级](https://t.me/c/4392427626/800) - 2026-07-01 (#dubai)
 - [️ 缅甸诈骗园区逃离者泰被拘：受害者身份引争议](https://t.me/c/4392427626/799) - 2026-07-01 (#dubai)
 - [️ 柬埔寨：中使馆前维权行动受阻，抗议物遭没收](https://t.me/c/4392427626/798) - 2026-07-01 (#dubai)
 - [️ 警惕！AI换脸等新型色情诈骗套路席卷全国](https://t.me/c/4392427626/797) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [新加坡金管局启动2026年全球金融科技加速营及SFF卓越奖评选](https://fcvoyage.com/xin-jia-po-jin-guan-ju-qi-dong-2026nian-quan-qiu-jin-rong-ke-ji-jia-su-ying-ji-sffzhuo-yue-jiang-ping-xuan/) - 2026-06-30 (#insights)
 - [洞悉新加坡比特币投资：2026年合规操作要点](https://fcvoyage.com/dong-xi-xin-jia-po-bi-te-bi-tou-zi-2026nian-he-gui-cao-zuo-yao-dian/) - 2026-06-30 (#insights)
 - [华为联手CP All：7-Eleven支付入驻可穿戴设备](https://t.me/c/4392427626/771) - 2026-06-30 (#dubai)
-- [华为携手泰国CP All，创新引领7-Eleven可穿戴支付体验](https://fcvoyage.com/hua-wei-xi-shou-tai-guo-cp-all-chuang-xin-yin-ling-7-elevenke-chuan-dai-zhi-fu-ti-yan/) - 2026-06-30 (#insights)
 <!-- END_POSTS -->
