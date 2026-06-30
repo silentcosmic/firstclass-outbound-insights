@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柔佛新山移民局突袭：夜市商圈大规模抓捕行动](https://t.me/c/4392427626/806) - 2026-07-01 (#dubai)
 - [马来西亚三年逾16万宗网络诈骗案，近4.5万嫌犯落网](https://t.me/c/4392427626/805) - 2026-07-01 (#dubai)
 - [中老边境联手：严打网络诈骗深化执法合作](https://t.me/c/4392427626/804) - 2026-07-01 (#dubai)
 - [马达加斯加华人涉电信诈骗保护伞，勾结警方勒索巨款](https://t.me/c/4392427626/803) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [全球产业瞭望 | 百度OCR模型技术突破；中国教育强国战略布局；美国养老金市场异动](https://fcvoyage.com/quan-qiu-chan-ye-liao-wang-bai-du-ocrmo-xing-ji-zhu-tu-po-zhong-guo-jiao-yu-qiang-guo-zhan-lue-bu-ju-mei-guo-yang-lao-jin-shi-chang-yi-dong/) - 2026-06-30 (#insights)
 - [智能血糖管理市场风云再起：微泰医疗出海策略奏效，海外营收劲增227.2%](https://fcvoyage.com/zhi-neng-xie-tang-guan-li-shi-chang-feng-yun-zai-qi-wei-tai-yi-liao-chu-hai-ce-lue-zou-xiao-hai-wai-ying-shou-jing-zeng-227-2/) - 2026-06-30 (#insights)
 - [出海观察 | 智能穿戴新锐获数百万美元融资：URTOPIA联创团队指环众筹破千万](https://fcvoyage.com/chu-hai-guan-cha-zhi-neng-chuan-dai-xin-rui-huo-shu-bai-mo-mei-yuan-rong-zi-urtopialian-chuang-tuan-dui-zhi-huan-zhong-chou-po-qian-mo/) - 2026-06-30 (#insights)
-- [越南Vingroup旗下出行平台GSM注册资本翻番至20亿美元，业务版图显著扩张](https://fcvoyage.com/yue-nan-vingroupqi-xia-chu-xing-ping-tai-gsmzhu-ce-zi-ben-fan-fan-zhi-20yi-mei-yuan-ye-wu-ban-tu-xian-zhu-kuo-zhang/) - 2026-06-30 (#growth)
 <!-- END_POSTS -->
