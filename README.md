@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [深度解析 | AI浪潮下白领职场变革：AWS高管驳斥“末日论”](https://fcvoyage.com/shen-du-jie-xi-ailang-chao-xia-bai-ling-zhi-chang-bian-ge-awsgao-guan-bo-chi-mo-ri-lun/) - 2026-06-30 (#growth)
 - [全球产业瞭望 | 百度OCR模型技术突破；中国教育强国战略布局；美国养老金市场异动](https://fcvoyage.com/quan-qiu-chan-ye-liao-wang-bai-du-ocrmo-xing-ji-zhu-tu-po-zhong-guo-jiao-yu-qiang-guo-zhan-lue-bu-ju-mei-guo-yang-lao-jin-shi-chang-yi-dong/) - 2026-06-30 (#insights)
 - [智能血糖管理市场风云再起：微泰医疗出海策略奏效，海外营收劲增227.2%](https://fcvoyage.com/zhi-neng-xie-tang-guan-li-shi-chang-feng-yun-zai-qi-wei-tai-yi-liao-chu-hai-ce-lue-zou-xiao-hai-wai-ying-shou-jing-zeng-227-2/) - 2026-06-30 (#insights)
 - [出海观察 | 智能穿戴新锐获数百万美元融资：URTOPIA联创团队指环众筹破千万](https://fcvoyage.com/chu-hai-guan-cha-zhi-neng-chuan-dai-xin-rui-huo-shu-bai-mo-mei-yuan-rong-zi-urtopialian-chuang-tuan-dui-zhi-huan-zhong-chou-po-qian-mo/) - 2026-06-30 (#insights)
@@ -33,5 +34,4 @@
 - [️ 英国网红迪拜面临死刑指控：自卫杀人案引关注](https://t.me/c/4392427626/753) - 2026-06-30 (#dubai)
 - [迪拜政府夏季新政：员工可选四天工作制](https://t.me/c/4392427626/752) - 2026-06-30 (#dubai)
 - [百事泰国推“迪拜巧克力”可乐，口味大胆创新](https://t.me/c/4392427626/751) - 2026-06-30 (#dubai)
-- [上海婚介诈骗案：50元“演员”冒充相亲对象](https://t.me/c/4392427626/750) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
