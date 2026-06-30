@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海观察 | 智能穿戴新锐获数百万美元融资：URTOPIA联创团队指环众筹破千万](https://fcvoyage.com/chu-hai-guan-cha-zhi-neng-chuan-dai-xin-rui-huo-shu-bai-mo-mei-yuan-rong-zi-urtopialian-chuang-tuan-dui-zhi-huan-zhong-chou-po-qian-mo/) - 2026-06-30 (#insights)
 - [越南Vingroup旗下出行平台GSM注册资本翻番至20亿美元，业务版图显著扩张](https://fcvoyage.com/yue-nan-vingroupqi-xia-chu-xing-ping-tai-gsmzhu-ce-zi-ben-fan-fan-zhi-20yi-mei-yuan-ye-wu-ban-tu-xian-zhu-kuo-zhang/) - 2026-06-30 (#growth)
 - [爱普生东南亚区高管解析：新加坡工业机器人如何走向小型化与柔性化，驱动制造业升级](https://fcvoyage.com/ai-pu-sheng-dong-nan-ya-qu-gao-guan-jie-xi-xin-jia-po-gong-ye-ji-qi-ren-ru-he-zou-xiang-xiao-xing-hua-yu-rou-xing-hua-qu-dong-zhi-zao-ye-sheng-ji/) - 2026-06-30 (#growth)
 - [智能代理商务市场潜力洞察：2031年用户规模将达13亿，交易额或突破3.5万亿美元](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-shi-chang-qian-li-dong-cha-2031nian-yong-hu-gui-mo-jiang-da-13yi-jiao-yi-e-huo-tu-po-3-5mo-yi-mei-yuan/) - 2026-06-30 (#growth)
@@ -33,5 +34,4 @@
 - [上海婚介诈骗案：50元“演员”冒充相亲对象](https://t.me/c/4392427626/750) - 2026-06-30 (#dubai)
 - [印尼破获跨国“订购婚姻”团伙：3名中国籍嫌犯遭遣返](https://t.me/c/4392427626/749) - 2026-06-30 (#dubai)
 - [中柬重申：联手彻底根除电信诈骗](https://t.me/c/4392427626/748) - 2026-06-29 (#dubai)
-- [美国退休老人加密杀猪盘：22万积蓄被骗](https://t.me/c/4392427626/747) - 2026-06-29 (#dubai)
 <!-- END_POSTS -->
