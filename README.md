@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [币安赵长鹏与OKX徐明星：行业巨头再陷隔空论战](https://t.me/c/4392427626/802) - 2026-07-01 (#dubai)
 - [非洲最大炼油厂首购阿联酋原油，全球油市变局显现](https://t.me/c/4392427626/801) - 2026-07-01 (#dubai)
 - [迪拜酋长发文祝贺摩洛哥队世界杯晋级](https://t.me/c/4392427626/800) - 2026-07-01 (#dubai)
 - [️ 缅甸诈骗园区逃离者泰被拘：受害者身份引争议](https://t.me/c/4392427626/799) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [爱普生东南亚区高管解析：新加坡工业机器人如何走向小型化与柔性化，驱动制造业升级](https://fcvoyage.com/ai-pu-sheng-dong-nan-ya-qu-gao-guan-jie-xi-xin-jia-po-gong-ye-ji-qi-ren-ru-he-zou-xiang-xiao-xing-hua-yu-rou-xing-hua-qu-dong-zhi-zao-ye-sheng-ji/) - 2026-06-30 (#growth)
 - [智能代理商务市场潜力洞察：2031年用户规模将达13亿，交易额或突破3.5万亿美元](https://fcvoyage.com/zhi-neng-dai-li-shang-wu-shi-chang-qian-li-dong-cha-2031nian-yong-hu-gui-mo-jiang-da-13yi-jiao-yi-e-huo-tu-po-3-5mo-yi-mei-yuan/) - 2026-06-30 (#growth)
 - [新加坡金管局启动2026年全球金融科技加速营及SFF卓越奖评选](https://fcvoyage.com/xin-jia-po-jin-guan-ju-qi-dong-2026nian-quan-qiu-jin-rong-ke-ji-jia-su-ying-ji-sffzhuo-yue-jiang-ping-xuan/) - 2026-06-30 (#insights)
-- [洞悉新加坡比特币投资：2026年合规操作要点](https://fcvoyage.com/dong-xi-xin-jia-po-bi-te-bi-tou-zi-2026nian-he-gui-cao-zuo-yao-dian/) - 2026-06-30 (#insights)
 <!-- END_POSTS -->
