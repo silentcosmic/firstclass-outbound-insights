@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [东南亚商户操作系统Qashier完成612.5万美元A+轮融资，年交易额突破10亿美元并实现盈利](https://fcvoyage.com/dong-nan-ya-shang-hu-cao-zuo-xi-tong-qashierwan-cheng-612-5mo-mei-yuan-a-lun-rong-zi-nian-jiao-yi-e-tu-po-10yi-mei-yuan-bing-shi-xian-ying-li/) - 2026-07-01 (#insights)
 - [马来西亚数字银行：普惠金融实践与盈利之道——专访GXBank副首席执行官Hildah Hamzah](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-pu-hui-jin-rong-shi-jian-yu-ying-li-zhi-dao-zhuan-fang-gxbankfu-shou-xi-zhi-xing-guan-hildah-hamzah/) - 2026-07-01 (#insights)
 - [Amity获1亿美元D轮融资，新加坡设AI研发中心](https://t.me/c/4392427626/813) - 2026-07-01 (#dubai)
 - [Amity重金布局新加坡：东南亚AI研发中心揭幕，斩获1亿美元D轮融资](https://fcvoyage.com/amityzhong-jin-bu-ju-xin-jia-po-dong-nan-ya-aiyan-fa-zhong-xin-jie-mu-zhan-huo-1yi-mei-yuan-dlun-rong-zi/) - 2026-07-01 (#insights)
@@ -33,5 +34,4 @@
 - [️ 柬埔寨强烈抗议：泰国带外媒入奥斯马，主权争议再起](https://t.me/c/4392427626/788) - 2026-06-30 (#dubai)
 - [️ 金边法院重判：20名园区保安涉非法武装获刑](https://t.me/c/4392427626/787) - 2026-06-30 (#dubai)
 - [郭文贵被判30年监禁，巨额资产遭没收](https://t.me/c/4392427626/786) - 2026-06-30 (#dubai)
-- [WhatsApp阿联酋上线用户名：逐步开放预订](https://t.me/c/4392427626/785) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
