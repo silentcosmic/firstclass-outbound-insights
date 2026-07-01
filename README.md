@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [泰航空姐涉毒被捕，总理震怒损国格](https://t.me/c/4392427626/839) - 2026-07-01 (#dubai)
 - [️ 迪拜警方警示：低价旅游诈骗多发，谨防旅程泡汤](https://t.me/c/4392427626/838) - 2026-07-01 (#dubai)
 - [阿治曼登顶全球最安全城市，阿联酋四城包揽前四](https://t.me/c/4392427626/837) - 2026-07-01 (#dubai)
 - [泰国突查赌博窝点：月流水7000万泰铢](https://t.me/c/4392427626/836) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [Amity获1亿美元D轮融资，新加坡设AI研发中心](https://t.me/c/4392427626/813) - 2026-07-01 (#dubai)
 - [Amity重金布局新加坡：东南亚AI研发中心揭幕，斩获1亿美元D轮融资](https://fcvoyage.com/amityzhong-jin-bu-ju-xin-jia-po-dong-nan-ya-aiyan-fa-zhong-xin-jie-mu-zhan-huo-1yi-mei-yuan-dlun-rong-zi/) - 2026-07-01 (#insights)
 - [迪拜交通执法升级：告别“超速不罚”传闻](https://t.me/c/4392427626/811) - 2026-07-01 (#dubai)
-- [️ 迪拜雇佣纠纷警示：温超员工曝合同细节不符](https://t.me/c/4392427626/810) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
