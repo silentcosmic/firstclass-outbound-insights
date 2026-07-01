@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 迪拜机场夏季高峰预警：阿联酋航空呼吁乘客提前抵达](https://t.me/c/4392427626/823) - 2026-07-01 (#dubai)
 - [马来西亚擘画2030数字行动蓝图，驱动国家迈向AI强国目标](https://fcvoyage.com/ma-lai-xi-ya-bo-hua-2030shu-zi-xing-dong-lan-tu-qu-dong-guo-jia-mai-xiang-aiqiang-guo-mu-biao/) - 2026-07-01 (#growth)
 - [深度剖析海天味业：穿越周期，国内增长的极致与出海的战略远景](https://fcvoyage.com/shen-du-pou-xi-hai-tian-wei-ye-chuan-yue-zhou-qi-guo-nei-zeng-chang-de-ji-zhi-yu-chu-hai-de-zhan-lue-yuan-jing/) - 2026-07-01 (#insights)
 - [行业风向 | 丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光](https://fcvoyage.com/xing-ye-feng-xiang-gun-shi-shang-zui-yan-dian-chi-an-quan-ling-zheng-shi-shi-xing-ping-guo-da-liang-ji-mi-wen-jian-zao-xie-lu-openaishou-kuan-ying-jian-pu-guang/) - 2026-07-01 (#insights)
@@ -33,5 +34,4 @@
 - [️ 警惕！AI换脸等新型色情诈骗套路席卷全国](https://t.me/c/4392427626/797) - 2026-07-01 (#dubai)
 - [迪拜安全新证：警方高成本寄回被盗手机](https://t.me/c/4392427626/796) - 2026-06-30 (#dubai)
 - [️ 泰国母亲东京贩卖亲女：跨国人伦惨案终审判决](https://t.me/c/4392427626/795) - 2026-06-30 (#dubai)
-- [阿联酋脱离欧佩克后，石油出口量创历史新高](https://t.me/c/4392427626/794) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
