@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜夏季闪购启动：零售巨头携手重塑消费热潮](https://t.me/c/4392427626/840) - 2026-07-01 (#dubai)
 - [泰航空姐涉毒被捕，总理震怒损国格](https://t.me/c/4392427626/839) - 2026-07-01 (#dubai)
 - [️ 迪拜警方警示：低价旅游诈骗多发，谨防旅程泡汤](https://t.me/c/4392427626/838) - 2026-07-01 (#dubai)
 - [阿治曼登顶全球最安全城市，阿联酋四城包揽前四](https://t.me/c/4392427626/837) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [马来西亚数字银行：普惠金融实践与盈利之道——专访GXBank副首席执行官Hildah Hamzah](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-pu-hui-jin-rong-shi-jian-yu-ying-li-zhi-dao-zhuan-fang-gxbankfu-shou-xi-zhi-xing-guan-hildah-hamzah/) - 2026-07-01 (#insights)
 - [Amity获1亿美元D轮融资，新加坡设AI研发中心](https://t.me/c/4392427626/813) - 2026-07-01 (#dubai)
 - [Amity重金布局新加坡：东南亚AI研发中心揭幕，斩获1亿美元D轮融资](https://fcvoyage.com/amityzhong-jin-bu-ju-xin-jia-po-dong-nan-ya-aiyan-fa-zhong-xin-jie-mu-zhan-huo-1yi-mei-yuan-dlun-rong-zi/) - 2026-07-01 (#insights)
-- [迪拜交通执法升级：告别“超速不罚”传闻](https://t.me/c/4392427626/811) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
