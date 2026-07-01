@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [泰国成立特别行动部队，重拳打击边境犯罪](https://t.me/c/4392427626/851) - 2026-07-02 (#dubai)
 - [日本启用AI虚拟局长，聚焦青年群体反诈新策](https://t.me/c/4392427626/850) - 2026-07-02 (#dubai)
 - [迪拜天主教堂重开：经历三月限制后恢复正常运营](https://t.me/c/4392427626/849) - 2026-07-02 (#dubai)
 - [金马仑高原突查：诈骗“打野”团伙无处遁形](https://t.me/c/4392427626/848) - 2026-07-02 (#dubai)
@@ -33,5 +34,4 @@
 - [泰国突袭豪宅：中国籍赌博头目落网，涉案4亿泰铢](https://t.me/c/4392427626/824) - 2026-07-01 (#dubai)
 - [️ 迪拜机场夏季高峰预警：阿联酋航空呼吁乘客提前抵达](https://t.me/c/4392427626/823) - 2026-07-01 (#dubai)
 - [马来西亚擘画2030数字行动蓝图，驱动国家迈向AI强国目标](https://fcvoyage.com/ma-lai-xi-ya-bo-hua-2030shu-zi-xing-dong-lan-tu-qu-dong-guo-jia-mai-xiang-aiqiang-guo-mu-biao/) - 2026-07-01 (#growth)
-- [深度剖析海天味业：穿越周期，国内增长的极致与出海的战略远景](https://fcvoyage.com/shen-du-pou-xi-hai-tian-wei-ye-chuan-yue-zhou-qi-guo-nei-zeng-chang-de-ji-zhi-yu-chu-hai-de-zhan-lue-yuan-jing/) - 2026-07-01 (#insights)
 <!-- END_POSTS -->
