@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光](https://fcvoyage.com/xing-ye-feng-xiang-gun-shi-shang-zui-yan-dian-chi-an-quan-ling-zheng-shi-shi-xing-ping-guo-da-liang-ji-mi-wen-jian-zao-xie-lu-openaishou-kuan-ying-jian-pu-guang/) - 2026-07-01 (#insights)
 - [全球产业洞察 | Kimi估值跃升至315亿美元，ARR突破3亿美元；优艾智合全球首发具身智能新品，目标赋能万个工业现场](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-kimigu-zhi-yue-sheng-zhi-315yi-mei-yuan-arrtu-po-3yi-mei-yuan-you-ai-zhi-he-quan-qiu-shou-fa-ju-shen-zhi-neng-xin-pin-mu-biao-fu-neng-mo-ge-gong-ye-xian-chang/) - 2026-07-01 (#insights)
 - [具身智能新突破：前自动驾驶与机器人专家创立纽娲机器人，获数千万天使轮融资，打造“世界通行模型”](https://fcvoyage.com/ju-shen-zhi-neng-xin-tu-po-qian-zi-dong-jia-shi-yu-ji-qi-ren-zhuan-jia-chuang-li-niu-wa-ji-qi-ren-huo-shu-qian-mo-tian-shi-lun-rong-zi-da-zao-shi-jie-tong-xing-mo-xing/) - 2026-07-01 (#insights)
 - [Tata Communications斥资1.52亿美元拓展印新数字走廊，赋能AI与数据互联](https://fcvoyage.com/tata-communicationschi-zi-1-52yi-mei-yuan-tuo-zhan-yin-xin-shu-zi-zou-lang-fu-neng-aiyu-shu-ju-hu-lian/) - 2026-07-01 (#growth)
@@ -33,5 +34,4 @@
 - [阿联酋脱离欧佩克后，石油出口量创历史新高](https://t.me/c/4392427626/794) - 2026-06-30 (#dubai)
 - [阿联酋汽油价格下调：车主每月可省200迪拉姆](https://t.me/c/4392427626/793) - 2026-06-30 (#dubai)
 - [️ 韩红道歉：经济下行期舆论压力的“安全出口”](https://t.me/c/4392427626/792) - 2026-06-30 (#dubai)
-- [阿联酋首条客运铁路试运营，中企参与共建](https://t.me/c/4392427626/791) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
