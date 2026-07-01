@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨与斯里兰卡：出海生活方式的深度考量](https://t.me/c/4392427626/845) - 2026-07-02 (#dubai)
 - [沙迦停车新规：付费时间统一延长至午夜！](https://t.me/c/4392427626/844) - 2026-07-02 (#dubai)
 - [️ 越南河内住宿新规：企业罚金翻倍，最高4000万盾](https://t.me/c/4392427626/843) - 2026-07-02 (#dubai)
 - [️ 洪森警示世界杯赌球风险：球迷输到“怀疑人生”](https://t.me/c/4392427626/842) - 2026-07-02 (#dubai)
@@ -33,5 +34,4 @@
 - [具身智能新突破：前自动驾驶与机器人专家创立纽娲机器人，获数千万天使轮融资，打造“世界通行模型”](https://fcvoyage.com/ju-shen-zhi-neng-xin-tu-po-qian-zi-dong-jia-shi-yu-ji-qi-ren-zhuan-jia-chuang-li-niu-wa-ji-qi-ren-huo-shu-qian-mo-tian-shi-lun-rong-zi-da-zao-shi-jie-tong-xing-mo-xing/) - 2026-07-01 (#insights)
 - [Tata Communications斥资1.52亿美元拓展印新数字走廊，赋能AI与数据互联](https://fcvoyage.com/tata-communicationschi-zi-1-52yi-mei-yuan-tuo-zhan-yin-xin-shu-zi-zou-lang-fu-neng-aiyu-shu-ju-hu-lian/) - 2026-07-01 (#growth)
 - [英伟达擘划河内研发中心新愿景：剑指全球顶尖AI工程枢纽](https://fcvoyage.com/ying-wei-da-bo-hua-he-nei-yan-fa-zhong-xin-xin-yuan-jing-jian-zhi-quan-qiu-ding-jian-aigong-cheng-shu-niu/) - 2026-07-01 (#growth)
-- [印尼政商界震动：Gojek创始人兼前部长纳迪姆·马卡里姆贪污罪名成立](https://fcvoyage.com/yin-ni-zheng-shang-jie-zhen-dong-gojekchuang-shi-ren-jian-qian-bu-chang-na-di-mu-ma-qia-li-mu-tan-wu-zui-ming-cheng-li/) - 2026-07-01 (#growth)
 <!-- END_POSTS -->
