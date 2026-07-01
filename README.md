@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [具身智能新突破：前自动驾驶与机器人专家创立纽娲机器人，获数千万天使轮融资，打造“世界通行模型”](https://fcvoyage.com/ju-shen-zhi-neng-xin-tu-po-qian-zi-dong-jia-shi-yu-ji-qi-ren-zhuan-jia-chuang-li-niu-wa-ji-qi-ren-huo-shu-qian-mo-tian-shi-lun-rong-zi-da-zao-shi-jie-tong-xing-mo-xing/) - 2026-07-01 (#insights)
 - [Tata Communications斥资1.52亿美元拓展印新数字走廊，赋能AI与数据互联](https://fcvoyage.com/tata-communicationschi-zi-1-52yi-mei-yuan-tuo-zhan-yin-xin-shu-zi-zou-lang-fu-neng-aiyu-shu-ju-hu-lian/) - 2026-07-01 (#growth)
 - [英伟达擘划河内研发中心新愿景：剑指全球顶尖AI工程枢纽](https://fcvoyage.com/ying-wei-da-bo-hua-he-nei-yan-fa-zhong-xin-xin-yuan-jing-jian-zhi-quan-qiu-ding-jian-aigong-cheng-shu-niu/) - 2026-07-01 (#growth)
 - [印尼政商界震动：Gojek创始人兼前部长纳迪姆·马卡里姆贪污罪名成立](https://fcvoyage.com/yin-ni-zheng-shang-jie-zhen-dong-gojekchuang-shi-ren-jian-qian-bu-chang-na-di-mu-ma-qia-li-mu-tan-wu-zui-ming-cheng-li/) - 2026-07-01 (#growth)
@@ -33,5 +34,4 @@
 - [️ 韩红道歉：经济下行期舆论压力的“安全出口”](https://t.me/c/4392427626/792) - 2026-06-30 (#dubai)
 - [阿联酋首条客运铁路试运营，中企参与共建](https://t.me/c/4392427626/791) - 2026-06-30 (#dubai)
 - [️ 金边永旺诈骗警示：警惕“落难同胞”利用善心设局](https://t.me/c/4392427626/790) - 2026-06-30 (#dubai)
-- [柬越老三国联手：常驻机制剑指网络诈骗与跨境犯罪](https://t.me/c/4392427626/789) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
