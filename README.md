@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [金马仑高原突查：诈骗“打野”团伙无处遁形](https://t.me/c/4392427626/848) - 2026-07-02 (#dubai)
 - [中企承建阿联酋输油大动脉开工，再创里程碑](https://t.me/c/4392427626/847) - 2026-07-02 (#dubai)
 - [吉隆坡突发：不明场所遭突查，多人脱逃](https://t.me/c/4392427626/846) - 2026-07-02 (#dubai)
 - [柬埔寨与斯里兰卡：出海生活方式的深度考量](https://t.me/c/4392427626/845) - 2026-07-02 (#dubai)
@@ -33,5 +34,4 @@
 - [深度剖析海天味业：穿越周期，国内增长的极致与出海的战略远景](https://fcvoyage.com/shen-du-pou-xi-hai-tian-wei-ye-chuan-yue-zhou-qi-guo-nei-zeng-chang-de-ji-zhi-yu-chu-hai-de-zhan-lue-yuan-jing/) - 2026-07-01 (#insights)
 - [行业风向 | 丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光](https://fcvoyage.com/xing-ye-feng-xiang-gun-shi-shang-zui-yan-dian-chi-an-quan-ling-zheng-shi-shi-xing-ping-guo-da-liang-ji-mi-wen-jian-zao-xie-lu-openaishou-kuan-ying-jian-pu-guang/) - 2026-07-01 (#insights)
 - [全球产业洞察 | Kimi估值跃升至315亿美元，ARR突破3亿美元；优艾智合全球首发具身智能新品，目标赋能万个工业现场](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-kimigu-zhi-yue-sheng-zhi-315yi-mei-yuan-arrtu-po-3yi-mei-yuan-you-ai-zhi-he-quan-qiu-shou-fa-ju-shen-zhi-neng-xin-pin-mu-biao-fu-neng-mo-ge-gong-ye-xian-chang/) - 2026-07-01 (#insights)
-- [具身智能新突破：前自动驾驶与机器人专家创立纽娲机器人，获数千万天使轮融资，打造“世界通行模型”](https://fcvoyage.com/ju-shen-zhi-neng-xin-tu-po-qian-zi-dong-jia-shi-yu-ji-qi-ren-zhuan-jia-chuang-li-niu-wa-ji-qi-ren-huo-shu-qian-mo-tian-shi-lun-rong-zi-da-zao-shi-jie-tong-xing-mo-xing/) - 2026-07-01 (#insights)
 <!-- END_POSTS -->
