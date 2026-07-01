@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚数字银行：普惠金融实践与盈利之道——专访GXBank副首席执行官Hildah Hamzah](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-pu-hui-jin-rong-shi-jian-yu-ying-li-zhi-dao-zhuan-fang-gxbankfu-shou-xi-zhi-xing-guan-hildah-hamzah/) - 2026-07-01 (#insights)
 - [Amity获1亿美元D轮融资，新加坡设AI研发中心](https://t.me/c/4392427626/813) - 2026-07-01 (#dubai)
 - [Amity重金布局新加坡：东南亚AI研发中心揭幕，斩获1亿美元D轮融资](https://fcvoyage.com/amityzhong-jin-bu-ju-xin-jia-po-dong-nan-ya-aiyan-fa-zhong-xin-jie-mu-zhan-huo-1yi-mei-yuan-dlun-rong-zi/) - 2026-07-01 (#insights)
 - [迪拜交通执法升级：告别“超速不罚”传闻](https://t.me/c/4392427626/811) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 金边法院重判：20名园区保安涉非法武装获刑](https://t.me/c/4392427626/787) - 2026-06-30 (#dubai)
 - [郭文贵被判30年监禁，巨额资产遭没收](https://t.me/c/4392427626/786) - 2026-06-30 (#dubai)
 - [WhatsApp阿联酋上线用户名：逐步开放预订](https://t.me/c/4392427626/785) - 2026-06-30 (#dubai)
-- [武汉破获1600万“电费刷单”洗钱案，4人被捕](https://t.me/c/4392427626/784) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
