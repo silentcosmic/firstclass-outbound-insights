@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [英伟达擘划河内研发中心新愿景：剑指全球顶尖AI工程枢纽](https://fcvoyage.com/ying-wei-da-bo-hua-he-nei-yan-fa-zhong-xin-xin-yuan-jing-jian-zhi-quan-qiu-ding-jian-aigong-cheng-shu-niu/) - 2026-07-01 (#growth)
 - [印尼政商界震动：Gojek创始人兼前部长纳迪姆·马卡里姆贪污罪名成立](https://fcvoyage.com/yin-ni-zheng-shang-jie-zhen-dong-gojekchuang-shi-ren-jian-qian-bu-chang-na-di-mu-ma-qia-li-mu-tan-wu-zui-ming-cheng-li/) - 2026-07-01 (#growth)
 - [东南亚商户操作系统Qashier完成612.5万美元A+轮融资，年交易额突破10亿美元并实现盈利](https://fcvoyage.com/dong-nan-ya-shang-hu-cao-zuo-xi-tong-qashierwan-cheng-612-5mo-mei-yuan-a-lun-rong-zi-nian-jiao-yi-e-tu-po-10yi-mei-yuan-bing-shi-xian-ying-li/) - 2026-07-01 (#insights)
 - [马来西亚数字银行：普惠金融实践与盈利之道——专访GXBank副首席执行官Hildah Hamzah](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-pu-hui-jin-rong-shi-jian-yu-ying-li-zhi-dao-zhuan-fang-gxbankfu-shou-xi-zhi-xing-guan-hildah-hamzah/) - 2026-07-01 (#insights)
@@ -33,5 +34,4 @@
 - [️ 金边永旺诈骗警示：警惕“落难同胞”利用善心设局](https://t.me/c/4392427626/790) - 2026-06-30 (#dubai)
 - [柬越老三国联手：常驻机制剑指网络诈骗与跨境犯罪](https://t.me/c/4392427626/789) - 2026-06-30 (#dubai)
 - [️ 柬埔寨强烈抗议：泰国带外媒入奥斯马，主权争议再起](https://t.me/c/4392427626/788) - 2026-06-30 (#dubai)
-- [️ 金边法院重判：20名园区保安涉非法武装获刑](https://t.me/c/4392427626/787) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
