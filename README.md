@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Amity重金布局新加坡：东南亚AI研发中心揭幕，斩获1亿美元D轮融资](https://fcvoyage.com/amityzhong-jin-bu-ju-xin-jia-po-dong-nan-ya-aiyan-fa-zhong-xin-jie-mu-zhan-huo-1yi-mei-yuan-dlun-rong-zi/) - 2026-07-01 (#insights)
 - [迪拜交通执法升级：告别“超速不罚”传闻](https://t.me/c/4392427626/811) - 2026-07-01 (#dubai)
 - [️ 迪拜雇佣纠纷警示：温超员工曝合同细节不符](https://t.me/c/4392427626/810) - 2026-07-01 (#dubai)
 - [迪拜购房“一站式”居留服务：黄金签证直通售楼中心](https://t.me/c/4392427626/809) - 2026-07-01 (#dubai)
@@ -33,5 +34,4 @@
 - [WhatsApp阿联酋上线用户名：逐步开放预订](https://t.me/c/4392427626/785) - 2026-06-30 (#dubai)
 - [武汉破获1600万“电费刷单”洗钱案，4人被捕](https://t.me/c/4392427626/784) - 2026-06-30 (#dubai)
 - [WhatsApp重磅升级：用户名取代手机号，全球可抢注](https://t.me/c/4392427626/783) - 2026-06-30 (#dubai)
-- [37亿美元医保诈骗主犯落网：美国史上最大案之一](https://t.me/c/4392427626/782) - 2026-06-30 (#dubai)
 <!-- END_POSTS -->
