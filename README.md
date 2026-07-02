@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚电信业：超越合规，构筑数字韧性新高地](https://fcvoyage.com/ma-lai-xi-ya-dian-xin-ye-chao-yue-he-gui-gou-zhu-shu-zi-ren-xing-xin-gao-di/) - 2026-07-02 (#growth)
 - [大华银行斥资4.5亿美元在胡志明市兴建越南总部，深耕东南亚核心市场](https://fcvoyage.com/da-hua-yin-xing-chi-zi-4-5yi-mei-yuan-zai-hu-zhi-ming-shi-xing-jian-yue-nan-zong-bu-shen-geng-dong-nan-ya-he-xin-shi-chang/) - 2026-07-02 (#insights)
 - [出海观察：越南信贷评分金融科技Trusting Social母公司2025年净亏8750万美元](https://fcvoyage.com/chu-hai-guan-cha-yue-nan-xin-dai-ping-fen-jin-rong-ke-ji-trusting-socialmu-gong-si-2025nian-jing-yu-8750mo-mei-yuan/) - 2026-07-02 (#insights)
 - [百家巨头联手：Visa、Stripe共建开放美元稳定币新生态](https://t.me/c/4392427626/859) - 2026-07-02 (#dubai)
@@ -33,5 +34,4 @@
 - [印尼破获人口走私案：7名中国公民涉嫌偷渡澳洲被拘](https://t.me/c/4392427626/835) - 2026-07-01 (#dubai)
 - [️ 4名中国公民逃离柬埔寨诈骗园区后在马被捕](https://t.me/c/4392427626/834) - 2026-07-01 (#dubai)
 - [中老边境执法升级：严打电信诈骗与偷渡](https://t.me/c/4392427626/833) - 2026-07-01 (#dubai)
-- [迪拜珠宝商以900颗钻石重塑世界杯奖杯，彰显创意精神](https://t.me/c/4392427626/832) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
