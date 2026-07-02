@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [越南G-Group重磅投资3亿美元，河内将迎AI数据中心综合体](https://fcvoyage.com/yue-nan-g-groupzhong-bang-tou-zi-3yi-mei-yuan-he-nei-jiang-ying-aishu-ju-zhong-xin-zong-he-ti/) - 2026-07-02 (#growth)
 - [人工智能、能源与安全：全球战略投资新浪潮的核心驱动力](https://fcvoyage.com/ren-gong-zhi-neng-neng-yuan-yu-an-quan-quan-qiu-zhan-lue-tou-zi-xin-lang-chao-de-he-xin-qu-dong-li/) - 2026-07-02 (#growth)
 - [马来西亚电信业：超越合规，构筑数字韧性新高地](https://fcvoyage.com/ma-lai-xi-ya-dian-xin-ye-chao-yue-he-gui-gou-zhu-shu-zi-ren-xing-xin-gao-di/) - 2026-07-02 (#growth)
 - [大华银行斥资4.5亿美元在胡志明市兴建越南总部，深耕东南亚核心市场](https://fcvoyage.com/da-hua-yin-xing-chi-zi-4-5yi-mei-yuan-zai-hu-zhi-ming-shi-xing-jian-yue-nan-zong-bu-shen-geng-dong-nan-ya-he-xin-shi-chang/) - 2026-07-02 (#insights)
@@ -33,5 +34,4 @@
 - [阿治曼登顶全球最安全城市，阿联酋四城包揽前四](https://t.me/c/4392427626/837) - 2026-07-01 (#dubai)
 - [泰国突查赌博窝点：月流水7000万泰铢](https://t.me/c/4392427626/836) - 2026-07-01 (#dubai)
 - [印尼破获人口走私案：7名中国公民涉嫌偷渡澳洲被拘](https://t.me/c/4392427626/835) - 2026-07-01 (#dubai)
-- [️ 4名中国公民逃离柬埔寨诈骗园区后在马被捕](https://t.me/c/4392427626/834) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
