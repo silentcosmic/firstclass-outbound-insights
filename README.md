@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [智能视觉创新突破：众见科技获数千万融资，韶音、高秉强等巨头布局智能变焦眼镜赛道](https://fcvoyage.com/zhi-neng-shi-jue-chuang-xin-tu-po-zhong-jian-ke-ji-huo-shu-qian-mo-rong-zi-shao-yin-gao-bing-qiang-deng-ju-tou-bu-ju-zhi-neng-bian-jiao-yan-jing-sai-dao/) - 2026-07-02 (#insights)
 - [AI赋能宠物科技：宠爱友家双轨并进智能硬件与功能食品市场](https://fcvoyage.com/aifu-neng-chong-wu-ke-ji-chong-ai-you-jia-shuang-gui-bing-jin-zhi-neng-ying-jian-yu-gong-neng-shi-pin-shi-chang/) - 2026-07-02 (#insights)
 - [行业风向 | AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮](https://fcvoyage.com/xing-ye-feng-xiang-aijin-tou-de-zhong-ji-neng-yuan-zhi-zhan-he-ju-bian-bai-yi-gu-zhi-shen-hua-yu-tou-zi-kuang-chao/) - 2026-07-02 (#insights)
 - [越南G-Group重磅投资3亿美元，河内将迎AI数据中心综合体](https://fcvoyage.com/yue-nan-g-groupzhong-bang-tou-zi-3yi-mei-yuan-he-nei-jiang-ying-aishu-ju-zhong-xin-zong-he-ti/) - 2026-07-02 (#growth)
@@ -33,5 +34,4 @@
 - [迪拜夏季闪购启动：零售巨头携手重塑消费热潮](https://t.me/c/4392427626/840) - 2026-07-01 (#dubai)
 - [泰航空姐涉毒被捕，总理震怒损国格](https://t.me/c/4392427626/839) - 2026-07-01 (#dubai)
 - [️ 迪拜警方警示：低价旅游诈骗多发，谨防旅程泡汤](https://t.me/c/4392427626/838) - 2026-07-01 (#dubai)
-- [阿治曼登顶全球最安全城市，阿联酋四城包揽前四](https://t.me/c/4392427626/837) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
