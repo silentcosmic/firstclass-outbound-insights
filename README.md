@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [米高梅迪拜度假村：官宣2028年Q3开业](https://t.me/c/4392427626/898) - 2026-07-03 (#dubai)
 - [阿联酋彩票再出巨奖：得主身份引印度裔猜测](https://t.me/c/4392427626/897) - 2026-07-03 (#dubai)
 - [扎耶德机场客流破9.3万：夏季出行需求旺盛](https://t.me/c/4392427626/896) - 2026-07-03 (#dubai)
 - [️ 河内住宿新规：企业未申报外国人罚款翻倍！](https://t.me/c/4392427626/895) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 柬埔寨电诈园区：中国男子逃离西港再陷波贝](https://t.me/c/4392427626/871) - 2026-07-02 (#dubai)
 - [人工智能在创意设计领域的局限性：一位科技领军企业高管的深度洞察](https://fcvoyage.com/ren-gong-zhi-neng-zai-chuang-yi-she-ji-ling-yu-de-ju-xian-xing-yi-wei-ke-ji-ling-jun-qi-ye-gao-guan-de-shen-du-dong-cha/) - 2026-07-02 (#growth)
 - [算力竞逐：阿里云如何重塑全球AI基础设施版图](https://fcvoyage.com/suan-li-jing-zhu-a-li-yun-ru-he-zhong-su-quan-qiu-aiji-chu-she-shi-ban-tu/) - 2026-07-02 (#insights)
-- [深度解读：5亿月活的印度流媒体巨头JioHotstar，如何通过短剧战略引领内容市场新风向？](https://fcvoyage.com/shen-du-jie-du-5yi-yue-huo-de-yin-du-liu-mei-ti-ju-tou-jiohotstar-ru-he-tong-guo-duan-ju-zhan-lue-yin-ling-nei-rong-shi-chang-xin-feng-xiang/) - 2026-07-02 (#insights)
 <!-- END_POSTS -->
