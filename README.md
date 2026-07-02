@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [沙迦出台经济刺激：民防罚款减免50%](https://t.me/c/4392427626/893) - 2026-07-03 (#dubai)
 - [沙迦酋长87岁寿辰：家族传承彰显文化领导力](https://t.me/c/4392427626/892) - 2026-07-03 (#dubai)
 - [️ 阿联酋航空再升级：宝格丽定制洗漱包引领奢华飞行](https://t.me/c/4392427626/891) - 2026-07-03 (#dubai)
 - [阿联酋首只零售伊斯兰债券认购火爆，发行量翻倍](https://t.me/c/4392427626/890) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [AI赋能宠物科技：宠爱友家双轨并进智能硬件与功能食品市场](https://fcvoyage.com/aifu-neng-chong-wu-ke-ji-chong-ai-you-jia-shuang-gui-bing-jin-zhi-neng-ying-jian-yu-gong-neng-shi-pin-shi-chang/) - 2026-07-02 (#insights)
 - [行业风向 | AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮](https://fcvoyage.com/xing-ye-feng-xiang-aijin-tou-de-zhong-ji-neng-yuan-zhi-zhan-he-ju-bian-bai-yi-gu-zhi-shen-hua-yu-tou-zi-kuang-chao/) - 2026-07-02 (#insights)
 - [越南G-Group重磅投资3亿美元，河内将迎AI数据中心综合体](https://fcvoyage.com/yue-nan-g-groupzhong-bang-tou-zi-3yi-mei-yuan-he-nei-jiang-ying-aishu-ju-zhong-xin-zong-he-ti/) - 2026-07-02 (#growth)
-- [人工智能、能源与安全：全球战略投资新浪潮的核心驱动力](https://fcvoyage.com/ren-gong-zhi-neng-neng-yuan-yu-an-quan-quan-qiu-zhan-lue-tou-zi-xin-lang-chao-de-he-xin-qu-dong-li/) - 2026-07-02 (#growth)
 <!-- END_POSTS -->
