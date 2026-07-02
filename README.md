@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Telegram运营新利器：官方文档与实用工具集结](https://t.me/c/4392427626/894) - 2026-07-03 (#dubai)
 - [沙迦出台经济刺激：民防罚款减免50%](https://t.me/c/4392427626/893) - 2026-07-03 (#dubai)
 - [沙迦酋长87岁寿辰：家族传承彰显文化领导力](https://t.me/c/4392427626/892) - 2026-07-03 (#dubai)
 - [️ 阿联酋航空再升级：宝格丽定制洗漱包引领奢华飞行](https://t.me/c/4392427626/891) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [智能视觉创新突破：众见科技获数千万融资，韶音、高秉强等巨头布局智能变焦眼镜赛道](https://fcvoyage.com/zhi-neng-shi-jue-chuang-xin-tu-po-zhong-jian-ke-ji-huo-shu-qian-mo-rong-zi-shao-yin-gao-bing-qiang-deng-ju-tou-bu-ju-zhi-neng-bian-jiao-yan-jing-sai-dao/) - 2026-07-02 (#insights)
 - [AI赋能宠物科技：宠爱友家双轨并进智能硬件与功能食品市场](https://fcvoyage.com/aifu-neng-chong-wu-ke-ji-chong-ai-you-jia-shuang-gui-bing-jin-zhi-neng-ying-jian-yu-gong-neng-shi-pin-shi-chang/) - 2026-07-02 (#insights)
 - [行业风向 | AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮](https://fcvoyage.com/xing-ye-feng-xiang-aijin-tou-de-zhong-ji-neng-yuan-zhi-zhan-he-ju-bian-bai-yi-gu-zhi-shen-hua-yu-tou-zi-kuang-chao/) - 2026-07-02 (#insights)
-- [越南G-Group重磅投资3亿美元，河内将迎AI数据中心综合体](https://fcvoyage.com/yue-nan-g-groupzhong-bang-tou-zi-3yi-mei-yuan-he-nei-jiang-ying-aishu-ju-zhong-xin-zong-he-ti/) - 2026-07-02 (#growth)
 <!-- END_POSTS -->
