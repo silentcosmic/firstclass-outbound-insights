@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [深度解读：5亿月活的印度流媒体巨头JioHotstar，如何通过短剧战略引领内容市场新风向？](https://fcvoyage.com/shen-du-jie-du-5yi-yue-huo-de-yin-du-liu-mei-ti-ju-tou-jiohotstar-ru-he-tong-guo-duan-ju-zhan-lue-yin-ling-nei-rong-shi-chang-xin-feng-xiang/) - 2026-07-02 (#insights)
 - [智能视觉创新突破：众见科技获数千万融资，韶音、高秉强等巨头布局智能变焦眼镜赛道](https://fcvoyage.com/zhi-neng-shi-jue-chuang-xin-tu-po-zhong-jian-ke-ji-huo-shu-qian-mo-rong-zi-shao-yin-gao-bing-qiang-deng-ju-tou-bu-ju-zhi-neng-bian-jiao-yan-jing-sai-dao/) - 2026-07-02 (#insights)
 - [AI赋能宠物科技：宠爱友家双轨并进智能硬件与功能食品市场](https://fcvoyage.com/aifu-neng-chong-wu-ke-ji-chong-ai-you-jia-shuang-gui-bing-jin-zhi-neng-ying-jian-yu-gong-neng-shi-pin-shi-chang/) - 2026-07-02 (#insights)
 - [行业风向 | AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮](https://fcvoyage.com/xing-ye-feng-xiang-aijin-tou-de-zhong-ji-neng-yuan-zhi-zhan-he-ju-bian-bai-yi-gu-zhi-shen-hua-yu-tou-zi-kuang-chao/) - 2026-07-02 (#insights)
@@ -33,5 +34,4 @@
 - [迪拜免税店同日双响炮：两印籍侨民各揽百万美元](https://t.me/c/4392427626/841) - 2026-07-02 (#dubai)
 - [迪拜夏季闪购启动：零售巨头携手重塑消费热潮](https://t.me/c/4392427626/840) - 2026-07-01 (#dubai)
 - [泰航空姐涉毒被捕，总理震怒损国格](https://t.me/c/4392427626/839) - 2026-07-01 (#dubai)
-- [️ 迪拜警方警示：低价旅游诈骗多发，谨防旅程泡汤](https://t.me/c/4392427626/838) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
