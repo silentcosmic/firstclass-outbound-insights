@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海观察：越南信贷评分金融科技Trusting Social母公司2025年净亏8750万美元](https://fcvoyage.com/chu-hai-guan-cha-yue-nan-xin-dai-ping-fen-jin-rong-ke-ji-trusting-socialmu-gong-si-2025nian-jing-yu-8750mo-mei-yuan/) - 2026-07-02 (#insights)
 - [百家巨头联手：Visa、Stripe共建开放美元稳定币新生态](https://t.me/c/4392427626/859) - 2026-07-02 (#dubai)
 - [Visa、Stripe等逾百家巨头联袂，共建开放美元稳定币新生态](https://fcvoyage.com/visa-stripedeng-yu-bai-jia-ju-tou-lian-mei-gong-jian-kai-fang-mei-yuan-wen-ding-bi-xin-sheng-tai/) - 2026-07-02 (#insights)
 - [移动广告聚合策略深度解析：赋能出海应用高效变现的关键考量](https://fcvoyage.com/yi-dong-yan-gao-ju-he-ce-lue-shen-du-jie-xi-fu-neng-chu-hai-ying-yong-gao-xiao-bian-xian-de-guan-jian-kao-liang/) - 2026-07-02 (#growth)
@@ -33,5 +34,4 @@
 - [中老边境执法升级：严打电信诈骗与偷渡](https://t.me/c/4392427626/833) - 2026-07-01 (#dubai)
 - [迪拜珠宝商以900颗钻石重塑世界杯奖杯，彰显创意精神](https://t.me/c/4392427626/832) - 2026-07-01 (#dubai)
 - [️ 阿联酋签证宽限期收紧：7月9日是最后期限](https://t.me/c/4392427626/831) - 2026-07-01 (#dubai)
-- [iPhone 18涨价传闻：阿联酋旧款手机也跟涨！](https://t.me/c/4392427626/830) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
