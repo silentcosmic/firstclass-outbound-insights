@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮](https://fcvoyage.com/xing-ye-feng-xiang-aijin-tou-de-zhong-ji-neng-yuan-zhi-zhan-he-ju-bian-bai-yi-gu-zhi-shen-hua-yu-tou-zi-kuang-chao/) - 2026-07-02 (#insights)
 - [越南G-Group重磅投资3亿美元，河内将迎AI数据中心综合体](https://fcvoyage.com/yue-nan-g-groupzhong-bang-tou-zi-3yi-mei-yuan-he-nei-jiang-ying-aishu-ju-zhong-xin-zong-he-ti/) - 2026-07-02 (#growth)
 - [人工智能、能源与安全：全球战略投资新浪潮的核心驱动力](https://fcvoyage.com/ren-gong-zhi-neng-neng-yuan-yu-an-quan-quan-qiu-zhan-lue-tou-zi-xin-lang-chao-de-he-xin-qu-dong-li/) - 2026-07-02 (#growth)
 - [马来西亚电信业：超越合规，构筑数字韧性新高地](https://fcvoyage.com/ma-lai-xi-ya-dian-xin-ye-chao-yue-he-gui-gou-zhu-shu-zi-ren-xing-xin-gao-di/) - 2026-07-02 (#growth)
@@ -33,5 +34,4 @@
 - [️ 迪拜警方警示：低价旅游诈骗多发，谨防旅程泡汤](https://t.me/c/4392427626/838) - 2026-07-01 (#dubai)
 - [阿治曼登顶全球最安全城市，阿联酋四城包揽前四](https://t.me/c/4392427626/837) - 2026-07-01 (#dubai)
 - [泰国突查赌博窝点：月流水7000万泰铢](https://t.me/c/4392427626/836) - 2026-07-01 (#dubai)
-- [印尼破获人口走私案：7名中国公民涉嫌偷渡澳洲被拘](https://t.me/c/4392427626/835) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
