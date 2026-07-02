@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [人工智能在创意设计领域的局限性：一位科技领军企业高管的深度洞察](https://fcvoyage.com/ren-gong-zhi-neng-zai-chuang-yi-she-ji-ling-yu-de-ju-xian-xing-yi-wei-ke-ji-ling-jun-qi-ye-gao-guan-de-shen-du-dong-cha/) - 2026-07-02 (#growth)
 - [算力竞逐：阿里云如何重塑全球AI基础设施版图](https://fcvoyage.com/suan-li-jing-zhu-a-li-yun-ru-he-zhong-su-quan-qiu-aiji-chu-she-shi-ban-tu/) - 2026-07-02 (#insights)
 - [深度解读：5亿月活的印度流媒体巨头JioHotstar，如何通过短剧战略引领内容市场新风向？](https://fcvoyage.com/shen-du-jie-du-5yi-yue-huo-de-yin-du-liu-mei-ti-ju-tou-jiohotstar-ru-he-tong-guo-duan-ju-zhan-lue-yin-ling-nei-rong-shi-chang-xin-feng-xiang/) - 2026-07-02 (#insights)
 - [智能视觉创新突破：众见科技获数千万融资，韶音、高秉强等巨头布局智能变焦眼镜赛道](https://fcvoyage.com/zhi-neng-shi-jue-chuang-xin-tu-po-zhong-jian-ke-ji-huo-shu-qian-mo-rong-zi-shao-yin-gao-bing-qiang-deng-ju-tou-bu-ju-zhi-neng-bian-jiao-yan-jing-sai-dao/) - 2026-07-02 (#insights)
@@ -33,5 +34,4 @@
 - [️ 越南河内住宿新规：企业罚金翻倍，最高4000万盾](https://t.me/c/4392427626/843) - 2026-07-02 (#dubai)
 - [️ 洪森警示世界杯赌球风险：球迷输到“怀疑人生”](https://t.me/c/4392427626/842) - 2026-07-02 (#dubai)
 - [迪拜免税店同日双响炮：两印籍侨民各揽百万美元](https://t.me/c/4392427626/841) - 2026-07-02 (#dubai)
-- [迪拜夏季闪购启动：零售巨头携手重塑消费热潮](https://t.me/c/4392427626/840) - 2026-07-01 (#dubai)
 <!-- END_POSTS -->
