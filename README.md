@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚“壹汇环球”涉巨额跨境诈骗，超50亿！](https://t.me/c/4392427626/886) - 2026-07-02 (#dubai)
 - [️ 沙迦午夜停车新规：便利与挑战并存](https://t.me/c/4392427626/885) - 2026-07-02 (#dubai)
 - [斯里兰卡机场：饼干盒藏匿香烟走私被查](https://t.me/c/4392427626/884) - 2026-07-02 (#dubai)
 - [缅甸猛拉老街严打升级：不亚于柬埔寨风暴](https://t.me/c/4392427626/883) - 2026-07-02 (#dubai)
@@ -33,5 +34,4 @@
 - [百家巨头联手：Visa、Stripe共建开放美元稳定币新生态](https://t.me/c/4392427626/859) - 2026-07-02 (#dubai)
 - [Visa、Stripe等逾百家巨头联袂，共建开放美元稳定币新生态](https://fcvoyage.com/visa-stripedeng-yu-bai-jia-ju-tou-lian-mei-gong-jian-kai-fang-mei-yuan-wen-ding-bi-xin-sheng-tai/) - 2026-07-02 (#insights)
 - [移动广告聚合策略深度解析：赋能出海应用高效变现的关键考量](https://fcvoyage.com/yi-dong-yan-gao-ju-he-ce-lue-shen-du-jie-xi-fu-neng-chu-hai-ying-yong-gao-xiao-bian-xian-de-guan-jian-kao-liang/) - 2026-07-02 (#growth)
-- [️ 阿联酋ADCB银行突发大面积故障，服务受阻](https://t.me/c/4392427626/856) - 2026-07-02 (#dubai)
 <!-- END_POSTS -->
