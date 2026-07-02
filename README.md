@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚加强外籍人员管理：突击检查行动持续进行](https://t.me/c/4392427626/889) - 2026-07-03 (#dubai)
 - [阿联酋航空星链Wi-Fi：百万连接，体验超家用！](https://t.me/c/4392427626/888) - 2026-07-03 (#dubai)
 - [新加坡气枪伤人案：嫌犯家中搜出大量武器](https://t.me/c/4392427626/887) - 2026-07-03 (#dubai)
 - [马来西亚“壹汇环球”涉巨额跨境诈骗，超50亿！](https://t.me/c/4392427626/886) - 2026-07-02 (#dubai)
@@ -33,5 +34,4 @@
 - [马来西亚电信业：超越合规，构筑数字韧性新高地](https://fcvoyage.com/ma-lai-xi-ya-dian-xin-ye-chao-yue-he-gui-gou-zhu-shu-zi-ren-xing-xin-gao-di/) - 2026-07-02 (#growth)
 - [大华银行斥资4.5亿美元在胡志明市兴建越南总部，深耕东南亚核心市场](https://fcvoyage.com/da-hua-yin-xing-chi-zi-4-5yi-mei-yuan-zai-hu-zhi-ming-shi-xing-jian-yue-nan-zong-bu-shen-geng-dong-nan-ya-he-xin-shi-chang/) - 2026-07-02 (#insights)
 - [出海观察：越南信贷评分金融科技Trusting Social母公司2025年净亏8750万美元](https://fcvoyage.com/chu-hai-guan-cha-yue-nan-xin-dai-ping-fen-jin-rong-ke-ji-trusting-socialmu-gong-si-2025nian-jing-yu-8750mo-mei-yuan/) - 2026-07-02 (#insights)
-- [百家巨头联手：Visa、Stripe共建开放美元稳定币新生态](https://t.me/c/4392427626/859) - 2026-07-02 (#dubai)
 <!-- END_POSTS -->
