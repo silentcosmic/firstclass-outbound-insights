@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋首只零售伊斯兰债券认购火爆，发行量翻倍](https://t.me/c/4392427626/890) - 2026-07-03 (#dubai)
 - [马来西亚加强外籍人员管理：突击检查行动持续进行](https://t.me/c/4392427626/889) - 2026-07-03 (#dubai)
 - [阿联酋航空星链Wi-Fi：百万连接，体验超家用！](https://t.me/c/4392427626/888) - 2026-07-03 (#dubai)
 - [新加坡气枪伤人案：嫌犯家中搜出大量武器](https://t.me/c/4392427626/887) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [人工智能、能源与安全：全球战略投资新浪潮的核心驱动力](https://fcvoyage.com/ren-gong-zhi-neng-neng-yuan-yu-an-quan-quan-qiu-zhan-lue-tou-zi-xin-lang-chao-de-he-xin-qu-dong-li/) - 2026-07-02 (#growth)
 - [马来西亚电信业：超越合规，构筑数字韧性新高地](https://fcvoyage.com/ma-lai-xi-ya-dian-xin-ye-chao-yue-he-gui-gou-zhu-shu-zi-ren-xing-xin-gao-di/) - 2026-07-02 (#growth)
 - [大华银行斥资4.5亿美元在胡志明市兴建越南总部，深耕东南亚核心市场](https://fcvoyage.com/da-hua-yin-xing-chi-zi-4-5yi-mei-yuan-zai-hu-zhi-ming-shi-xing-jian-yue-nan-zong-bu-shen-geng-dong-nan-ya-he-xin-shi-chang/) - 2026-07-02 (#insights)
-- [出海观察：越南信贷评分金融科技Trusting Social母公司2025年净亏8750万美元](https://fcvoyage.com/chu-hai-guan-cha-yue-nan-xin-dai-ping-fen-jin-rong-ke-ji-trusting-socialmu-gong-si-2025nian-jing-yu-8750mo-mei-yuan/) - 2026-07-02 (#insights)
 <!-- END_POSTS -->
