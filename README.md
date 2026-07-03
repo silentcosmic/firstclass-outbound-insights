@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚重拳出击：网络犯罪法案最高监7年、罚50万](https://t.me/c/4392427626/925) - 2026-07-03 (#dubai)
 - [️ ADCB银行服务暂停：系统维护中](https://t.me/c/4392427626/924) - 2026-07-03 (#dubai)
 - [迪拜奋斗21年：菲籍女性诠释“养家者为赢家”](https://t.me/c/4392427626/923) - 2026-07-03 (#dubai)
 - [出海洞察：远大健科营收极度依赖境外与单一平台，营销先行研发滞后，盈利模式面临深度审视](https://fcvoyage.com/chu-hai-dong-cha-yuan-da-jian-ke-ying-shou-ji-du-yi-lai-jing-wai-yu-dan-yi-ping-tai-ying-xiao-xian-xing-yan-fa-zhi-hou-ying-li-mo-shi-mian-lin-shen-du-shen-shi/) - 2026-07-03 (#insights)
@@ -33,5 +34,4 @@
 - [米高梅迪拜度假村：官宣2028年Q3开业](https://t.me/c/4392427626/898) - 2026-07-03 (#dubai)
 - [阿联酋彩票再出巨奖：得主身份引印度裔猜测](https://t.me/c/4392427626/897) - 2026-07-03 (#dubai)
 - [扎耶德机场客流破9.3万：夏季出行需求旺盛](https://t.me/c/4392427626/896) - 2026-07-03 (#dubai)
-- [️ 河内住宿新规：企业未申报外国人罚款翻倍！](https://t.me/c/4392427626/895) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
