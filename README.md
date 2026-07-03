@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Lightstorm、微软、新加坡电信与塔塔通信：携手打造连接印度、马来西亚、新加坡的I-2SEA海底电缆系统](https://fcvoyage.com/lightstorm-wei-ruan-xin-jia-po-dian-xin-yu-ta-ta-tong-xin-xi-shou-da-zao-lian-jie-yin-du-ma-lai-xi-ya-xin-jia-po-de-i-2seahai-di-dian-lan-xi-tong/) - 2026-07-03 (#growth)
 - [新加坡金管局与中国证监会签署人员交流协议，深化资本市场监管合作](https://fcvoyage.com/xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi-shen-hua-zi-ben-shi-chang-jian-guan-he-zuo/) - 2026-07-03 (#insights)
 - [摩根大通携手NPCI，UPI跨境支付体验再升级](https://t.me/c/4392427626/910) - 2026-07-03 (#dubai)
 - [摩根大通携手NPCI，打造更透明的UPI跨境支付体验](https://fcvoyage.com/mo-gen-da-tong-xi-shou-npci-da-zao-geng-tou-ming-de-upikua-jing-zhi-fu-ti-yan/) - 2026-07-03 (#insights)
@@ -33,5 +34,4 @@
 - [️ 沙迦午夜停车新规：便利与挑战并存](https://t.me/c/4392427626/885) - 2026-07-02 (#dubai)
 - [斯里兰卡机场：饼干盒藏匿香烟走私被查](https://t.me/c/4392427626/884) - 2026-07-02 (#dubai)
 - [缅甸猛拉老街严打升级：不亚于柬埔寨风暴](https://t.me/c/4392427626/883) - 2026-07-02 (#dubai)
-- [柬埔寨首相洪玛奈：承认网络诈骗，力挽投资者信心](https://t.me/c/4392427626/882) - 2026-07-02 (#dubai)
 <!-- END_POSTS -->
