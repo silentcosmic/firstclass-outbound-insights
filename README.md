@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚PJ移民局突查：娱乐业多名人员被带走](https://t.me/c/4392427626/935) - 2026-07-03 (#dubai)
 - [欧易OKX澄清：清退大陆用户系不实传闻](https://t.me/c/4392427626/934) - 2026-07-03 (#dubai)
 - [️ 迪拜航空新开曼谷航线：每日直飞，深化泰阿连接](https://t.me/c/4392427626/933) - 2026-07-03 (#dubai)
 - [亚马逊年内推卫星互联网，直面星链竞争](https://t.me/c/4392427626/932) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [Grab正式完成对美国投资平台Stash Financial的收购](https://fcvoyage.com/grabzheng-shi-wan-cheng-dui-mei-guo-tou-zi-ping-tai-stash-financialde-shou-gou/) - 2026-07-03 (#insights)
 - [“AI女神”引爆世界杯：真实身份揭露，商业价值飙升](https://t.me/c/4392427626/907) - 2026-07-03 (#dubai)
 - [迪拜智能系统发威：18个月揪出900余份假证件！](https://t.me/c/4392427626/906) - 2026-07-03 (#dubai)
-- [迪拜活力：再现20年前美国经济盛景](https://t.me/c/4392427626/905) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
