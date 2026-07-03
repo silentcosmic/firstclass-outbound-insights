@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球产业洞察 | 宇树科技获科创板IPO注册，AI算力市场疑云：Meta行动非过剩，乃商业模式成熟信号](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-yu-shu-ke-ji-huo-ke-chuang-ban-ipozhu-ce-aisuan-li-shi-chang-yi-yun-metaxing-dong-fei-guo-sheng-nai-shang-ye-mo-shi-cheng-shou-xin-hao/) - 2026-07-03 (#insights)
 - [出行平台IPO再冲刺：利润空间、流量桎梏与Robotaxi战略抉择](https://fcvoyage.com/chu-xing-ping-tai-ipozai-chong-ci-li-run-kong-jian-liu-liang-zhi-gu-yu-robotaxizhan-lue-jue-ze/) - 2026-07-03 (#insights)
 - [行业风向 | 秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股](https://fcvoyage.com/xing-ye-feng-xiang-qiu-sheng-jing-li-cong-8-4yi-die-dao-1987mo-shen-zhen-guang-fu-lao-bing-kao-chu-neng-zai-chong-gang-gu/) - 2026-07-03 (#insights)
 - [印度探路AI新范式：挑战硅谷主导，深耕本土化创新](https://fcvoyage.com/yin-du-tan-lu-aixin-fan-shi-tiao-zhan-huo-gu-zhu-dao-shen-geng-ben-tu-hua-chuang-xin/) - 2026-07-03 (#infrastructure)
@@ -33,5 +34,4 @@
 - [沙迦出台经济刺激：民防罚款减免50%](https://t.me/c/4392427626/893) - 2026-07-03 (#dubai)
 - [沙迦酋长87岁寿辰：家族传承彰显文化领导力](https://t.me/c/4392427626/892) - 2026-07-03 (#dubai)
 - [️ 阿联酋航空再升级：宝格丽定制洗漱包引领奢华飞行](https://t.me/c/4392427626/891) - 2026-07-03 (#dubai)
-- [阿联酋首只零售伊斯兰债券认购火爆，发行量翻倍](https://t.me/c/4392427626/890) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
