@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 国泰航空官宣：2026年9月重返中东航线！](https://t.me/c/4392427626/946) - 2026-07-04 (#dubai)
 - [中阿基础设施合作再升级：共建“一带一路”](https://t.me/c/4392427626/945) - 2026-07-04 (#dubai)
 - [曼谷豪宅藏诈骗集团：专骗韩国民众，涉案过亿泰铢](https://t.me/c/4392427626/944) - 2026-07-04 (#dubai)
 - [老缅建交70周年：两国深化多领域合作](https://t.me/c/4392427626/943) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [出行平台IPO再冲刺：利润空间、流量桎梏与Robotaxi战略抉择](https://fcvoyage.com/chu-xing-ping-tai-ipozai-chong-ci-li-run-kong-jian-liu-liang-zhi-gu-yu-robotaxizhan-lue-jue-ze/) - 2026-07-03 (#insights)
 - [行业风向 | 秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股](https://fcvoyage.com/xing-ye-feng-xiang-qiu-sheng-jing-li-cong-8-4yi-die-dao-1987mo-shen-zhen-guang-fu-lao-bing-kao-chu-neng-zai-chong-gang-gu/) - 2026-07-03 (#insights)
 - [印度探路AI新范式：挑战硅谷主导，深耕本土化创新](https://fcvoyage.com/yin-du-tan-lu-aixin-fan-shi-tiao-zhan-huo-gu-zhu-dao-shen-geng-ben-tu-hua-chuang-xin/) - 2026-07-03 (#infrastructure)
-- [中国电动汽车制造商加速进驻欧洲闲置工厂，重塑全球汽车产业版图](https://fcvoyage.com/zhong-guo-dian-dong-qi-che-zhi-zao-shang-jia-su-jin-zhu-ou-zhou-xian-zhi-gong-han-zhong-su-quan-qiu-qi-che-chan-ye-ban-tu/) - 2026-07-03 (#infrastructure)
 <!-- END_POSTS -->
