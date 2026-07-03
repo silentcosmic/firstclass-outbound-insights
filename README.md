@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ ADCB银行服务暂停：系统维护中](https://t.me/c/4392427626/924) - 2026-07-03 (#dubai)
 - [迪拜奋斗21年：菲籍女性诠释“养家者为赢家”](https://t.me/c/4392427626/923) - 2026-07-03 (#dubai)
 - [出海洞察：远大健科营收极度依赖境外与单一平台，营销先行研发滞后，盈利模式面临深度审视](https://fcvoyage.com/chu-hai-dong-cha-yuan-da-jian-ke-ying-shou-ji-du-yi-lai-jing-wai-yu-dan-yi-ping-tai-ying-xiao-xian-xing-yan-fa-zhi-hou-ying-li-mo-shi-mian-lin-shen-du-shen-shi/) - 2026-07-03 (#insights)
 - [洞察：小红书Redshop赋能中国非遗文化，海外市场变现潜力几何？](https://fcvoyage.com/dong-cha-xiao-hong-shu-redshopfu-neng-zhong-guo-fei-yi-wen-hua-hai-wai-shi-chang-bian-xian-qian-li-ji-he/) - 2026-07-03 (#insights)
@@ -33,5 +34,4 @@
 - [阿联酋彩票再出巨奖：得主身份引印度裔猜测](https://t.me/c/4392427626/897) - 2026-07-03 (#dubai)
 - [扎耶德机场客流破9.3万：夏季出行需求旺盛](https://t.me/c/4392427626/896) - 2026-07-03 (#dubai)
 - [️ 河内住宿新规：企业未申报外国人罚款翻倍！](https://t.me/c/4392427626/895) - 2026-07-03 (#dubai)
-- [Telegram运营新利器：官方文档与实用工具集结](https://t.me/c/4392427626/894) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
