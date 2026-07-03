@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [通胀逆风下，AI投资风向生变，加密市场面临严峻挑战](https://fcvoyage.com/tong-zhang-ni-feng-xia-aitou-zi-feng-xiang-sheng-bian-jia-mi-shi-chang-mian-lin-yan-jun-tiao-zhan/) - 2026-07-03 (#growth)
 - [大华银行斥资4.5亿美元，在越南胡志明市国际金融中心启建新总部](https://fcvoyage.com/da-hua-yin-xing-chi-zi-4-5yi-mei-yuan-zai-yue-nan-hu-zhi-ming-shi-guo-ji-jin-rong-zhong-xin-qi-jian-xin-zong-bu/) - 2026-07-03 (#growth)
 - [Lightstorm、微软、新加坡电信与塔塔通信：携手打造连接印度、马来西亚、新加坡的I-2SEA海底电缆系统](https://fcvoyage.com/lightstorm-wei-ruan-xin-jia-po-dian-xin-yu-ta-ta-tong-xin-xi-shou-da-zao-lian-jie-yin-du-ma-lai-xi-ya-xin-jia-po-de-i-2seahai-di-dian-lan-xi-tong/) - 2026-07-03 (#growth)
 - [新加坡金管局与中国证监会签署人员交流协议，深化资本市场监管合作](https://fcvoyage.com/xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi-shen-hua-zi-ben-shi-chang-jian-guan-he-zuo/) - 2026-07-03 (#insights)
@@ -33,5 +34,4 @@
 - [新加坡气枪伤人案：嫌犯家中搜出大量武器](https://t.me/c/4392427626/887) - 2026-07-03 (#dubai)
 - [马来西亚“壹汇环球”涉巨额跨境诈骗，超50亿！](https://t.me/c/4392427626/886) - 2026-07-02 (#dubai)
 - [️ 沙迦午夜停车新规：便利与挑战并存](https://t.me/c/4392427626/885) - 2026-07-02 (#dubai)
-- [斯里兰卡机场：饼干盒藏匿香烟走私被查](https://t.me/c/4392427626/884) - 2026-07-02 (#dubai)
 <!-- END_POSTS -->
