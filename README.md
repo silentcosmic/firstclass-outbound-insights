@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨严打人口贩卖：西港“旧账”浮现](https://t.me/c/4392427626/939) - 2026-07-03 (#dubai)
 - [中国警方公开加密货币办案流程：揭秘“链上追踪”真相](https://t.me/c/4392427626/938) - 2026-07-03 (#dubai)
 - [️ 迪拜启动夏季送清凉行动：百万饮品支援户外工作者](https://t.me/c/4392427626/937) - 2026-07-03 (#dubai)
 - [️ 警惕：亚洲多地出现“博同情”诈骗陷阱](https://t.me/c/4392427626/936) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [Lightstorm、微软、新加坡电信与塔塔通信：携手打造连接印度、马来西亚、新加坡的I-2SEA海底电缆系统](https://fcvoyage.com/lightstorm-wei-ruan-xin-jia-po-dian-xin-yu-ta-ta-tong-xin-xi-shou-da-zao-lian-jie-yin-du-ma-lai-xi-ya-xin-jia-po-de-i-2seahai-di-dian-lan-xi-tong/) - 2026-07-03 (#growth)
 - [新加坡金管局与中国证监会签署人员交流协议，深化资本市场监管合作](https://fcvoyage.com/xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi-shen-hua-zi-ben-shi-chang-jian-guan-he-zuo/) - 2026-07-03 (#insights)
 - [摩根大通携手NPCI，UPI跨境支付体验再升级](https://t.me/c/4392427626/910) - 2026-07-03 (#dubai)
-- [摩根大通携手NPCI，打造更透明的UPI跨境支付体验](https://fcvoyage.com/mo-gen-da-tong-xi-shou-npci-da-zao-geng-tou-ming-de-upikua-jing-zhi-fu-ti-yan/) - 2026-07-03 (#insights)
 <!-- END_POSTS -->
