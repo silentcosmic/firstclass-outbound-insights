@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海洞察：远大健科营收极度依赖境外与单一平台，营销先行研发滞后，盈利模式面临深度审视](https://fcvoyage.com/chu-hai-dong-cha-yuan-da-jian-ke-ying-shou-ji-du-yi-lai-jing-wai-yu-dan-yi-ping-tai-ying-xiao-xian-xing-yan-fa-zhi-hou-ying-li-mo-shi-mian-lin-shen-du-shen-shi/) - 2026-07-03 (#insights)
 - [洞察：小红书Redshop赋能中国非遗文化，海外市场变现潜力几何？](https://fcvoyage.com/dong-cha-xiao-hong-shu-redshopfu-neng-zhong-guo-fei-yi-wen-hua-hai-wai-shi-chang-bian-xian-qian-li-ji-he/) - 2026-07-03 (#insights)
 - [全球产业洞察 | 宇树科技获科创板IPO注册，AI算力市场疑云：Meta行动非过剩，乃商业模式成熟信号](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-yu-shu-ke-ji-huo-ke-chuang-ban-ipozhu-ce-aisuan-li-shi-chang-yi-yun-metaxing-dong-fei-guo-sheng-nai-shang-ye-mo-shi-cheng-shou-xin-hao/) - 2026-07-03 (#insights)
 - [出行平台IPO再冲刺：利润空间、流量桎梏与Robotaxi战略抉择](https://fcvoyage.com/chu-xing-ping-tai-ipozai-chong-ci-li-run-kong-jian-liu-liang-zhi-gu-yu-robotaxizhan-lue-jue-ze/) - 2026-07-03 (#insights)
@@ -33,5 +34,4 @@
 - [️ 河内住宿新规：企业未申报外国人罚款翻倍！](https://t.me/c/4392427626/895) - 2026-07-03 (#dubai)
 - [Telegram运营新利器：官方文档与实用工具集结](https://t.me/c/4392427626/894) - 2026-07-03 (#dubai)
 - [沙迦出台经济刺激：民防罚款减免50%](https://t.me/c/4392427626/893) - 2026-07-03 (#dubai)
-- [沙迦酋长87岁寿辰：家族传承彰显文化领导力](https://t.me/c/4392427626/892) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
