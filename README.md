@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [摩根大通携手NPCI，打造更透明的UPI跨境支付体验](https://fcvoyage.com/mo-gen-da-tong-xi-shou-npci-da-zao-geng-tou-ming-de-upikua-jing-zhi-fu-ti-yan/) - 2026-07-03 (#insights)
 - [Grab正式完成对美国投资平台Stash Financial的收购](https://fcvoyage.com/grabzheng-shi-wan-cheng-dui-mei-guo-tou-zi-ping-tai-stash-financialde-shou-gou/) - 2026-07-03 (#insights)
 - [“AI女神”引爆世界杯：真实身份揭露，商业价值飙升](https://t.me/c/4392427626/907) - 2026-07-03 (#dubai)
 - [迪拜智能系统发威：18个月揪出900余份假证件！](https://t.me/c/4392427626/906) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [柬埔寨首相洪玛奈：承认网络诈骗，力挽投资者信心](https://t.me/c/4392427626/882) - 2026-07-02 (#dubai)
 - [缅甸水沟谷再拆涉诈大楼：已清67栋，仅剩10栋](https://t.me/c/4392427626/881) - 2026-07-02 (#dubai)
 - [️ 开云公司陷劳资纠纷：被指涉嫌福利倒扣与汇率压榨](https://t.me/c/4392427626/880) - 2026-07-02 (#dubai)
-- [越中联手：30名高科技诈骗嫌犯已移交中方](https://t.me/c/4392427626/879) - 2026-07-02 (#dubai)
 <!-- END_POSTS -->
