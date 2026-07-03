@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 逃离西港电诈炼狱：中国公民柬埔寨再陷危局](https://t.me/c/4392427626/948) - 2026-07-04 (#dubai)
 - [特朗普回应加密暴富质疑：全民皆在获利？](https://t.me/c/4392427626/947) - 2026-07-04 (#dubai)
 - [️ 国泰航空官宣：2026年9月重返中东航线！](https://t.me/c/4392427626/946) - 2026-07-04 (#dubai)
 - [中阿基础设施合作再升级：共建“一带一路”](https://t.me/c/4392427626/945) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [洞察：小红书Redshop赋能中国非遗文化，海外市场变现潜力几何？](https://fcvoyage.com/dong-cha-xiao-hong-shu-redshopfu-neng-zhong-guo-fei-yi-wen-hua-hai-wai-shi-chang-bian-xian-qian-li-ji-he/) - 2026-07-03 (#insights)
 - [全球产业洞察 | 宇树科技获科创板IPO注册，AI算力市场疑云：Meta行动非过剩，乃商业模式成熟信号](https://fcvoyage.com/quan-qiu-chan-ye-dong-cha-yu-shu-ke-ji-huo-ke-chuang-ban-ipozhu-ce-aisuan-li-shi-chang-yi-yun-metaxing-dong-fei-guo-sheng-nai-shang-ye-mo-shi-cheng-shou-xin-hao/) - 2026-07-03 (#insights)
 - [出行平台IPO再冲刺：利润空间、流量桎梏与Robotaxi战略抉择](https://fcvoyage.com/chu-xing-ping-tai-ipozai-chong-ci-li-run-kong-jian-liu-liang-zhi-gu-yu-robotaxizhan-lue-jue-ze/) - 2026-07-03 (#insights)
-- [行业风向 | 秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股](https://fcvoyage.com/xing-ye-feng-xiang-qiu-sheng-jing-li-cong-8-4yi-die-dao-1987mo-shen-zhen-guang-fu-lao-bing-kao-chu-neng-zai-chong-gang-gu/) - 2026-07-03 (#insights)
 <!-- END_POSTS -->
