@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [老缅建交70周年：两国深化多领域合作](https://t.me/c/4392427626/943) - 2026-07-04 (#dubai)
 - [缅甸水沟谷反诈行动：再拆一栋楼，仅剩10栋待清](https://t.me/c/4392427626/942) - 2026-07-03 (#dubai)
 - [新加坡警方：警惕视频会议与世界杯加密诈骗新陷阱](https://t.me/c/4392427626/941) - 2026-07-03 (#dubai)
 - [️ 沙迦大学城路段将改道两月，配合阿提哈德铁路](https://t.me/c/4392427626/940) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [中国电动汽车制造商加速进驻欧洲闲置工厂，重塑全球汽车产业版图](https://fcvoyage.com/zhong-guo-dian-dong-qi-che-zhi-zao-shang-jia-su-jin-zhu-ou-zhou-xian-zhi-gong-han-zhong-su-quan-qiu-qi-che-chan-ye-ban-tu/) - 2026-07-03 (#infrastructure)
 - [美国H-1B签证政策不确定性加剧，科技人才加速外流](https://fcvoyage.com/mei-guo-h-1bqian-zheng-zheng-ce-bu-que-ding-xing-jia-ju-ke-ji-ren-cai-jia-su-wai-liu/) - 2026-07-03 (#infrastructure)
 - [通胀逆风下，AI投资风向生变，加密市场面临严峻挑战](https://fcvoyage.com/tong-zhang-ni-feng-xia-aitou-zi-feng-xiang-sheng-bian-jia-mi-shi-chang-mian-lin-yan-jun-tiao-zhan/) - 2026-07-03 (#growth)
-- [大华银行斥资4.5亿美元，在越南胡志明市国际金融中心启建新总部](https://fcvoyage.com/da-hua-yin-xing-chi-zi-4-5yi-mei-yuan-zai-yue-nan-hu-zhi-ming-shi-guo-ji-jin-rong-zhong-xin-qi-jian-xin-zong-bu/) - 2026-07-03 (#growth)
 <!-- END_POSTS -->
