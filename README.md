@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 警惕：亚洲多地出现“博同情”诈骗陷阱](https://t.me/c/4392427626/936) - 2026-07-03 (#dubai)
 - [马来西亚PJ移民局突查：娱乐业多名人员被带走](https://t.me/c/4392427626/935) - 2026-07-03 (#dubai)
 - [欧易OKX澄清：清退大陆用户系不实传闻](https://t.me/c/4392427626/934) - 2026-07-03 (#dubai)
 - [️ 迪拜航空新开曼谷航线：每日直飞，深化泰阿连接](https://t.me/c/4392427626/933) - 2026-07-03 (#dubai)
@@ -33,5 +34,4 @@
 - [摩根大通携手NPCI，打造更透明的UPI跨境支付体验](https://fcvoyage.com/mo-gen-da-tong-xi-shou-npci-da-zao-geng-tou-ming-de-upikua-jing-zhi-fu-ti-yan/) - 2026-07-03 (#insights)
 - [Grab正式完成对美国投资平台Stash Financial的收购](https://fcvoyage.com/grabzheng-shi-wan-cheng-dui-mei-guo-tou-zi-ping-tai-stash-financialde-shou-gou/) - 2026-07-03 (#insights)
 - [“AI女神”引爆世界杯：真实身份揭露，商业价值飙升](https://t.me/c/4392427626/907) - 2026-07-03 (#dubai)
-- [迪拜智能系统发威：18个月揪出900余份假证件！](https://t.me/c/4392427626/906) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
