@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [印度探路AI新范式：挑战硅谷主导，深耕本土化创新](https://fcvoyage.com/yin-du-tan-lu-aixin-fan-shi-tiao-zhan-huo-gu-zhu-dao-shen-geng-ben-tu-hua-chuang-xin/) - 2026-07-03 (#infrastructure)
 - [中国电动汽车制造商加速进驻欧洲闲置工厂，重塑全球汽车产业版图](https://fcvoyage.com/zhong-guo-dian-dong-qi-che-zhi-zao-shang-jia-su-jin-zhu-ou-zhou-xian-zhi-gong-han-zhong-su-quan-qiu-qi-che-chan-ye-ban-tu/) - 2026-07-03 (#infrastructure)
 - [美国H-1B签证政策不确定性加剧，科技人才加速外流](https://fcvoyage.com/mei-guo-h-1bqian-zheng-zheng-ce-bu-que-ding-xing-jia-ju-ke-ji-ren-cai-jia-su-wai-liu/) - 2026-07-03 (#infrastructure)
 - [通胀逆风下，AI投资风向生变，加密市场面临严峻挑战](https://fcvoyage.com/tong-zhang-ni-feng-xia-aitou-zi-feng-xiang-sheng-bian-jia-mi-shi-chang-mian-lin-yan-jun-tiao-zhan/) - 2026-07-03 (#growth)
@@ -33,5 +34,4 @@
 - [阿联酋首只零售伊斯兰债券认购火爆，发行量翻倍](https://t.me/c/4392427626/890) - 2026-07-03 (#dubai)
 - [马来西亚加强外籍人员管理：突击检查行动持续进行](https://t.me/c/4392427626/889) - 2026-07-03 (#dubai)
 - [阿联酋航空星链Wi-Fi：百万连接，体验超家用！](https://t.me/c/4392427626/888) - 2026-07-03 (#dubai)
-- [新加坡气枪伤人案：嫌犯家中搜出大量武器](https://t.me/c/4392427626/887) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
