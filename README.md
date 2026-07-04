@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨雷霆行动：170名涉诈涉毒中国籍人员遭驱逐](https://t.me/c/4392427626/973) - 2026-07-04 (#dubai)
 - [西港空地惊现AK-47，两名中国男子被捕](https://t.me/c/4392427626/972) - 2026-07-04 (#dubai)
 - [比尔·盖茨洞察：为何人工智能无法取代竞技体育中的人类核心价值](https://fcvoyage.com/bi-er-gai-ci-dong-cha-wei-he-ren-gong-zhi-neng-wu-fa-qu-dai-jing-ji-ti-yu-zhong-de-ren-lei-he-xin-jie-zhi/) - 2026-07-04 (#growth)
 - [沙特12GWh储能项目公布新进展：七家中国企业成功入围，中东非市场成储能出海战略要地](https://fcvoyage.com/sha-te-12gwhchu-neng-xiang-mu-gong-bu-xin-jin-zhan-qi-jia-zhong-guo-qi-ye-cheng-gong-ru-wei-zhong-dong-fei-shi-chang-cheng-chu-neng-chu-hai-zhan-lue-yao-di/) - 2026-07-04 (#insights)
@@ -33,5 +34,4 @@
 - [️ 国泰航空官宣：2026年9月重返中东航线！](https://t.me/c/4392427626/946) - 2026-07-04 (#dubai)
 - [中阿基础设施合作再升级：共建“一带一路”](https://t.me/c/4392427626/945) - 2026-07-04 (#dubai)
 - [曼谷豪宅藏诈骗集团：专骗韩国民众，涉案过亿泰铢](https://t.me/c/4392427626/944) - 2026-07-04 (#dubai)
-- [老缅建交70周年：两国深化多领域合作](https://t.me/c/4392427626/943) - 2026-07-04 (#dubai)
 <!-- END_POSTS -->
