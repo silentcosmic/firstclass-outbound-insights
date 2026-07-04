@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨现代奴役揭露：5名受害者获救](https://t.me/c/4392427626/997) - 2026-07-05 (#dubai)
 - [东南亚“仙人跳”升级：专盯出海华人，警惕人身安全](https://t.me/c/4392427626/996) - 2026-07-05 (#dubai)
 - [日本破获2亿日元跨境洗钱案，7名中国籍嫌犯被捕](https://t.me/c/4392427626/995) - 2026-07-05 (#dubai)
 - [海外奋斗者：一场球赛映照的希望与失落](https://t.me/c/4392427626/994) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [沙特12GWh储能项目公布新进展：七家中国企业成功入围，中东非市场成储能出海战略要地](https://fcvoyage.com/sha-te-12gwhchu-neng-xiang-mu-gong-bu-xin-jin-zhan-qi-jia-zhong-guo-qi-ye-cheng-gong-ru-wei-zhong-dong-fei-shi-chang-cheng-chu-neng-chu-hai-zhan-lue-yao-di/) - 2026-07-04 (#insights)
 - [欧洲生物医药前沿：巴塞罗那如何成为创新药企出海与巨头重注的核心门户？](https://fcvoyage.com/ou-zhou-sheng-wu-yi-yao-qian-yan-ba-sai-luo-na-ru-he-cheng-wei-chuang-xin-yao-qi-chu-hai-yu-ju-tou-zhong-zhu-de-he-xin-men-hu/) - 2026-07-04 (#insights)
 - [出海观察 | 智能出行新星OMOWAY获宁德时代系基金青睐，印尼电动摩托车市场首发即领跑](https://fcvoyage.com/chu-hai-guan-cha-zhi-neng-chu-xing-xin-xing-omowayhuo-zhu-de-shi-dai-xi-ji-jin-qing-lai-yin-ni-dian-dong-mo-tuo-che-shi-chang-shou-fa-ji-ling-pao/) - 2026-07-04 (#insights)
-- [省级实验室核心团队赋能电氢耦合：启航氢能获厦门高新投战略领投，加速绿氢技术商业化进程](https://fcvoyage.com/sheng-ji-shi-yan-shi-he-xin-tuan-dui-fu-neng-dian-qing-ou-he-qi-hang-qing-neng-huo-sha-men-gao-xin-tou-zhan-lue-ling-tou-jia-su-lu-qing-ji-zhu-shang-ye-hua-jin-cheng/) - 2026-07-04 (#insights)
 <!-- END_POSTS -->
