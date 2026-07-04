@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [欧易OKX澄清：清退大陆用户系假消息](https://t.me/c/4392427626/999) - 2026-07-05 (#dubai)
 - [泰国严打挂名持股：芭提雅别墅项目遭突查](https://t.me/c/4392427626/998) - 2026-07-05 (#dubai)
 - [柬埔寨现代奴役揭露：5名受害者获救](https://t.me/c/4392427626/997) - 2026-07-05 (#dubai)
 - [东南亚“仙人跳”升级：专盯出海华人，警惕人身安全](https://t.me/c/4392427626/996) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [西港空地惊现AK-47，两名中国男子被捕](https://t.me/c/4392427626/972) - 2026-07-04 (#dubai)
 - [比尔·盖茨洞察：为何人工智能无法取代竞技体育中的人类核心价值](https://fcvoyage.com/bi-er-gai-ci-dong-cha-wei-he-ren-gong-zhi-neng-wu-fa-qu-dai-jing-ji-ti-yu-zhong-de-ren-lei-he-xin-jie-zhi/) - 2026-07-04 (#growth)
 - [沙特12GWh储能项目公布新进展：七家中国企业成功入围，中东非市场成储能出海战略要地](https://fcvoyage.com/sha-te-12gwhchu-neng-xiang-mu-gong-bu-xin-jin-zhan-qi-jia-zhong-guo-qi-ye-cheng-gong-ru-wei-zhong-dong-fei-shi-chang-cheng-chu-neng-chu-hai-zhan-lue-yao-di/) - 2026-07-04 (#insights)
-- [欧洲生物医药前沿：巴塞罗那如何成为创新药企出海与巨头重注的核心门户？](https://fcvoyage.com/ou-zhou-sheng-wu-yi-yao-qian-yan-ba-sai-luo-na-ru-he-cheng-wei-chuang-xin-yao-qi-chu-hai-yu-ju-tou-zhong-zhu-de-he-xin-men-hu/) - 2026-07-04 (#insights)
 <!-- END_POSTS -->
