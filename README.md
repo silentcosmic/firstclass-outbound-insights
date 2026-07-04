@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 长期居菲者回国遭管控：护照失效，三年内限制出境](https://t.me/c/4392427626/991) - 2026-07-05 (#dubai)
 - [迪拜杰贝阿里路多车相撞：25人伤，警方再发安全提醒](https://t.me/c/4392427626/990) - 2026-07-04 (#dubai)
 - [埃及足球晋级世界杯16强：迪拜深夜万人空巷庆祝！](https://t.me/c/4392427626/989) - 2026-07-04 (#dubai)
 - [阿联酋AI部长：薪资减半，却获“世上最有意义工作”](https://t.me/c/4392427626/988) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [全球消费科技版图重塑：美国先驱光环渐失，中国新锐力量主导市场格局](https://fcvoyage.com/quan-qiu-xiao-fei-ke-ji-ban-tu-zhong-su-mei-guo-xian-qu-guang-huan-jian-shi-zhong-guo-xin-rui-li-liang-zhu-dao-shi-chang-ge-ju/) - 2026-07-04 (#infrastructure)
 - [出海洞察 | 2026年6月香港市场融资概览与深度剖析](https://fcvoyage.com/chu-hai-dong-cha-2026nian-6yue-xiang-gang-shi-chang-rong-zi-gai-lan-yu-shen-du-pou-xi/) - 2026-07-04 (#growth)
 - [出海情报速递 | 东南亚创投月报：2026年6月融资额创历史新高，晚期轮次主导市场](https://fcvoyage.com/chu-hai-qing-bao-su-di-dong-nan-ya-chuang-tou-yue-bao-2026nian-6yue-rong-zi-e-chuang-li-shi-xin-gao-wan-qi-lun-ci-zhu-dao-shi-chang/) - 2026-07-04 (#growth)
-- [雅玛迈集团深化印尼直播电商战略布局，赋能品牌高效增长](https://fcvoyage.com/ya-ma-mai-ji-tuan-shen-hua-yin-ni-zhi-bo-dian-shang-zhan-lue-bu-ju-fu-neng-pin-pai-gao-xiao-zeng-chang/) - 2026-07-04 (#growth)
 <!-- END_POSTS -->
