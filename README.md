@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [海外奋斗者：一场球赛映照的希望与失落](https://t.me/c/4392427626/994) - 2026-07-05 (#dubai)
 - [️ 虚拟资产提现受阻：深度解析账户冻结风险](https://t.me/c/4392427626/993) - 2026-07-05 (#dubai)
 - [印度监管风暴：Telegram、Signal反诈措施遭问询](https://t.me/c/4392427626/992) - 2026-07-05 (#dubai)
 - [️ 长期居菲者回国遭管控：护照失效，三年内限制出境](https://t.me/c/4392427626/991) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [省级实验室核心团队赋能电氢耦合：启航氢能获厦门高新投战略领投，加速绿氢技术商业化进程](https://fcvoyage.com/sheng-ji-shi-yan-shi-he-xin-tuan-dui-fu-neng-dian-qing-ou-he-qi-hang-qing-neng-huo-sha-men-gao-xin-tou-zhan-lue-ling-tou-jia-su-lu-qing-ji-zhu-shang-ye-hua-jin-cheng/) - 2026-07-04 (#insights)
 - [全球市场洞察：Temu在马尔代夫的深度渗透力与跨越监管的韧性](https://fcvoyage.com/quan-qiu-shi-chang-dong-cha-temuzai-ma-er-dai-fu-de-shen-du-shen-tou-li-yu-kua-yue-jian-guan-de-ren-xing/) - 2026-07-04 (#infrastructure)
 - [中国高校战略转型：为AI腾挪空间，外语专业何去何从？](https://fcvoyage.com/zhong-guo-gao-xiao-zhan-lue-zhuan-xing-wei-aiteng-nuo-kong-jian-wai-yu-zhuan-ye-he-qu-he-cong/) - 2026-07-04 (#infrastructure)
-- [全球消费科技版图重塑：美国先驱光环渐失，中国新锐力量主导市场格局](https://fcvoyage.com/quan-qiu-xiao-fei-ke-ji-ban-tu-zhong-su-mei-guo-xian-qu-guang-huan-jian-shi-zhong-guo-xin-rui-li-liang-zhu-dao-shi-chang-ge-ju/) - 2026-07-04 (#infrastructure)
 <!-- END_POSTS -->
