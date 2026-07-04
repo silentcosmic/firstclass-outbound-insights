@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [西港空地惊现AK-47，两名中国男子被捕](https://t.me/c/4392427626/972) - 2026-07-04 (#dubai)
 - [比尔·盖茨洞察：为何人工智能无法取代竞技体育中的人类核心价值](https://fcvoyage.com/bi-er-gai-ci-dong-cha-wei-he-ren-gong-zhi-neng-wu-fa-qu-dai-jing-ji-ti-yu-zhong-de-ren-lei-he-xin-jie-zhi/) - 2026-07-04 (#growth)
 - [沙特12GWh储能项目公布新进展：七家中国企业成功入围，中东非市场成储能出海战略要地](https://fcvoyage.com/sha-te-12gwhchu-neng-xiang-mu-gong-bu-xin-jin-zhan-qi-jia-zhong-guo-qi-ye-cheng-gong-ru-wei-zhong-dong-fei-shi-chang-cheng-chu-neng-chu-hai-zhan-lue-yao-di/) - 2026-07-04 (#insights)
 - [欧洲生物医药前沿：巴塞罗那如何成为创新药企出海与巨头重注的核心门户？](https://fcvoyage.com/ou-zhou-sheng-wu-yi-yao-qian-yan-ba-sai-luo-na-ru-he-cheng-wei-chuang-xin-yao-qi-chu-hai-yu-ju-tou-zhong-zhu-de-he-xin-men-hu/) - 2026-07-04 (#insights)
@@ -33,5 +34,4 @@
 - [中阿基础设施合作再升级：共建“一带一路”](https://t.me/c/4392427626/945) - 2026-07-04 (#dubai)
 - [曼谷豪宅藏诈骗集团：专骗韩国民众，涉案过亿泰铢](https://t.me/c/4392427626/944) - 2026-07-04 (#dubai)
 - [老缅建交70周年：两国深化多领域合作](https://t.me/c/4392427626/943) - 2026-07-04 (#dubai)
-- [缅甸水沟谷反诈行动：再拆一栋楼，仅剩10栋待清](https://t.me/c/4392427626/942) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
