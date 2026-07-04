@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡MAS出台SAFR：为AI金融风控筑牢防线](https://t.me/c/4392427626/958) - 2026-07-04 (#dubai)
 - [金融智能化风控新范式：新加坡金融管理局携手业界推出SAFR框架，为AI代理筑牢安全防线](https://fcvoyage.com/jin-rong-zhi-neng-hua-feng-kong-xin-fan-shi-xin-jia-po-jin-rong-guan-li-ju-xi-shou-ye-jie-tui-chu-safrkuang-jia-wei-aidai-li-zhu-lao-an-quan-fang-xian/) - 2026-07-04 (#insights)
 - [️ 阿布扎比重罚：开车玩手机将面临800迪拉姆罚款](https://t.me/c/4392427626/956) - 2026-07-04 (#dubai)
 - [马来西亚“壹汇环球”特大骗局：50亿资金蒸发，3万人受害](https://t.me/c/4392427626/955) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 泰国入境骗局频发：使馆提醒警惕“保关”陷阱](https://t.me/c/4392427626/931) - 2026-07-03 (#dubai)
 - [AI模型预测：国际足球赛事前瞻分析](https://t.me/c/4392427626/930) - 2026-07-03 (#dubai)
 - [阿提哈德铁路客运服务启动：通勤效率飞跃](https://t.me/c/4392427626/929) - 2026-07-03 (#dubai)
-- [iPhone 18 Pro核心参数提前曝光：灵动岛再进化](https://t.me/c/4392427626/928) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
