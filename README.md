@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋AI部长：薪资减半，却获“世上最有意义工作”](https://t.me/c/4392427626/988) - 2026-07-04 (#dubai)
 - [马来西亚今夜大规模执法：严查酒驾毒驾及通缉犯](https://t.me/c/4392427626/987) - 2026-07-04 (#dubai)
 - [越南富国岛破获诈骗案：4名中国人非法入境被捕](https://t.me/c/4392427626/986) - 2026-07-04 (#dubai)
 - [️ 马来西亚导航失误致深坑坠车：5名中国公民重伤](https://t.me/c/4392427626/985) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [雅玛迈集团深化印尼直播电商战略布局，赋能品牌高效增长](https://fcvoyage.com/ya-ma-mai-ji-tuan-shen-hua-yin-ni-zhi-bo-dian-shang-zhan-lue-bu-ju-fu-neng-pin-pai-gao-xiao-zeng-chang/) - 2026-07-04 (#growth)
 - [2026年亚洲反欺诈与反洗钱前瞻：金融机构应对策略深度解析](https://fcvoyage.com/2026nian-ya-zhou-fan-qi-zha-yu-fan-xi-qian-qian-zhan-jin-rong-ji-gou-ying-dui-ce-lue-shen-du-jie-xi/) - 2026-07-04 (#insights)
 - [Visa推出高级威胁情报平台：助力金融机构超前防范欺诈风险](https://fcvoyage.com/visatui-chu-gao-ji-wei-xie-qing-bao-ping-tai-zhu-li-jin-rong-ji-gou-chao-qian-fang-fan-qi-zha-feng-xian/) - 2026-07-04 (#insights)
-- [新加坡MAS出台SAFR：为AI金融风控筑牢防线](https://t.me/c/4392427626/958) - 2026-07-04 (#dubai)
 <!-- END_POSTS -->
