@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [越南富国岛破获诈骗案：4名中国人非法入境被捕](https://t.me/c/4392427626/986) - 2026-07-04 (#dubai)
 - [️ 马来西亚导航失误致深坑坠车：5名中国公民重伤](https://t.me/c/4392427626/985) - 2026-07-04 (#dubai)
 - [公安部警示：警惕加密私聊陷阱，多款诈骗APP曝光](https://t.me/c/4392427626/984) - 2026-07-04 (#dubai)
 - [上海警方捣毁“开店创业”诈骗团伙：涉案超1500万，8000余人受骗](https://t.me/c/4392427626/983) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [Visa推出高级威胁情报平台：助力金融机构超前防范欺诈风险](https://fcvoyage.com/visatui-chu-gao-ji-wei-xie-qing-bao-ping-tai-zhu-li-jin-rong-ji-gou-chao-qian-fang-fan-qi-zha-feng-xian/) - 2026-07-04 (#insights)
 - [新加坡MAS出台SAFR：为AI金融风控筑牢防线](https://t.me/c/4392427626/958) - 2026-07-04 (#dubai)
 - [金融智能化风控新范式：新加坡金融管理局携手业界推出SAFR框架，为AI代理筑牢安全防线](https://fcvoyage.com/jin-rong-zhi-neng-hua-feng-kong-xin-fan-shi-xin-jia-po-jin-rong-guan-li-ju-xi-shou-ye-jie-tui-chu-safrkuang-jia-wei-aidai-li-zhu-lao-an-quan-fang-xian/) - 2026-07-04 (#insights)
-- [️ 阿布扎比重罚：开车玩手机将面临800迪拉姆罚款](https://t.me/c/4392427626/956) - 2026-07-04 (#dubai)
 <!-- END_POSTS -->
