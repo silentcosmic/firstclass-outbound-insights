@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Visa推出高级威胁情报平台：助力金融机构超前防范欺诈风险](https://fcvoyage.com/visatui-chu-gao-ji-wei-xie-qing-bao-ping-tai-zhu-li-jin-rong-ji-gou-chao-qian-fang-fan-qi-zha-feng-xian/) - 2026-07-04 (#insights)
 - [新加坡MAS出台SAFR：为AI金融风控筑牢防线](https://t.me/c/4392427626/958) - 2026-07-04 (#dubai)
 - [金融智能化风控新范式：新加坡金融管理局携手业界推出SAFR框架，为AI代理筑牢安全防线](https://fcvoyage.com/jin-rong-zhi-neng-hua-feng-kong-xin-fan-shi-xin-jia-po-jin-rong-guan-li-ju-xi-shou-ye-jie-tui-chu-safrkuang-jia-wei-aidai-li-zhu-lao-an-quan-fang-xian/) - 2026-07-04 (#insights)
 - [️ 阿布扎比重罚：开车玩手机将面临800迪拉姆罚款](https://t.me/c/4392427626/956) - 2026-07-04 (#dubai)
@@ -33,5 +34,4 @@
 - [亚马逊年内推卫星互联网，直面星链竞争](https://t.me/c/4392427626/932) - 2026-07-03 (#dubai)
 - [️ 泰国入境骗局频发：使馆提醒警惕“保关”陷阱](https://t.me/c/4392427626/931) - 2026-07-03 (#dubai)
 - [AI模型预测：国际足球赛事前瞻分析](https://t.me/c/4392427626/930) - 2026-07-03 (#dubai)
-- [阿提哈德铁路客运服务启动：通勤效率飞跃](https://t.me/c/4392427626/929) - 2026-07-03 (#dubai)
 <!-- END_POSTS -->
