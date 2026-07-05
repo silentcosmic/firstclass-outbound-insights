@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 警惕：厦门旅行社涉嫌熟人诈骗，资金风险预警](https://t.me/c/4392427626/1061) - 2026-07-06 (#dubai)
 - [泰国失业男为9000泰铢成“人头账户”被捕](https://t.me/c/4392427626/1060) - 2026-07-06 (#dubai)
 - [洪森足球论引中方共鸣：小国亦平等](https://t.me/c/4392427626/1059) - 2026-07-06 (#dubai)
 - [印尼破获跨国诈骗案：210外籍嫌犯待遣返](https://t.me/c/4392427626/1058) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [深度剖析：跨境电商服务如何催生年营收近7亿的浏览器巨头](https://fcvoyage.com/shen-du-pou-xi-kua-jing-dian-shang-fu-wu-ru-he-cui-sheng-nian-ying-shou-jin-7yi-de-liu-lan-qi-ju-tou/) - 2026-07-05 (#insights)
 - [中国汽车全球化：战略审慎下的增长逻辑与潜在瓶颈](https://fcvoyage.com/zhong-guo-qi-che-quan-qiu-hua-zhan-lue-shen-shen-xia-de-zeng-chang-luo-ji-yu-qian-zai-ping-jing/) - 2026-07-05 (#insights)
 - [智能外骨骼：重塑户外探索与人机协作的新纪元](https://fcvoyage.com/zhi-neng-wai-gu-ge-zhong-su-hu-wai-tan-suo-yu-ren-ji-xie-zuo-de-xin-ji-yuan/) - 2026-07-05 (#insights)
-- [行业风向 | 丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉](https://fcvoyage.com/xing-ye-feng-xiang-gun-ju-shen-zhi-neng-di-yi-gu-yu-shu-ke-ji-shang-shi-shen-qing-tong-guo-skhai-li-shi-dan-ri-shi-zhi-zheng-fa-10000yi-yuan-pei-zhi-shi-wu-yin-fa-0yuan-qiang-gou-chao-b/) - 2026-07-05 (#insights)
 <!-- END_POSTS -->
