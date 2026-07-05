@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Nuvei携手Visa完成开创性代理式支付测试，引领AI驱动商业新范式](https://fcvoyage.com/nuveixi-shou-visawan-cheng-kai-chuang-xing-dai-li-shi-zhi-fu-ce-shi-yin-ling-aiqu-dong-shang-ye-xin-fan-shi/) - 2026-07-05 (#insights)
 - [微软豪掷25亿美元，组建AI工程新部门，深度赋能企业级应用](https://fcvoyage.com/wei-ruan-hao-zhi-25yi-mei-yuan-zu-jian-aigong-cheng-xin-bu-men-shen-du-fu-neng-qi-ye-ji-ying-yong/) - 2026-07-05 (#insights)
 - [新中资本市场监管深化：MAS与CSRC签署人员交流协议](https://t.me/c/4392427626/1021) - 2026-07-05 (#dubai)
 - [新中资本市场监管合作深化：新加坡金管局与中国证监会签署人员交流协议](https://fcvoyage.com/xin-zhong-zi-ben-shi-chang-jian-guan-he-zuo-shen-hua-xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi/) - 2026-07-05 (#insights)
@@ -33,5 +34,4 @@
 - [东南亚“仙人跳”升级：专盯出海华人，警惕人身安全](https://t.me/c/4392427626/996) - 2026-07-05 (#dubai)
 - [日本破获2亿日元跨境洗钱案，7名中国籍嫌犯被捕](https://t.me/c/4392427626/995) - 2026-07-05 (#dubai)
 - [海外奋斗者：一场球赛映照的希望与失落](https://t.me/c/4392427626/994) - 2026-07-05 (#dubai)
-- [️ 虚拟资产提现受阻：深度解析账户冻结风险](https://t.me/c/4392427626/993) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
