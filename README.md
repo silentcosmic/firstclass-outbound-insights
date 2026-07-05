@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜RTA：水上交通乘客享69迪拉姆特惠餐](https://t.me/c/4392427626/1063) - 2026-07-06 (#dubai)
 - [柬埔寨神秘“科技园”涉命案：资料已报中国警方](https://t.me/c/4392427626/1062) - 2026-07-06 (#dubai)
 - [️ 警惕：厦门旅行社涉嫌熟人诈骗，资金风险预警](https://t.me/c/4392427626/1061) - 2026-07-06 (#dubai)
 - [泰国失业男为9000泰铢成“人头账户”被捕](https://t.me/c/4392427626/1060) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [缅甸交克园区疑涉虐待，求助曝光](https://t.me/c/4392427626/1036) - 2026-07-05 (#dubai)
 - [泰柬边境冲突：非法入境者持刀袭警遭击毙](https://t.me/c/4392427626/1035) - 2026-07-05 (#dubai)
 - [深度剖析：跨境电商服务如何催生年营收近7亿的浏览器巨头](https://fcvoyage.com/shen-du-pou-xi-kua-jing-dian-shang-fu-wu-ru-he-cui-sheng-nian-ying-shou-jin-7yi-de-liu-lan-qi-ju-tou/) - 2026-07-05 (#insights)
-- [中国汽车全球化：战略审慎下的增长逻辑与潜在瓶颈](https://fcvoyage.com/zhong-guo-qi-che-quan-qiu-hua-zhan-lue-shen-shen-xia-de-zeng-chang-luo-ji-yu-qian-zai-ping-jing/) - 2026-07-05 (#insights)
 <!-- END_POSTS -->
