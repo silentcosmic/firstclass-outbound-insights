@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [AI时代内容信任之争：为何创作者的价值超越算法本身](https://fcvoyage.com/aishi-dai-nei-rong-xin-ren-zhi-zheng-wei-he-chuang-zuo-zhe-de-jie-zhi-chao-yue-suan-fa-ben-shen/) - 2026-07-05 (#growth)
 - [电视内容中动态植入广告：颠覆创新抑或干扰体验？](https://fcvoyage.com/dian-shi-nei-rong-zhong-dong-tai-zhi-ru-yan-gao-dian-fu-chuang-xin-yi-huo-gan-rao-ti-yan/) - 2026-07-05 (#growth)
 - [全球基础设施赋能本土市场：BTSE印尼持牌数字与加密资产交易所启航](https://fcvoyage.com/quan-qiu-ji-chu-she-shi-fu-neng-ben-tu-shi-chang-btseyin-ni-chi-pai-shu-zi-yu-jia-mi-zi-chan-jiao-yi-suo-qi-hang/) - 2026-07-05 (#growth)
 - [聚焦亚太能源转型：施耐德电气与Seraya Partners联合启动5亿美元Faraday能源基金](https://fcvoyage.com/ju-jiao-ya-tai-neng-yuan-zhuan-xing-shi-nai-de-dian-qi-yu-seraya-partnerslian-he-qi-dong-5yi-mei-yuan-faradayneng-yuan-ji-jin/) - 2026-07-05 (#growth)
@@ -33,5 +34,4 @@
 - [阿联酋ICP服务费支付升级：Tabby引入分期付款](https://t.me/c/4392427626/1001) - 2026-07-05 (#dubai)
 - [涉案超31亿！逃亡12年韩国网赌头目阿联酋落网](https://t.me/c/4392427626/1000) - 2026-07-05 (#dubai)
 - [欧易OKX澄清：清退大陆用户系假消息](https://t.me/c/4392427626/999) - 2026-07-05 (#dubai)
-- [泰国严打挂名持股：芭提雅别墅项目遭突查](https://t.me/c/4392427626/998) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
