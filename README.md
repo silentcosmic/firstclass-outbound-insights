@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球基础设施赋能本土市场：BTSE印尼持牌数字与加密资产交易所启航](https://fcvoyage.com/quan-qiu-ji-chu-she-shi-fu-neng-ben-tu-shi-chang-btseyin-ni-chi-pai-shu-zi-yu-jia-mi-zi-chan-jiao-yi-suo-qi-hang/) - 2026-07-05 (#growth)
 - [聚焦亚太能源转型：施耐德电气与Seraya Partners联合启动5亿美元Faraday能源基金](https://fcvoyage.com/ju-jiao-ya-tai-neng-yuan-zhuan-xing-shi-nai-de-dian-qi-yu-seraya-partnerslian-he-qi-dong-5yi-mei-yuan-faradayneng-yuan-ji-jin/) - 2026-07-05 (#growth)
 - [越南“净零挑战”2026创新大赛启动，80万美元巨额奖金助力气候科技发展](https://fcvoyage.com/yue-nan-jing-ling-tiao-zhan-2026chuang-xin-da-sai-qi-dong-80mo-mei-yuan-ju-e-jiang-jin-zhu-li-qi-hou-ke-ji-fa-zhan/) - 2026-07-05 (#growth)
 - [Nuvei携手Visa完成开创性代理式支付测试，引领AI驱动商业新范式](https://fcvoyage.com/nuveixi-shou-visawan-cheng-kai-chuang-xing-dai-li-shi-zhi-fu-ce-shi-yin-ling-aiqu-dong-shang-ye-xin-fan-shi/) - 2026-07-05 (#insights)
@@ -33,5 +34,4 @@
 - [欧易OKX澄清：清退大陆用户系假消息](https://t.me/c/4392427626/999) - 2026-07-05 (#dubai)
 - [泰国严打挂名持股：芭提雅别墅项目遭突查](https://t.me/c/4392427626/998) - 2026-07-05 (#dubai)
 - [柬埔寨现代奴役揭露：5名受害者获救](https://t.me/c/4392427626/997) - 2026-07-05 (#dubai)
-- [东南亚“仙人跳”升级：专盯出海华人，警惕人身安全](https://t.me/c/4392427626/996) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
