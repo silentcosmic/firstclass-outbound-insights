@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [四川绵竹深夜地震：关注当地影响](https://t.me/c/4392427626/1053) - 2026-07-06 (#dubai)
 - [阿联酋迪拉姆稳定币获批：加速融入日常生活](https://t.me/c/4392427626/1052) - 2026-07-05 (#dubai)
 - [迪拜NOL卡全面升级：交通零售一卡通行！](https://t.me/c/4392427626/1051) - 2026-07-05 (#dubai)
 - [以色列首认：铁穹系统曾部署阿联酋](https://t.me/c/4392427626/1050) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [全球基础设施赋能本土市场：BTSE印尼持牌数字与加密资产交易所启航](https://fcvoyage.com/quan-qiu-ji-chu-she-shi-fu-neng-ben-tu-shi-chang-btseyin-ni-chi-pai-shu-zi-yu-jia-mi-zi-chan-jiao-yi-suo-qi-hang/) - 2026-07-05 (#growth)
 - [聚焦亚太能源转型：施耐德电气与Seraya Partners联合启动5亿美元Faraday能源基金](https://fcvoyage.com/ju-jiao-ya-tai-neng-yuan-zhuan-xing-shi-nai-de-dian-qi-yu-seraya-partnerslian-he-qi-dong-5yi-mei-yuan-faradayneng-yuan-ji-jin/) - 2026-07-05 (#growth)
 - [越南“净零挑战”2026创新大赛启动，80万美元巨额奖金助力气候科技发展](https://fcvoyage.com/yue-nan-jing-ling-tiao-zhan-2026chuang-xin-da-sai-qi-dong-80mo-mei-yuan-ju-e-jiang-jin-zhu-li-qi-hou-ke-ji-fa-zhan/) - 2026-07-05 (#growth)
-- [Nuvei携手Visa完成开创性代理式支付测试，引领AI驱动商业新范式](https://fcvoyage.com/nuveixi-shou-visawan-cheng-kai-chuang-xing-dai-li-shi-zhi-fu-ce-shi-yin-ling-aiqu-dong-shang-ye-xin-fan-shi/) - 2026-07-05 (#insights)
 <!-- END_POSTS -->
