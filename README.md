@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜NOL卡全面升级：交通零售一卡通行！](https://t.me/c/4392427626/1051) - 2026-07-05 (#dubai)
 - [以色列首认：铁穹系统曾部署阿联酋](https://t.me/c/4392427626/1050) - 2026-07-05 (#dubai)
 - [新加坡警方六月突击：超1.7万人受查，519人被捕](https://t.me/c/4392427626/1049) - 2026-07-05 (#dubai)
 - [️ 网络PUA套路升级：‘10分钟搞定’实为情感操控陷阱](https://t.me/c/4392427626/1048) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [越南“净零挑战”2026创新大赛启动，80万美元巨额奖金助力气候科技发展](https://fcvoyage.com/yue-nan-jing-ling-tiao-zhan-2026chuang-xin-da-sai-qi-dong-80mo-mei-yuan-ju-e-jiang-jin-zhu-li-qi-hou-ke-ji-fa-zhan/) - 2026-07-05 (#growth)
 - [Nuvei携手Visa完成开创性代理式支付测试，引领AI驱动商业新范式](https://fcvoyage.com/nuveixi-shou-visawan-cheng-kai-chuang-xing-dai-li-shi-zhi-fu-ce-shi-yin-ling-aiqu-dong-shang-ye-xin-fan-shi/) - 2026-07-05 (#insights)
 - [微软豪掷25亿美元，组建AI工程新部门，深度赋能企业级应用](https://fcvoyage.com/wei-ruan-hao-zhi-25yi-mei-yuan-zu-jian-aigong-cheng-xin-bu-men-shen-du-fu-neng-qi-ye-ji-ying-yong/) - 2026-07-05 (#insights)
-- [新中资本市场监管深化：MAS与CSRC签署人员交流协议](https://t.me/c/4392427626/1021) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
