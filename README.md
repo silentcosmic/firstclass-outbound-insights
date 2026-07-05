@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [微软豪掷25亿美元，组建AI工程新部门，深度赋能企业级应用](https://fcvoyage.com/wei-ruan-hao-zhi-25yi-mei-yuan-zu-jian-aigong-cheng-xin-bu-men-shen-du-fu-neng-qi-ye-ji-ying-yong/) - 2026-07-05 (#insights)
 - [新中资本市场监管深化：MAS与CSRC签署人员交流协议](https://t.me/c/4392427626/1021) - 2026-07-05 (#dubai)
 - [新中资本市场监管合作深化：新加坡金管局与中国证监会签署人员交流协议](https://fcvoyage.com/xin-zhong-zi-ben-shi-chang-jian-guan-he-zuo-shen-hua-xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi/) - 2026-07-05 (#insights)
 - [迪拜周边新发现：拉斯海马成高净值人群避世新选择](https://t.me/c/4392427626/1019) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [日本破获2亿日元跨境洗钱案，7名中国籍嫌犯被捕](https://t.me/c/4392427626/995) - 2026-07-05 (#dubai)
 - [海外奋斗者：一场球赛映照的希望与失落](https://t.me/c/4392427626/994) - 2026-07-05 (#dubai)
 - [️ 虚拟资产提现受阻：深度解析账户冻结风险](https://t.me/c/4392427626/993) - 2026-07-05 (#dubai)
-- [印度监管风暴：Telegram、Signal反诈措施遭问询](https://t.me/c/4392427626/992) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
