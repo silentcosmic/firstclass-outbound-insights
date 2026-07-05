@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [台湾竹联帮涉人口贩运：缅甸女子被诱骗囚禁逼娼](https://t.me/c/4392427626/1047) - 2026-07-05 (#dubai)
 - [英国顶尖学府争相进驻阿联酋：国际教育市场再升温](https://t.me/c/4392427626/1046) - 2026-07-05 (#dubai)
 - [迪拜地铁蓝线公布：全球最高地铁站将落成](https://t.me/c/4392427626/1045) - 2026-07-05 (#dubai)
 - [家乐福全球首家高端精品超市落地迪拜，剑指高端市场](https://t.me/c/4392427626/1044) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [新中资本市场监管合作深化：新加坡金管局与中国证监会签署人员交流协议](https://fcvoyage.com/xin-zhong-zi-ben-shi-chang-jian-guan-he-zuo-shen-hua-xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi/) - 2026-07-05 (#insights)
 - [迪拜周边新发现：拉斯海马成高净值人群避世新选择](https://t.me/c/4392427626/1019) - 2026-07-05 (#dubai)
 - [菲律宾回国经商者：护照被剪，限制出境三年！](https://t.me/c/4392427626/1018) - 2026-07-05 (#dubai)
-- [柬埔寨大规模打击网络诈骗，207人被捕](https://t.me/c/4392427626/1017) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
