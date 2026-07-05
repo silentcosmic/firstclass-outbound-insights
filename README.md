@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [洪森足球论引中方共鸣：小国亦平等](https://t.me/c/4392427626/1059) - 2026-07-06 (#dubai)
 - [印尼破获跨国诈骗案：210外籍嫌犯待遣返](https://t.me/c/4392427626/1058) - 2026-07-06 (#dubai)
 - [吉隆坡突发大规模执法：多名外籍人士被带走](https://t.me/c/4392427626/1057) - 2026-07-06 (#dubai)
 - [霍尔木兹海峡航运渐复，中东产油国增供](https://t.me/c/4392427626/1056) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [智能外骨骼：重塑户外探索与人机协作的新纪元](https://fcvoyage.com/zhi-neng-wai-gu-ge-zhong-su-hu-wai-tan-suo-yu-ren-ji-xie-zuo-de-xin-ji-yuan/) - 2026-07-05 (#insights)
 - [行业风向 | 丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉](https://fcvoyage.com/xing-ye-feng-xiang-gun-ju-shen-zhi-neng-di-yi-gu-yu-shu-ke-ji-shang-shi-shen-qing-tong-guo-skhai-li-shi-dan-ri-shi-zhi-zheng-fa-10000yi-yuan-pei-zhi-shi-wu-yin-fa-0yuan-qiang-gou-chao-b/) - 2026-07-05 (#insights)
 - [区域局势缓和驱动：海湾地区6月原油出口量显著反弹](https://fcvoyage.com/qu-yu-ju-shi-huan-he-qu-dong-hai-wan-di-qu-6yue-yuan-you-chu-kou-liang-xian-zhu-fan-dan/) - 2026-07-05 (#insights)
-- [戛纳广告节：人工智能、开放网络与程序化广告的前瞻洞察与乐观趋势](https://fcvoyage.com/jia-na-yan-gao-jie-ren-gong-zhi-neng-kai-fang-wang-luo-yu-cheng-xu-hua-yan-gao-de-qian-zhan-dong-cha-yu-le-guan-qu-shi/) - 2026-07-05 (#growth)
 <!-- END_POSTS -->
