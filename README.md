@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 阿联酋铁路新规：最高罚款1万迪拉姆，违规者或面临监禁](https://t.me/c/4392427626/1055) - 2026-07-06 (#dubai)
 - [阿联酋精英狂减19公斤：RAK健身赛夺冠揽5万迪拉姆](https://t.me/c/4392427626/1054) - 2026-07-06 (#dubai)
 - [四川绵竹深夜地震：关注当地影响](https://t.me/c/4392427626/1053) - 2026-07-06 (#dubai)
 - [阿联酋迪拉姆稳定币获批：加速融入日常生活](https://t.me/c/4392427626/1052) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [AI时代内容信任之争：为何创作者的价值超越算法本身](https://fcvoyage.com/aishi-dai-nei-rong-xin-ren-zhi-zheng-wei-he-chuang-zuo-zhe-de-jie-zhi-chao-yue-suan-fa-ben-shen/) - 2026-07-05 (#growth)
 - [电视内容中动态植入广告：颠覆创新抑或干扰体验？](https://fcvoyage.com/dian-shi-nei-rong-zhong-dong-tai-zhi-ru-yan-gao-dian-fu-chuang-xin-yi-huo-gan-rao-ti-yan/) - 2026-07-05 (#growth)
 - [全球基础设施赋能本土市场：BTSE印尼持牌数字与加密资产交易所启航](https://fcvoyage.com/quan-qiu-ji-chu-she-shi-fu-neng-ben-tu-shi-chang-btseyin-ni-chi-pai-shu-zi-yu-jia-mi-zi-chan-jiao-yi-suo-qi-hang/) - 2026-07-05 (#growth)
-- [聚焦亚太能源转型：施耐德电气与Seraya Partners联合启动5亿美元Faraday能源基金](https://fcvoyage.com/ju-jiao-ya-tai-neng-yuan-zhuan-xing-shi-nai-de-dian-qi-yu-seraya-partnerslian-he-qi-dong-5yi-mei-yuan-faradayneng-yuan-ji-jin/) - 2026-07-05 (#growth)
 <!-- END_POSTS -->
