@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [以色列首认：铁穹系统曾部署阿联酋](https://t.me/c/4392427626/1050) - 2026-07-05 (#dubai)
 - [新加坡警方六月突击：超1.7万人受查，519人被捕](https://t.me/c/4392427626/1049) - 2026-07-05 (#dubai)
 - [️ 网络PUA套路升级：‘10分钟搞定’实为情感操控陷阱](https://t.me/c/4392427626/1048) - 2026-07-05 (#dubai)
 - [台湾竹联帮涉人口贩运：缅甸女子被诱骗囚禁逼娼](https://t.me/c/4392427626/1047) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [Nuvei携手Visa完成开创性代理式支付测试，引领AI驱动商业新范式](https://fcvoyage.com/nuveixi-shou-visawan-cheng-kai-chuang-xing-dai-li-shi-zhi-fu-ce-shi-yin-ling-aiqu-dong-shang-ye-xin-fan-shi/) - 2026-07-05 (#insights)
 - [微软豪掷25亿美元，组建AI工程新部门，深度赋能企业级应用](https://fcvoyage.com/wei-ruan-hao-zhi-25yi-mei-yuan-zu-jian-aigong-cheng-xin-bu-men-shen-du-fu-neng-qi-ye-ji-ying-yong/) - 2026-07-05 (#insights)
 - [新中资本市场监管深化：MAS与CSRC签署人员交流协议](https://t.me/c/4392427626/1021) - 2026-07-05 (#dubai)
-- [新中资本市场监管合作深化：新加坡金管局与中国证监会签署人员交流协议](https://fcvoyage.com/xin-zhong-zi-ben-shi-chang-jian-guan-he-zuo-shen-hua-xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi/) - 2026-07-05 (#insights)
 <!-- END_POSTS -->
