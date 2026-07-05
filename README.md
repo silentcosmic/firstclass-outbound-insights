@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新中资本市场监管合作深化：新加坡金管局与中国证监会签署人员交流协议](https://fcvoyage.com/xin-zhong-zi-ben-shi-chang-jian-guan-he-zuo-shen-hua-xin-jia-po-jin-guan-ju-yu-zhong-guo-zheng-jian-hui-qian-shu-ren-yuan-jiao-liu-xie-yi/) - 2026-07-05 (#insights)
 - [迪拜周边新发现：拉斯海马成高净值人群避世新选择](https://t.me/c/4392427626/1019) - 2026-07-05 (#dubai)
 - [菲律宾回国经商者：护照被剪，限制出境三年！](https://t.me/c/4392427626/1018) - 2026-07-05 (#dubai)
 - [柬埔寨大规模打击网络诈骗，207人被捕](https://t.me/c/4392427626/1017) - 2026-07-05 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 虚拟资产提现受阻：深度解析账户冻结风险](https://t.me/c/4392427626/993) - 2026-07-05 (#dubai)
 - [印度监管风暴：Telegram、Signal反诈措施遭问询](https://t.me/c/4392427626/992) - 2026-07-05 (#dubai)
 - [️ 长期居菲者回国遭管控：护照失效，三年内限制出境](https://t.me/c/4392427626/991) - 2026-07-05 (#dubai)
-- [迪拜杰贝阿里路多车相撞：25人伤，警方再发安全提醒](https://t.me/c/4392427626/990) - 2026-07-04 (#dubai)
 <!-- END_POSTS -->
