@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [沙迦酋长新书揭秘：17世纪马斯喀特战役复盘](https://t.me/c/4392427626/1105) - 2026-07-07 (#dubai)
 - [️ 超强台风“巴威”来袭：关岛、北马里亚纳群岛及东南沿海需警惕](https://t.me/c/4392427626/1104) - 2026-07-07 (#dubai)
 - [️ 阿联酋央行再罚外资银行182万迪拉姆：合规监管持续收紧](https://t.me/c/4392427626/1103) - 2026-07-07 (#dubai)
 - [沙迦机场夏季高峰：客流预计突破300万](https://t.me/c/4392427626/1102) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [马来西亚KTV深夜突查：多名涉事人员被捕](https://t.me/c/4392427626/1078) - 2026-07-06 (#dubai)
 - [老挝跨境执法：174名涉诈嫌犯移交中国](https://t.me/c/4392427626/1077) - 2026-07-06 (#dubai)
 - [生物基皮革引领者贻如科技完成超亿元A轮融资，鄂尔多斯、和达金服联合领投](https://fcvoyage.com/sheng-wu-ji-pi-ge-yin-ling-zhe-yi-ru-ke-ji-wan-cheng-chao-yi-yuan-alun-rong-zi-e-er-duo-si-he-da-jin-fu-lian-he-ling-tou/) - 2026-07-06 (#insights)
-- [小米前高管打造餐饮具身机器人，「影智XBOT」获数亿元融资，林斌、黎万强等知名投资者参与](https://fcvoyage.com/xiao-mi-qian-gao-guan-da-zao-can-yin-ju-shen-ji-qi-ren-ying-zhi-xbot-huo-shu-yi-yuan-rong-zi-lin-bin-li-mo-qiang-deng-zhi-ming-tou-zi-zhe-can-yu/) - 2026-07-06 (#insights)
 <!-- END_POSTS -->
