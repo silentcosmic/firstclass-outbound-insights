@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡金管局携手业界，共同为金融AI代理开发保障框架](https://fcvoyage.com/xin-jia-po-jin-guan-ju-xi-shou-ye-jie-gong-tong-wei-jin-rong-aidai-li-kai-fa-bao-zhang-kuang-jia/) - 2026-07-06 (#growth)
 - [星展银行与三星证券深化合作，共拓全球财富管理新格局](https://fcvoyage.com/xing-zhan-yin-xing-yu-san-xing-zheng-quan-shen-hua-he-zuo-gong-tuo-quan-qiu-cai-fu-guan-li-xin-ge-ju/) - 2026-07-06 (#insights)
 - [绿联银行2025年盈利：新加坡数字金融新里程碑](https://t.me/c/4392427626/1070) - 2026-07-06 (#dubai)
 - [新加坡数字银行业新里程：绿联银行2025年净利达1610万新元](https://fcvoyage.com/xin-jia-po-shu-zi-yin-xing-ye-xin-li-cheng-lu-lian-yin-xing-2025nian-jing-li-da-1610mo-xin-yuan/) - 2026-07-06 (#insights)
@@ -33,5 +34,4 @@
 - [迪拜地铁蓝线公布：全球最高地铁站将落成](https://t.me/c/4392427626/1045) - 2026-07-05 (#dubai)
 - [家乐福全球首家高端精品超市落地迪拜，剑指高端市场](https://t.me/c/4392427626/1044) - 2026-07-05 (#dubai)
 - [️ 苹果iOS 27反诈新规：AI识别远程操控，防范社工诈骗](https://t.me/c/4392427626/1043) - 2026-07-05 (#dubai)
-- [警惕！多签钱包新骗局：资产可见却无法转移](https://t.me/c/4392427626/1042) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
