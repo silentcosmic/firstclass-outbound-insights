@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [特斯拉Model Y L全球同步上市：出海战略大转向](https://t.me/c/4392427626/1100) - 2026-07-06 (#dubai)
 - [地区冲突冲击阿联酋就业：低薪岗位招聘锐减](https://t.me/c/4392427626/1099) - 2026-07-06 (#dubai)
 - [️ 汇旺维权新进展：巨额债务二折收购遭拒](https://t.me/c/4392427626/1098) - 2026-07-06 (#dubai)
 - [️ 中国多地突查手机应用：数字通信合规风险升高](https://t.me/c/4392427626/1097) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [新加坡机器人新星dConstruct斩获1.25亿美元A轮融资，国家级孵化项目硕果累累](https://fcvoyage.com/xin-jia-po-ji-qi-ren-xin-xing-dconstructzhan-huo-1-25yi-mei-yuan-alun-rong-zi-guo-jia-ji-fu-hua-xiang-mu-shuo-guo-lei-lei/) - 2026-07-06 (#growth)
 - [新加坡金管局携手业界，共同为金融AI代理开发保障框架](https://fcvoyage.com/xin-jia-po-jin-guan-ju-xi-shou-ye-jie-gong-tong-wei-jin-rong-aidai-li-kai-fa-bao-zhang-kuang-jia/) - 2026-07-06 (#growth)
 - [星展银行与三星证券深化合作，共拓全球财富管理新格局](https://fcvoyage.com/xing-zhan-yin-xing-yu-san-xing-zheng-quan-shen-hua-he-zuo-gong-tuo-quan-qiu-cai-fu-guan-li-xin-ge-ju/) - 2026-07-06 (#insights)
-- [绿联银行2025年盈利：新加坡数字金融新里程碑](https://t.me/c/4392427626/1070) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
