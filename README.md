@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 阿联酋央行再罚外资银行182万迪拉姆：合规监管持续收紧](https://t.me/c/4392427626/1103) - 2026-07-07 (#dubai)
 - [沙迦机场夏季高峰：客流预计突破300万](https://t.me/c/4392427626/1102) - 2026-07-06 (#dubai)
 - [阿联酋严打假冒商品：最高罚款百万迪拉姆！](https://t.me/c/4392427626/1101) - 2026-07-06 (#dubai)
 - [特斯拉Model Y L全球同步上市：出海战略大转向](https://t.me/c/4392427626/1100) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [生物基皮革引领者贻如科技完成超亿元A轮融资，鄂尔多斯、和达金服联合领投](https://fcvoyage.com/sheng-wu-ji-pi-ge-yin-ling-zhe-yi-ru-ke-ji-wan-cheng-chao-yi-yuan-alun-rong-zi-e-er-duo-si-he-da-jin-fu-lian-he-ling-tou/) - 2026-07-06 (#insights)
 - [小米前高管打造餐饮具身机器人，「影智XBOT」获数亿元融资，林斌、黎万强等知名投资者参与](https://fcvoyage.com/xiao-mi-qian-gao-guan-da-zao-can-yin-ju-shen-ji-qi-ren-ying-zhi-xbot-huo-shu-yi-yuan-rong-zi-lin-bin-li-mo-qiang-deng-zhi-ming-tou-zi-zhe-can-yu/) - 2026-07-06 (#insights)
 - [淡马锡关联机构Azalea重磅推出3.5亿美元私募股权常青基金，开创灵活投资新纪元](https://fcvoyage.com/dan-ma-xi-guan-lian-ji-gou-azaleazhong-bang-tui-chu-3-5yi-mei-yuan-si-mu-gu-quan-chang-qing-ji-jin-kai-chuang-ling-huo-tou-zi-xin-ji-yuan/) - 2026-07-06 (#growth)
-- [新加坡机器人新星dConstruct斩获1.25亿美元A轮融资，国家级孵化项目硕果累累](https://fcvoyage.com/xin-jia-po-ji-qi-ren-xin-xing-dconstructzhan-huo-1-25yi-mei-yuan-alun-rong-zi-guo-jia-ji-fu-hua-xiang-mu-shuo-guo-lei-lei/) - 2026-07-06 (#growth)
 <!-- END_POSTS -->
