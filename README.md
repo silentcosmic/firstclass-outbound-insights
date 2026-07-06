@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚KTV深夜突查：多名涉事人员被捕](https://t.me/c/4392427626/1078) - 2026-07-06 (#dubai)
 - [老挝跨境执法：174名涉诈嫌犯移交中国](https://t.me/c/4392427626/1077) - 2026-07-06 (#dubai)
 - [生物基皮革引领者贻如科技完成超亿元A轮融资，鄂尔多斯、和达金服联合领投](https://fcvoyage.com/sheng-wu-ji-pi-ge-yin-ling-zhe-yi-ru-ke-ji-wan-cheng-chao-yi-yuan-alun-rong-zi-e-er-duo-si-he-da-jin-fu-lian-he-ling-tou/) - 2026-07-06 (#insights)
 - [小米前高管打造餐饮具身机器人，「影智XBOT」获数亿元融资，林斌、黎万强等知名投资者参与](https://fcvoyage.com/xiao-mi-qian-gao-guan-da-zao-can-yin-ju-shen-ji-qi-ren-ying-zhi-xbot-huo-shu-yi-yuan-rong-zi-lin-bin-li-mo-qiang-deng-zhi-ming-tou-zi-zhe-can-yu/) - 2026-07-06 (#insights)
@@ -33,5 +34,4 @@
 - [迪拜NOL卡全面升级：交通零售一卡通行！](https://t.me/c/4392427626/1051) - 2026-07-05 (#dubai)
 - [以色列首认：铁穹系统曾部署阿联酋](https://t.me/c/4392427626/1050) - 2026-07-05 (#dubai)
 - [新加坡警方六月突击：超1.7万人受查，519人被捕](https://t.me/c/4392427626/1049) - 2026-07-05 (#dubai)
-- [️ 网络PUA套路升级：‘10分钟搞定’实为情感操控陷阱](https://t.me/c/4392427626/1048) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
