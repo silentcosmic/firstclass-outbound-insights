@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [淡马锡关联机构Azalea重磅推出3.5亿美元私募股权常青基金，开创灵活投资新纪元](https://fcvoyage.com/dan-ma-xi-guan-lian-ji-gou-azaleazhong-bang-tui-chu-3-5yi-mei-yuan-si-mu-gu-quan-chang-qing-ji-jin-kai-chuang-ling-huo-tou-zi-xin-ji-yuan/) - 2026-07-06 (#growth)
 - [新加坡机器人新星dConstruct斩获1.25亿美元A轮融资，国家级孵化项目硕果累累](https://fcvoyage.com/xin-jia-po-ji-qi-ren-xin-xing-dconstructzhan-huo-1-25yi-mei-yuan-alun-rong-zi-guo-jia-ji-fu-hua-xiang-mu-shuo-guo-lei-lei/) - 2026-07-06 (#growth)
 - [新加坡金管局携手业界，共同为金融AI代理开发保障框架](https://fcvoyage.com/xin-jia-po-jin-guan-ju-xi-shou-ye-jie-gong-tong-wei-jin-rong-aidai-li-kai-fa-bao-zhang-kuang-jia/) - 2026-07-06 (#growth)
 - [星展银行与三星证券深化合作，共拓全球财富管理新格局](https://fcvoyage.com/xing-zhan-yin-xing-yu-san-xing-zheng-quan-shen-hua-he-zuo-gong-tuo-quan-qiu-cai-fu-guan-li-xin-ge-ju/) - 2026-07-06 (#insights)
@@ -33,5 +34,4 @@
 - [台湾竹联帮涉人口贩运：缅甸女子被诱骗囚禁逼娼](https://t.me/c/4392427626/1047) - 2026-07-05 (#dubai)
 - [英国顶尖学府争相进驻阿联酋：国际教育市场再升温](https://t.me/c/4392427626/1046) - 2026-07-05 (#dubai)
 - [迪拜地铁蓝线公布：全球最高地铁站将落成](https://t.me/c/4392427626/1045) - 2026-07-05 (#dubai)
-- [家乐福全球首家高端精品超市落地迪拜，剑指高端市场](https://t.me/c/4392427626/1044) - 2026-07-05 (#dubai)
 <!-- END_POSTS -->
