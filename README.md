@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 汇旺维权新进展：巨额债务二折收购遭拒](https://t.me/c/4392427626/1098) - 2026-07-06 (#dubai)
 - [️ 中国多地突查手机应用：数字通信合规风险升高](https://t.me/c/4392427626/1097) - 2026-07-06 (#dubai)
 - [出海项目屡遭网络窃取：竞争手段引关注](https://t.me/c/4392427626/1096) - 2026-07-06 (#dubai)
 - [柬埔寨拜林省长誓言：彻底清剿网络诈骗](https://t.me/c/4392427626/1095) - 2026-07-06 (#dubai)
@@ -33,5 +34,4 @@
 - [星展银行与三星证券深化合作，共拓全球财富管理新格局](https://fcvoyage.com/xing-zhan-yin-xing-yu-san-xing-zheng-quan-shen-hua-he-zuo-gong-tuo-quan-qiu-cai-fu-guan-li-xin-ge-ju/) - 2026-07-06 (#insights)
 - [绿联银行2025年盈利：新加坡数字金融新里程碑](https://t.me/c/4392427626/1070) - 2026-07-06 (#dubai)
 - [新加坡数字银行业新里程：绿联银行2025年净利达1610万新元](https://fcvoyage.com/xin-jia-po-shu-zi-yin-xing-ye-xin-li-cheng-lu-lian-yin-xing-2025nian-jing-li-da-1610mo-xin-yuan/) - 2026-07-06 (#insights)
-- [迪拜观察：精英群体工作生活观的悄然转变](https://t.me/c/4392427626/1068) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
