@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚数字银行Boost：智能代理AI驱动客户服务变革，效率提升九成](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-boost-zhi-neng-dai-li-aiqu-dong-ke-hu-fu-wu-bian-ge-xiao-lu-ti-sheng-jiu-cheng/) - 2026-07-07 (#growth)
 - [dtcpay携手TP，构建亚太区全天候客户服务新体系](https://fcvoyage.com/dtcpayxi-shou-tp-gou-jian-ya-tai-qu-quan-tian-hou-ke-hu-fu-wu-xin-ti-xi/) - 2026-07-07 (#insights)
 - [小米深化全球布局：携手Adyen整合18个市场支付服务](https://fcvoyage.com/xiao-mi-shen-hua-quan-qiu-bu-ju-xi-shou-adyenzheng-he-18ge-shi-chang-zhi-fu-fu-wu/) - 2026-07-07 (#insights)
 - [Fortinet任命高管，重塑亚太销售格局](https://t.me/c/4392427626/1110) - 2026-07-07 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 马来西亚酒店未挂中国国旗引争议，视频已删除](https://t.me/c/4392427626/1086) - 2026-07-06 (#dubai)
 - [越南警方重拳出击：百人诈骗团伙疑涉中国资金](https://t.me/c/4392427626/1085) - 2026-07-06 (#dubai)
 - [泰国重拳出击：国际红通赌博头目落网，涉案年入超340万美元](https://t.me/c/4392427626/1084) - 2026-07-06 (#dubai)
-- [迪拜谢赫扎耶德路餐厅火灾：火势已控，无人员伤亡](https://t.me/c/4392427626/1083) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
