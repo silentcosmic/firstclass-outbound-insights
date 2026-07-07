@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [斯里兰卡监狱暴乱：致4死35伤](https://t.me/c/4392427626/1121) - 2026-07-07 (#dubai)
 - [东南亚区域前沿：越南重金投建AI数据中心，马来西亚擘画数字经济蓝图](https://fcvoyage.com/dong-nan-ya-qu-yu-qian-yan-yue-nan-zhong-jin-tou-jian-aishu-ju-zhong-xin-ma-lai-xi-ya-bo-hua-shu-zi-jing-ji-lan-tu/) - 2026-07-07 (#growth)
 - [深度解析海外漫剧出海：内容生态变迁与创作者生存之道](https://fcvoyage.com/shen-du-jie-xi-hai-wai-man-ju-chu-hai-nei-rong-sheng-tai-bian-qian-yu-chuang-zuo-zhe-sheng-cun-zhi-dao/) - 2026-07-07 (#insights)
 - [全球科技前沿与市场策略洞察：折叠屏趋势、AI模型演进及消费新动能](https://fcvoyage.com/quan-qiu-ke-ji-qian-yan-yu-shi-chang-ce-lue-dong-cha-zhe-die-ping-qu-shi-aimo-xing-yan-jin-ji-xiao-fei-xin-dong-neng/) - 2026-07-07 (#insights)
@@ -33,5 +34,4 @@
 - [柬埔寨新省长上任首巡：被查封电诈园区](https://t.me/c/4392427626/1094) - 2026-07-06 (#dubai)
 - [️ 缅甸高薪陷阱揭秘：自由与财富的双重深渊](https://t.me/c/4392427626/1093) - 2026-07-06 (#dubai)
 - [ADCB银行服务全面恢复：客户数据安全无虞](https://t.me/c/4392427626/1092) - 2026-07-06 (#dubai)
-- [金边破获跨国杀猪盘：美元冥币成诈骗工具](https://t.me/c/4392427626/1091) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
