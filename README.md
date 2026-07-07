@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋航空首架777-300ERSF改装货机投入运营](https://t.me/c/4392427626/1148) - 2026-07-08 (#dubai)
 - [阿布扎比将建全球第二座巨型LED球体地标](https://t.me/c/4392427626/1147) - 2026-07-08 (#dubai)
 - [马来西亚：吉隆坡雪兰莪今晚启动联合执法行动](https://t.me/c/4392427626/1146) - 2026-07-08 (#dubai)
 - [伊朗恢复霍尔木兹海峡袭击：商船遭导弹攻击](https://t.me/c/4392427626/1145) - 2026-07-08 (#dubai)
@@ -33,5 +34,4 @@
 - [斯里兰卡监狱暴乱：致4死35伤](https://t.me/c/4392427626/1121) - 2026-07-07 (#dubai)
 - [东南亚区域前沿：越南重金投建AI数据中心，马来西亚擘画数字经济蓝图](https://fcvoyage.com/dong-nan-ya-qu-yu-qian-yan-yue-nan-zhong-jin-tou-jian-aishu-ju-zhong-xin-ma-lai-xi-ya-bo-hua-shu-zi-jing-ji-lan-tu/) - 2026-07-07 (#growth)
 - [深度解析海外漫剧出海：内容生态变迁与创作者生存之道](https://fcvoyage.com/shen-du-jie-xi-hai-wai-man-ju-chu-hai-nei-rong-sheng-tai-bian-qian-yu-chuang-zuo-zhe-sheng-cun-zhi-dao/) - 2026-07-07 (#insights)
-- [全球科技前沿与市场策略洞察：折叠屏趋势、AI模型演进及消费新动能](https://fcvoyage.com/quan-qiu-ke-ji-qian-yan-yu-shi-chang-ce-lue-dong-cha-zhe-die-ping-qu-shi-aimo-xing-yan-jin-ji-xiao-fei-xin-dong-neng/) - 2026-07-07 (#insights)
 <!-- END_POSTS -->
