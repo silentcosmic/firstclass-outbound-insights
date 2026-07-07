@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [小米深化全球布局：携手Adyen整合18个市场支付服务](https://fcvoyage.com/xiao-mi-shen-hua-quan-qiu-bu-ju-xi-shou-adyenzheng-he-18ge-shi-chang-zhi-fu-fu-wu/) - 2026-07-07 (#insights)
 - [Fortinet任命高管，重塑亚太销售格局](https://t.me/c/4392427626/1110) - 2026-07-07 (#dubai)
 - [Fortinet任命资深高管西蒙内利，擘画亚太区销售新格局](https://fcvoyage.com/fortinetren-ming-zi-shen-gao-guan-xi-meng-nei-li-bo-hua-ya-tai-qu-xiao-shou-xin-ge-ju/) - 2026-07-07 (#insights)
 - [️ 迪拜华人警惕：两类新型骗局高发，已有损失！](https://t.me/c/4392427626/1108) - 2026-07-07 (#dubai)
@@ -33,5 +34,4 @@
 - [泰国重拳出击：国际红通赌博头目落网，涉案年入超340万美元](https://t.me/c/4392427626/1084) - 2026-07-06 (#dubai)
 - [迪拜谢赫扎耶德路餐厅火灾：火势已控，无人员伤亡](https://t.me/c/4392427626/1083) - 2026-07-06 (#dubai)
 - [迪拜超豪宅销量破纪录：H1 2026交易额达51亿美元](https://t.me/c/4392427626/1082) - 2026-07-06 (#dubai)
-- [️ 中国公民海外使馆前维权：账户冻结引关注](https://t.me/c/4392427626/1081) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
