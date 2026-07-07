@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋全球首例：空中出租车起降场获官方认证](https://t.me/c/4392427626/1138) - 2026-07-07 (#dubai)
 - [日本收紧柬埔寨、瓦努阿图及福建人员居留审查](https://t.me/c/4392427626/1137) - 2026-07-07 (#dubai)
 - [阿联酋彩票再爆3000万迪拉姆头奖得主！](https://t.me/c/4392427626/1136) - 2026-07-07 (#dubai)
 - [泰国警方破获跨境非法代孕案，中国籍组织者芭提雅落网](https://t.me/c/4392427626/1135) - 2026-07-07 (#dubai)
@@ -33,5 +34,4 @@
 - [小米深化全球布局：携手Adyen整合18个市场支付服务](https://fcvoyage.com/xiao-mi-shen-hua-quan-qiu-bu-ju-xi-shou-adyenzheng-he-18ge-shi-chang-zhi-fu-fu-wu/) - 2026-07-07 (#insights)
 - [Fortinet任命高管，重塑亚太销售格局](https://t.me/c/4392427626/1110) - 2026-07-07 (#dubai)
 - [Fortinet任命资深高管西蒙内利，擘画亚太区销售新格局](https://fcvoyage.com/fortinetren-ming-zi-shen-gao-guan-xi-meng-nei-li-bo-hua-ya-tai-qu-xiao-shou-xin-ge-ju/) - 2026-07-07 (#insights)
-- [️ 迪拜华人警惕：两类新型骗局高发，已有损失！](https://t.me/c/4392427626/1108) - 2026-07-07 (#dubai)
 <!-- END_POSTS -->
