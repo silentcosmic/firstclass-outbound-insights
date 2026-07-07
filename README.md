@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [曼谷车内离奇双亡：引擎运转，死因待查](https://t.me/c/4392427626/1141) - 2026-07-07 (#dubai)
 - [️ 迪拜警方紧急警告：警惕假冒“消保”网站窃取银行信息](https://t.me/c/4392427626/1140) - 2026-07-07 (#dubai)
 - [迪拜华人遭遇绑架勒索：警方已介入调查](https://t.me/c/4392427626/1139) - 2026-07-07 (#dubai)
 - [阿联酋全球首例：空中出租车起降场获官方认证](https://t.me/c/4392427626/1138) - 2026-07-07 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | Malaysia’s EV push shifts to localization as import curbs reshape market](https://fcvoyage.com/xing-ye-feng-xiang-malaysias-ev-push-shifts-to-localization-as-import-curbs-reshape-market/) - 2026-07-07 (#growth)
 - [马来西亚数字银行Boost：智能代理AI驱动客户服务变革，效率提升九成](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-boost-zhi-neng-dai-li-aiqu-dong-ke-hu-fu-wu-bian-ge-xiao-lu-ti-sheng-jiu-cheng/) - 2026-07-07 (#growth)
 - [dtcpay携手TP，构建亚太区全天候客户服务新体系](https://fcvoyage.com/dtcpayxi-shou-tp-gou-jian-ya-tai-qu-quan-tian-hou-ke-hu-fu-wu-xin-ti-xi/) - 2026-07-07 (#insights)
-- [小米深化全球布局：携手Adyen整合18个市场支付服务](https://fcvoyage.com/xiao-mi-shen-hua-quan-qiu-bu-ju-xi-shou-adyenzheng-he-18ge-shi-chang-zhi-fu-fu-wu/) - 2026-07-07 (#insights)
 <!-- END_POSTS -->
