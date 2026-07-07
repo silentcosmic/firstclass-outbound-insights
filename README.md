@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [乐金显示（LG Innotek）斥资10亿美元 越南海防半导体基板工厂2026年Q3动工](https://fcvoyage.com/le-jin-xian-shi-lg-innotek-chi-zi-10yi-mei-yuan-yue-nan-hai-fang-ban-dao-ti-ji-ban-gong-han-2026nian-q3dong-gong/) - 2026-07-07 (#growth)
 - [行业风向 | Malaysia’s EV push shifts to localization as import curbs reshape market](https://fcvoyage.com/xing-ye-feng-xiang-malaysias-ev-push-shifts-to-localization-as-import-curbs-reshape-market/) - 2026-07-07 (#growth)
 - [马来西亚数字银行Boost：智能代理AI驱动客户服务变革，效率提升九成](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-boost-zhi-neng-dai-li-aiqu-dong-ke-hu-fu-wu-bian-ge-xiao-lu-ti-sheng-jiu-cheng/) - 2026-07-07 (#growth)
 - [dtcpay携手TP，构建亚太区全天候客户服务新体系](https://fcvoyage.com/dtcpayxi-shou-tp-gou-jian-ya-tai-qu-quan-tian-hou-ke-hu-fu-wu-xin-ti-xi/) - 2026-07-07 (#insights)
@@ -33,5 +34,4 @@
 - [斯里兰卡突查外国商铺：中国商品包装引监管警示](https://t.me/c/4392427626/1088) - 2026-07-06 (#dubai)
 - [️ 支付清算协会警示：虚拟货币跨境赌博风险高](https://t.me/c/4392427626/1087) - 2026-07-06 (#dubai)
 - [️ 马来西亚酒店未挂中国国旗引争议，视频已删除](https://t.me/c/4392427626/1086) - 2026-07-06 (#dubai)
-- [越南警方重拳出击：百人诈骗团伙疑涉中国资金](https://t.me/c/4392427626/1085) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
