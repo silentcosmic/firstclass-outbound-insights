@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球产业风向 | 哈工大在读博士领衔，珞石机器人百亿市值冲击港股，创始团队仅剩一人](https://fcvoyage.com/quan-qiu-chan-ye-feng-xiang-ha-gong-da-zai-du-bo-shi-ling-xian-luo-shi-ji-qi-ren-bai-yi-shi-zhi-chong-ji-gang-gu-chuang-shi-tuan-dui-jin-sheng-yi-ren/) - 2026-07-07 (#insights)
 - [乐金显示（LG Innotek）斥资10亿美元 越南海防半导体基板工厂2026年Q3动工](https://fcvoyage.com/le-jin-xian-shi-lg-innotek-chi-zi-10yi-mei-yuan-yue-nan-hai-fang-ban-dao-ti-ji-ban-gong-han-2026nian-q3dong-gong/) - 2026-07-07 (#growth)
 - [行业风向 | Malaysia’s EV push shifts to localization as import curbs reshape market](https://fcvoyage.com/xing-ye-feng-xiang-malaysias-ev-push-shifts-to-localization-as-import-curbs-reshape-market/) - 2026-07-07 (#growth)
 - [马来西亚数字银行Boost：智能代理AI驱动客户服务变革，效率提升九成](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-boost-zhi-neng-dai-li-aiqu-dong-ke-hu-fu-wu-bian-ge-xiao-lu-ti-sheng-jiu-cheng/) - 2026-07-07 (#growth)
@@ -33,5 +34,4 @@
 - [️ 缅甸园区亲历者：高薪诱骗，拒绝诈骗即遭电击](https://t.me/c/4392427626/1089) - 2026-07-06 (#dubai)
 - [斯里兰卡突查外国商铺：中国商品包装引监管警示](https://t.me/c/4392427626/1088) - 2026-07-06 (#dubai)
 - [️ 支付清算协会警示：虚拟货币跨境赌博风险高](https://t.me/c/4392427626/1087) - 2026-07-06 (#dubai)
-- [️ 马来西亚酒店未挂中国国旗引争议，视频已删除](https://t.me/c/4392427626/1086) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
