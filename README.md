@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 亲历者揭露东南亚诈骗园区炼狱：被骗偷渡，九死一生](https://t.me/c/4392427626/1143) - 2026-07-07 (#dubai)
 - [电诈团伙转战斯里兰卡：豪华酒店成新窝点](https://t.me/c/4392427626/1142) - 2026-07-07 (#dubai)
 - [曼谷车内离奇双亡：引擎运转，死因待查](https://t.me/c/4392427626/1141) - 2026-07-07 (#dubai)
 - [️ 迪拜警方紧急警告：警惕假冒“消保”网站窃取银行信息](https://t.me/c/4392427626/1140) - 2026-07-07 (#dubai)
@@ -33,5 +34,4 @@
 - [全球产业风向 | 哈工大在读博士领衔，珞石机器人百亿市值冲击港股，创始团队仅剩一人](https://fcvoyage.com/quan-qiu-chan-ye-feng-xiang-ha-gong-da-zai-du-bo-shi-ling-xian-luo-shi-ji-qi-ren-bai-yi-shi-zhi-chong-ji-gang-gu-chuang-shi-tuan-dui-jin-sheng-yi-ren/) - 2026-07-07 (#insights)
 - [乐金显示（LG Innotek）斥资10亿美元 越南海防半导体基板工厂2026年Q3动工](https://fcvoyage.com/le-jin-xian-shi-lg-innotek-chi-zi-10yi-mei-yuan-yue-nan-hai-fang-ban-dao-ti-ji-ban-gong-han-2026nian-q3dong-gong/) - 2026-07-07 (#growth)
 - [行业风向 | Malaysia’s EV push shifts to localization as import curbs reshape market](https://fcvoyage.com/xing-ye-feng-xiang-malaysias-ev-push-shifts-to-localization-as-import-curbs-reshape-market/) - 2026-07-07 (#growth)
-- [马来西亚数字银行Boost：智能代理AI驱动客户服务变革，效率提升九成](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-boost-zhi-neng-dai-li-aiqu-dong-ke-hu-fu-wu-bian-ge-xiao-lu-ti-sheng-jiu-cheng/) - 2026-07-07 (#growth)
 <!-- END_POSTS -->
