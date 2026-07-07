@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海·头等舱独家 | 前西门子、罗罗电动飞行团队开创航空电驱系统，连续完成数千万元融资](https://fcvoyage.com/chu-hai-tou-deng-cang-du-jia-qian-xi-men-zi-luo-luo-dian-dong-fei-xing-tuan-dui-kai-chuang-hang-kong-dian-qu-xi-tong-lian-xu-wan-cheng-shu-qian-mo-yuan-rong-zi/) - 2026-07-07 (#insights)
 - [全球产业风向 | 哈工大在读博士领衔，珞石机器人百亿市值冲击港股，创始团队仅剩一人](https://fcvoyage.com/quan-qiu-chan-ye-feng-xiang-ha-gong-da-zai-du-bo-shi-ling-xian-luo-shi-ji-qi-ren-bai-yi-shi-zhi-chong-ji-gang-gu-chuang-shi-tuan-dui-jin-sheng-yi-ren/) - 2026-07-07 (#insights)
 - [乐金显示（LG Innotek）斥资10亿美元 越南海防半导体基板工厂2026年Q3动工](https://fcvoyage.com/le-jin-xian-shi-lg-innotek-chi-zi-10yi-mei-yuan-yue-nan-hai-fang-ban-dao-ti-ji-ban-gong-han-2026nian-q3dong-gong/) - 2026-07-07 (#growth)
 - [行业风向 | Malaysia’s EV push shifts to localization as import curbs reshape market](https://fcvoyage.com/xing-ye-feng-xiang-malaysias-ev-push-shifts-to-localization-as-import-curbs-reshape-market/) - 2026-07-07 (#growth)
@@ -33,5 +34,4 @@
 - [马来西亚捣毁世界杯赌球中心：28名中国籍嫌犯落网](https://t.me/c/4392427626/1090) - 2026-07-06 (#dubai)
 - [️ 缅甸园区亲历者：高薪诱骗，拒绝诈骗即遭电击](https://t.me/c/4392427626/1089) - 2026-07-06 (#dubai)
 - [斯里兰卡突查外国商铺：中国商品包装引监管警示](https://t.me/c/4392427626/1088) - 2026-07-06 (#dubai)
-- [️ 支付清算协会警示：虚拟货币跨境赌博风险高](https://t.me/c/4392427626/1087) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
