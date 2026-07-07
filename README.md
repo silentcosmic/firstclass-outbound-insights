@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [越南重拳打击赌球：两特大网络涉资1.33亿美元](https://t.me/c/4392427626/1122) - 2026-07-07 (#dubai)
 - [斯里兰卡监狱暴乱：致4死35伤](https://t.me/c/4392427626/1121) - 2026-07-07 (#dubai)
 - [东南亚区域前沿：越南重金投建AI数据中心，马来西亚擘画数字经济蓝图](https://fcvoyage.com/dong-nan-ya-qu-yu-qian-yan-yue-nan-zhong-jin-tou-jian-aishu-ju-zhong-xin-ma-lai-xi-ya-bo-hua-shu-zi-jing-ji-lan-tu/) - 2026-07-07 (#growth)
 - [深度解析海外漫剧出海：内容生态变迁与创作者生存之道](https://fcvoyage.com/shen-du-jie-xi-hai-wai-man-ju-chu-hai-nei-rong-sheng-tai-bian-qian-yu-chuang-zuo-zhe-sheng-cun-zhi-dao/) - 2026-07-07 (#insights)
@@ -33,5 +34,4 @@
 - [柬埔寨拜林省长誓言：彻底清剿网络诈骗](https://t.me/c/4392427626/1095) - 2026-07-06 (#dubai)
 - [柬埔寨新省长上任首巡：被查封电诈园区](https://t.me/c/4392427626/1094) - 2026-07-06 (#dubai)
 - [️ 缅甸高薪陷阱揭秘：自由与财富的双重深渊](https://t.me/c/4392427626/1093) - 2026-07-06 (#dubai)
-- [ADCB银行服务全面恢复：客户数据安全无虞](https://t.me/c/4392427626/1092) - 2026-07-06 (#dubai)
 <!-- END_POSTS -->
