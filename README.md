@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [电诈团伙转战斯里兰卡：豪华酒店成新窝点](https://t.me/c/4392427626/1142) - 2026-07-07 (#dubai)
 - [曼谷车内离奇双亡：引擎运转，死因待查](https://t.me/c/4392427626/1141) - 2026-07-07 (#dubai)
 - [️ 迪拜警方紧急警告：警惕假冒“消保”网站窃取银行信息](https://t.me/c/4392427626/1140) - 2026-07-07 (#dubai)
 - [迪拜华人遭遇绑架勒索：警方已介入调查](https://t.me/c/4392427626/1139) - 2026-07-07 (#dubai)
@@ -33,5 +34,4 @@
 - [乐金显示（LG Innotek）斥资10亿美元 越南海防半导体基板工厂2026年Q3动工](https://fcvoyage.com/le-jin-xian-shi-lg-innotek-chi-zi-10yi-mei-yuan-yue-nan-hai-fang-ban-dao-ti-ji-ban-gong-han-2026nian-q3dong-gong/) - 2026-07-07 (#growth)
 - [行业风向 | Malaysia’s EV push shifts to localization as import curbs reshape market](https://fcvoyage.com/xing-ye-feng-xiang-malaysias-ev-push-shifts-to-localization-as-import-curbs-reshape-market/) - 2026-07-07 (#growth)
 - [马来西亚数字银行Boost：智能代理AI驱动客户服务变革，效率提升九成](https://fcvoyage.com/ma-lai-xi-ya-shu-zi-yin-xing-boost-zhi-neng-dai-li-aiqu-dong-ke-hu-fu-wu-bian-ge-xiao-lu-ti-sheng-jiu-cheng/) - 2026-07-07 (#growth)
-- [dtcpay携手TP，构建亚太区全天候客户服务新体系](https://fcvoyage.com/dtcpayxi-shou-tp-gou-jian-ya-tai-qu-quan-tian-hou-ke-hu-fu-wu-xin-ti-xi/) - 2026-07-07 (#insights)
 <!-- END_POSTS -->
