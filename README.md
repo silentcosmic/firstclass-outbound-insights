@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [莱纳斯与JS Link携手马来西亚，共建稀土永磁产业新版图](https://fcvoyage.com/lai-na-si-yu-js-linkxi-shou-ma-lai-xi-ya-gong-jian-xi-tu-yong-ci-chan-ye-xin-ban-tu/) - 2026-07-08 (#growth)
 - [实时数据基建缺位，新加坡逾七成IT领袖承压：AI规模化部署遭遇瓶颈](https://fcvoyage.com/shi-shi-shu-ju-ji-jian-que-wei-xin-jia-po-yu-qi-cheng-itling-xiu-cheng-ya-aigui-mo-hua-bu-shu-zao-yu-ping-jing/) - 2026-07-08 (#growth)
 - [亚太医疗科技市场展望：2030年需求剑指1320亿美元，全球化规模化挑战并存](https://fcvoyage.com/ya-tai-yi-liao-ke-ji-shi-chang-zhan-wang-2030nian-xu-qiu-jian-zhi-1320yi-mei-yuan-quan-qiu-hua-gui-mo-hua-tiao-zhan-bing-cun/) - 2026-07-08 (#growth)
 - [微软进行全球性组织调整，裁员近5000人并澄清非AI直接替代岗位](https://fcvoyage.com/wei-ruan-jin-xing-quan-qiu-xing-zu-zhi-diao-zheng-cai-yuan-jin-5000ren-bing-cheng-qing-fei-aizhi-jie-ti-dai-gang-wei/) - 2026-07-08 (#insights)
@@ -33,5 +34,4 @@
 - [阿联酋AI技能溢价惊人：金融业薪资近乎翻倍！](https://t.me/c/4392427626/1149) - 2026-07-08 (#dubai)
 - [阿联酋航空首架777-300ERSF改装货机投入运营](https://t.me/c/4392427626/1148) - 2026-07-08 (#dubai)
 - [阿布扎比将建全球第二座巨型LED球体地标](https://t.me/c/4392427626/1147) - 2026-07-08 (#dubai)
-- [马来西亚：吉隆坡雪兰莪今晚启动联合执法行动](https://t.me/c/4392427626/1146) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
