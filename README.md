@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 不做fast follow的人，都想创造一个新的世界丨离线聚会第三期](https://fcvoyage.com/xing-ye-feng-xiang-bu-zuo-fast-followde-ren-du-xiang-chuang-zao-yi-ge-xin-de-shi-jie-gun-chi-xian-ju-hui-di-san-qi/) - 2026-07-08 (#insights)
 - [行业风向 | 上市前夜 | 套现十几亿后，他把矿卡开向港股](https://fcvoyage.com/xing-ye-feng-xiang-shang-shi-qian-ye-tao-xian-shi-ji-yi-hou-ta-ba-kuang-qia-kai-xiang-gang-gu/) - 2026-07-08 (#insights)
 - [行业风向 | 揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪](https://fcvoyage.com/xing-ye-feng-xiang-jie-mi-zi-jie-seedance-quan-qiu-ai-de-di-er-ge-hao-sheng-yi-shen-ke/) - 2026-07-08 (#insights)
 - [莱纳斯与JS Link携手马来西亚，共建稀土永磁产业新版图](https://fcvoyage.com/lai-na-si-yu-js-linkxi-shou-ma-lai-xi-ya-gong-jian-xi-tu-yong-ci-chan-ye-xin-ban-tu/) - 2026-07-08 (#growth)
@@ -33,5 +34,4 @@
 - [以色列证实：铁穹系统首次部署至阿联酋](https://t.me/c/4392427626/1152) - 2026-07-08 (#dubai)
 - [️ 迪拜居民家中惊现黑寡妇，官方紧急提醒](https://t.me/c/4392427626/1151) - 2026-07-08 (#dubai)
 - [阿联酋国家铁路客运启航：重塑通勤，赋能区域发展](https://t.me/c/4392427626/1150) - 2026-07-08 (#dubai)
-- [阿联酋AI技能溢价惊人：金融业薪资近乎翻倍！](https://t.me/c/4392427626/1149) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
