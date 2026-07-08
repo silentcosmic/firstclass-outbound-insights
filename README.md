@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [越南金融科技巨头MoMo寻求新一轮融资，估值有望突破20亿美元大关](https://fcvoyage.com/yue-nan-jin-rong-ke-ji-ju-tou-momoxun-qiu-xin-yi-lun-rong-zi-gu-zhi-you-wang-tu-po-20yi-mei-yuan-da-guan/) - 2026-07-08 (#insights)
 - [Choco Up AI融资新动向：助力中小企业破局现金流](https://t.me/c/4392427626/1171) - 2026-07-08 (#dubai)
 - [Choco Up 推出中小企业应付账款融资服务](https://fcvoyage.com/choco-up-tui-chu-zhong-xiao-qi-ye-ying-fu-zhang-kuan-rong-zi-fu-wu/) - 2026-07-08 (#insights)
 - [️ 迪拜换汇骗局升级：高汇率诱惑下的洗钱陷阱](https://t.me/c/4392427626/1169) - 2026-07-08 (#dubai)
@@ -33,5 +34,4 @@
 - [伊朗恢复霍尔木兹海峡袭击：商船遭导弹攻击](https://t.me/c/4392427626/1145) - 2026-07-08 (#dubai)
 - [️ AI深伪助长迪拜“王子”骗局：一年血汗钱被卷走](https://t.me/c/4392427626/1144) - 2026-07-08 (#dubai)
 - [️ 亲历者揭露东南亚诈骗园区炼狱：被骗偷渡，九死一生](https://t.me/c/4392427626/1143) - 2026-07-07 (#dubai)
-- [电诈团伙转战斯里兰卡：豪华酒店成新窝点](https://t.me/c/4392427626/1142) - 2026-07-07 (#dubai)
 <!-- END_POSTS -->
