@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 伊朗因美方威胁，正式暂停美伊谈判](https://t.me/c/4392427626/1206) - 2026-07-08 (#dubai)
 - [️ 灰黑产风口已过：AI将颠覆，全球清算潮将至](https://t.me/c/4392427626/1205) - 2026-07-08 (#dubai)
 - [伊朗革命卫队：已对美军85个目标发起导弹无人机袭击](https://t.me/c/4392427626/1204) - 2026-07-08 (#dubai)
 - [️ 迪拜非正式服务市场现消费者投诉风波](https://t.me/c/4392427626/1203) - 2026-07-08 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 不做fast follow的人，都想创造一个新的世界丨离线聚会第三期](https://fcvoyage.com/xing-ye-feng-xiang-bu-zuo-fast-followde-ren-du-xiang-chuang-zao-yi-ge-xin-de-shi-jie-gun-chi-xian-ju-hui-di-san-qi/) - 2026-07-08 (#insights)
 - [行业风向 | 上市前夜 | 套现十几亿后，他把矿卡开向港股](https://fcvoyage.com/xing-ye-feng-xiang-shang-shi-qian-ye-tao-xian-shi-ji-yi-hou-ta-ba-kuang-qia-kai-xiang-gang-gu/) - 2026-07-08 (#insights)
 - [行业风向 | 揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪](https://fcvoyage.com/xing-ye-feng-xiang-jie-mi-zi-jie-seedance-quan-qiu-ai-de-di-er-ge-hao-sheng-yi-shen-ke/) - 2026-07-08 (#insights)
-- [莱纳斯与JS Link携手马来西亚，共建稀土永磁产业新版图](https://fcvoyage.com/lai-na-si-yu-js-linkxi-shou-ma-lai-xi-ya-gong-jian-xi-tu-yong-ci-chan-ye-xin-ban-tu/) - 2026-07-08 (#growth)
 <!-- END_POSTS -->
