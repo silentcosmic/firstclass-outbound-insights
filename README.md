@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 阿布扎比法院重罚：WhatsApp侮辱言论代价高昂](https://t.me/c/4392427626/1200) - 2026-07-08 (#dubai)
 - [曼谷素万那普机场突查：K9警犬严防毒品出境](https://t.me/c/4392427626/1199) - 2026-07-08 (#dubai)
 - [️ 特朗普警告：或将再次打击伊朗](https://t.me/c/4392427626/1198) - 2026-07-08 (#dubai)
 - [H-Pay清算程序生变：庭外清算终止，转入司法程序](https://t.me/c/4392427626/1197) - 2026-07-08 (#dubai)
@@ -33,5 +34,4 @@
 - [微软进行全球性组织调整，裁员近5000人并澄清非AI直接替代岗位](https://fcvoyage.com/wei-ruan-jin-xing-quan-qiu-xing-zu-zhi-diao-zheng-cai-yuan-jin-5000ren-bing-cheng-qing-fei-aizhi-jie-ti-dai-gang-wei/) - 2026-07-08 (#insights)
 - [越南金融科技巨头MoMo寻求新一轮融资，估值有望突破20亿美元大关](https://fcvoyage.com/yue-nan-jin-rong-ke-ji-ju-tou-momoxun-qiu-xin-yi-lun-rong-zi-gu-zhi-you-wang-tu-po-20yi-mei-yuan-da-guan/) - 2026-07-08 (#insights)
 - [Choco Up AI融资新动向：助力中小企业破局现金流](https://t.me/c/4392427626/1171) - 2026-07-08 (#dubai)
-- [Choco Up 推出中小企业应付账款融资服务](https://fcvoyage.com/choco-up-tui-chu-zhong-xiao-qi-ye-ying-fu-zhang-kuan-rong-zi-fu-wu/) - 2026-07-08 (#insights)
 <!-- END_POSTS -->
