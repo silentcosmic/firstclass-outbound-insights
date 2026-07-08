@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 沙特对阿联酋转账受阻：企业贸易受扰](https://t.me/c/4392427626/1182) - 2026-07-08 (#dubai)
 - [伊朗宣称袭击美军目标：中东局势骤然升级](https://t.me/c/4392427626/1181) - 2026-07-08 (#dubai)
 - [深度解析：新加坡企业AI战略转向——数据治理成核心驱动力](https://fcvoyage.com/shen-du-jie-xi-xin-jia-po-qi-ye-aizhan-lue-zhuan-xiang-shu-ju-zhi-li-cheng-he-xin-qu-dong-li/) - 2026-07-08 (#growth)
 - [行业风向 | 不做fast follow的人，都想创造一个新的世界丨离线聚会第三期](https://fcvoyage.com/xing-ye-feng-xiang-bu-zuo-fast-followde-ren-du-xiang-chuang-zao-yi-ge-xin-de-shi-jie-gun-chi-xian-ju-hui-di-san-qi/) - 2026-07-08 (#insights)
@@ -33,5 +34,4 @@
 - [日本收紧三国籍及一省份签证：严打诈骗](https://t.me/c/4392427626/1155) - 2026-07-08 (#dubai)
 - [迪拜富豪生活成本排名下滑：并非变便宜，而是他国更贵](https://t.me/c/4392427626/1154) - 2026-07-08 (#dubai)
 - [全球穆斯林旅游指数发布：阿联酋位列第六](https://t.me/c/4392427626/1153) - 2026-07-08 (#dubai)
-- [以色列证实：铁穹系统首次部署至阿联酋](https://t.me/c/4392427626/1152) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
