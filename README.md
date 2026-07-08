@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚新山批发市场突查，多名外籍人士被带走](https://t.me/c/4392427626/1209) - 2026-07-08 (#dubai)
 - [伊朗警告：再遭袭击将关闭霍尔木兹海峡](https://t.me/c/4392427626/1208) - 2026-07-08 (#dubai)
 - [霍尔木兹海峡7月7日数据：商业航运繁忙，航线选择现新趋势](https://t.me/c/4392427626/1207) - 2026-07-08 (#dubai)
 - [️ 伊朗因美方威胁，正式暂停美伊谈判](https://t.me/c/4392427626/1206) - 2026-07-08 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 沙特对阿联酋转账受阻：企业贸易受扰](https://t.me/c/4392427626/1182) - 2026-07-08 (#dubai)
 - [伊朗宣称袭击美军目标：中东局势骤然升级](https://t.me/c/4392427626/1181) - 2026-07-08 (#dubai)
 - [深度解析：新加坡企业AI战略转向——数据治理成核心驱动力](https://fcvoyage.com/shen-du-jie-xi-xin-jia-po-qi-ye-aizhan-lue-zhuan-xiang-shu-ju-zhi-li-cheng-he-xin-qu-dong-li/) - 2026-07-08 (#growth)
-- [行业风向 | 不做fast follow的人，都想创造一个新的世界丨离线聚会第三期](https://fcvoyage.com/xing-ye-feng-xiang-bu-zuo-fast-followde-ren-du-xiang-chuang-zao-yi-ge-xin-de-shi-jie-gun-chi-xian-ju-hui-di-san-qi/) - 2026-07-08 (#insights)
 <!-- END_POSTS -->
