@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿提哈德铁路新福利：富查伊拉凭票享酒店折扣](https://t.me/c/4392427626/1263) - 2026-07-10 (#dubai)
 - [️ 驻挪威使馆紧急提醒：谨防电信诈骗新套路！](https://t.me/c/4392427626/1262) - 2026-07-10 (#dubai)
 - [阿根廷足协遭FBI调查：数亿美元资金流向引国际关注](https://t.me/c/4392427626/1261) - 2026-07-09 (#dubai)
 - [马来西亚：4人涉线上赌博案，全员否认控罪获保释](https://t.me/c/4392427626/1260) - 2026-07-09 (#dubai)
@@ -33,5 +34,4 @@
 - [智能基础设施与城市共生：数据中心如何驱动区域经济可持续增长](https://fcvoyage.com/zhi-neng-ji-chu-she-shi-yu-cheng-shi-gong-sheng-shu-ju-zhong-xin-ru-he-qu-dong-qu-yu-jing-ji-ke-chi-xu-zeng-chang/) - 2026-07-09 (#infrastructure)
 - [中国AI浪潮：重塑创业生态与独特创新逻辑](https://fcvoyage.com/zhong-guo-ailang-chao-zhong-su-chuang-ye-sheng-tai-yu-du-te-chuang-xin-luo-ji/) - 2026-07-09 (#infrastructure)
 - [中国网文平台AI应用困境：从拥抱效率到规范内容生态](https://fcvoyage.com/zhong-guo-wang-wen-ping-tai-aiying-yong-kun-jing-cong-yong-bao-xiao-lu-dao-gui-fan-nei-rong-sheng-tai/) - 2026-07-09 (#infrastructure)
-- [东亚外卖市场2025年GMV预计达386亿美元：运营商执行力重塑竞争格局](https://fcvoyage.com/dong-ya-wai-mai-shi-chang-2025nian-gmvyu-ji-da-386yi-mei-yuan-yun-ying-shang-zhi-xing-li-zhong-su-jing-zheng-ge-ju/) - 2026-07-09 (#growth)
 <!-- END_POSTS -->
