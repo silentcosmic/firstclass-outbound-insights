@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [亚洲在全球资本市场中地位日隆：新加坡一领先学府构筑前沿研究高地](https://fcvoyage.com/ya-zhou-zai-quan-qiu-zi-ben-shi-chang-zhong-di-wei-ri-long-xin-jia-po-yi-ling-xian-xue-fu-gou-zhu-qian-yan-yan-jiu-gao-di/) - 2026-07-09 (#insights)
 - [阿联酋Wio银行：国际汇款享零手续费及市场汇率优势](https://t.me/c/4392427626/1227) - 2026-07-09 (#dubai)
 - [斯里兰卡监狱骚乱升级：4人死亡，35人受伤](https://t.me/c/4392427626/1226) - 2026-07-09 (#dubai)
 - [Telegram运营新利器：一站式资源中心上线](https://t.me/c/4392427626/1225) - 2026-07-09 (#dubai)
@@ -33,5 +34,4 @@
 - [中泰联手：307名涉诈人员从泰遣返回国](https://t.me/c/4392427626/1201) - 2026-07-08 (#dubai)
 - [️ 阿布扎比法院重罚：WhatsApp侮辱言论代价高昂](https://t.me/c/4392427626/1200) - 2026-07-08 (#dubai)
 - [曼谷素万那普机场突查：K9警犬严防毒品出境](https://t.me/c/4392427626/1199) - 2026-07-08 (#dubai)
-- [️ 特朗普警告：或将再次打击伊朗](https://t.me/c/4392427626/1198) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
