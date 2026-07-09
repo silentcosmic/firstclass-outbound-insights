@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [智能基础设施与城市共生：数据中心如何驱动区域经济可持续增长](https://fcvoyage.com/zhi-neng-ji-chu-she-shi-yu-cheng-shi-gong-sheng-shu-ju-zhong-xin-ru-he-qu-dong-qu-yu-jing-ji-ke-chi-xu-zeng-chang/) - 2026-07-09 (#infrastructure)
 - [中国AI浪潮：重塑创业生态与独特创新逻辑](https://fcvoyage.com/zhong-guo-ailang-chao-zhong-su-chuang-ye-sheng-tai-yu-du-te-chuang-xin-luo-ji/) - 2026-07-09 (#infrastructure)
 - [中国网文平台AI应用困境：从拥抱效率到规范内容生态](https://fcvoyage.com/zhong-guo-wang-wen-ping-tai-aiying-yong-kun-jing-cong-yong-bao-xiao-lu-dao-gui-fan-nei-rong-sheng-tai/) - 2026-07-09 (#infrastructure)
 - [东亚外卖市场2025年GMV预计达386亿美元：运营商执行力重塑竞争格局](https://fcvoyage.com/dong-ya-wai-mai-shi-chang-2025nian-gmvyu-ji-da-386yi-mei-yuan-yun-ying-shang-zhi-xing-li-zhong-su-jing-zheng-ge-ju/) - 2026-07-09 (#growth)
@@ -33,5 +34,4 @@
 - [马来西亚新山批发市场突查，多名外籍人士被带走](https://t.me/c/4392427626/1209) - 2026-07-08 (#dubai)
 - [伊朗警告：再遭袭击将关闭霍尔木兹海峡](https://t.me/c/4392427626/1208) - 2026-07-08 (#dubai)
 - [霍尔木兹海峡7月7日数据：商业航运繁忙，航线选择现新趋势](https://t.me/c/4392427626/1207) - 2026-07-08 (#dubai)
-- [️ 伊朗因美方威胁，正式暂停美伊谈判](https://t.me/c/4392427626/1206) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
