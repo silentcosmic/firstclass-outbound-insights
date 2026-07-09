@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中亚出海遇险：97名中国团队成员遭集体拘留](https://t.me/c/4392427626/1256) - 2026-07-09 (#dubai)
 - [马国否认刘特佐曾入境谈判1MDB案](https://t.me/c/4392427626/1255) - 2026-07-09 (#dubai)
 - [️ 汇旺维权群疑遭高价转售，海外社群信任危机加剧](https://t.me/c/4392427626/1254) - 2026-07-09 (#dubai)
 - [吉隆坡酒吧突袭行动，当局警示治安风险](https://t.me/c/4392427626/1253) - 2026-07-09 (#dubai)
@@ -33,5 +34,4 @@
 - [新加坡金融机构与反诈中心高效联动，两月内遏制逾3800万新元诈骗损失](https://fcvoyage.com/xin-jia-po-jin-rong-ji-gou-yu-fan-zha-zhong-xin-gao-xiao-lian-dong-liang-yue-nei-e-zhi-yu-3800mo-xin-yuan-zha-pian-sun-shi/) - 2026-07-09 (#insights)
 - [亚洲在全球资本市场中地位日隆：新加坡一领先学府构筑前沿研究高地](https://fcvoyage.com/ya-zhou-zai-quan-qiu-zi-ben-shi-chang-zhong-di-wei-ri-long-xin-jia-po-yi-ling-xian-xue-fu-gou-zhu-qian-yan-yan-jiu-gao-di/) - 2026-07-09 (#insights)
 - [阿联酋Wio银行：国际汇款享零手续费及市场汇率优势](https://t.me/c/4392427626/1227) - 2026-07-09 (#dubai)
-- [斯里兰卡监狱骚乱升级：4人死亡，35人受伤](https://t.me/c/4392427626/1226) - 2026-07-09 (#dubai)
 <!-- END_POSTS -->
