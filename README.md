@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚：4人涉线上赌博案，全员否认控罪获保释](https://t.me/c/4392427626/1260) - 2026-07-09 (#dubai)
 - [西港反诈行动：两名中国籍嫌犯被捕](https://t.me/c/4392427626/1259) - 2026-07-09 (#dubai)
 - [杜罗夫第四次受讯，Telegram深陷法律漩涡](https://t.me/c/4392427626/1258) - 2026-07-09 (#dubai)
 - [️ 杭州小伙险失百万，警惕网络‘干爹’投资陷阱](https://t.me/c/4392427626/1257) - 2026-07-09 (#dubai)
@@ -33,5 +34,4 @@
 - [东亚外卖市场2025年GMV预计达386亿美元：运营商执行力重塑竞争格局](https://fcvoyage.com/dong-ya-wai-mai-shi-chang-2025nian-gmvyu-ji-da-386yi-mei-yuan-yun-ying-shang-zhi-xing-li-zhong-su-jing-zheng-ge-ju/) - 2026-07-09 (#growth)
 - [马士基资本携手阿亚拉集团，共同赋能AC物流加速拓展菲律宾市场版图](https://fcvoyage.com/ma-shi-ji-zi-ben-xi-shou-a-ya-la-ji-tuan-gong-tong-fu-neng-acwu-liu-jia-su-tuo-zhan-fei-lu-bin-shi-chang-ban-tu/) - 2026-07-09 (#growth)
 - [支付基础设施巨头Xendit与菲律宾Dragonpay深化融合，共筑区域数字支付生态](https://fcvoyage.com/zhi-fu-ji-chu-she-shi-ju-tou-xendityu-fei-lu-bin-dragonpayshen-hua-rong-he-gong-zhu-qu-yu-shu-zi-zhi-fu-sheng-tai/) - 2026-07-09 (#growth)
-- [新加坡金管局受保护单元公司新规：如何重塑保险业风险管理格局？](https://fcvoyage.com/xin-jia-po-jin-guan-ju-shou-bao-hu-dan-yuan-gong-si-xin-gui-ru-he-zhong-su-bao-xian-ye-feng-xian-guan-li-ge-ju/) - 2026-07-09 (#insights)
 <!-- END_POSTS -->
