@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 迪拜传奇裁缝谢赫·马达尼逝世，匠心铸就城市记忆](https://t.me/c/4392427626/1269) - 2026-07-10 (#dubai)
 - [马来西亚端掉假贷款窝点：18名中国人涉案被捕](https://t.me/c/4392427626/1268) - 2026-07-10 (#dubai)
 - [缅泰边境打击升级：239名涉诈中国人被移交](https://t.me/c/4392427626/1267) - 2026-07-10 (#dubai)
 - [️ 阿联酋航空A380首飞德里：印度第三城迎双层巨无霸](https://t.me/c/4392427626/1266) - 2026-07-10 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 越南出海风险升级：员工违规致紧急搬迁](https://t.me/c/4392427626/1242) - 2026-07-09 (#dubai)
 - [老挝金三角特区突查：中方警力疑似参与](https://t.me/c/4392427626/1241) - 2026-07-09 (#dubai)
 - [深度剖析：东南亚AI技术滥用，非法活动效率飙升十倍](https://fcvoyage.com/shen-du-pou-xi-dong-nan-ya-aiji-zhu-lan-yong-fei-fa-huo-dong-xiao-lu-biao-sheng-shi-bei/) - 2026-07-09 (#insights)
-- [行业风向 | 小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://fcvoyage.com/xing-ye-feng-xiang-xiao-mi-jiang-fa-bu-peng-cheng-xi-lie-zeng-cheng-suv-openaishou-xi-wei-lai-xue-jia-xuan-bu-chi-zhi-zhang-xiao-long-ci-ren-fen-bi-shou-xi-zhi-xing-guan-dong-shi-hui-zh/) - 2026-07-09 (#insights)
 <!-- END_POSTS -->
