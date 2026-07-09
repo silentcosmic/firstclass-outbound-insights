@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 越南出海风险升级：员工违规致紧急搬迁](https://t.me/c/4392427626/1242) - 2026-07-09 (#dubai)
 - [老挝金三角特区突查：中方警力疑似参与](https://t.me/c/4392427626/1241) - 2026-07-09 (#dubai)
 - [深度剖析：东南亚AI技术滥用，非法活动效率飙升十倍](https://fcvoyage.com/shen-du-pou-xi-dong-nan-ya-aiji-zhu-lan-yong-fei-fa-huo-dong-xiao-lu-biao-sheng-shi-bei/) - 2026-07-09 (#insights)
 - [行业风向 | 小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://fcvoyage.com/xing-ye-feng-xiang-xiao-mi-jiang-fa-bu-peng-cheng-xi-lie-zeng-cheng-suv-openaishou-xi-wei-lai-xue-jia-xuan-bu-chi-zhi-zhang-xiao-long-ci-ren-fen-bi-shou-xi-zhi-xing-guan-dong-shi-hui-zh/) - 2026-07-09 (#insights)
@@ -33,5 +34,4 @@
 - [️ e&amp;宽带服务突发故障：阿联酋多地用户受影响](https://t.me/c/4392427626/1215) - 2026-07-09 (#dubai)
 - [️ 阿联酋修法：疫情感染员工带薪禁止上班](https://t.me/c/4392427626/1214) - 2026-07-09 (#dubai)
 - [新加坡严打非法网赌：世界杯期间17人被捕，查获72万新元现金](https://t.me/c/4392427626/1213) - 2026-07-09 (#dubai)
-- [阿联酋警告：未经许可播放世界杯将面临重罚](https://t.me/c/4392427626/1212) - 2026-07-09 (#dubai)
 <!-- END_POSTS -->
