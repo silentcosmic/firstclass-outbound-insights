@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://fcvoyage.com/xing-ye-feng-xiang-xiao-mi-jiang-fa-bu-peng-cheng-xi-lie-zeng-cheng-suv-openaishou-xi-wei-lai-xue-jia-xuan-bu-chi-zhi-zhang-xiao-long-ci-ren-fen-bi-shou-xi-zhi-xing-guan-dong-shi-hui-zh/) - 2026-07-09 (#insights)
 - [中国企业出海新范式：从跨境电商到AI大模型的欧洲市场探索](https://fcvoyage.com/zhong-guo-qi-ye-chu-hai-xin-fan-shi-cong-kua-jing-dian-shang-dao-aida-mo-xing-de-ou-zhou-shi-chang-tan-suo/) - 2026-07-09 (#insights)
 - [产业聚焦 | 高端机床赛道再迎资本青睐，星合机电斩获数亿融资，全面提速全球化战略](https://fcvoyage.com/chan-ye-ju-jiao-gao-duan-ji-chuang-sai-dao-zai-ying-zi-ben-qing-lai-xing-he-ji-dian-zhan-huo-shu-yi-rong-zi-quan-mian-ti-su-quan-qiu-hua-zhan-lue/) - 2026-07-09 (#insights)
 - [智能基础设施与城市共生：数据中心如何驱动区域经济可持续增长](https://fcvoyage.com/zhi-neng-ji-chu-she-shi-yu-cheng-shi-gong-sheng-shu-ju-zhong-xin-ru-he-qu-dong-qu-yu-jing-ji-ke-chi-xu-zeng-chang/) - 2026-07-09 (#infrastructure)
@@ -33,5 +34,4 @@
 - [阿联酋警告：未经许可播放世界杯将面临重罚](https://t.me/c/4392427626/1212) - 2026-07-09 (#dubai)
 - [️ 沙迦货机坠毁残骸寻获：导航系统故障](https://t.me/c/4392427626/1211) - 2026-07-08 (#dubai)
 - [阿联酋重拳出击：损毁数字遗产最高罚2000万并监禁](https://t.me/c/4392427626/1210) - 2026-07-08 (#dubai)
-- [马来西亚新山批发市场突查，多名外籍人士被带走](https://t.me/c/4392427626/1209) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
