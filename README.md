@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中国AI浪潮：重塑创业生态与独特创新逻辑](https://fcvoyage.com/zhong-guo-ailang-chao-zhong-su-chuang-ye-sheng-tai-yu-du-te-chuang-xin-luo-ji/) - 2026-07-09 (#infrastructure)
 - [中国网文平台AI应用困境：从拥抱效率到规范内容生态](https://fcvoyage.com/zhong-guo-wang-wen-ping-tai-aiying-yong-kun-jing-cong-yong-bao-xiao-lu-dao-gui-fan-nei-rong-sheng-tai/) - 2026-07-09 (#infrastructure)
 - [东亚外卖市场2025年GMV预计达386亿美元：运营商执行力重塑竞争格局](https://fcvoyage.com/dong-ya-wai-mai-shi-chang-2025nian-gmvyu-ji-da-386yi-mei-yuan-yun-ying-shang-zhi-xing-li-zhong-su-jing-zheng-ge-ju/) - 2026-07-09 (#growth)
 - [马士基资本携手阿亚拉集团，共同赋能AC物流加速拓展菲律宾市场版图](https://fcvoyage.com/ma-shi-ji-zi-ben-xi-shou-a-ya-la-ji-tuan-gong-tong-fu-neng-acwu-liu-jia-su-tuo-zhan-fei-lu-bin-shi-chang-ban-tu/) - 2026-07-09 (#growth)
@@ -33,5 +34,4 @@
 - [伊朗警告：再遭袭击将关闭霍尔木兹海峡](https://t.me/c/4392427626/1208) - 2026-07-08 (#dubai)
 - [霍尔木兹海峡7月7日数据：商业航运繁忙，航线选择现新趋势](https://t.me/c/4392427626/1207) - 2026-07-08 (#dubai)
 - [️ 伊朗因美方威胁，正式暂停美伊谈判](https://t.me/c/4392427626/1206) - 2026-07-08 (#dubai)
-- [️ 灰黑产风口已过：AI将颠覆，全球清算潮将至](https://t.me/c/4392427626/1205) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
