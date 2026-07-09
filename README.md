@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡金管局受保护单元公司新规：如何重塑保险业风险管理格局？](https://fcvoyage.com/xin-jia-po-jin-guan-ju-shou-bao-hu-dan-yuan-gong-si-xin-gui-ru-he-zhong-su-bao-xian-ye-feng-xian-guan-li-ge-ju/) - 2026-07-09 (#insights)
 - [新加坡金融机构与反诈中心高效联动，两月内遏制逾3800万新元诈骗损失](https://fcvoyage.com/xin-jia-po-jin-rong-ji-gou-yu-fan-zha-zhong-xin-gao-xiao-lian-dong-liang-yue-nei-e-zhi-yu-3800mo-xin-yuan-zha-pian-sun-shi/) - 2026-07-09 (#insights)
 - [亚洲在全球资本市场中地位日隆：新加坡一领先学府构筑前沿研究高地](https://fcvoyage.com/ya-zhou-zai-quan-qiu-zi-ben-shi-chang-zhong-di-wei-ri-long-xin-jia-po-yi-ling-xian-xue-fu-gou-zhu-qian-yan-yan-jiu-gao-di/) - 2026-07-09 (#insights)
 - [阿联酋Wio银行：国际汇款享零手续费及市场汇率优势](https://t.me/c/4392427626/1227) - 2026-07-09 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 迪拜非正式服务市场现消费者投诉风波](https://t.me/c/4392427626/1203) - 2026-07-08 (#dubai)
 - [维权群主卷款跑路，受害者群聊竟被转卖！](https://t.me/c/4392427626/1202) - 2026-07-08 (#dubai)
 - [中泰联手：307名涉诈人员从泰遣返回国](https://t.me/c/4392427626/1201) - 2026-07-08 (#dubai)
-- [️ 阿布扎比法院重罚：WhatsApp侮辱言论代价高昂](https://t.me/c/4392427626/1200) - 2026-07-08 (#dubai)
 <!-- END_POSTS -->
