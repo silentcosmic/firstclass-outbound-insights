@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 阿联酋航空A380首飞德里：印度第三城迎双层巨无霸](https://t.me/c/4392427626/1266) - 2026-07-10 (#dubai)
 - [法国裁判迪拜遭‘封杀’：一场比赛引发的商业抵制](https://t.me/c/4392427626/1265) - 2026-07-10 (#dubai)
 - [迪拜地铁62列车空调升级：酷暑出行更舒适](https://t.me/c/4392427626/1264) - 2026-07-10 (#dubai)
 - [阿提哈德铁路新福利：富查伊拉凭票享酒店折扣](https://t.me/c/4392427626/1263) - 2026-07-10 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://fcvoyage.com/xing-ye-feng-xiang-xiao-mi-jiang-fa-bu-peng-cheng-xi-lie-zeng-cheng-suv-openaishou-xi-wei-lai-xue-jia-xuan-bu-chi-zhi-zhang-xiao-long-ci-ren-fen-bi-shou-xi-zhi-xing-guan-dong-shi-hui-zh/) - 2026-07-09 (#insights)
 - [中国企业出海新范式：从跨境电商到AI大模型的欧洲市场探索](https://fcvoyage.com/zhong-guo-qi-ye-chu-hai-xin-fan-shi-cong-kua-jing-dian-shang-dao-aida-mo-xing-de-ou-zhou-shi-chang-tan-suo/) - 2026-07-09 (#insights)
 - [产业聚焦 | 高端机床赛道再迎资本青睐，星合机电斩获数亿融资，全面提速全球化战略](https://fcvoyage.com/chan-ye-ju-jiao-gao-duan-ji-chuang-sai-dao-zai-ying-zi-ben-qing-lai-xing-he-ji-dian-zhan-huo-shu-yi-rong-zi-quan-mian-ti-su-quan-qiu-hua-zhan-lue/) - 2026-07-09 (#insights)
-- [智能基础设施与城市共生：数据中心如何驱动区域经济可持续增长](https://fcvoyage.com/zhi-neng-ji-chu-she-shi-yu-cheng-shi-gong-sheng-shu-ju-zhong-xin-ru-he-qu-dong-qu-yu-jing-ji-ke-chi-xu-zeng-chang/) - 2026-07-09 (#infrastructure)
 <!-- END_POSTS -->
