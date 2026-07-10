@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [人工智能浪潮驱动马来西亚科技腾飞：产业前瞻与战略布局](https://fcvoyage.com/ren-gong-zhi-neng-lang-chao-qu-dong-ma-lai-xi-ya-ke-ji-teng-fei-chan-ye-qian-zhan-yu-zhan-lue-bu-ju/) - 2026-07-10 (#growth)
 - [新加坡推出资本市场研究新动议，旨在巩固全球金融中心地位](https://fcvoyage.com/xin-jia-po-tui-chu-zi-ben-shi-chang-yan-jiu-xin-dong-yi-zhi-zai-gong-gu-quan-qiu-jin-rong-zhong-xin-di-wei/) - 2026-07-10 (#growth)
 - [SWIFT区块链账本启动试点，17家全球银行率先接入](https://fcvoyage.com/swiftqu-kuai-lian-zhang-ben-qi-dong-shi-dian-17jia-quan-qiu-yin-xing-lu-xian-jie-ru/) - 2026-07-10 (#insights)
 - [新加坡支付体系深度革新：PayNow Gen2迈向统一二维码愿景](https://fcvoyage.com/xin-jia-po-zhi-fu-ti-xi-shen-du-ge-xin-paynow-gen2mai-xiang-tong-yi-er-wei-ma-yuan-jing/) - 2026-07-10 (#insights)
@@ -33,5 +34,4 @@
 - [中亚出海遇险：97名中国团队成员遭集体拘留](https://t.me/c/4392427626/1256) - 2026-07-09 (#dubai)
 - [马国否认刘特佐曾入境谈判1MDB案](https://t.me/c/4392427626/1255) - 2026-07-09 (#dubai)
 - [️ 汇旺维权群疑遭高价转售，海外社群信任危机加剧](https://t.me/c/4392427626/1254) - 2026-07-09 (#dubai)
-- [吉隆坡酒吧突袭行动，当局警示治安风险](https://t.me/c/4392427626/1253) - 2026-07-09 (#dubai)
 <!-- END_POSTS -->
