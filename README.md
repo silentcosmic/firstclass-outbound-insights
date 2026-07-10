@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡支付体系深度革新：PayNow Gen2迈向统一二维码愿景](https://fcvoyage.com/xin-jia-po-zhi-fu-ti-xi-shen-du-ge-xin-paynow-gen2mai-xiang-tong-yi-er-wei-ma-yuan-jing/) - 2026-07-10 (#insights)
 - [9Pay携手Visa：境外企业掘金越南新机遇](https://t.me/c/4392427626/1279) - 2026-07-10 (#dubai)
 - [越南支付新纪元：9Pay直联Visa，赋能跨境商家掘金市场](https://fcvoyage.com/yue-nan-zhi-fu-xin-ji-yuan-9payzhi-lian-visa-fu-neng-kua-jing-shang-jia-jue-jin-shi-chang/) - 2026-07-10 (#insights)
 - [柬埔寨西港论坛：呼吁民间组织共筑数字安全防线](https://t.me/c/4392427626/1277) - 2026-07-10 (#dubai)
@@ -33,5 +34,4 @@
 - [吉隆坡酒吧突袭行动，当局警示治安风险](https://t.me/c/4392427626/1253) - 2026-07-09 (#dubai)
 - [浙江金华警方破获假体彩赌球案，涉案500万，18人落网！](https://t.me/c/4392427626/1252) - 2026-07-09 (#dubai)
 - [约旦成功拦截8枚伊朗导弹：未造成人员伤亡](https://t.me/c/4392427626/1251) - 2026-07-09 (#dubai)
-- [美军空袭伊朗，中伊贸易大动脉受损？](https://t.me/c/4392427626/1250) - 2026-07-09 (#dubai)
 <!-- END_POSTS -->
