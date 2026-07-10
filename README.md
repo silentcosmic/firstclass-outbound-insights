@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [吉隆坡豪宅诈骗窝点被捣毁：9名中国籍嫌犯落网](https://t.me/c/4392427626/1316) - 2026-07-10 (#dubai)
 - [️ 东南亚出海：中国男性“异乡情结”的社会观察](https://t.me/c/4392427626/1315) - 2026-07-10 (#dubai)
 - [乌干达突袭千人电诈窝点：多数为中国公民](https://t.me/c/4392427626/1314) - 2026-07-10 (#dubai)
 - [波贝突袭：16名外国人被拘，业主遭罚](https://t.me/c/4392427626/1313) - 2026-07-10 (#dubai)
@@ -33,5 +34,4 @@
 - [️ 东南亚商业警示：一女子被指控涉嫌欺诈吸毒](https://t.me/c/4392427626/1289) - 2026-07-10 (#dubai)
 - [中国汽车供应链深度布局摩洛哥：剑指欧洲市场的前哨策略](https://fcvoyage.com/zhong-guo-qi-che-gong-ying-lian-shen-du-bu-ju-mo-luo-ge-jian-zhi-ou-zhou-shi-chang-de-qian-shao-ce-lue/) - 2026-07-10 (#insights)
 - [行业风向 | 丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行](https://fcvoyage.com/xing-ye-feng-xiang-gun-lao-xiang-ji-wu-nian-wu-ci-chong-ji-shang-shi-shi-bai-liang-kuan-ran-you-che-zhong-hui-xiao-liang-bang-qian-shi-chang-xin-ke-ji-pi-lu-zhao-gu-yi-xiang-shu-yu-ji-7/) - 2026-07-10 (#insights)
-- [新锐力量：穿越传统范式的新一代创业者崛起](https://fcvoyage.com/xin-rui-li-liang-chuan-yue-chuan-tong-fan-shi-de-xin-yi-dai-chuang-ye-zhe-jue-qi/) - 2026-07-10 (#insights)
 <!-- END_POSTS -->
