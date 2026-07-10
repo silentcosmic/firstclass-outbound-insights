@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [SWIFT区块链账本启动试点，17家全球银行率先接入](https://fcvoyage.com/swiftqu-kuai-lian-zhang-ben-qi-dong-shi-dian-17jia-quan-qiu-yin-xing-lu-xian-jie-ru/) - 2026-07-10 (#insights)
 - [新加坡支付体系深度革新：PayNow Gen2迈向统一二维码愿景](https://fcvoyage.com/xin-jia-po-zhi-fu-ti-xi-shen-du-ge-xin-paynow-gen2mai-xiang-tong-yi-er-wei-ma-yuan-jing/) - 2026-07-10 (#insights)
 - [9Pay携手Visa：境外企业掘金越南新机遇](https://t.me/c/4392427626/1279) - 2026-07-10 (#dubai)
 - [越南支付新纪元：9Pay直联Visa，赋能跨境商家掘金市场](https://fcvoyage.com/yue-nan-zhi-fu-xin-ji-yuan-9payzhi-lian-visa-fu-neng-kua-jing-shang-jia-jue-jin-shi-chang/) - 2026-07-10 (#insights)
@@ -33,5 +34,4 @@
 - [️ 汇旺维权群疑遭高价转售，海外社群信任危机加剧](https://t.me/c/4392427626/1254) - 2026-07-09 (#dubai)
 - [吉隆坡酒吧突袭行动，当局警示治安风险](https://t.me/c/4392427626/1253) - 2026-07-09 (#dubai)
 - [浙江金华警方破获假体彩赌球案，涉案500万，18人落网！](https://t.me/c/4392427626/1252) - 2026-07-09 (#dubai)
-- [约旦成功拦截8枚伊朗导弹：未造成人员伤亡](https://t.me/c/4392427626/1251) - 2026-07-09 (#dubai)
 <!-- END_POSTS -->
