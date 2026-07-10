@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [乌干达突袭千人电诈窝点：多数为中国公民](https://t.me/c/4392427626/1314) - 2026-07-10 (#dubai)
 - [波贝突袭：16名外国人被拘，业主遭罚](https://t.me/c/4392427626/1313) - 2026-07-10 (#dubai)
 - [中国"网络身份证"周年：4000万人申领，530+应用接入](https://t.me/c/4392427626/1312) - 2026-07-10 (#dubai)
 - [️ 柬埔寨支付平台暴雷：华人九年心血清零](https://t.me/c/4392427626/1311) - 2026-07-10 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行](https://fcvoyage.com/xing-ye-feng-xiang-gun-lao-xiang-ji-wu-nian-wu-ci-chong-ji-shang-shi-shi-bai-liang-kuan-ran-you-che-zhong-hui-xiao-liang-bang-qian-shi-chang-xin-ke-ji-pi-lu-zhao-gu-yi-xiang-shu-yu-ji-7/) - 2026-07-10 (#insights)
 - [新锐力量：穿越传统范式的新一代创业者崛起](https://fcvoyage.com/xin-rui-li-liang-chuan-yue-chuan-tong-fan-shi-de-xin-yi-dai-chuang-ye-zhe-jue-qi/) - 2026-07-10 (#insights)
 - [全球商业瞭望 | 大众汽车重塑德国生产布局；半导体代工价格策略调整；国家超算核心节点投入运营](https://fcvoyage.com/quan-qiu-shang-ye-liao-wang-da-zhong-qi-che-zhong-su-de-guo-sheng-chan-bu-ju-ban-dao-ti-dai-gong-jie-ge-ce-lue-diao-zheng-guo-jia-chao-suan-he-xin-jie-dian-tou-ru-yun-ying/) - 2026-07-10 (#insights)
-- [新加坡金融管理局优化审批流程 助力新型基金市场准入提速](https://fcvoyage.com/xin-jia-po-jin-rong-guan-li-ju-you-hua-shen-pi-liu-cheng-zhu-li-xin-xing-ji-jin-shi-chang-zhun-ru-ti-su/) - 2026-07-10 (#growth)
 <!-- END_POSTS -->
