@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [印度侨民在迪拜抽中一套房：12年租客变房东](https://t.me/c/4392427626/1310) - 2026-07-10 (#dubai)
 - [金边突袭：13名外籍人员涉网络诈骗被捕](https://t.me/c/4392427626/1309) - 2026-07-10 (#dubai)
 - [曝亚太集团高管涉人口贩卖，赌场洗码内幕浮出](https://t.me/c/4392427626/1308) - 2026-07-10 (#dubai)
 - [迪拜机场夏季迎峰：行李7秒过检，效率再升级](https://t.me/c/4392427626/1307) - 2026-07-10 (#dubai)
@@ -33,5 +34,4 @@
 - [人工智能浪潮驱动马来西亚科技腾飞：产业前瞻与战略布局](https://fcvoyage.com/ren-gong-zhi-neng-lang-chao-qu-dong-ma-lai-xi-ya-ke-ji-teng-fei-chan-ye-qian-zhan-yu-zhan-lue-bu-ju/) - 2026-07-10 (#growth)
 - [新加坡推出资本市场研究新动议，旨在巩固全球金融中心地位](https://fcvoyage.com/xin-jia-po-tui-chu-zi-ben-shi-chang-yan-jiu-xin-dong-yi-zhi-zai-gong-gu-quan-qiu-jin-rong-zhong-xin-di-wei/) - 2026-07-10 (#growth)
 - [SWIFT区块链账本启动试点，17家全球银行率先接入](https://fcvoyage.com/swiftqu-kuai-lian-zhang-ben-qi-dong-shi-dian-17jia-quan-qiu-yin-xing-lu-xian-jie-ru/) - 2026-07-10 (#insights)
-- [新加坡支付体系深度革新：PayNow Gen2迈向统一二维码愿景](https://fcvoyage.com/xin-jia-po-zhi-fu-ti-xi-shen-du-ge-xin-paynow-gen2mai-xiang-tong-yi-er-wei-ma-yuan-jing/) - 2026-07-10 (#insights)
 <!-- END_POSTS -->
