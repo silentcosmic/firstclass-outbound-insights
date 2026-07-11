@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋明日酷热：气温将飙升至47摄氏度](https://t.me/c/4392427626/1372) - 2026-07-11 (#dubai)
 - [星链落地越南：高价试水，瞄准特定市场](https://t.me/c/4392427626/1371) - 2026-07-11 (#dubai)
 - [️ 出海企业警示：前高管涉嫌职务侵占及个人操守问题](https://t.me/c/4392427626/1370) - 2026-07-11 (#dubai)
 - [马来西亚捣毁电诈窝点：18名中国籍嫌犯落网](https://t.me/c/4392427626/1369) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [出海洞察 | AI浪潮下微软碳排放量激增：科技巨头的绿色转型挑战](https://fcvoyage.com/chu-hai-dong-cha-ailang-chao-xia-wei-ruan-tan-pai-fang-liang-ji-zeng-ke-ji-ju-tou-de-lu-se-zhuan-xing-tiao-zhan/) - 2026-07-11 (#growth)
 - [行业风向 | 赢官司、融新钱，他想把百万「抗癌针」变平价](https://fcvoyage.com/xing-ye-feng-xiang-ying-guan-si-rong-xin-qian-ta-xiang-ba-bai-mo-kang-yan-zhen-bian-ping-jie/) - 2026-07-11 (#insights)
 - [恒瑞医药“双艾”组合海外审批进展：FDA完整回复信的深层解读](https://fcvoyage.com/heng-rui-yi-yao-shuang-ai-zu-he-hai-wai-shen-pi-jin-zhan-fdawan-zheng-hui-fu-xin-de-shen-ceng-jie-du/) - 2026-07-11 (#insights)
-- [智能驾驶领域新进展：蒋京芳履新智驾新程总裁，引领全球化量产提速](https://fcvoyage.com/zhi-neng-jia-shi-ling-yu-xin-jin-zhan-jiang-jing-fang-lu-xin-zhi-jia-xin-cheng-zong-cai-yin-ling-quan-qiu-hua-liang-chan-ti-su/) - 2026-07-11 (#insights)
 <!-- END_POSTS -->
