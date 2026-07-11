@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 赢官司、融新钱，他想把百万「抗癌针」变平价](https://fcvoyage.com/xing-ye-feng-xiang-ying-guan-si-rong-xin-qian-ta-xiang-ba-bai-mo-kang-yan-zhen-bian-ping-jie/) - 2026-07-11 (#insights)
 - [恒瑞医药“双艾”组合海外审批进展：FDA完整回复信的深层解读](https://fcvoyage.com/heng-rui-yi-yao-shuang-ai-zu-he-hai-wai-shen-pi-jin-zhan-fdawan-zheng-hui-fu-xin-de-shen-ceng-jie-du/) - 2026-07-11 (#insights)
 - [智能驾驶领域新进展：蒋京芳履新智驾新程总裁，引领全球化量产提速](https://fcvoyage.com/zhi-neng-jia-shi-ling-yu-xin-jin-zhan-jiang-jing-fang-lu-xin-zhi-jia-xin-cheng-zong-cai-yin-ling-quan-qiu-hua-liang-chan-ti-su/) - 2026-07-11 (#insights)
 - [出海 · 头等舱观察 | 东南亚企业安全新挑战：AI威胁下的韧性规模化发展](https://fcvoyage.com/chu-hai-tou-deng-cang-guan-cha-dong-nan-ya-qi-ye-an-quan-xin-tiao-zhan-aiwei-xie-xia-de-ren-xing-gui-mo-hua-fa-zhan/) - 2026-07-11 (#growth)
@@ -33,5 +34,4 @@
 - [特朗普：美伊停火协议已终结！](https://t.me/c/4392427626/1317) - 2026-07-10 (#dubai)
 - [吉隆坡豪宅诈骗窝点被捣毁：9名中国籍嫌犯落网](https://t.me/c/4392427626/1316) - 2026-07-10 (#dubai)
 - [️ 东南亚出海：中国男性“异乡情结”的社会观察](https://t.me/c/4392427626/1315) - 2026-07-10 (#dubai)
-- [乌干达突袭千人电诈窝点：多数为中国公民](https://t.me/c/4392427626/1314) - 2026-07-10 (#dubai)
 <!-- END_POSTS -->
