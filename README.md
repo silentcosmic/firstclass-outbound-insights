@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [腾讯拟成Manus最大股东：中国监管指令引发跨境科技并购新变局](https://fcvoyage.com/teng-xun-ni-cheng-manuszui-da-gu-dong-zhong-guo-jian-guan-zhi-ling-yin-fa-kua-jing-ke-ji-bing-gou-xin-bian-ju/) - 2026-07-11 (#insights)
 - [Sunrate全球品牌升级：剑指跨境支付与财资管理高地](https://t.me/c/4392427626/1336) - 2026-07-11 (#dubai)
 - [Sunrate全球品牌升级：深化跨境支付与财资管理战略布局](https://fcvoyage.com/sunratequan-qiu-pin-pai-sheng-ji-shen-hua-kua-jing-zhi-fu-yu-cai-zi-guan-li-zhan-lue-bu-ju/) - 2026-07-11 (#insights)
 - [迪拜下半年演出季火热：巨星与音乐节轮番登场](https://t.me/c/4392427626/1334) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [印度侨民在迪拜抽中一套房：12年租客变房东](https://t.me/c/4392427626/1310) - 2026-07-10 (#dubai)
 - [金边突袭：13名外籍人员涉网络诈骗被捕](https://t.me/c/4392427626/1309) - 2026-07-10 (#dubai)
 - [曝亚太集团高管涉人口贩卖，赌场洗码内幕浮出](https://t.me/c/4392427626/1308) - 2026-07-10 (#dubai)
-- [迪拜机场夏季迎峰：行李7秒过检，效率再升级](https://t.me/c/4392427626/1307) - 2026-07-10 (#dubai)
 <!-- END_POSTS -->
