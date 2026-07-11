@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [老挝“杀猪盘”团伙在华受审：11人当庭认罪](https://t.me/c/4392427626/1365) - 2026-07-11 (#dubai)
 - [吉隆坡蕉赖深夜突查：多人被带走，详情待公布](https://t.me/c/4392427626/1364) - 2026-07-11 (#dubai)
 - [️ 吉隆坡营商警示：警务腐败与高物价风险](https://t.me/c/4392427626/1363) - 2026-07-11 (#dubai)
 - [菲律宾绑架案5分钟锁定：中国公民成功获救](https://t.me/c/4392427626/1362) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [币安：欧洲战略持续推进，亚洲版图加速扩张](https://fcvoyage.com/bi-an-ou-zhou-zhan-lue-chi-xu-tui-jin-ya-zhou-ban-tu-jia-su-kuo-zhang/) - 2026-07-11 (#insights)
 - [腾讯拟成Manus最大股东：中国监管指令引发跨境科技并购新变局](https://fcvoyage.com/teng-xun-ni-cheng-manuszui-da-gu-dong-zhong-guo-jian-guan-zhi-ling-yin-fa-kua-jing-ke-ji-bing-gou-xin-bian-ju/) - 2026-07-11 (#insights)
 - [Sunrate全球品牌升级：剑指跨境支付与财资管理高地](https://t.me/c/4392427626/1336) - 2026-07-11 (#dubai)
-- [Sunrate全球品牌升级：深化跨境支付与财资管理战略布局](https://fcvoyage.com/sunratequan-qiu-pin-pai-sheng-ji-shen-hua-kua-jing-zhi-fu-yu-cai-zi-guan-li-zhan-lue-bu-ju/) - 2026-07-11 (#insights)
 <!-- END_POSTS -->
