@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 出海企业警示：前高管涉嫌职务侵占及个人操守问题](https://t.me/c/4392427626/1370) - 2026-07-11 (#dubai)
 - [马来西亚捣毁电诈窝点：18名中国籍嫌犯落网](https://t.me/c/4392427626/1369) - 2026-07-11 (#dubai)
 - [缅甸妙瓦底战事升级：空袭震动泰缅边境](https://t.me/c/4392427626/1368) - 2026-07-11 (#dubai)
 - [️ Gate.io承认人脸识别系统被攻破，不赔偿用户损失](https://t.me/c/4392427626/1367) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [恒瑞医药“双艾”组合海外审批进展：FDA完整回复信的深层解读](https://fcvoyage.com/heng-rui-yi-yao-shuang-ai-zu-he-hai-wai-shen-pi-jin-zhan-fdawan-zheng-hui-fu-xin-de-shen-ceng-jie-du/) - 2026-07-11 (#insights)
 - [智能驾驶领域新进展：蒋京芳履新智驾新程总裁，引领全球化量产提速](https://fcvoyage.com/zhi-neng-jia-shi-ling-yu-xin-jin-zhan-jiang-jing-fang-lu-xin-zhi-jia-xin-cheng-zong-cai-yin-ling-quan-qiu-hua-liang-chan-ti-su/) - 2026-07-11 (#insights)
 - [出海 · 头等舱观察 | 东南亚企业安全新挑战：AI威胁下的韧性规模化发展](https://fcvoyage.com/chu-hai-tou-deng-cang-guan-cha-dong-nan-ya-qi-ye-an-quan-xin-tiao-zhan-aiwei-xie-xia-de-ren-xing-gui-mo-hua-fa-zhan/) - 2026-07-11 (#growth)
-- [新加坡对AI接受度领先全球，为何日常应用却步不前？](https://fcvoyage.com/xin-jia-po-dui-aijie-shou-du-ling-xian-quan-qiu-wei-he-ri-chang-ying-yong-que-bu-bu-qian/) - 2026-07-11 (#growth)
 <!-- END_POSTS -->
