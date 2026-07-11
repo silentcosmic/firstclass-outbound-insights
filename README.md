@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [缅甸妙瓦底战事升级：空袭震动泰缅边境](https://t.me/c/4392427626/1368) - 2026-07-11 (#dubai)
 - [️ Gate.io承认人脸识别系统被攻破，不赔偿用户损失](https://t.me/c/4392427626/1367) - 2026-07-11 (#dubai)
 - [知名主持人公开吐槽周星驰新片：不欠了，太难看](https://t.me/c/4392427626/1366) - 2026-07-11 (#dubai)
 - [老挝“杀猪盘”团伙在华受审：11人当庭认罪](https://t.me/c/4392427626/1365) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [出海 · 头等舱观察 | 东南亚企业安全新挑战：AI威胁下的韧性规模化发展](https://fcvoyage.com/chu-hai-tou-deng-cang-guan-cha-dong-nan-ya-qi-ye-an-quan-xin-tiao-zhan-aiwei-xie-xia-de-ren-xing-gui-mo-hua-fa-zhan/) - 2026-07-11 (#growth)
 - [新加坡对AI接受度领先全球，为何日常应用却步不前？](https://fcvoyage.com/xin-jia-po-dui-aijie-shou-du-ling-xian-quan-qiu-wei-he-ri-chang-ying-yong-que-bu-bu-qian/) - 2026-07-11 (#growth)
 - [新加坡投资者广泛拥抱AI赋能金融，但最终决策仍依赖专业顾问深度洞察](https://fcvoyage.com/xin-jia-po-tou-zi-zhe-yan-fan-yong-bao-aifu-neng-jin-rong-dan-zui-zhong-jue-ce-reng-yi-lai-zhuan-ye-gu-wen-shen-du-dong-cha/) - 2026-07-11 (#growth)
-- [币安：欧洲战略持续推进，亚洲版图加速扩张](https://fcvoyage.com/bi-an-ou-zhou-zhan-lue-chi-xu-tui-jin-ya-zhou-ban-tu-jia-su-kuo-zhang/) - 2026-07-11 (#insights)
 <!-- END_POSTS -->
