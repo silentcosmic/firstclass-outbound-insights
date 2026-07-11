@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海 · 头等舱观察 | 东南亚企业安全新挑战：AI威胁下的韧性规模化发展](https://fcvoyage.com/chu-hai-tou-deng-cang-guan-cha-dong-nan-ya-qi-ye-an-quan-xin-tiao-zhan-aiwei-xie-xia-de-ren-xing-gui-mo-hua-fa-zhan/) - 2026-07-11 (#growth)
 - [新加坡对AI接受度领先全球，为何日常应用却步不前？](https://fcvoyage.com/xin-jia-po-dui-aijie-shou-du-ling-xian-quan-qiu-wei-he-ri-chang-ying-yong-que-bu-bu-qian/) - 2026-07-11 (#growth)
 - [新加坡投资者广泛拥抱AI赋能金融，但最终决策仍依赖专业顾问深度洞察](https://fcvoyage.com/xin-jia-po-tou-zi-zhe-yan-fan-yong-bao-aifu-neng-jin-rong-dan-zui-zhong-jue-ce-reng-yi-lai-zhuan-ye-gu-wen-shen-du-dong-cha/) - 2026-07-11 (#growth)
 - [币安：欧洲战略持续推进，亚洲版图加速扩张](https://fcvoyage.com/bi-an-ou-zhou-zhan-lue-chi-xu-tui-jin-ya-zhou-ban-tu-jia-su-kuo-zhang/) - 2026-07-11 (#insights)
@@ -33,5 +34,4 @@
 - [乌干达突袭千人电诈窝点：多数为中国公民](https://t.me/c/4392427626/1314) - 2026-07-10 (#dubai)
 - [波贝突袭：16名外国人被拘，业主遭罚](https://t.me/c/4392427626/1313) - 2026-07-10 (#dubai)
 - [中国"网络身份证"周年：4000万人申领，530+应用接入](https://t.me/c/4392427626/1312) - 2026-07-10 (#dubai)
-- [️ 柬埔寨支付平台暴雷：华人九年心血清零](https://t.me/c/4392427626/1311) - 2026-07-10 (#dubai)
 <!-- END_POSTS -->
