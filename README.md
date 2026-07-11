@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡投资者广泛拥抱AI赋能金融，但最终决策仍依赖专业顾问深度洞察](https://fcvoyage.com/xin-jia-po-tou-zi-zhe-yan-fan-yong-bao-aifu-neng-jin-rong-dan-zui-zhong-jue-ce-reng-yi-lai-zhuan-ye-gu-wen-shen-du-dong-cha/) - 2026-07-11 (#growth)
 - [币安：欧洲战略持续推进，亚洲版图加速扩张](https://fcvoyage.com/bi-an-ou-zhou-zhan-lue-chi-xu-tui-jin-ya-zhou-ban-tu-jia-su-kuo-zhang/) - 2026-07-11 (#insights)
 - [腾讯拟成Manus最大股东：中国监管指令引发跨境科技并购新变局](https://fcvoyage.com/teng-xun-ni-cheng-manuszui-da-gu-dong-zhong-guo-jian-guan-zhi-ling-yin-fa-kua-jing-ke-ji-bing-gou-xin-bian-ju/) - 2026-07-11 (#insights)
 - [Sunrate全球品牌升级：剑指跨境支付与财资管理高地](https://t.me/c/4392427626/1336) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [中国"网络身份证"周年：4000万人申领，530+应用接入](https://t.me/c/4392427626/1312) - 2026-07-10 (#dubai)
 - [️ 柬埔寨支付平台暴雷：华人九年心血清零](https://t.me/c/4392427626/1311) - 2026-07-10 (#dubai)
 - [印度侨民在迪拜抽中一套房：12年租客变房东](https://t.me/c/4392427626/1310) - 2026-07-10 (#dubai)
-- [金边突袭：13名外籍人员涉网络诈骗被捕](https://t.me/c/4392427626/1309) - 2026-07-10 (#dubai)
 <!-- END_POSTS -->
