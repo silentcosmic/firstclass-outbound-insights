@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [中国移民局启动“捕蛇”行动，集中缉捕严重逃犯](https://t.me/c/4392427626/1348) - 2026-07-11 (#dubai)
 - [湖南警方破获“约炮刷单”复合骗局：27人落网](https://t.me/c/4392427626/1347) - 2026-07-11 (#dubai)
 - [新加坡职场AI深度观察：员工接纳度高，核心应用面临落地挑战](https://fcvoyage.com/xin-jia-po-zhi-chang-aishen-du-guan-cha-yuan-gong-jie-na-du-gao-he-xin-ying-yong-mian-lin-luo-di-tiao-zhan/) - 2026-07-11 (#growth)
 - [出海洞察 | AI浪潮下微软碳排放量激增：科技巨头的绿色转型挑战](https://fcvoyage.com/chu-hai-dong-cha-ailang-chao-xia-wei-ruan-tan-pai-fang-liang-ji-zeng-ke-ji-ju-tou-de-lu-se-zhuan-xing-tiao-zhan/) - 2026-07-11 (#growth)
@@ -33,5 +34,4 @@
 - [广州警方成功劝阻280万“发财大计”骗局](https://t.me/c/4392427626/1321) - 2026-07-11 (#dubai)
 - [巴西网红迪拜坠亡：死因与社媒恶评引关注](https://t.me/c/4392427626/1320) - 2026-07-11 (#dubai)
 - [阿联酋枪杀案宣判：海湾男子被判死刑](https://t.me/c/4392427626/1319) - 2026-07-11 (#dubai)
-- [缅甸腊戌：屋主反杀劫匪却被捕](https://t.me/c/4392427626/1318) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
