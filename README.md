@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [星链落地越南：高价试水，瞄准特定市场](https://t.me/c/4392427626/1371) - 2026-07-11 (#dubai)
 - [️ 出海企业警示：前高管涉嫌职务侵占及个人操守问题](https://t.me/c/4392427626/1370) - 2026-07-11 (#dubai)
 - [马来西亚捣毁电诈窝点：18名中国籍嫌犯落网](https://t.me/c/4392427626/1369) - 2026-07-11 (#dubai)
 - [缅甸妙瓦底战事升级：空袭震动泰缅边境](https://t.me/c/4392427626/1368) - 2026-07-11 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 赢官司、融新钱，他想把百万「抗癌针」变平价](https://fcvoyage.com/xing-ye-feng-xiang-ying-guan-si-rong-xin-qian-ta-xiang-ba-bai-mo-kang-yan-zhen-bian-ping-jie/) - 2026-07-11 (#insights)
 - [恒瑞医药“双艾”组合海外审批进展：FDA完整回复信的深层解读](https://fcvoyage.com/heng-rui-yi-yao-shuang-ai-zu-he-hai-wai-shen-pi-jin-zhan-fdawan-zheng-hui-fu-xin-de-shen-ceng-jie-du/) - 2026-07-11 (#insights)
 - [智能驾驶领域新进展：蒋京芳履新智驾新程总裁，引领全球化量产提速](https://fcvoyage.com/zhi-neng-jia-shi-ling-yu-xin-jin-zhan-jiang-jing-fang-lu-xin-zhi-jia-xin-cheng-zong-cai-yin-ling-quan-qiu-hua-liang-chan-ti-su/) - 2026-07-11 (#insights)
-- [出海 · 头等舱观察 | 东南亚企业安全新挑战：AI威胁下的韧性规模化发展](https://fcvoyage.com/chu-hai-tou-deng-cang-guan-cha-dong-nan-ya-qi-ye-an-quan-xin-tiao-zhan-aiwei-xie-xia-de-ren-xing-gui-mo-hua-fa-zhan/) - 2026-07-11 (#growth)
 <!-- END_POSTS -->
