@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [湖南警方破获“约炮刷单”复合骗局：27人落网](https://t.me/c/4392427626/1347) - 2026-07-11 (#dubai)
 - [新加坡职场AI深度观察：员工接纳度高，核心应用面临落地挑战](https://fcvoyage.com/xin-jia-po-zhi-chang-aishen-du-guan-cha-yuan-gong-jie-na-du-gao-he-xin-ying-yong-mian-lin-luo-di-tiao-zhan/) - 2026-07-11 (#growth)
 - [出海洞察 | AI浪潮下微软碳排放量激增：科技巨头的绿色转型挑战](https://fcvoyage.com/chu-hai-dong-cha-ailang-chao-xia-wei-ruan-tan-pai-fang-liang-ji-zeng-ke-ji-ju-tou-de-lu-se-zhuan-xing-tiao-zhan/) - 2026-07-11 (#growth)
 - [行业风向 | 赢官司、融新钱，他想把百万「抗癌针」变平价](https://fcvoyage.com/xing-ye-feng-xiang-ying-guan-si-rong-xin-qian-ta-xiang-ba-bai-mo-kang-yan-zhen-bian-ping-jie/) - 2026-07-11 (#insights)
@@ -33,5 +34,4 @@
 - [巴西网红迪拜坠亡：死因与社媒恶评引关注](https://t.me/c/4392427626/1320) - 2026-07-11 (#dubai)
 - [阿联酋枪杀案宣判：海湾男子被判死刑](https://t.me/c/4392427626/1319) - 2026-07-11 (#dubai)
 - [缅甸腊戌：屋主反杀劫匪却被捕](https://t.me/c/4392427626/1318) - 2026-07-11 (#dubai)
-- [特朗普：美伊停火协议已终结！](https://t.me/c/4392427626/1317) - 2026-07-10 (#dubai)
 <!-- END_POSTS -->
