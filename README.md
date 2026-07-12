@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海头等舱深度：长鑫存储IPO承销团阵容揭秘，SK海力士强势登陆纳斯达克，OpenAI推出智能体平台](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-chang-xin-cun-chu-ipocheng-xiao-tuan-zhen-rong-jie-mi-skhai-li-shi-qiang-shi-deng-lu-na-si-da-ke-openaitui-chu-zhi-neng-ti-ping-tai/) - 2026-07-12 (#insights)
 - [具身智能仿生扑翼机器人新纪元：00后上海交大博士团队三个月内完成三轮融资，引领流体智能突破](https://fcvoyage.com/ju-shen-zhi-neng-fang-sheng-bu-yi-ji-qi-ren-xin-ji-yuan-00hou-shang-hai-jiao-da-bo-shi-tuan-dui-san-ge-yue-nei-wan-cheng-san-lun-rong-zi-yin-ling-liu-ti-zhi-neng-tu-po/) - 2026-07-12 (#insights)
 - [银发经济新机遇：AI如何赋能老年群体的数字陪伴与情感慰藉](https://fcvoyage.com/yin-fa-jing-ji-xin-ji-yu-airu-he-fu-neng-lao-nian-qun-ti-de-shu-zi-pei-ban-yu-qing-gan-wei-jie/) - 2026-07-12 (#infrastructure)
 - [行业风向 | Your next nurse may monitor you from the Philippines](https://fcvoyage.com/xing-ye-feng-xiang-your-next-nurse-may-monitor-you-from-the-philippines/) - 2026-07-12 (#infrastructure)
@@ -33,5 +34,4 @@
 - [马来西亚沙巴遣返再升级：年内累计84名中国公民被驱逐](https://t.me/c/4392427626/1375) - 2026-07-11 (#dubai)
 - [日本新型诈骗曝光：快递柜成赃款中转站](https://t.me/c/4392427626/1374) - 2026-07-11 (#dubai)
 - [哈利法塔艺术征集再启：作品或将点亮全球最高楼](https://t.me/c/4392427626/1373) - 2026-07-11 (#dubai)
-- [阿联酋明日酷热：气温将飙升至47摄氏度](https://t.me/c/4392427626/1372) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
