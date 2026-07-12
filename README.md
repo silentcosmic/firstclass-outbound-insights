@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [银发经济新机遇：AI如何赋能老年群体的数字陪伴与情感慰藉](https://fcvoyage.com/yin-fa-jing-ji-xin-ji-yu-airu-he-fu-neng-lao-nian-qun-ti-de-shu-zi-pei-ban-yu-qing-gan-wei-jie/) - 2026-07-12 (#infrastructure)
 - [行业风向 | Your next nurse may monitor you from the Philippines](https://fcvoyage.com/xing-ye-feng-xiang-your-next-nurse-may-monitor-you-from-the-philippines/) - 2026-07-12 (#infrastructure)
 - [算力基础设施巨头比特大陆(Bitdeer)在美国内华达州破土动工，投资3600万美元建设先进电子制造工厂](https://fcvoyage.com/suan-li-ji-chu-she-shi-ju-tou-bi-te-da-lu-bitdeer-zai-mei-guo-nei-hua-da-zhou-po-tu-dong-gong-tou-zi-3600mo-mei-yuan-jian-she-xian-jin-dian-zi-zhi-zao-gong-han/) - 2026-07-12 (#growth)
 - [AI浪潮驱动：韩国、马来西亚、泰国及中国台湾经济增长表现突出](https://fcvoyage.com/ailang-chao-qu-dong-han-guo-ma-lai-xi-ya-tai-guo-ji-zhong-guo-tai-wan-jing-ji-zeng-chang-biao-xian-tu-chu/) - 2026-07-12 (#growth)
@@ -33,5 +34,4 @@
 - [哈利法塔艺术征集再启：作品或将点亮全球最高楼](https://t.me/c/4392427626/1373) - 2026-07-11 (#dubai)
 - [阿联酋明日酷热：气温将飙升至47摄氏度](https://t.me/c/4392427626/1372) - 2026-07-11 (#dubai)
 - [星链落地越南：高价试水，瞄准特定市场](https://t.me/c/4392427626/1371) - 2026-07-11 (#dubai)
-- [️ 出海企业警示：前高管涉嫌职务侵占及个人操守问题](https://t.me/c/4392427626/1370) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
