@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡金融管理局拟放宽零售基金产品准入，优化市场创新与投资者保护机制](https://fcvoyage.com/xin-jia-po-jin-rong-guan-li-ju-ni-fang-kuan-ling-shou-ji-jin-chan-pin-zhun-ru-you-hua-shi-chang-chuang-xin-yu-tou-zi-zhe-bao-hu-ji-zhi/) - 2026-07-12 (#insights)
 - [️ AI普及：企业数据安全隐患激增，治理盲区凸显](https://t.me/c/4392427626/1393) - 2026-07-12 (#dubai)
 - [人工智能浪潮下的网络安全新挑战与治理盲区](https://fcvoyage.com/ren-gong-zhi-neng-lang-chao-xia-de-wang-luo-an-quan-xin-tiao-zhan-yu-zhi-li-mang-qu/) - 2026-07-12 (#insights)
 - [深度解析：Google广告生态“无效流量”政策的应对策略与风险防范](https://fcvoyage.com/shen-du-jie-xi-googleyan-gao-sheng-tai-wu-xiao-liu-liang-zheng-ce-de-ying-dui-ce-lue-yu-feng-xian-fang-fan/) - 2026-07-12 (#growth)
@@ -33,5 +34,4 @@
 - [️ Gate.io承认人脸识别系统被攻破，不赔偿用户损失](https://t.me/c/4392427626/1367) - 2026-07-11 (#dubai)
 - [知名主持人公开吐槽周星驰新片：不欠了，太难看](https://t.me/c/4392427626/1366) - 2026-07-11 (#dubai)
 - [老挝“杀猪盘”团伙在华受审：11人当庭认罪](https://t.me/c/4392427626/1365) - 2026-07-11 (#dubai)
-- [吉隆坡蕉赖深夜突查：多人被带走，详情待公布](https://t.me/c/4392427626/1364) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
