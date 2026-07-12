@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚政府AI治理前瞻：总理数字分身即将亮相公共视野](https://fcvoyage.com/ma-lai-xi-ya-zheng-fu-aizhi-li-qian-zhan-zong-li-shu-zi-fen-shen-ji-jiang-liang-xiang-gong-gong-shi-ye/) - 2026-07-12 (#growth)
 - [暹罗商业银行率先采用花旗全天候美元清算方案，实现跨境支付新突破](https://fcvoyage.com/xian-luo-shang-ye-yin-xing-lu-xian-cai-yong-hua-qi-quan-tian-hou-mei-yuan-qing-suan-fang-an-shi-xian-kua-jing-zhi-fu-xin-tu-po/) - 2026-07-12 (#insights)
 - [新加坡金融管理局拟放宽零售基金产品准入，优化市场创新与投资者保护机制](https://fcvoyage.com/xin-jia-po-jin-rong-guan-li-ju-ni-fang-kuan-ling-shou-ji-jin-chan-pin-zhun-ru-you-hua-shi-chang-chuang-xin-yu-tou-zi-zhe-bao-hu-ji-zhi/) - 2026-07-12 (#insights)
 - [️ AI普及：企业数据安全隐患激增，治理盲区凸显](https://t.me/c/4392427626/1393) - 2026-07-12 (#dubai)
@@ -33,5 +34,4 @@
 - [马来西亚捣毁电诈窝点：18名中国籍嫌犯落网](https://t.me/c/4392427626/1369) - 2026-07-11 (#dubai)
 - [缅甸妙瓦底战事升级：空袭震动泰缅边境](https://t.me/c/4392427626/1368) - 2026-07-11 (#dubai)
 - [️ Gate.io承认人脸识别系统被攻破，不赔偿用户损失](https://t.me/c/4392427626/1367) - 2026-07-11 (#dubai)
-- [知名主持人公开吐槽周星驰新片：不欠了，太难看](https://t.me/c/4392427626/1366) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
