@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [金边突发：中国籍女性诊所内遇害，疑遭奸杀](https://t.me/c/4392427626/1420) - 2026-07-13 (#dubai)
 - [警示：翻译软件疑致WhatsApp异常，客户恐遭劫持！](https://t.me/c/4392427626/1419) - 2026-07-13 (#dubai)
 - [科伦坡安全警示：中国公民夜间疑遭“执法人员”拦车索款](https://t.me/c/4392427626/1418) - 2026-07-13 (#dubai)
 - [缅甸诈骗园区惊魂：数名受害者绝境逃生](https://t.me/c/4392427626/1417) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [️ AI普及：企业数据安全隐患激增，治理盲区凸显](https://t.me/c/4392427626/1393) - 2026-07-12 (#dubai)
 - [人工智能浪潮下的网络安全新挑战与治理盲区](https://fcvoyage.com/ren-gong-zhi-neng-lang-chao-xia-de-wang-luo-an-quan-xin-tiao-zhan-yu-zhi-li-mang-qu/) - 2026-07-12 (#insights)
 - [深度解析：Google广告生态“无效流量”政策的应对策略与风险防范](https://fcvoyage.com/shen-du-jie-xi-googleyan-gao-sheng-tai-wu-xiao-liu-liang-zheng-ce-de-ying-dui-ce-lue-yu-feng-xian-fang-fan/) - 2026-07-12 (#growth)
-- [美国制裁升级：迪拜伊朗银行家被盯上](https://t.me/c/4392427626/1390) - 2026-07-12 (#dubai)
 <!-- END_POSTS -->
