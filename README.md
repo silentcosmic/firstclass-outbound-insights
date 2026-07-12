@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [算力基础设施巨头比特大陆(Bitdeer)在美国内华达州破土动工，投资3600万美元建设先进电子制造工厂](https://fcvoyage.com/suan-li-ji-chu-she-shi-ju-tou-bi-te-da-lu-bitdeer-zai-mei-guo-nei-hua-da-zhou-po-tu-dong-gong-tou-zi-3600mo-mei-yuan-jian-she-xian-jin-dian-zi-zhi-zao-gong-han/) - 2026-07-12 (#growth)
 - [AI浪潮驱动：韩国、马来西亚、泰国及中国台湾经济增长表现突出](https://fcvoyage.com/ailang-chao-qu-dong-han-guo-ma-lai-xi-ya-tai-guo-ji-zhong-guo-tai-wan-jing-ji-zeng-chang-biao-xian-tu-chu/) - 2026-07-12 (#growth)
 - [马来西亚政府AI治理前瞻：总理数字分身即将亮相公共视野](https://fcvoyage.com/ma-lai-xi-ya-zheng-fu-aizhi-li-qian-zhan-zong-li-shu-zi-fen-shen-ji-jiang-liang-xiang-gong-gong-shi-ye/) - 2026-07-12 (#growth)
 - [暹罗商业银行率先采用花旗全天候美元清算方案，实现跨境支付新突破](https://fcvoyage.com/xian-luo-shang-ye-yin-xing-lu-xian-cai-yong-hua-qi-quan-tian-hou-mei-yuan-qing-suan-fang-an-shi-xian-kua-jing-zhi-fu-xin-tu-po/) - 2026-07-12 (#insights)
@@ -33,5 +34,4 @@
 - [星链落地越南：高价试水，瞄准特定市场](https://t.me/c/4392427626/1371) - 2026-07-11 (#dubai)
 - [️ 出海企业警示：前高管涉嫌职务侵占及个人操守问题](https://t.me/c/4392427626/1370) - 2026-07-11 (#dubai)
 - [马来西亚捣毁电诈窝点：18名中国籍嫌犯落网](https://t.me/c/4392427626/1369) - 2026-07-11 (#dubai)
-- [缅甸妙瓦底战事升级：空袭震动泰缅边境](https://t.me/c/4392427626/1368) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
