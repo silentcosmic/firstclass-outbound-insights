@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://fcvoyage.com/xing-ye-feng-xiang-du-jia-zhi-pu-chuang-shi-ren-tang-jie-fa-nei-bu-xin-glm-shi-ke-zhi-hou-shi-yao-shi-geng-zhong-yao-de-shi/) - 2026-07-12 (#insights)
 - [出海头等舱深度：长鑫存储IPO承销团阵容揭秘，SK海力士强势登陆纳斯达克，OpenAI推出智能体平台](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-chang-xin-cun-chu-ipocheng-xiao-tuan-zhen-rong-jie-mi-skhai-li-shi-qiang-shi-deng-lu-na-si-da-ke-openaitui-chu-zhi-neng-ti-ping-tai/) - 2026-07-12 (#insights)
 - [具身智能仿生扑翼机器人新纪元：00后上海交大博士团队三个月内完成三轮融资，引领流体智能突破](https://fcvoyage.com/ju-shen-zhi-neng-fang-sheng-bu-yi-ji-qi-ren-xin-ji-yuan-00hou-shang-hai-jiao-da-bo-shi-tuan-dui-san-ge-yue-nei-wan-cheng-san-lun-rong-zi-yin-ling-liu-ti-zhi-neng-tu-po/) - 2026-07-12 (#insights)
 - [银发经济新机遇：AI如何赋能老年群体的数字陪伴与情感慰藉](https://fcvoyage.com/yin-fa-jing-ji-xin-ji-yu-airu-he-fu-neng-lao-nian-qun-ti-de-shu-zi-pei-ban-yu-qing-gan-wei-jie/) - 2026-07-12 (#infrastructure)
@@ -33,5 +34,4 @@
 - [柬埔寨恶性案件：嫌犯潜逃逾月，受害者家属陷恐惧](https://t.me/c/4392427626/1376) - 2026-07-11 (#dubai)
 - [马来西亚沙巴遣返再升级：年内累计84名中国公民被驱逐](https://t.me/c/4392427626/1375) - 2026-07-11 (#dubai)
 - [日本新型诈骗曝光：快递柜成赃款中转站](https://t.me/c/4392427626/1374) - 2026-07-11 (#dubai)
-- [哈利法塔艺术征集再启：作品或将点亮全球最高楼](https://t.me/c/4392427626/1373) - 2026-07-11 (#dubai)
 <!-- END_POSTS -->
