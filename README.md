@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [老挝向中国移交中国籍嫌犯](https://t.me/c/4392427626/1456) - 2026-07-13 (#dubai)
 - [泰国总理阿努廷即将访华，深化区域合作](https://t.me/c/4392427626/1455) - 2026-07-13 (#dubai)
 - [迪拜商界痛失英才：加拉达里家族少帅24岁骤逝](https://t.me/c/4392427626/1454) - 2026-07-13 (#dubai)
 - [阿联酋2027年假期前瞻：五月连休最长，企业规划需趁早](https://t.me/c/4392427626/1453) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [膳食补充剂创新原料领军者纽邦生物完成近2亿元C+轮融资，年营收超4亿赋能全球600余品牌](https://fcvoyage.com/shan-shi-bu-chong-ji-chuang-xin-yuan-liao-ling-jun-zhe-niu-bang-sheng-wu-wan-cheng-jin-2yi-yuan-c-lun-rong-zi-nian-ying-shou-chao-4yi-fu-neng-quan-qiu-600yu-pin-pai/) - 2026-07-13 (#insights)
 - [出海情报速递：SK海力士预测2027年存储行业剧烈短缺；苹果对OpenAI提起商业机密诉讼；赛力斯上半年业绩承压](https://fcvoyage.com/chu-hai-qing-bao-su-di-skhai-li-shi-yu-ce-2027nian-cun-chu-xing-ye-ju-lie-duan-que-ping-guo-dui-openaiti-qi-shang-ye-ji-mi-su-song-sai-li-si-shang-ban-nian-ye-ji-cheng-ya/) - 2026-07-13 (#insights)
 - [全球科技市场震荡背景下，国产算力与高科技出口逆势上扬](https://fcvoyage.com/quan-qiu-ke-ji-shi-chang-zhen-dang-bei-jing-xia-guo-chan-suan-li-yu-gao-ke-ji-chu-kou-ni-shi-shang-yang/) - 2026-07-13 (#insights)
-- [淡马锡重磅出击AI赛道：2031年投资组合中AI配置目标高达15%](https://fcvoyage.com/dan-ma-xi-zhong-bang-chu-ji-aisai-dao-2031nian-tou-zi-zu-he-zhong-aipei-zhi-mu-biao-gao-da-15/) - 2026-07-13 (#growth)
 <!-- END_POSTS -->
