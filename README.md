@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [曼谷夜店大火致27死：公共安全警钟再敲响](https://t.me/c/4392427626/1432) - 2026-07-13 (#dubai)
 - [金边奸杀案疑云：受害者背景牵出新线索？](https://t.me/c/4392427626/1431) - 2026-07-13 (#dubai)
 - [突破价格内卷：新一代出海企业以创新定义高端产品赛道](https://fcvoyage.com/tu-po-jie-ge-nei-juan-xin-yi-dai-chu-hai-qi-ye-yi-chuang-xin-ding-yi-gao-duan-chan-pin-sai-dao/) - 2026-07-13 (#insights)
 - [膳食补充剂创新原料领军者纽邦生物完成近2亿元C+轮融资，年营收超4亿赋能全球600余品牌](https://fcvoyage.com/shan-shi-bu-chong-ji-chuang-xin-yuan-liao-ling-jun-zhe-niu-bang-sheng-wu-wan-cheng-jin-2yi-yuan-c-lun-rong-zi-nian-ying-shou-chao-4yi-fu-neng-quan-qiu-600yu-pin-pai/) - 2026-07-13 (#insights)
@@ -33,5 +34,4 @@
 - [蜜雪冰城出海策略深度解析：全球市场扩张的挑战与机遇](https://fcvoyage.com/mi-xue-bing-cheng-chu-hai-ce-lue-shen-du-jie-xi-quan-qiu-shi-chang-kuo-zhang-de-tiao-zhan-yu-ji-yu/) - 2026-07-12 (#insights)
 - [蜜雪冰城海外扩张按下暂停键：全球化战略面临深度调整](https://fcvoyage.com/mi-xue-bing-cheng-hai-wai-kuo-zhang-an-xia-zan-ting-jian-quan-qiu-hua-zhan-lue-mian-lin-shen-du-diao-zheng/) - 2026-07-12 (#insights)
 - [行业风向 | 独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://fcvoyage.com/xing-ye-feng-xiang-du-jia-zhi-pu-chuang-shi-ren-tang-jie-fa-nei-bu-xin-glm-shi-ke-zhi-hou-shi-yao-shi-geng-zhong-yao-de-shi/) - 2026-07-12 (#insights)
-- [出海头等舱深度：长鑫存储IPO承销团阵容揭秘，SK海力士强势登陆纳斯达克，OpenAI推出智能体平台](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-chang-xin-cun-chu-ipocheng-xiao-tuan-zhen-rong-jie-mi-skhai-li-shi-qiang-shi-deng-lu-na-si-da-ke-openaitui-chu-zhi-neng-ti-ping-tai/) - 2026-07-12 (#insights)
 <!-- END_POSTS -->
