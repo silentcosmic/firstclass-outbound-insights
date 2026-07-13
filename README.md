@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨中国女医遇害案：疑犯曾弑妹，警方设局诱捕](https://t.me/c/4392427626/1449) - 2026-07-13 (#dubai)
 - [️ 新山金海湾警示：华人商家疑举报同胞](https://t.me/c/4392427626/1448) - 2026-07-13 (#dubai)
 - [港人赴台涉诈骗案激增：‘车手’被捕三年暴涨七倍](https://t.me/c/4392427626/1447) - 2026-07-13 (#dubai)
 - [️ 吉隆坡武吉免登突发移民检查：提醒出海人士注意](https://t.me/c/4392427626/1446) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [出海 · 头等舱独家报道：Nium战略并购Cypher，加速构建法币与数字资产支付融合基础设施](https://fcvoyage.com/chu-hai-tou-deng-cang-du-jia-bao-dao-niumzhan-lue-bing-gou-cypher-jia-su-gou-jian-fa-bi-yu-shu-zi-zi-chan-zhi-fu-rong-he-ji-chu-she-shi/) - 2026-07-13 (#insights)
 - [西港星汇海景湾突查：涉毒与无证人员引关注](https://t.me/c/4392427626/1421) - 2026-07-13 (#dubai)
 - [金边突发：中国籍女性诊所内遇害，疑遭奸杀](https://t.me/c/4392427626/1420) - 2026-07-13 (#dubai)
-- [警示：翻译软件疑致WhatsApp异常，客户恐遭劫持！](https://t.me/c/4392427626/1419) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
