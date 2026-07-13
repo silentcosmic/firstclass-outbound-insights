@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋强烈谴责伊朗袭击，中东局势升级](https://t.me/c/4392427626/1434) - 2026-07-13 (#dubai)
 - [甘肃警方破获无人机助电诈取现案，涉案百万](https://t.me/c/4392427626/1433) - 2026-07-13 (#dubai)
 - [曼谷夜店大火致27死：公共安全警钟再敲响](https://t.me/c/4392427626/1432) - 2026-07-13 (#dubai)
 - [金边奸杀案疑云：受害者背景牵出新线索？](https://t.me/c/4392427626/1431) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [Telegram推出“文章消息”：富文本编辑时代开启](https://t.me/c/4392427626/1407) - 2026-07-12 (#dubai)
 - [阿联酋彩票头奖落空：3000万迪拉姆大奖无人认领](https://t.me/c/4392427626/1406) - 2026-07-12 (#dubai)
 - [蜜雪冰城出海策略深度解析：全球市场扩张的挑战与机遇](https://fcvoyage.com/mi-xue-bing-cheng-chu-hai-ce-lue-shen-du-jie-xi-quan-qiu-shi-chang-kuo-zhang-de-tiao-zhan-yu-ji-yu/) - 2026-07-12 (#insights)
-- [蜜雪冰城海外扩张按下暂停键：全球化战略面临深度调整](https://fcvoyage.com/mi-xue-bing-cheng-hai-wai-kuo-zhang-an-xia-zan-ting-jian-quan-qiu-hua-zhan-lue-mian-lin-shen-du-diao-zheng/) - 2026-07-12 (#insights)
 <!-- END_POSTS -->
