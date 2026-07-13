@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜酋长豪掷10万奖学金，学生：精神激励更珍贵](https://t.me/c/4392427626/1458) - 2026-07-13 (#dubai)
 - [阿联酋军事城仓库起火：军方迅速控制无伤亡](https://t.me/c/4392427626/1457) - 2026-07-13 (#dubai)
 - [老挝向中国移交中国籍嫌犯](https://t.me/c/4392427626/1456) - 2026-07-13 (#dubai)
 - [泰国总理阿努廷即将访华，深化区域合作](https://t.me/c/4392427626/1455) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [金边奸杀案疑云：受害者背景牵出新线索？](https://t.me/c/4392427626/1431) - 2026-07-13 (#dubai)
 - [突破价格内卷：新一代出海企业以创新定义高端产品赛道](https://fcvoyage.com/tu-po-jie-ge-nei-juan-xin-yi-dai-chu-hai-qi-ye-yi-chuang-xin-ding-yi-gao-duan-chan-pin-sai-dao/) - 2026-07-13 (#insights)
 - [膳食补充剂创新原料领军者纽邦生物完成近2亿元C+轮融资，年营收超4亿赋能全球600余品牌](https://fcvoyage.com/shan-shi-bu-chong-ji-chuang-xin-yuan-liao-ling-jun-zhe-niu-bang-sheng-wu-wan-cheng-jin-2yi-yuan-c-lun-rong-zi-nian-ying-shou-chao-4yi-fu-neng-quan-qiu-600yu-pin-pai/) - 2026-07-13 (#insights)
-- [出海情报速递：SK海力士预测2027年存储行业剧烈短缺；苹果对OpenAI提起商业机密诉讼；赛力斯上半年业绩承压](https://fcvoyage.com/chu-hai-qing-bao-su-di-skhai-li-shi-yu-ce-2027nian-cun-chu-xing-ye-ju-lie-duan-que-ping-guo-dui-openaiti-qi-shang-ye-ji-mi-su-song-sai-li-si-shang-ban-nian-ye-ji-cheng-ya/) - 2026-07-13 (#insights)
 <!-- END_POSTS -->
