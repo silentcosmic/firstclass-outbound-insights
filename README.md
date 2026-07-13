@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [淡马锡重磅出击AI赛道：2031年投资组合中AI配置目标高达15%](https://fcvoyage.com/dan-ma-xi-zhong-bang-chu-ji-aisai-dao-2031nian-tou-zi-zu-he-zhong-aipei-zhi-mu-biao-gao-da-15/) - 2026-07-13 (#growth)
 - [Danantara印尼启动巴厘岛垃圾焚烧发电项目，引领可持续能源新篇章](https://fcvoyage.com/danantarayin-ni-qi-dong-ba-li-dao-la-ji-fen-shao-fa-dian-xiang-mu-yin-ling-ke-chi-xu-neng-yuan-xin-pian-zhang/) - 2026-07-13 (#growth)
 - [新加坡市场：电商韧性增长，网约车盈利承压](https://t.me/c/4392427626/1424) - 2026-07-13 (#dubai)
 - [新加坡市场深度分析：电商业务韧性增长，网约车服务承压面临挑战](https://fcvoyage.com/xin-jia-po-shi-chang-shen-du-fen-xi-dian-shang-ye-wu-ren-xing-zeng-chang-wang-yue-che-fu-wu-cheng-ya-mian-lin-tiao-zhan/) - 2026-07-13 (#growth)
@@ -33,5 +34,4 @@
 - [行业风向 | Your next nurse may monitor you from the Philippines](https://fcvoyage.com/xing-ye-feng-xiang-your-next-nurse-may-monitor-you-from-the-philippines/) - 2026-07-12 (#infrastructure)
 - [算力基础设施巨头比特大陆(Bitdeer)在美国内华达州破土动工，投资3600万美元建设先进电子制造工厂](https://fcvoyage.com/suan-li-ji-chu-she-shi-ju-tou-bi-te-da-lu-bitdeer-zai-mei-guo-nei-hua-da-zhou-po-tu-dong-gong-tou-zi-3600mo-mei-yuan-jian-she-xian-jin-dian-zi-zhi-zao-gong-han/) - 2026-07-12 (#growth)
 - [AI浪潮驱动：韩国、马来西亚、泰国及中国台湾经济增长表现突出](https://fcvoyage.com/ailang-chao-qu-dong-han-guo-ma-lai-xi-ya-tai-guo-ji-zhong-guo-tai-wan-jing-ji-zeng-chang-biao-xian-tu-chu/) - 2026-07-12 (#growth)
-- [马来西亚政府AI治理前瞻：总理数字分身即将亮相公共视野](https://fcvoyage.com/ma-lai-xi-ya-zheng-fu-aizhi-li-qian-zhan-zong-li-shu-zi-fen-shen-ji-jiang-liang-xiang-gong-gong-shi-ye/) - 2026-07-12 (#growth)
 <!-- END_POSTS -->
