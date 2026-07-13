@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [突破价格内卷：新一代出海企业以创新定义高端产品赛道](https://fcvoyage.com/tu-po-jie-ge-nei-juan-xin-yi-dai-chu-hai-qi-ye-yi-chuang-xin-ding-yi-gao-duan-chan-pin-sai-dao/) - 2026-07-13 (#insights)
 - [膳食补充剂创新原料领军者纽邦生物完成近2亿元C+轮融资，年营收超4亿赋能全球600余品牌](https://fcvoyage.com/shan-shi-bu-chong-ji-chuang-xin-yuan-liao-ling-jun-zhe-niu-bang-sheng-wu-wan-cheng-jin-2yi-yuan-c-lun-rong-zi-nian-ying-shou-chao-4yi-fu-neng-quan-qiu-600yu-pin-pai/) - 2026-07-13 (#insights)
 - [出海情报速递：SK海力士预测2027年存储行业剧烈短缺；苹果对OpenAI提起商业机密诉讼；赛力斯上半年业绩承压](https://fcvoyage.com/chu-hai-qing-bao-su-di-skhai-li-shi-yu-ce-2027nian-cun-chu-xing-ye-ju-lie-duan-que-ping-guo-dui-openaiti-qi-shang-ye-ji-mi-su-song-sai-li-si-shang-ban-nian-ye-ji-cheng-ya/) - 2026-07-13 (#insights)
 - [全球科技市场震荡背景下，国产算力与高科技出口逆势上扬](https://fcvoyage.com/quan-qiu-ke-ji-shi-chang-zhen-dang-bei-jing-xia-guo-chan-suan-li-yu-gao-ke-ji-chu-kou-ni-shi-shang-yang/) - 2026-07-13 (#insights)
@@ -33,5 +34,4 @@
 - [行业风向 | 独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://fcvoyage.com/xing-ye-feng-xiang-du-jia-zhi-pu-chuang-shi-ren-tang-jie-fa-nei-bu-xin-glm-shi-ke-zhi-hou-shi-yao-shi-geng-zhong-yao-de-shi/) - 2026-07-12 (#insights)
 - [出海头等舱深度：长鑫存储IPO承销团阵容揭秘，SK海力士强势登陆纳斯达克，OpenAI推出智能体平台](https://fcvoyage.com/chu-hai-tou-deng-cang-shen-du-chang-xin-cun-chu-ipocheng-xiao-tuan-zhen-rong-jie-mi-skhai-li-shi-qiang-shi-deng-lu-na-si-da-ke-openaitui-chu-zhi-neng-ti-ping-tai/) - 2026-07-12 (#insights)
 - [具身智能仿生扑翼机器人新纪元：00后上海交大博士团队三个月内完成三轮融资，引领流体智能突破](https://fcvoyage.com/ju-shen-zhi-neng-fang-sheng-bu-yi-ji-qi-ren-xin-ji-yuan-00hou-shang-hai-jiao-da-bo-shi-tuan-dui-san-ge-yue-nei-wan-cheng-san-lun-rong-zi-yin-ling-liu-ti-zhi-neng-tu-po/) - 2026-07-12 (#insights)
-- [银发经济新机遇：AI如何赋能老年群体的数字陪伴与情感慰藉](https://fcvoyage.com/yin-fa-jing-ji-xin-ji-yu-airu-he-fu-neng-lao-nian-qun-ti-de-shu-zi-pei-ban-yu-qing-gan-wei-jie/) - 2026-07-12 (#infrastructure)
 <!-- END_POSTS -->
