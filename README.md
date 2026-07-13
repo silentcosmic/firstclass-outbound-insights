@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [阿联酋2027年假期前瞻：五月连休最长，企业规划需趁早](https://t.me/c/4392427626/1453) - 2026-07-13 (#dubai)
 - [越南特大卖淫案：网红佳丽涉案，Telegram跨省组织，单次收费1.5亿越南盾](https://t.me/c/4392427626/1452) - 2026-07-13 (#dubai)
 - [波贝突袭：近40名跨国诈骗嫌犯被捕](https://t.me/c/4392427626/1451) - 2026-07-13 (#dubai)
 - [汇旺余额现蹊跷收购：幕后操盘手意欲何为？](https://t.me/c/4392427626/1450) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [淡马锡重磅出击AI赛道：2031年投资组合中AI配置目标高达15%](https://fcvoyage.com/dan-ma-xi-zhong-bang-chu-ji-aisai-dao-2031nian-tou-zi-zu-he-zhong-aipei-zhi-mu-biao-gao-da-15/) - 2026-07-13 (#growth)
 - [Danantara印尼启动巴厘岛垃圾焚烧发电项目，引领可持续能源新篇章](https://fcvoyage.com/danantarayin-ni-qi-dong-ba-li-dao-la-ji-fen-shao-fa-dian-xiang-mu-yin-ling-ke-chi-xu-neng-yuan-xin-pian-zhang/) - 2026-07-13 (#growth)
 - [新加坡市场：电商韧性增长，网约车盈利承压](https://t.me/c/4392427626/1424) - 2026-07-13 (#dubai)
-- [新加坡市场深度分析：电商业务韧性增长，网约车服务承压面临挑战](https://fcvoyage.com/xin-jia-po-shi-chang-shen-du-fen-xi-dian-shang-ye-wu-ren-xing-zeng-chang-wang-yue-che-fu-wu-cheng-ya-mian-lin-tiao-zhan/) - 2026-07-13 (#growth)
 <!-- END_POSTS -->
