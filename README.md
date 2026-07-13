@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球科技市场震荡背景下，国产算力与高科技出口逆势上扬](https://fcvoyage.com/quan-qiu-ke-ji-shi-chang-zhen-dang-bei-jing-xia-guo-chan-suan-li-yu-gao-ke-ji-chu-kou-ni-shi-shang-yang/) - 2026-07-13 (#insights)
 - [淡马锡重磅出击AI赛道：2031年投资组合中AI配置目标高达15%](https://fcvoyage.com/dan-ma-xi-zhong-bang-chu-ji-aisai-dao-2031nian-tou-zi-zu-he-zhong-aipei-zhi-mu-biao-gao-da-15/) - 2026-07-13 (#growth)
 - [Danantara印尼启动巴厘岛垃圾焚烧发电项目，引领可持续能源新篇章](https://fcvoyage.com/danantarayin-ni-qi-dong-ba-li-dao-la-ji-fen-shao-fa-dian-xiang-mu-yin-ling-ke-chi-xu-neng-yuan-xin-pian-zhang/) - 2026-07-13 (#growth)
 - [新加坡市场：电商韧性增长，网约车盈利承压](https://t.me/c/4392427626/1424) - 2026-07-13 (#dubai)
@@ -33,5 +34,4 @@
 - [银发经济新机遇：AI如何赋能老年群体的数字陪伴与情感慰藉](https://fcvoyage.com/yin-fa-jing-ji-xin-ji-yu-airu-he-fu-neng-lao-nian-qun-ti-de-shu-zi-pei-ban-yu-qing-gan-wei-jie/) - 2026-07-12 (#infrastructure)
 - [行业风向 | Your next nurse may monitor you from the Philippines](https://fcvoyage.com/xing-ye-feng-xiang-your-next-nurse-may-monitor-you-from-the-philippines/) - 2026-07-12 (#infrastructure)
 - [算力基础设施巨头比特大陆(Bitdeer)在美国内华达州破土动工，投资3600万美元建设先进电子制造工厂](https://fcvoyage.com/suan-li-ji-chu-she-shi-ju-tou-bi-te-da-lu-bitdeer-zai-mei-guo-nei-hua-da-zhou-po-tu-dong-gong-tou-zi-3600mo-mei-yuan-jian-she-xian-jin-dian-zi-zhi-zao-gong-han/) - 2026-07-12 (#growth)
-- [AI浪潮驱动：韩国、马来西亚、泰国及中国台湾经济增长表现突出](https://fcvoyage.com/ailang-chao-qu-dong-han-guo-ma-lai-xi-ya-tai-guo-ji-zhong-guo-tai-wan-jing-ji-zeng-chang-biao-xian-tu-chu/) - 2026-07-12 (#growth)
 <!-- END_POSTS -->
