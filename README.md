@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Danantara印尼启动巴厘岛垃圾焚烧发电项目，引领可持续能源新篇章](https://fcvoyage.com/danantarayin-ni-qi-dong-ba-li-dao-la-ji-fen-shao-fa-dian-xiang-mu-yin-ling-ke-chi-xu-neng-yuan-xin-pian-zhang/) - 2026-07-13 (#growth)
 - [新加坡市场：电商韧性增长，网约车盈利承压](https://t.me/c/4392427626/1424) - 2026-07-13 (#dubai)
 - [新加坡市场深度分析：电商业务韧性增长，网约车服务承压面临挑战](https://fcvoyage.com/xin-jia-po-shi-chang-shen-du-fen-xi-dian-shang-ye-wu-ren-xing-zeng-chang-wang-yue-che-fu-wu-cheng-ya-mian-lin-tiao-zhan/) - 2026-07-13 (#growth)
 - [出海 · 头等舱独家报道：Nium战略并购Cypher，加速构建法币与数字资产支付融合基础设施](https://fcvoyage.com/chu-hai-tou-deng-cang-du-jia-bao-dao-niumzhan-lue-bing-gou-cypher-jia-su-gou-jian-fa-bi-yu-shu-zi-zi-chan-zhi-fu-rong-he-ji-chu-she-shi/) - 2026-07-13 (#insights)
@@ -33,5 +34,4 @@
 - [算力基础设施巨头比特大陆(Bitdeer)在美国内华达州破土动工，投资3600万美元建设先进电子制造工厂](https://fcvoyage.com/suan-li-ji-chu-she-shi-ju-tou-bi-te-da-lu-bitdeer-zai-mei-guo-nei-hua-da-zhou-po-tu-dong-gong-tou-zi-3600mo-mei-yuan-jian-she-xian-jin-dian-zi-zhi-zao-gong-han/) - 2026-07-12 (#growth)
 - [AI浪潮驱动：韩国、马来西亚、泰国及中国台湾经济增长表现突出](https://fcvoyage.com/ailang-chao-qu-dong-han-guo-ma-lai-xi-ya-tai-guo-ji-zhong-guo-tai-wan-jing-ji-zeng-chang-biao-xian-tu-chu/) - 2026-07-12 (#growth)
 - [马来西亚政府AI治理前瞻：总理数字分身即将亮相公共视野](https://fcvoyage.com/ma-lai-xi-ya-zheng-fu-aizhi-li-qian-zhan-zong-li-shu-zi-fen-shen-ji-jiang-liang-xiang-gong-gong-shi-ye/) - 2026-07-12 (#growth)
-- [暹罗商业银行率先采用花旗全天候美元清算方案，实现跨境支付新突破](https://fcvoyage.com/xian-luo-shang-ye-yin-xing-lu-xian-cai-yong-hua-qi-quan-tian-hou-mei-yuan-qing-suan-fang-an-shi-xian-kua-jing-zhi-fu-xin-tu-po/) - 2026-07-12 (#insights)
 <!-- END_POSTS -->
