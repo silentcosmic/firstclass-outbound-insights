@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [出海情报速递：SK海力士预测2027年存储行业剧烈短缺；苹果对OpenAI提起商业机密诉讼；赛力斯上半年业绩承压](https://fcvoyage.com/chu-hai-qing-bao-su-di-skhai-li-shi-yu-ce-2027nian-cun-chu-xing-ye-ju-lie-duan-que-ping-guo-dui-openaiti-qi-shang-ye-ji-mi-su-song-sai-li-si-shang-ban-nian-ye-ji-cheng-ya/) - 2026-07-13 (#insights)
 - [全球科技市场震荡背景下，国产算力与高科技出口逆势上扬](https://fcvoyage.com/quan-qiu-ke-ji-shi-chang-zhen-dang-bei-jing-xia-guo-chan-suan-li-yu-gao-ke-ji-chu-kou-ni-shi-shang-yang/) - 2026-07-13 (#insights)
 - [淡马锡重磅出击AI赛道：2031年投资组合中AI配置目标高达15%](https://fcvoyage.com/dan-ma-xi-zhong-bang-chu-ji-aisai-dao-2031nian-tou-zi-zu-he-zhong-aipei-zhi-mu-biao-gao-da-15/) - 2026-07-13 (#growth)
 - [Danantara印尼启动巴厘岛垃圾焚烧发电项目，引领可持续能源新篇章](https://fcvoyage.com/danantarayin-ni-qi-dong-ba-li-dao-la-ji-fen-shao-fa-dian-xiang-mu-yin-ling-ke-chi-xu-neng-yuan-xin-pian-zhang/) - 2026-07-13 (#growth)
@@ -33,5 +34,4 @@
 - [具身智能仿生扑翼机器人新纪元：00后上海交大博士团队三个月内完成三轮融资，引领流体智能突破](https://fcvoyage.com/ju-shen-zhi-neng-fang-sheng-bu-yi-ji-qi-ren-xin-ji-yuan-00hou-shang-hai-jiao-da-bo-shi-tuan-dui-san-ge-yue-nei-wan-cheng-san-lun-rong-zi-yin-ling-liu-ti-zhi-neng-tu-po/) - 2026-07-12 (#insights)
 - [银发经济新机遇：AI如何赋能老年群体的数字陪伴与情感慰藉](https://fcvoyage.com/yin-fa-jing-ji-xin-ji-yu-airu-he-fu-neng-lao-nian-qun-ti-de-shu-zi-pei-ban-yu-qing-gan-wei-jie/) - 2026-07-12 (#infrastructure)
 - [行业风向 | Your next nurse may monitor you from the Philippines](https://fcvoyage.com/xing-ye-feng-xiang-your-next-nurse-may-monitor-you-from-the-philippines/) - 2026-07-12 (#infrastructure)
-- [算力基础设施巨头比特大陆(Bitdeer)在美国内华达州破土动工，投资3600万美元建设先进电子制造工厂](https://fcvoyage.com/suan-li-ji-chu-she-shi-ju-tou-bi-te-da-lu-bitdeer-zai-mei-guo-nei-hua-da-zhou-po-tu-dong-gong-tou-zi-3600mo-mei-yuan-jian-she-xian-jin-dian-zi-zhi-zao-gong-han/) - 2026-07-12 (#growth)
 <!-- END_POSTS -->
