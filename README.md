@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [PayPal Ads：跨商户数据如何重塑零售媒体投资回报率](https://fcvoyage.com/paypal-ads-kua-shang-hu-shu-ju-ru-he-zhong-su-ling-shou-mei-ti-tou-zi-hui-bao-lu/) - 2026-07-14 (#growth)
 - [出海洞察：Horizon Media 携手 Intent IQ，在数据信号受限中实现55%的全新用户增量](https://fcvoyage.com/chu-hai-dong-cha-horizon-media-xi-shou-intent-iq-zai-shu-ju-xin-hao-shou-xian-zhong-shi-xian-55-de-quan-xin-yong-hu-zeng-liang/) - 2026-07-14 (#growth)
 - [高端韩妆品牌折叠营销漏斗，加速抢占美国市场份额](https://fcvoyage.com/gao-duan-han-zhuang-pin-pai-zhe-die-ying-xiao-lou-dou-jia-su-qiang-zhan-mei-guo-shi-chang-fen-e/) - 2026-07-14 (#growth)
 - [欧佩克基金5000万美元贷款注入越南SeABank，赋能中小企业与气候投资](https://fcvoyage.com/ou-pei-ke-ji-jin-5000mo-mei-yuan-dai-kuan-zhu-ru-yue-nan-seabank-fu-neng-zhong-xiao-qi-ye-yu-qi-hou-tou-zi/) - 2026-07-14 (#growth)
@@ -33,5 +34,4 @@
 - [迪拜酋长豪掷10万奖学金，学生：精神激励更珍贵](https://t.me/c/4392427626/1458) - 2026-07-13 (#dubai)
 - [阿联酋军事城仓库起火：军方迅速控制无伤亡](https://t.me/c/4392427626/1457) - 2026-07-13 (#dubai)
 - [老挝向中国移交中国籍嫌犯](https://t.me/c/4392427626/1456) - 2026-07-13 (#dubai)
-- [泰国总理阿努廷即将访华，深化区域合作](https://t.me/c/4392427626/1455) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
