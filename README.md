@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [周星驰新片《功夫女足》8月6日登陆柬埔寨影院](https://t.me/c/4392427626/1507) - 2026-07-14 (#dubai)
 - [西港园区覆灭亲历者：五年铁窗揭露非法出海陷阱](https://t.me/c/4392427626/1506) - 2026-07-14 (#dubai)
 - [西港坠楼意外：男子触电命危，紧急送医抢救](https://t.me/c/4392427626/1505) - 2026-07-14 (#dubai)
 - [乌干达：367名中国公民涉非法工作将面临起诉及遣返](https://t.me/c/4392427626/1504) - 2026-07-14 (#dubai)
@@ -33,5 +34,4 @@
 - [极氪深化马来西亚市场布局，经销商网络增至11家，剑指年内18家战略目标](https://fcvoyage.com/ji-ke-shen-hua-ma-lai-xi-ya-shi-chang-bu-ju-jing-xiao-shang-wang-luo-zeng-zhi-11jia-jian-zhi-nian-nei-18jia-zhan-lue-mu-biao/) - 2026-07-14 (#growth)
 - [Agnes AI发布Agnes-2.5-Flash：以无限制免费访问，重塑智能体编程体验](https://fcvoyage.com/agnes-aifa-bu-agnes-2-5-flash-yi-wu-xian-zhi-mian-fei-fang-wen-zhong-su-zhi-neng-ti-bian-cheng-ti-yan/) - 2026-07-14 (#insights)
 - [越南Techcombank高管变动：首席信息官阮端卸任，六年科技转型成绩斐然](https://fcvoyage.com/yue-nan-techcombankgao-guan-bian-dong-shou-xi-xin-xi-guan-ruan-duan-xie-ren-liu-nian-ke-ji-zhuan-xing-cheng-ji-fei-ran/) - 2026-07-14 (#insights)
-- [星展银行千万新元援助：新加坡家庭受惠](https://t.me/c/4392427626/1477) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
