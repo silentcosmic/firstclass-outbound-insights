@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨旬内遣返逾千名非法外籍人士](https://t.me/c/4392427626/1517) - 2026-07-15 (#dubai)
 - [东南亚移民新政：签证滥用成打击重点](https://t.me/c/4392427626/1516) - 2026-07-15 (#dubai)
 - [阿联酋释放55名伊朗渔民，结束数月拘留](https://t.me/c/4392427626/1515) - 2026-07-15 (#dubai)
 - [斯里兰卡出台新政：全面打击金融犯罪](https://t.me/c/4392427626/1514) - 2026-07-14 (#dubai)
@@ -33,5 +34,4 @@
 - [苹果深度布局AI芯片：自动驾驶项目意外成果，M系列迭代加速未来智能核心](https://fcvoyage.com/ping-guo-shen-du-bu-ju-aixin-pian-zi-dong-jia-shi-xiang-mu-yi-wai-cheng-guo-mxi-lie-die-dai-jia-su-wei-lai-zhi-neng-he-xin/) - 2026-07-14 (#growth)
 - [昆仑万维出海新篇章：亏损承压下的短剧业务创新与扩张](https://fcvoyage.com/kun-lun-mo-wei-chu-hai-xin-pian-zhang-yu-sun-cheng-ya-xia-de-duan-ju-ye-wu-chuang-xin-yu-kuo-zhang/) - 2026-07-14 (#insights)
 - [行业风向 | 丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%](https://fcvoyage.com/xing-ye-feng-xiang-gun-hai-nan-jiang-cheng-zhong-guo-shou-ge-jin-shou-ran-you-che-sheng-fen-chang-xin-ke-ji-bu-fen-yuan-gong-ru-gu-cheng-ben-di-zhi-1mao-skhai-li-shi-bao-die-15/) - 2026-07-14 (#insights)
-- [网易《遗忘之海》深度解析：七年磨砺如何重塑开放世界体验与商业生态](https://fcvoyage.com/wang-yi-yi-wang-zhi-hai-shen-du-jie-xi-qi-nian-mo-li-ru-he-zhong-su-kai-fang-shi-jie-ti-yan-yu-shang-ye-sheng-tai/) - 2026-07-14 (#insights)
 <!-- END_POSTS -->
