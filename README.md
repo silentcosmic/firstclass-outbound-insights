@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [菲律宾：中国公民遭同胞绑架，NBI成功解救人质](https://t.me/c/4392427626/1509) - 2026-07-14 (#dubai)
 - [t.me域名解析恢复，全面生效或需24小时](https://t.me/c/4392427626/1508) - 2026-07-14 (#dubai)
 - [周星驰新片《功夫女足》8月6日登陆柬埔寨影院](https://t.me/c/4392427626/1507) - 2026-07-14 (#dubai)
 - [西港园区覆灭亲历者：五年铁窗揭露非法出海陷阱](https://t.me/c/4392427626/1506) - 2026-07-14 (#dubai)
@@ -33,5 +34,4 @@
 - [欧佩克基金5000万美元贷款注入越南SeABank，赋能中小企业与气候投资](https://fcvoyage.com/ou-pei-ke-ji-jin-5000mo-mei-yuan-dai-kuan-zhu-ru-yue-nan-seabank-fu-neng-zhong-xiao-qi-ye-yu-qi-hou-tou-zi/) - 2026-07-14 (#growth)
 - [新加坡与日本深化能源市场监管合作，共促区域稳定与创新](https://fcvoyage.com/xin-jia-po-yu-ri-ben-shen-hua-neng-yuan-shi-chang-jian-guan-he-zuo-gong-cu-qu-yu-wen-ding-yu-chuang-xin/) - 2026-07-14 (#growth)
 - [极氪深化马来西亚市场布局，经销商网络增至11家，剑指年内18家战略目标](https://fcvoyage.com/ji-ke-shen-hua-ma-lai-xi-ya-shi-chang-bu-ju-jing-xiao-shang-wang-luo-zeng-zhi-11jia-jian-zhi-nian-nei-18jia-zhan-lue-mu-biao/) - 2026-07-14 (#growth)
-- [Agnes AI发布Agnes-2.5-Flash：以无限制免费访问，重塑智能体编程体验](https://fcvoyage.com/agnes-aifa-bu-agnes-2-5-flash-yi-wu-xian-zhi-mian-fei-fang-wen-zhong-su-zhi-neng-ti-bian-cheng-ti-yan/) - 2026-07-14 (#insights)
 <!-- END_POSTS -->
