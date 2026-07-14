@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [高端韩妆品牌折叠营销漏斗，加速抢占美国市场份额](https://fcvoyage.com/gao-duan-han-zhuang-pin-pai-zhe-die-ying-xiao-lou-dou-jia-su-qiang-zhan-mei-guo-shi-chang-fen-e/) - 2026-07-14 (#growth)
 - [欧佩克基金5000万美元贷款注入越南SeABank，赋能中小企业与气候投资](https://fcvoyage.com/ou-pei-ke-ji-jin-5000mo-mei-yuan-dai-kuan-zhu-ru-yue-nan-seabank-fu-neng-zhong-xiao-qi-ye-yu-qi-hou-tou-zi/) - 2026-07-14 (#growth)
 - [新加坡与日本深化能源市场监管合作，共促区域稳定与创新](https://fcvoyage.com/xin-jia-po-yu-ri-ben-shen-hua-neng-yuan-shi-chang-jian-guan-he-zuo-gong-cu-qu-yu-wen-ding-yu-chuang-xin/) - 2026-07-14 (#growth)
 - [极氪深化马来西亚市场布局，经销商网络增至11家，剑指年内18家战略目标](https://fcvoyage.com/ji-ke-shen-hua-ma-lai-xi-ya-shi-chang-bu-ju-jing-xiao-shang-wang-luo-zeng-zhi-11jia-jian-zhi-nian-nei-18jia-zhan-lue-mu-biao/) - 2026-07-14 (#growth)
@@ -33,5 +34,4 @@
 - [老挝向中国移交中国籍嫌犯](https://t.me/c/4392427626/1456) - 2026-07-13 (#dubai)
 - [泰国总理阿努廷即将访华，深化区域合作](https://t.me/c/4392427626/1455) - 2026-07-13 (#dubai)
 - [迪拜商界痛失英才：加拉达里家族少帅24岁骤逝](https://t.me/c/4392427626/1454) - 2026-07-13 (#dubai)
-- [阿联酋2027年假期前瞻：五月连休最长，企业规划需趁早](https://t.me/c/4392427626/1453) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
