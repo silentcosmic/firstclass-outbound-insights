@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [东南亚数字经济前瞻：AWS重金布局菲律宾云基建，泰国激活多项关键产业](https://fcvoyage.com/dong-nan-ya-shu-zi-jing-ji-qian-zhan-awszhong-jin-bu-ju-fei-lu-bin-yun-ji-jian-tai-guo-ji-huo-duo-xiang-guan-jian-chan-ye/) - 2026-07-14 (#growth)
 - [职场社交平台AI内容泛滥：专业权威背后的智能生成隐忧](https://fcvoyage.com/zhi-chang-she-jiao-ping-tai-ainei-rong-fan-lan-zhuan-ye-quan-wei-bei-hou-de-zhi-neng-sheng-cheng-yin-you/) - 2026-07-14 (#growth)
 - [苹果深度布局AI芯片：自动驾驶项目意外成果，M系列迭代加速未来智能核心](https://fcvoyage.com/ping-guo-shen-du-bu-ju-aixin-pian-zi-dong-jia-shi-xiang-mu-yi-wai-cheng-guo-mxi-lie-die-dai-jia-su-wei-lai-zhi-neng-he-xin/) - 2026-07-14 (#growth)
 - [昆仑万维出海新篇章：亏损承压下的短剧业务创新与扩张](https://fcvoyage.com/kun-lun-mo-wei-chu-hai-xin-pian-zhang-yu-sun-cheng-ya-xia-de-duan-ju-ye-wu-chuang-xin-yu-kuo-zhang/) - 2026-07-14 (#insights)
@@ -33,5 +34,4 @@
 - [iPhone 20 重磅曝光：告别刘海，回归玻璃机身](https://t.me/c/4392427626/1465) - 2026-07-14 (#dubai)
 - [️ 柬埔寨街头：华人女性疑陷困境，状况引关注](https://t.me/c/4392427626/1464) - 2026-07-14 (#dubai)
 - [老挝警方重拳出击：百余名跨国诈骗嫌犯落网](https://t.me/c/4392427626/1463) - 2026-07-14 (#dubai)
-- [阿联酋确认境外导弹威胁，全国高度戒备](https://t.me/c/4392427626/1462) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
