@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ Telegram核心域名突遭禁用：疑与OFAC制裁相关](https://t.me/c/4392427626/1503) - 2026-07-14 (#dubai)
 - [缅甸敏勒班：战乱区成电诈“避风港”](https://t.me/c/4392427626/1502) - 2026-07-14 (#dubai)
 - [阿联酋船只遭袭：印度籍海员遇难受伤](https://t.me/c/4392427626/1501) - 2026-07-14 (#dubai)
 - [️ 近50万人参与“感谢阿联酋”暖心活动](https://t.me/c/4392427626/1500) - 2026-07-14 (#dubai)
@@ -33,5 +34,4 @@
 - [星展银行千万新元民生援助计划启动，聚焦日常必需品购物优惠](https://fcvoyage.com/xing-zhan-yin-xing-qian-mo-xin-yuan-min-sheng-yuan-zhu-ji-hua-qi-dong-ju-jiao-ri-chang-bi-xu-pin-gou-wu-you-hui/) - 2026-07-14 (#insights)
 - [聚币创始人刘源泰国落网：豪宅藏匿百亿资金迷雾](https://t.me/c/4392427626/1475) - 2026-07-14 (#dubai)
 - [世界杯期间“鸭脖推广”遭员工控诉：涉嫌欺诈与内部腐败](https://t.me/c/4392427626/1474) - 2026-07-14 (#dubai)
-- [️ 海外高压职场：警惕透支式健康危机](https://t.me/c/4392427626/1473) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
