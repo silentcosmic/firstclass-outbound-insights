@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | 丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%](https://fcvoyage.com/xing-ye-feng-xiang-gun-hai-nan-jiang-cheng-zhong-guo-shou-ge-jin-shou-ran-you-che-sheng-fen-chang-xin-ke-ji-bu-fen-yuan-gong-ru-gu-cheng-ben-di-zhi-1mao-skhai-li-shi-bao-die-15/) - 2026-07-14 (#insights)
 - [网易《遗忘之海》深度解析：七年磨砺如何重塑开放世界体验与商业生态](https://fcvoyage.com/wang-yi-yi-wang-zhi-hai-shen-du-jie-xi-qi-nian-mo-li-ru-he-zhong-su-kai-fang-shi-jie-ti-yan-yu-shang-ye-sheng-tai/) - 2026-07-14 (#insights)
 - [lululemon在中国市场面临增长审视：从社群信仰到商业重塑的挑战](https://fcvoyage.com/lululemonzai-zhong-guo-shi-chang-mian-lin-zeng-chang-shen-shi-cong-she-qun-xin-yang-dao-shang-ye-zhong-su-de-tiao-zhan/) - 2026-07-14 (#insights)
 - [PayPal Ads：跨商户数据如何重塑零售媒体投资回报率](https://fcvoyage.com/paypal-ads-kua-shang-hu-shu-ju-ru-he-zhong-su-ling-shou-mei-ti-tou-zi-hui-bao-lu/) - 2026-07-14 (#growth)
@@ -33,5 +34,4 @@
 - [乌干达突袭：367名中国公民因非法工作被捕，面临起诉与遣返](https://t.me/c/4392427626/1461) - 2026-07-13 (#dubai)
 - [出海黑产再爆丑闻：柬埔寨团伙涉毒贩人，主犯东帝汶被捕](https://t.me/c/4392427626/1460) - 2026-07-13 (#dubai)
 - [缅甸水沟谷清拆提速：72栋非法建筑已拆除](https://t.me/c/4392427626/1459) - 2026-07-13 (#dubai)
-- [迪拜酋长豪掷10万奖学金，学生：精神激励更珍贵](https://t.me/c/4392427626/1458) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
