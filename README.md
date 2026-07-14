@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [柬埔寨上半年驱逐逾4.2万外国人，电诈犯超1.5万](https://t.me/c/4392427626/1519) - 2026-07-15 (#dubai)
 - [美驻阿联酋使领馆：因安全局势，非紧急人员已撤离](https://t.me/c/4392427626/1518) - 2026-07-15 (#dubai)
 - [柬埔寨旬内遣返逾千名非法外籍人士](https://t.me/c/4392427626/1517) - 2026-07-15 (#dubai)
 - [东南亚移民新政：签证滥用成打击重点](https://t.me/c/4392427626/1516) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [东南亚数字经济前瞻：AWS重金布局菲律宾云基建，泰国激活多项关键产业](https://fcvoyage.com/dong-nan-ya-shu-zi-jing-ji-qian-zhan-awszhong-jin-bu-ju-fei-lu-bin-yun-ji-jian-tai-guo-ji-huo-duo-xiang-guan-jian-chan-ye/) - 2026-07-14 (#growth)
 - [职场社交平台AI内容泛滥：专业权威背后的智能生成隐忧](https://fcvoyage.com/zhi-chang-she-jiao-ping-tai-ainei-rong-fan-lan-zhuan-ye-quan-wei-bei-hou-de-zhi-neng-sheng-cheng-yin-you/) - 2026-07-14 (#growth)
 - [苹果深度布局AI芯片：自动驾驶项目意外成果，M系列迭代加速未来智能核心](https://fcvoyage.com/ping-guo-shen-du-bu-ju-aixin-pian-zi-dong-jia-shi-xiang-mu-yi-wai-cheng-guo-mxi-lie-die-dai-jia-su-wei-lai-zhi-neng-he-xin/) - 2026-07-14 (#growth)
-- [昆仑万维出海新篇章：亏损承压下的短剧业务创新与扩张](https://fcvoyage.com/kun-lun-mo-wei-chu-hai-xin-pian-zhang-yu-sun-cheng-ya-xia-de-duan-ju-ye-wu-chuang-xin-yu-kuo-zhang/) - 2026-07-14 (#insights)
 <!-- END_POSTS -->
