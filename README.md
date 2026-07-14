@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Telegram 短域名突遭冻结：全球链接大面积失效](https://t.me/c/4392427626/1494) - 2026-07-14 (#dubai)
 - [泰国特大电信诈骗案告破：中籍团伙涉案超千万](https://t.me/c/4392427626/1493) - 2026-07-14 (#dubai)
 - [东南亚数字经济前瞻：AWS重金布局菲律宾云基建，泰国激活多项关键产业](https://fcvoyage.com/dong-nan-ya-shu-zi-jing-ji-qian-zhan-awszhong-jin-bu-ju-fei-lu-bin-yun-ji-jian-tai-guo-ji-huo-duo-xiang-guan-jian-chan-ye/) - 2026-07-14 (#growth)
 - [职场社交平台AI内容泛滥：专业权威背后的智能生成隐忧](https://fcvoyage.com/zhi-chang-she-jiao-ping-tai-ainei-rong-fan-lan-zhuan-ye-quan-wei-bei-hou-de-zhi-neng-sheng-cheng-yin-you/) - 2026-07-14 (#growth)
@@ -33,5 +34,4 @@
 - [迪拜女乘客遭出租车骚扰：RTA快速响应获赞](https://t.me/c/4392427626/1467) - 2026-07-14 (#dubai)
 - [迪拜上半年逾5000人皈依：文化包容战略见成效](https://t.me/c/4392427626/1466) - 2026-07-14 (#dubai)
 - [iPhone 20 重磅曝光：告别刘海，回归玻璃机身](https://t.me/c/4392427626/1465) - 2026-07-14 (#dubai)
-- [️ 柬埔寨街头：华人女性疑陷困境，状况引关注](https://t.me/c/4392427626/1464) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
