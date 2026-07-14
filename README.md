@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡与日本深化能源市场监管合作，共促区域稳定与创新](https://fcvoyage.com/xin-jia-po-yu-ri-ben-shen-hua-neng-yuan-shi-chang-jian-guan-he-zuo-gong-cu-qu-yu-wen-ding-yu-chuang-xin/) - 2026-07-14 (#growth)
 - [极氪深化马来西亚市场布局，经销商网络增至11家，剑指年内18家战略目标](https://fcvoyage.com/ji-ke-shen-hua-ma-lai-xi-ya-shi-chang-bu-ju-jing-xiao-shang-wang-luo-zeng-zhi-11jia-jian-zhi-nian-nei-18jia-zhan-lue-mu-biao/) - 2026-07-14 (#growth)
 - [Agnes AI发布Agnes-2.5-Flash：以无限制免费访问，重塑智能体编程体验](https://fcvoyage.com/agnes-aifa-bu-agnes-2-5-flash-yi-wu-xian-zhi-mian-fei-fang-wen-zhong-su-zhi-neng-ti-bian-cheng-ti-yan/) - 2026-07-14 (#insights)
 - [越南Techcombank高管变动：首席信息官阮端卸任，六年科技转型成绩斐然](https://fcvoyage.com/yue-nan-techcombankgao-guan-bian-dong-shou-xi-xin-xi-guan-ruan-duan-xie-ren-liu-nian-ke-ji-zhuan-xing-cheng-ji-fei-ran/) - 2026-07-14 (#insights)
@@ -33,5 +34,4 @@
 - [迪拜商界痛失英才：加拉达里家族少帅24岁骤逝](https://t.me/c/4392427626/1454) - 2026-07-13 (#dubai)
 - [阿联酋2027年假期前瞻：五月连休最长，企业规划需趁早](https://t.me/c/4392427626/1453) - 2026-07-13 (#dubai)
 - [越南特大卖淫案：网红佳丽涉案，Telegram跨省组织，单次收费1.5亿越南盾](https://t.me/c/4392427626/1452) - 2026-07-13 (#dubai)
-- [波贝突袭：近40名跨国诈骗嫌犯被捕](https://t.me/c/4392427626/1451) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
