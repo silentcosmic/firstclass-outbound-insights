@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [网易《遗忘之海》深度解析：七年磨砺如何重塑开放世界体验与商业生态](https://fcvoyage.com/wang-yi-yi-wang-zhi-hai-shen-du-jie-xi-qi-nian-mo-li-ru-he-zhong-su-kai-fang-shi-jie-ti-yan-yu-shang-ye-sheng-tai/) - 2026-07-14 (#insights)
 - [lululemon在中国市场面临增长审视：从社群信仰到商业重塑的挑战](https://fcvoyage.com/lululemonzai-zhong-guo-shi-chang-mian-lin-zeng-chang-shen-shi-cong-she-qun-xin-yang-dao-shang-ye-zhong-su-de-tiao-zhan/) - 2026-07-14 (#insights)
 - [PayPal Ads：跨商户数据如何重塑零售媒体投资回报率](https://fcvoyage.com/paypal-ads-kua-shang-hu-shu-ju-ru-he-zhong-su-ling-shou-mei-ti-tou-zi-hui-bao-lu/) - 2026-07-14 (#growth)
 - [出海洞察：Horizon Media 携手 Intent IQ，在数据信号受限中实现55%的全新用户增量](https://fcvoyage.com/chu-hai-dong-cha-horizon-media-xi-shou-intent-iq-zai-shu-ju-xin-hao-shou-xian-zhong-shi-xian-55-de-quan-xin-yong-hu-zeng-liang/) - 2026-07-14 (#growth)
@@ -33,5 +34,4 @@
 - [出海黑产再爆丑闻：柬埔寨团伙涉毒贩人，主犯东帝汶被捕](https://t.me/c/4392427626/1460) - 2026-07-13 (#dubai)
 - [缅甸水沟谷清拆提速：72栋非法建筑已拆除](https://t.me/c/4392427626/1459) - 2026-07-13 (#dubai)
 - [迪拜酋长豪掷10万奖学金，学生：精神激励更珍贵](https://t.me/c/4392427626/1458) - 2026-07-13 (#dubai)
-- [阿联酋军事城仓库起火：军方迅速控制无伤亡](https://t.me/c/4392427626/1457) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
