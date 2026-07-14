@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [职场社交平台AI内容泛滥：专业权威背后的智能生成隐忧](https://fcvoyage.com/zhi-chang-she-jiao-ping-tai-ainei-rong-fan-lan-zhuan-ye-quan-wei-bei-hou-de-zhi-neng-sheng-cheng-yin-you/) - 2026-07-14 (#growth)
 - [苹果深度布局AI芯片：自动驾驶项目意外成果，M系列迭代加速未来智能核心](https://fcvoyage.com/ping-guo-shen-du-bu-ju-aixin-pian-zi-dong-jia-shi-xiang-mu-yi-wai-cheng-guo-mxi-lie-die-dai-jia-su-wei-lai-zhi-neng-he-xin/) - 2026-07-14 (#growth)
 - [昆仑万维出海新篇章：亏损承压下的短剧业务创新与扩张](https://fcvoyage.com/kun-lun-mo-wei-chu-hai-xin-pian-zhang-yu-sun-cheng-ya-xia-de-duan-ju-ye-wu-chuang-xin-yu-kuo-zhang/) - 2026-07-14 (#insights)
 - [行业风向 | 丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%](https://fcvoyage.com/xing-ye-feng-xiang-gun-hai-nan-jiang-cheng-zhong-guo-shou-ge-jin-shou-ran-you-che-sheng-fen-chang-xin-ke-ji-bu-fen-yuan-gong-ru-gu-cheng-ben-di-zhi-1mao-skhai-li-shi-bao-die-15/) - 2026-07-14 (#insights)
@@ -33,5 +34,4 @@
 - [️ 柬埔寨街头：华人女性疑陷困境，状况引关注](https://t.me/c/4392427626/1464) - 2026-07-14 (#dubai)
 - [老挝警方重拳出击：百余名跨国诈骗嫌犯落网](https://t.me/c/4392427626/1463) - 2026-07-14 (#dubai)
 - [阿联酋确认境外导弹威胁，全国高度戒备](https://t.me/c/4392427626/1462) - 2026-07-14 (#dubai)
-- [乌干达突袭：367名中国公民因非法工作被捕，面临起诉与遣返](https://t.me/c/4392427626/1461) - 2026-07-13 (#dubai)
 <!-- END_POSTS -->
