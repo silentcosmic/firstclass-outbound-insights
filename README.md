@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [西港坠楼意外：男子触电命危，紧急送医抢救](https://t.me/c/4392427626/1505) - 2026-07-14 (#dubai)
 - [乌干达：367名中国公民涉非法工作将面临起诉及遣返](https://t.me/c/4392427626/1504) - 2026-07-14 (#dubai)
 - [️ Telegram核心域名突遭禁用：疑与OFAC制裁相关](https://t.me/c/4392427626/1503) - 2026-07-14 (#dubai)
 - [缅甸敏勒班：战乱区成电诈“避风港”](https://t.me/c/4392427626/1502) - 2026-07-14 (#dubai)
@@ -33,5 +34,4 @@
 - [越南Techcombank高管变动：首席信息官阮端卸任，六年科技转型成绩斐然](https://fcvoyage.com/yue-nan-techcombankgao-guan-bian-dong-shou-xi-xin-xi-guan-ruan-duan-xie-ren-liu-nian-ke-ji-zhuan-xing-cheng-ji-fei-ran/) - 2026-07-14 (#insights)
 - [星展银行千万新元援助：新加坡家庭受惠](https://t.me/c/4392427626/1477) - 2026-07-14 (#dubai)
 - [星展银行千万新元民生援助计划启动，聚焦日常必需品购物优惠](https://fcvoyage.com/xing-zhan-yin-xing-qian-mo-xin-yuan-min-sheng-yuan-zhu-ji-hua-qi-dong-ju-jiao-ri-chang-bi-xu-pin-gou-wu-you-hui/) - 2026-07-14 (#insights)
-- [聚币创始人刘源泰国落网：豪宅藏匿百亿资金迷雾](https://t.me/c/4392427626/1475) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
