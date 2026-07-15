@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球产业风向 | 智谱科技完成巨额H股配售；荣耀与阿里巴巴深化AI终端合作；小米机器人在汽车制造实现突破](https://fcvoyage.com/quan-qiu-chan-ye-feng-xiang-zhi-pu-ke-ji-wan-cheng-ju-e-hgu-pei-shou-rong-yao-yu-a-li-ba-ba-shen-hua-aizhong-duan-he-zuo-xiao-mi-ji-qi-ren-zai-qi-che-zhi-zao-shi-xian-tu-po/) - 2026-07-15 (#insights)
 - [深度解析：估值110亿美元的金融科技巨头如何助力初创企业从起步即布局全球](https://fcvoyage.com/shen-du-jie-xi-gu-zhi-110yi-mei-yuan-de-jin-rong-ke-ji-ju-tou-ru-he-zhu-li-chu-chuang-qi-ye-cong-qi-bu-ji-bu-ju-quan-qiu/) - 2026-07-15 (#insights)
 - [行业风向 | Google’s Meridian And Meta’s Robyn: A Gift To Measurement Or Trojan Horses?](https://fcvoyage.com/xing-ye-feng-xiang-googles-meridian-and-metas-robyn-a-gift-to-measurement-or-trojan-horses/) - 2026-07-15 (#growth)
 - [AI时代，出版商如何确保内容权威性与文化价值：新框架SAIL的实践](https://fcvoyage.com/aishi-dai-chu-ban-shang-ru-he-que-bao-nei-rong-quan-wei-xing-yu-wen-hua-jie-zhi-xin-kuang-jia-sailde-shi-jian/) - 2026-07-15 (#growth)
@@ -33,5 +34,4 @@
 - [东南亚移民新政：签证滥用成打击重点](https://t.me/c/4392427626/1516) - 2026-07-15 (#dubai)
 - [阿联酋释放55名伊朗渔民，结束数月拘留](https://t.me/c/4392427626/1515) - 2026-07-15 (#dubai)
 - [斯里兰卡出台新政：全面打击金融犯罪](https://t.me/c/4392427626/1514) - 2026-07-14 (#dubai)
-- [阿治曼滨海大楼火情速控，民防部门高效处置无伤亡](https://t.me/c/4392427626/1513) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
