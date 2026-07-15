@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [AI信息失准扩散：品牌声誉管理与智能校准工具新趋势](https://fcvoyage.com/aixin-xi-shi-zhun-kuo-san-pin-pai-sheng-yu-guan-li-yu-zhi-neng-xiao-zhun-gong-ju-xin-qu-shi/) - 2026-07-15 (#growth)
 - [生成式AI冲击东南亚劳动力市场：近八千万人面临变革浪潮](https://fcvoyage.com/sheng-cheng-shi-aichong-ji-dong-nan-ya-lao-dong-li-shi-chang-jin-ba-qian-mo-ren-mian-lin-bian-ge-lang-chao/) - 2026-07-15 (#growth)
 - [赋能实时互动世界与游戏引擎：AI视频生成平台PixVerse获4.39亿美元C轮追加投资](https://fcvoyage.com/fu-neng-shi-shi-hu-dong-shi-jie-yu-you-xi-yin-qing-aishi-pin-sheng-cheng-ping-tai-pixversehuo-4-39yi-mei-yuan-clun-zhui-jia-tou-zi/) - 2026-07-15 (#growth)
 - [华为Pura 90s系列全球首发，深度革新移动影像智能体验](https://fcvoyage.com/hua-wei-pura-90sxi-lie-quan-qiu-shou-fa-shen-du-ge-xin-yi-dong-ying-xiang-zhi-neng-ti-yan/) - 2026-07-15 (#growth)
@@ -33,5 +34,4 @@
 - [巴林间谍案：三名被告为伊朗提供攻击坐标被判终身](https://t.me/c/4392427626/1512) - 2026-07-14 (#dubai)
 - [迪拜启动夏季道路安全行动：免费车检保障出行](https://t.me/c/4392427626/1511) - 2026-07-14 (#dubai)
 - [️ 胡塞武装警告：航司勿入沙特领空](https://t.me/c/4392427626/1510) - 2026-07-14 (#dubai)
-- [菲律宾：中国公民遭同胞绑架，NBI成功解救人质](https://t.me/c/4392427626/1509) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
