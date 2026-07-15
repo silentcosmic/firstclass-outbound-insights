@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 洪森女婿警告：柬埔寨电诈拉人月薪仅300美元](https://t.me/c/4392427626/1547) - 2026-07-15 (#dubai)
 - [越南巨额赌球案告破：流水超3.5万亿盾](https://t.me/c/4392427626/1546) - 2026-07-15 (#dubai)
 - [东南亚IPO市场：上半年募资额强劲翻倍，马来西亚领跑区域表现](https://fcvoyage.com/dong-nan-ya-iposhi-chang-shang-ban-nian-mu-zi-e-qiang-jing-fan-bei-ma-lai-xi-ya-ling-pao-qu-yu-biao-xian/) - 2026-07-15 (#growth)
 - [行业风向 | 丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产](https://fcvoyage.com/xing-ye-feng-xiang-gun-lvqi-su-guo-jia-zhi-shi-chan-quan-ju-deepseekliang-wen-feng-cheng-quan-qiu-aigong-si-ling-yu-xin-shou-fu-dai-bi-er-si-jiang-zan-ting-nan-fei-zui-da-zuan-shi-kuang/) - 2026-07-15 (#insights)
@@ -33,5 +34,4 @@
 - [️ 东南亚淘金梦：耗尽心气的真实告白](https://t.me/c/4392427626/1520) - 2026-07-15 (#dubai)
 - [柬埔寨上半年驱逐逾4.2万外国人，电诈犯超1.5万](https://t.me/c/4392427626/1519) - 2026-07-15 (#dubai)
 - [美驻阿联酋使领馆：因安全局势，非紧急人员已撤离](https://t.me/c/4392427626/1518) - 2026-07-15 (#dubai)
-- [柬埔寨旬内遣返逾千名非法外籍人士](https://t.me/c/4392427626/1517) - 2026-07-15 (#dubai)
 <!-- END_POSTS -->
