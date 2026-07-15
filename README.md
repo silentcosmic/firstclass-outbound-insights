@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚破获跨国诈骗：21名中国籍嫌犯落网](https://t.me/c/4392427626/1564) - 2026-07-15 (#dubai)
 - [中东战事升级：美伊互袭，霍尔木兹海峡航运引关注](https://t.me/c/4392427626/1563) - 2026-07-15 (#dubai)
 - [警惕：东南亚华人团伙涉嫌多起跨境诈骗与黑产](https://t.me/c/4392427626/1562) - 2026-07-15 (#dubai)
 - [马来西亚“超级行动”：503名外籍人员被扣](https://t.me/c/4392427626/1561) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [赋能实时互动世界与游戏引擎：AI视频生成平台PixVerse获4.39亿美元C轮追加投资](https://fcvoyage.com/fu-neng-shi-shi-hu-dong-shi-jie-yu-you-xi-yin-qing-aishi-pin-sheng-cheng-ping-tai-pixversehuo-4-39yi-mei-yuan-clun-zhui-jia-tou-zi/) - 2026-07-15 (#growth)
 - [华为Pura 90s系列全球首发，深度革新移动影像智能体验](https://fcvoyage.com/hua-wei-pura-90sxi-lie-quan-qiu-shou-fa-shen-du-ge-xin-yi-dong-ying-xiang-zhi-neng-ti-yan/) - 2026-07-15 (#growth)
 - [派安盈在印度设立前沿创新中心，加速全球AI平台发展](https://fcvoyage.com/pai-an-ying-zai-yin-du-she-li-qian-yan-chuang-xin-zhong-xin-jia-su-quan-qiu-aiping-tai-fa-zhan/) - 2026-07-15 (#insights)
-- [深度分析：新加坡企业AI规模化为何步履维艰？](https://fcvoyage.com/shen-du-fen-xi-xin-jia-po-qi-ye-aigui-mo-hua-wei-he-bu-lu-wei-jian/) - 2026-07-15 (#insights)
 <!-- END_POSTS -->
