@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [沙迦奇案：男子误认路人妻施暴被捕](https://t.me/c/4392427626/1571) - 2026-07-15 (#dubai)
 - [柬埔寨木牌突查：涉诈窝点被捣毁，中柬嫌犯落网](https://t.me/c/4392427626/1570) - 2026-07-15 (#dubai)
 - [特朗普改弦易辙：霍尔木兹通行费方案紧急叫停](https://t.me/c/4392427626/1569) - 2026-07-15 (#dubai)
 - [️ 欧盟升级中东空域警告：避开阿联酋等国领空](https://t.me/c/4392427626/1568) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产](https://fcvoyage.com/xing-ye-feng-xiang-gun-lvqi-su-guo-jia-zhi-shi-chan-quan-ju-deepseekliang-wen-feng-cheng-quan-qiu-aigong-si-ling-yu-xin-shou-fu-dai-bi-er-si-jiang-zan-ting-nan-fei-zui-da-zuan-shi-kuang/) - 2026-07-15 (#insights)
 - [全球产业风向 | 智谱科技完成巨额H股配售；荣耀与阿里巴巴深化AI终端合作；小米机器人在汽车制造实现突破](https://fcvoyage.com/quan-qiu-chan-ye-feng-xiang-zhi-pu-ke-ji-wan-cheng-ju-e-hgu-pei-shou-rong-yao-yu-a-li-ba-ba-shen-hua-aizhong-duan-he-zuo-xiao-mi-ji-qi-ren-zai-qi-che-zhi-zao-shi-xian-tu-po/) - 2026-07-15 (#insights)
 - [深度解析：估值110亿美元的金融科技巨头如何助力初创企业从起步即布局全球](https://fcvoyage.com/shen-du-jie-xi-gu-zhi-110yi-mei-yuan-de-jin-rong-ke-ji-ju-tou-ru-he-zhu-li-chu-chuang-qi-ye-cong-qi-bu-ji-bu-ju-quan-qiu/) - 2026-07-15 (#insights)
-- [行业风向 | Google’s Meridian And Meta’s Robyn: A Gift To Measurement Or Trojan Horses?](https://fcvoyage.com/xing-ye-feng-xiang-googles-meridian-and-metas-robyn-a-gift-to-measurement-or-trojan-horses/) - 2026-07-15 (#growth)
 <!-- END_POSTS -->
