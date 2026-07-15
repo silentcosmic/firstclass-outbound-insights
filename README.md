@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [马来西亚“超级行动”：503名外籍人员被扣](https://t.me/c/4392427626/1561) - 2026-07-15 (#dubai)
 - [马斯克重磅宣布：X平台代码将无条件开源并接受三方审查](https://t.me/c/4392427626/1560) - 2026-07-15 (#dubai)
 - [️ 非洲动荡加剧，外派人员：不是胆大，是别无选择](https://t.me/c/4392427626/1559) - 2026-07-15 (#dubai)
 - [️ 菲索莱尔赌场舞弊案：主管涉嫌盗刷会员积分被控](https://t.me/c/4392427626/1558) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [深度分析：新加坡企业AI规模化为何步履维艰？](https://fcvoyage.com/shen-du-fen-xi-xin-jia-po-qi-ye-aigui-mo-hua-wei-he-bu-lu-wei-jian/) - 2026-07-15 (#insights)
 - [MSIG Asia 换帅：Ronak Shah 领航亚太战略增长](https://t.me/c/4392427626/1533) - 2026-07-15 (#dubai)
 - [MSIG Asia 区域领导层新章：Ronak Shah 履新首席执行官，掌舵亚太战略增长](https://fcvoyage.com/msig-asia-qu-yu-ling-dao-ceng-xin-zhang-ronak-shah-lu-xin-shou-xi-zhi-xing-guan-zhang-duo-ya-tai-zhan-lue-zeng-chang/) - 2026-07-15 (#insights)
-- [️ 迪拜超市捐赠箱满溢：社区互助热度不减](https://t.me/c/4392427626/1531) - 2026-07-15 (#dubai)
 <!-- END_POSTS -->
