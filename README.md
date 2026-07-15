@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 欧盟升级中东空域警告：避开阿联酋等国领空](https://t.me/c/4392427626/1568) - 2026-07-15 (#dubai)
 - [泰国签证新政：93国60天免签取消，重点平衡安全](https://t.me/c/4392427626/1567) - 2026-07-15 (#dubai)
 - [阿联酋油轮遇袭：伤亡人数升至2死14伤](https://t.me/c/4392427626/1566) - 2026-07-15 (#dubai)
 - [️ 星链在东南亚地区受限：谨防解锁骗局！](https://t.me/c/4392427626/1565) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | Google’s Meridian And Meta’s Robyn: A Gift To Measurement Or Trojan Horses?](https://fcvoyage.com/xing-ye-feng-xiang-googles-meridian-and-metas-robyn-a-gift-to-measurement-or-trojan-horses/) - 2026-07-15 (#growth)
 - [AI时代，出版商如何确保内容权威性与文化价值：新框架SAIL的实践](https://fcvoyage.com/aishi-dai-chu-ban-shang-ru-he-que-bao-nei-rong-quan-wei-xing-yu-wen-hua-jie-zhi-xin-kuang-jia-sailde-shi-jian/) - 2026-07-15 (#growth)
 - [AI信息失准扩散：品牌声誉管理与智能校准工具新趋势](https://fcvoyage.com/aixin-xi-shi-zhun-kuo-san-pin-pai-sheng-yu-guan-li-yu-zhi-neng-xiao-zhun-gong-ju-xin-qu-shi/) - 2026-07-15 (#growth)
-- [生成式AI冲击东南亚劳动力市场：近八千万人面临变革浪潮](https://fcvoyage.com/sheng-cheng-shi-aichong-ji-dong-nan-ya-lao-dong-li-shi-chang-jin-ba-qian-mo-ren-mian-lin-bian-ge-lang-chao/) - 2026-07-15 (#growth)
 <!-- END_POSTS -->
