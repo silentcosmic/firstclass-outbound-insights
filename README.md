@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [行业风向 | Google’s Meridian And Meta’s Robyn: A Gift To Measurement Or Trojan Horses?](https://fcvoyage.com/xing-ye-feng-xiang-googles-meridian-and-metas-robyn-a-gift-to-measurement-or-trojan-horses/) - 2026-07-15 (#growth)
 - [AI时代，出版商如何确保内容权威性与文化价值：新框架SAIL的实践](https://fcvoyage.com/aishi-dai-chu-ban-shang-ru-he-que-bao-nei-rong-quan-wei-xing-yu-wen-hua-jie-zhi-xin-kuang-jia-sailde-shi-jian/) - 2026-07-15 (#growth)
 - [AI信息失准扩散：品牌声誉管理与智能校准工具新趋势](https://fcvoyage.com/aixin-xi-shi-zhun-kuo-san-pin-pai-sheng-yu-guan-li-yu-zhi-neng-xiao-zhun-gong-ju-xin-qu-shi/) - 2026-07-15 (#growth)
 - [生成式AI冲击东南亚劳动力市场：近八千万人面临变革浪潮](https://fcvoyage.com/sheng-cheng-shi-aichong-ji-dong-nan-ya-lao-dong-li-shi-chang-jin-ba-qian-mo-ren-mian-lin-bian-ge-lang-chao/) - 2026-07-15 (#growth)
@@ -33,5 +34,4 @@
 - [斯里兰卡出台新政：全面打击金融犯罪](https://t.me/c/4392427626/1514) - 2026-07-14 (#dubai)
 - [阿治曼滨海大楼火情速控，民防部门高效处置无伤亡](https://t.me/c/4392427626/1513) - 2026-07-14 (#dubai)
 - [巴林间谍案：三名被告为伊朗提供攻击坐标被判终身](https://t.me/c/4392427626/1512) - 2026-07-14 (#dubai)
-- [迪拜启动夏季道路安全行动：免费车检保障出行](https://t.me/c/4392427626/1511) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
