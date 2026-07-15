@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [泰国签证新政：93国60天免签取消，重点平衡安全](https://t.me/c/4392427626/1567) - 2026-07-15 (#dubai)
 - [阿联酋油轮遇袭：伤亡人数升至2死14伤](https://t.me/c/4392427626/1566) - 2026-07-15 (#dubai)
 - [️ 星链在东南亚地区受限：谨防解锁骗局！](https://t.me/c/4392427626/1565) - 2026-07-15 (#dubai)
 - [马来西亚破获跨国诈骗：21名中国籍嫌犯落网](https://t.me/c/4392427626/1564) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [AI时代，出版商如何确保内容权威性与文化价值：新框架SAIL的实践](https://fcvoyage.com/aishi-dai-chu-ban-shang-ru-he-que-bao-nei-rong-quan-wei-xing-yu-wen-hua-jie-zhi-xin-kuang-jia-sailde-shi-jian/) - 2026-07-15 (#growth)
 - [AI信息失准扩散：品牌声誉管理与智能校准工具新趋势](https://fcvoyage.com/aixin-xi-shi-zhun-kuo-san-pin-pai-sheng-yu-guan-li-yu-zhi-neng-xiao-zhun-gong-ju-xin-qu-shi/) - 2026-07-15 (#growth)
 - [生成式AI冲击东南亚劳动力市场：近八千万人面临变革浪潮](https://fcvoyage.com/sheng-cheng-shi-aichong-ji-dong-nan-ya-lao-dong-li-shi-chang-jin-ba-qian-mo-ren-mian-lin-bian-ge-lang-chao/) - 2026-07-15 (#growth)
-- [赋能实时互动世界与游戏引擎：AI视频生成平台PixVerse获4.39亿美元C轮追加投资](https://fcvoyage.com/fu-neng-shi-shi-hu-dong-shi-jie-yu-you-xi-yin-qing-aishi-pin-sheng-cheng-ping-tai-pixversehuo-4-39yi-mei-yuan-clun-zhui-jia-tou-zi/) - 2026-07-15 (#growth)
 <!-- END_POSTS -->
