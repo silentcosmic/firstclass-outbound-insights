@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [MSIG Asia 换帅：Ronak Shah 领航亚太战略增长](https://t.me/c/4392427626/1533) - 2026-07-15 (#dubai)
 - [MSIG Asia 区域领导层新章：Ronak Shah 履新首席执行官，掌舵亚太战略增长](https://fcvoyage.com/msig-asia-qu-yu-ling-dao-ceng-xin-zhang-ronak-shah-lu-xin-shou-xi-zhi-xing-guan-zhang-duo-ya-tai-zhan-lue-zeng-chang/) - 2026-07-15 (#insights)
 - [️ 迪拜超市捐赠箱满溢：社区互助热度不减](https://t.me/c/4392427626/1531) - 2026-07-15 (#dubai)
 - [阿联酋强烈谴责胡塞武装袭击沙特南部](https://t.me/c/4392427626/1530) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [西港园区覆灭亲历者：五年铁窗揭露非法出海陷阱](https://t.me/c/4392427626/1506) - 2026-07-14 (#dubai)
 - [西港坠楼意外：男子触电命危，紧急送医抢救](https://t.me/c/4392427626/1505) - 2026-07-14 (#dubai)
 - [乌干达：367名中国公民涉非法工作将面临起诉及遣返](https://t.me/c/4392427626/1504) - 2026-07-14 (#dubai)
-- [️ Telegram核心域名突遭禁用：疑与OFAC制裁相关](https://t.me/c/4392427626/1503) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
