@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [特朗普改弦易辙：霍尔木兹通行费方案紧急叫停](https://t.me/c/4392427626/1569) - 2026-07-15 (#dubai)
 - [️ 欧盟升级中东空域警告：避开阿联酋等国领空](https://t.me/c/4392427626/1568) - 2026-07-15 (#dubai)
 - [泰国签证新政：93国60天免签取消，重点平衡安全](https://t.me/c/4392427626/1567) - 2026-07-15 (#dubai)
 - [阿联酋油轮遇袭：伤亡人数升至2死14伤](https://t.me/c/4392427626/1566) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [深度解析：估值110亿美元的金融科技巨头如何助力初创企业从起步即布局全球](https://fcvoyage.com/shen-du-jie-xi-gu-zhi-110yi-mei-yuan-de-jin-rong-ke-ji-ju-tou-ru-he-zhu-li-chu-chuang-qi-ye-cong-qi-bu-ji-bu-ju-quan-qiu/) - 2026-07-15 (#insights)
 - [行业风向 | Google’s Meridian And Meta’s Robyn: A Gift To Measurement Or Trojan Horses?](https://fcvoyage.com/xing-ye-feng-xiang-googles-meridian-and-metas-robyn-a-gift-to-measurement-or-trojan-horses/) - 2026-07-15 (#growth)
 - [AI时代，出版商如何确保内容权威性与文化价值：新框架SAIL的实践](https://fcvoyage.com/aishi-dai-chu-ban-shang-ru-he-que-bao-nei-rong-quan-wei-xing-yu-wen-hua-jie-zhi-xin-kuang-jia-sailde-shi-jian/) - 2026-07-15 (#growth)
-- [AI信息失准扩散：品牌声誉管理与智能校准工具新趋势](https://fcvoyage.com/aixin-xi-shi-zhun-kuo-san-pin-pai-sheng-yu-guan-li-yu-zhi-neng-xiao-zhun-gong-ju-xin-qu-shi/) - 2026-07-15 (#growth)
 <!-- END_POSTS -->
