@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [派安盈在印度设立前沿创新中心，加速全球AI平台发展](https://fcvoyage.com/pai-an-ying-zai-yin-du-she-li-qian-yan-chuang-xin-zhong-xin-jia-su-quan-qiu-aiping-tai-fa-zhan/) - 2026-07-15 (#insights)
 - [深度分析：新加坡企业AI规模化为何步履维艰？](https://fcvoyage.com/shen-du-fen-xi-xin-jia-po-qi-ye-aigui-mo-hua-wei-he-bu-lu-wei-jian/) - 2026-07-15 (#insights)
 - [MSIG Asia 换帅：Ronak Shah 领航亚太战略增长](https://t.me/c/4392427626/1533) - 2026-07-15 (#dubai)
 - [MSIG Asia 区域领导层新章：Ronak Shah 履新首席执行官，掌舵亚太战略增长](https://fcvoyage.com/msig-asia-qu-yu-ling-dao-ceng-xin-zhang-ronak-shah-lu-xin-shou-xi-zhi-xing-guan-zhang-duo-ya-tai-zhan-lue-zeng-chang/) - 2026-07-15 (#insights)
@@ -33,5 +34,4 @@
 - [t.me域名解析恢复，全面生效或需24小时](https://t.me/c/4392427626/1508) - 2026-07-14 (#dubai)
 - [周星驰新片《功夫女足》8月6日登陆柬埔寨影院](https://t.me/c/4392427626/1507) - 2026-07-14 (#dubai)
 - [西港园区覆灭亲历者：五年铁窗揭露非法出海陷阱](https://t.me/c/4392427626/1506) - 2026-07-14 (#dubai)
-- [西港坠楼意外：男子触电命危，紧急送医抢救](https://t.me/c/4392427626/1505) - 2026-07-14 (#dubai)
 <!-- END_POSTS -->
