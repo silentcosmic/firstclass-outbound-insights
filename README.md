@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [警惕：东南亚华人团伙涉嫌多起跨境诈骗与黑产](https://t.me/c/4392427626/1562) - 2026-07-15 (#dubai)
 - [马来西亚“超级行动”：503名外籍人员被扣](https://t.me/c/4392427626/1561) - 2026-07-15 (#dubai)
 - [马斯克重磅宣布：X平台代码将无条件开源并接受三方审查](https://t.me/c/4392427626/1560) - 2026-07-15 (#dubai)
 - [️ 非洲动荡加剧，外派人员：不是胆大，是别无选择](https://t.me/c/4392427626/1559) - 2026-07-15 (#dubai)
@@ -33,5 +34,4 @@
 - [派安盈在印度设立前沿创新中心，加速全球AI平台发展](https://fcvoyage.com/pai-an-ying-zai-yin-du-she-li-qian-yan-chuang-xin-zhong-xin-jia-su-quan-qiu-aiping-tai-fa-zhan/) - 2026-07-15 (#insights)
 - [深度分析：新加坡企业AI规模化为何步履维艰？](https://fcvoyage.com/shen-du-fen-xi-xin-jia-po-qi-ye-aigui-mo-hua-wei-he-bu-lu-wei-jian/) - 2026-07-15 (#insights)
 - [MSIG Asia 换帅：Ronak Shah 领航亚太战略增长](https://t.me/c/4392427626/1533) - 2026-07-15 (#dubai)
-- [MSIG Asia 区域领导层新章：Ronak Shah 履新首席执行官，掌舵亚太战略增长](https://fcvoyage.com/msig-asia-qu-yu-ling-dao-ceng-xin-zhang-ronak-shah-lu-xin-shou-xi-zhi-xing-guan-zhang-duo-ya-tai-zhan-lue-zeng-chang/) - 2026-07-15 (#insights)
 <!-- END_POSTS -->
