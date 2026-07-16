@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [斯年智驾斩获3亿元C轮融资，智能重卡赛道热度持续攀升](https://fcvoyage.com/si-nian-zhi-jia-zhan-huo-3yi-yuan-clun-rong-zi-zhi-neng-zhong-qia-sai-dao-re-du-chi-xu-pan-sheng/) - 2026-07-16 (#insights)
 - [行业风向 | 越过湖畔，AI在阳澄湖半岛「跑进」真实生活](https://fcvoyage.com/xing-ye-feng-xiang-yue-guo-hu-pan-aizai-yang-cheng-hu-ban-dao-pao-jin-zhen-shi-sheng-huo/) - 2026-07-16 (#insights)
 - [优衣库Uniqlo U系列十年之变：Lemaire与迅销的战略交汇与分流](https://fcvoyage.com/you-yi-ku-uniqlo-uxi-lie-shi-nian-zhi-bian-lemaireyu-xun-xiao-de-zhan-lue-jiao-hui-yu-fen-liu/) - 2026-07-16 (#insights)
 - [企业AI智能体编排：挑战在于部署而非平台，多数仍将聊天机器人误作智能体](https://fcvoyage.com/qi-ye-aizhi-neng-ti-bian-pai-tiao-zhan-zai-yu-bu-shu-er-fei-ping-tai-duo-shu-reng-jiang-liao-tian-ji-qi-ren-wu-zuo-zhi-neng-ti/) - 2026-07-16 (#ai)
@@ -33,5 +34,4 @@
 - [泰国签证新政：93国60天免签取消，重点平衡安全](https://t.me/c/4392427626/1567) - 2026-07-15 (#dubai)
 - [阿联酋油轮遇袭：伤亡人数升至2死14伤](https://t.me/c/4392427626/1566) - 2026-07-15 (#dubai)
 - [️ 星链在东南亚地区受限：谨防解锁骗局！](https://t.me/c/4392427626/1565) - 2026-07-15 (#dubai)
-- [马来西亚破获跨国诈骗：21名中国籍嫌犯落网](https://t.me/c/4392427626/1564) - 2026-07-15 (#dubai)
 <!-- END_POSTS -->
