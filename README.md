@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [迪拜华人圈寻人：突发事件致联系中断，急寻旧友](https://t.me/c/4392427626/1624) - 2026-07-17 (#dubai)
 - [Uber巨资收购Delivery Hero：全球外卖市场重塑](https://t.me/c/4392427626/1623) - 2026-07-16 (#dubai)
 - [阿联酋七月罕见阵雨：酷暑暂停，后续或有更多降水](https://t.me/c/4392427626/1622) - 2026-07-16 (#dubai)
 - [中菲联手：跨境电诈头目林某落网，涉案数亿](https://t.me/c/4392427626/1621) - 2026-07-16 (#dubai)
@@ -33,5 +34,4 @@
 - [东南亚华人涉嫌跨国黑产：多名受害者呼吁彻查](https://t.me/c/4392427626/1597) - 2026-07-16 (#dubai)
 - [澳大利亚设立国家人工智能办公室，加速战略布局并规范数据中心能耗](https://fcvoyage.com/ao-da-li-ya-she-li-guo-jia-ren-gong-zhi-neng-ban-gong-shi-jia-su-zhan-lue-bu-ju-bing-gui-fan-shu-ju-zhong-xin-neng-hao/) - 2026-07-16 (#growth)
 - [中国建材巨头东方雨虹：激进全球布局下的战略抉择](https://fcvoyage.com/zhong-guo-jian-cai-ju-tou-dong-fang-yu-hong-ji-jin-quan-qiu-bu-ju-xia-de-zhan-lue-jue-ze/) - 2026-07-16 (#insights)
-- [斯年智驾斩获3亿元C轮融资，智能重卡赛道热度持续攀升](https://fcvoyage.com/si-nian-zhi-jia-zhan-huo-3yi-yuan-clun-rong-zi-zhi-neng-zhong-qia-sai-dao-re-du-chi-xu-pan-sheng/) - 2026-07-16 (#insights)
 <!-- END_POSTS -->
