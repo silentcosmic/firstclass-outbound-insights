@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [泰缅燃油走私链曝光：诈骗园区恐遭断供](https://t.me/c/4392427626/1620) - 2026-07-16 (#dubai)
 - [️ 柬埔寨汇旺债权遭低价收购，洪图律师现身引猜测](https://t.me/c/4392427626/1619) - 2026-07-16 (#dubai)
 - [沙迦入室盗窃未遂：屋主意外擒贼判两月](https://t.me/c/4392427626/1618) - 2026-07-16 (#dubai)
 - [️ 柬埔寨电诈核心：政府授予“公爵”身份者逍遥法外](https://t.me/c/4392427626/1617) - 2026-07-16 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | 越过湖畔，AI在阳澄湖半岛「跑进」真实生活](https://fcvoyage.com/xing-ye-feng-xiang-yue-guo-hu-pan-aizai-yang-cheng-hu-ban-dao-pao-jin-zhen-shi-sheng-huo/) - 2026-07-16 (#insights)
 - [优衣库Uniqlo U系列十年之变：Lemaire与迅销的战略交汇与分流](https://fcvoyage.com/you-yi-ku-uniqlo-uxi-lie-shi-nian-zhi-bian-lemaireyu-xun-xiao-de-zhan-lue-jiao-hui-yu-fen-liu/) - 2026-07-16 (#insights)
 - [企业AI智能体编排：挑战在于部署而非平台，多数仍将聊天机器人误作智能体](https://fcvoyage.com/qi-ye-aizhi-neng-ti-bian-pai-tiao-zhan-zai-yu-bu-shu-er-fei-ping-tai-duo-shu-reng-jiang-liao-tian-ji-qi-ren-wu-zuo-zhi-neng-ti/) - 2026-07-16 (#ai)
-- [新加坡金融管理局收紧众筹平台监管：强化季度报告与逾期披露](https://fcvoyage.com/xin-jia-po-jin-rong-guan-li-ju-shou-jin-zhong-chou-ping-tai-jian-guan-qiang-hua-ji-du-bao-gao-yu-yu-qi-pi-lu/) - 2026-07-16 (#insights)
 <!-- END_POSTS -->
