@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Stripe 与 Advent 联手要约收购 PayPal，估值逾 530 亿美元](https://fcvoyage.com/stripe-yu-advent-lian-shou-yao-yue-shou-gou-paypal-gu-zhi-yu-530-yi-mei-yuan/) - 2026-07-16 (#insights)
 - [阿联酋“买断”停火疑云：百亿资金换中东和平？](https://t.me/c/4392427626/1586) - 2026-07-16 (#dubai)
 - [Telegram入局Serverless：机器人开发告别服务器](https://t.me/c/4392427626/1585) - 2026-07-16 (#dubai)
 - [迪拜豪宅租金再破纪录：年租金高达1700万迪拉姆](https://t.me/c/4392427626/1584) - 2026-07-16 (#dubai)
@@ -33,5 +34,4 @@
 - [马斯克重磅宣布：X平台代码将无条件开源并接受三方审查](https://t.me/c/4392427626/1560) - 2026-07-15 (#dubai)
 - [️ 非洲动荡加剧，外派人员：不是胆大，是别无选择](https://t.me/c/4392427626/1559) - 2026-07-15 (#dubai)
 - [️ 菲索莱尔赌场舞弊案：主管涉嫌盗刷会员积分被控](https://t.me/c/4392427626/1558) - 2026-07-15 (#dubai)
-- [AI情人应用全球吸金逾4亿，近七成用户选择隐瞒伴侣](https://t.me/c/4392427626/1557) - 2026-07-15 (#dubai)
 <!-- END_POSTS -->
