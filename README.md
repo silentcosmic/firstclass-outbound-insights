@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 芭堤雅公园不雅事件：公共形象受损，当局介入调查](https://t.me/c/4392427626/1626) - 2026-07-17 (#dubai)
 - [怡保连破两诈骗窝点：18名中国籍男子被捕](https://t.me/c/4392427626/1625) - 2026-07-17 (#dubai)
 - [迪拜华人圈寻人：突发事件致联系中断，急寻旧友](https://t.me/c/4392427626/1624) - 2026-07-17 (#dubai)
 - [Uber巨资收购Delivery Hero：全球外卖市场重塑](https://t.me/c/4392427626/1623) - 2026-07-16 (#dubai)
@@ -33,5 +34,4 @@
 - [中国储户柬埔寨被拘，百人集会抗议](https://t.me/c/4392427626/1599) - 2026-07-16 (#dubai)
 - [柬埔寨波贝捣毁跨国诈骗窝点，63人落网](https://t.me/c/4392427626/1598) - 2026-07-16 (#dubai)
 - [东南亚华人涉嫌跨国黑产：多名受害者呼吁彻查](https://t.me/c/4392427626/1597) - 2026-07-16 (#dubai)
-- [澳大利亚设立国家人工智能办公室，加速战略布局并规范数据中心能耗](https://fcvoyage.com/ao-da-li-ya-she-li-guo-jia-ren-gong-zhi-neng-ban-gong-shi-jia-su-zhan-lue-bu-ju-bing-gui-fan-shu-ju-zhong-xin-neng-hao/) - 2026-07-16 (#growth)
 <!-- END_POSTS -->
