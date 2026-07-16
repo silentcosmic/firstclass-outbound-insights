@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [沙迦入室盗窃未遂：屋主意外擒贼判两月](https://t.me/c/4392427626/1618) - 2026-07-16 (#dubai)
 - [️ 柬埔寨电诈核心：政府授予“公爵”身份者逍遥法外](https://t.me/c/4392427626/1617) - 2026-07-16 (#dubai)
 - [退役13年仍吸金：贝克汉姆世界杯期间狂揽1.7亿](https://t.me/c/4392427626/1616) - 2026-07-16 (#dubai)
 - [孟加拉国前总理哈西娜超62亿资产遭冻结](https://t.me/c/4392427626/1615) - 2026-07-16 (#dubai)
@@ -33,5 +34,4 @@
 - [企业AI智能体编排：挑战在于部署而非平台，多数仍将聊天机器人误作智能体](https://fcvoyage.com/qi-ye-aizhi-neng-ti-bian-pai-tiao-zhan-zai-yu-bu-shu-er-fei-ping-tai-duo-shu-reng-jiang-liao-tian-ji-qi-ren-wu-zuo-zhi-neng-ti/) - 2026-07-16 (#ai)
 - [新加坡金融管理局收紧众筹平台监管：强化季度报告与逾期披露](https://fcvoyage.com/xin-jia-po-jin-rong-guan-li-ju-shou-jin-zhong-chou-ping-tai-jian-guan-qiang-hua-ji-du-bao-gao-yu-yu-qi-pi-lu/) - 2026-07-16 (#insights)
 - [越南国家公民商业银行 (NCB) 推出VietQR全球服务，打通跨境二维码支付通道](https://fcvoyage.com/yue-nan-guo-jia-gong-min-shang-ye-yin-xing-ncb-tui-chu-vietqrquan-qiu-fu-wu-da-tong-kua-jing-er-wei-ma-zhi-fu-tong-dao/) - 2026-07-16 (#insights)
-- [Stripe与Advent联手：PayPal或迎巨额收购要约](https://t.me/c/4392427626/1588) - 2026-07-16 (#dubai)
 <!-- END_POSTS -->
