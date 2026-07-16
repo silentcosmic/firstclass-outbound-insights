@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [新加坡金融管理局收紧众筹平台监管：强化季度报告与逾期披露](https://fcvoyage.com/xin-jia-po-jin-rong-guan-li-ju-shou-jin-zhong-chou-ping-tai-jian-guan-qiang-hua-ji-du-bao-gao-yu-yu-qi-pi-lu/) - 2026-07-16 (#insights)
 - [越南国家公民商业银行 (NCB) 推出VietQR全球服务，打通跨境二维码支付通道](https://fcvoyage.com/yue-nan-guo-jia-gong-min-shang-ye-yin-xing-ncb-tui-chu-vietqrquan-qiu-fu-wu-da-tong-kua-jing-er-wei-ma-zhi-fu-tong-dao/) - 2026-07-16 (#insights)
 - [Stripe与Advent联手：PayPal或迎巨额收购要约](https://t.me/c/4392427626/1588) - 2026-07-16 (#dubai)
 - [Stripe 与 Advent 联手要约收购 PayPal，估值逾 530 亿美元](https://fcvoyage.com/stripe-yu-advent-lian-shou-yao-yue-shou-gou-paypal-gu-zhi-yu-530-yi-mei-yuan/) - 2026-07-16 (#insights)
@@ -33,5 +34,4 @@
 - [中东战事升级：美伊互袭，霍尔木兹海峡航运引关注](https://t.me/c/4392427626/1563) - 2026-07-15 (#dubai)
 - [警惕：东南亚华人团伙涉嫌多起跨境诈骗与黑产](https://t.me/c/4392427626/1562) - 2026-07-15 (#dubai)
 - [马来西亚“超级行动”：503名外籍人员被扣](https://t.me/c/4392427626/1561) - 2026-07-15 (#dubai)
-- [马斯克重磅宣布：X平台代码将无条件开源并接受三方审查](https://t.me/c/4392427626/1560) - 2026-07-15 (#dubai)
 <!-- END_POSTS -->
