@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 星链东南亚受限：警惕解锁诈骗陷阱](https://t.me/c/4392427626/1614) - 2026-07-16 (#dubai)
 - [马来西亚捣毁跨国诈骗团伙：21名中国籍男子被捕](https://t.me/c/4392427626/1613) - 2026-07-16 (#dubai)
 - [科威特防空系统拦截敌机：中东安全局势再引关注](https://t.me/c/4392427626/1612) - 2026-07-16 (#dubai)
 - [湖南破获裸聊诈骗案：千余推特账号引流境外](https://t.me/c/4392427626/1611) - 2026-07-16 (#dubai)
@@ -33,5 +34,4 @@
 - [Stripe 与 Advent 联手要约收购 PayPal，估值逾 530 亿美元](https://fcvoyage.com/stripe-yu-advent-lian-shou-yao-yue-shou-gou-paypal-gu-zhi-yu-530-yi-mei-yuan/) - 2026-07-16 (#insights)
 - [阿联酋“买断”停火疑云：百亿资金换中东和平？](https://t.me/c/4392427626/1586) - 2026-07-16 (#dubai)
 - [Telegram入局Serverless：机器人开发告别服务器](https://t.me/c/4392427626/1585) - 2026-07-16 (#dubai)
-- [迪拜豪宅租金再破纪录：年租金高达1700万迪拉姆](https://t.me/c/4392427626/1584) - 2026-07-16 (#dubai)
 <!-- END_POSTS -->
