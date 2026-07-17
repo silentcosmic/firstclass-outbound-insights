@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [AI驱动公民社会远程驰援：委内瑞拉灾后数字化响应与挑战](https://fcvoyage.com/aiqu-dong-gong-min-she-hui-yuan-cheng-chi-yuan-wei-nei-rui-la-zai-hou-shu-zi-hua-xiang-ying-yu-tiao-zhan/) - 2026-07-17 (#infrastructure)
 - [中东AI雄心遇阻：巨额投入下仍难摆脱英伟达芯片制约](https://fcvoyage.com/zhong-dong-aixiong-xin-yu-zu-ju-e-tou-ru-xia-reng-nan-bai-tuo-ying-wei-da-xin-pian-zhi-yue/) - 2026-07-17 (#infrastructure)
 - [深度解析：Netflix财报背后，流媒体巨头的多重挑战与战略应对](https://fcvoyage.com/shen-du-jie-xi-netflixcai-bao-bei-hou-liu-mei-ti-ju-tou-de-duo-zhong-tiao-zhan-yu-zhan-lue-ying-dui/) - 2026-07-17 (#growth)
 - [乔治亚-太平洋：构建自有程序化媒介团队，解锁营销新效能](https://fcvoyage.com/qiao-zhi-ya-tai-ping-yang-gou-jian-zi-you-cheng-xu-hua-mei-jie-tuan-dui-jie-suo-ying-xiao-xin-xiao-neng/) - 2026-07-17 (#growth)
@@ -33,5 +34,4 @@
 - [柬中深化执法合作，联手打击跨境犯罪](https://t.me/c/4392427626/1628) - 2026-07-17 (#dubai)
 - [东南亚回国普查升级：警惕出境限制](https://t.me/c/4392427626/1627) - 2026-07-17 (#dubai)
 - [️ 芭堤雅公园不雅事件：公共形象受损，当局介入调查](https://t.me/c/4392427626/1626) - 2026-07-17 (#dubai)
-- [怡保连破两诈骗窝点：18名中国籍男子被捕](https://t.me/c/4392427626/1625) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
