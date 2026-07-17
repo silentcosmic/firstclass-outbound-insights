@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [🇪 阿联酋重温建国誓言：传承团结与发展精神](https://t.me/c/4392427626/1685) - 2026-07-17 (#dubai)
 - [特朗普再抛重磅言论：中国欲阻其连任](https://t.me/c/4392427626/1684) - 2026-07-17 (#dubai)
 - [️ 马来西亚入境警示：特定护照或面临严查与遣返](https://t.me/c/4392427626/1683) - 2026-07-17 (#dubai)
 - [老挝丰沙里省破获网络诈骗案：5名嫌犯落网](https://t.me/c/4392427626/1682) - 2026-07-17 (#dubai)
@@ -33,5 +34,4 @@
 - [行业风向 | The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials](https://fcvoyage.com/xing-ye-feng-xiang-the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials/) - 2026-07-17 (#ai)
 - [企业级AI信任危机：上下文鸿沟并非检索难题，而是治理挑战](https://fcvoyage.com/qi-ye-ji-aixin-ren-wei-ji-shang-xia-wen-hong-gou-bing-fei-jian-suo-nan-ti-er-shi-zhi-li-tiao-zhan/) - 2026-07-17 (#ai)
 - [警惕AI内容审核的边界：技术无法取代人类对“同意”的理解](https://fcvoyage.com/jing-ti-ainei-rong-shen-he-de-bian-jie-ji-zhu-wu-fa-qu-dai-ren-lei-dui-tong-yi-de-li-jie/) - 2026-07-17 (#infrastructure)
-- [AI驱动公民社会远程驰援：委内瑞拉灾后数字化响应与挑战](https://fcvoyage.com/aiqu-dong-gong-min-she-hui-yuan-cheng-chi-yuan-wei-nei-rui-la-zai-hou-shu-zi-hua-xiang-ying-yu-tiao-zhan/) - 2026-07-17 (#infrastructure)
 <!-- END_POSTS -->
