@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [AI算力鸿沟：企业基础设施投资狂飙，成本效益洞察却迟滞不前](https://fcvoyage.com/aisuan-li-hong-gou-qi-ye-ji-chu-she-shi-tou-zi-kuang-biao-cheng-ben-xiao-yi-dong-cha-que-chi-zhi-bu-qian/) - 2026-07-17 (#ai)
 - [行业风向 | The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials](https://fcvoyage.com/xing-ye-feng-xiang-the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials/) - 2026-07-17 (#ai)
 - [企业级AI信任危机：上下文鸿沟并非检索难题，而是治理挑战](https://fcvoyage.com/qi-ye-ji-aixin-ren-wei-ji-shang-xia-wen-hong-gou-bing-fei-jian-suo-nan-ti-er-shi-zhi-li-tiao-zhan/) - 2026-07-17 (#ai)
 - [警惕AI内容审核的边界：技术无法取代人类对“同意”的理解](https://fcvoyage.com/jing-ti-ainei-rong-shen-he-de-bian-jie-ji-zhu-wu-fa-qu-dai-ren-lei-dui-tong-yi-de-li-jie/) - 2026-07-17 (#infrastructure)
@@ -33,5 +34,4 @@
 - [️ 迪拜跨境劳务警示：涉嫌诈骗与胁迫案件频发](https://t.me/c/4392427626/1632) - 2026-07-17 (#dubai)
 - [️ 境外返国人员注意：手机数据成执法焦点！](https://t.me/c/4392427626/1631) - 2026-07-17 (#dubai)
 - [越南警方捣毁特大跨境男性卖淫团伙](https://t.me/c/4392427626/1630) - 2026-07-17 (#dubai)
-- [亲历者揭露缅北陷阱：高薪诱惑下的自由代价](https://t.me/c/4392427626/1629) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
