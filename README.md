@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [企业级AI信任危机：上下文鸿沟并非检索难题，而是治理挑战](https://fcvoyage.com/qi-ye-ji-aixin-ren-wei-ji-shang-xia-wen-hong-gou-bing-fei-jian-suo-nan-ti-er-shi-zhi-li-tiao-zhan/) - 2026-07-17 (#ai)
 - [警惕AI内容审核的边界：技术无法取代人类对“同意”的理解](https://fcvoyage.com/jing-ti-ainei-rong-shen-he-de-bian-jie-ji-zhu-wu-fa-qu-dai-ren-lei-dui-tong-yi-de-li-jie/) - 2026-07-17 (#infrastructure)
 - [AI驱动公民社会远程驰援：委内瑞拉灾后数字化响应与挑战](https://fcvoyage.com/aiqu-dong-gong-min-she-hui-yuan-cheng-chi-yuan-wei-nei-rui-la-zai-hou-shu-zi-hua-xiang-ying-yu-tiao-zhan/) - 2026-07-17 (#infrastructure)
 - [中东AI雄心遇阻：巨额投入下仍难摆脱英伟达芯片制约](https://fcvoyage.com/zhong-dong-aixiong-xin-yu-zu-ju-e-tou-ru-xia-reng-nan-bai-tuo-ying-wei-da-xin-pian-zhi-yue/) - 2026-07-17 (#infrastructure)
@@ -33,5 +34,4 @@
 - [越南警方捣毁特大跨境男性卖淫团伙](https://t.me/c/4392427626/1630) - 2026-07-17 (#dubai)
 - [亲历者揭露缅北陷阱：高薪诱惑下的自由代价](https://t.me/c/4392427626/1629) - 2026-07-17 (#dubai)
 - [柬中深化执法合作，联手打击跨境犯罪](https://t.me/c/4392427626/1628) - 2026-07-17 (#dubai)
-- [东南亚回国普查升级：警惕出境限制](https://t.me/c/4392427626/1627) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
