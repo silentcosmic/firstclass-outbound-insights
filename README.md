@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [老挝丰沙里省破获网络诈骗案：5名嫌犯落网](https://t.me/c/4392427626/1682) - 2026-07-17 (#dubai)
 - [️ 汇旺维权风波升级：幕后操盘手三路出击](https://t.me/c/4392427626/1681) - 2026-07-17 (#dubai)
 - [️ 柬埔寨前诈骗园区转型：疑涉黄赌毒与警方高层](https://t.me/c/4392427626/1680) - 2026-07-17 (#dubai)
 - [中老联合行动：71名中国籍嫌犯被遣返，66人涉电诈](https://t.me/c/4392427626/1679) - 2026-07-17 (#dubai)
@@ -33,5 +34,4 @@
 - [AI驱动公民社会远程驰援：委内瑞拉灾后数字化响应与挑战](https://fcvoyage.com/aiqu-dong-gong-min-she-hui-yuan-cheng-chi-yuan-wei-nei-rui-la-zai-hou-shu-zi-hua-xiang-ying-yu-tiao-zhan/) - 2026-07-17 (#infrastructure)
 - [中东AI雄心遇阻：巨额投入下仍难摆脱英伟达芯片制约](https://fcvoyage.com/zhong-dong-aixiong-xin-yu-zu-ju-e-tou-ru-xia-reng-nan-bai-tuo-ying-wei-da-xin-pian-zhi-yue/) - 2026-07-17 (#infrastructure)
 - [深度解析：Netflix财报背后，流媒体巨头的多重挑战与战略应对](https://fcvoyage.com/shen-du-jie-xi-netflixcai-bao-bei-hou-liu-mei-ti-ju-tou-de-duo-zhong-tiao-zhan-yu-zhan-lue-ying-dui/) - 2026-07-17 (#growth)
-- [乔治亚-太平洋：构建自有程序化媒介团队，解锁营销新效能](https://fcvoyage.com/qiao-zhi-ya-tai-ping-yang-gou-jian-zi-you-cheng-xu-hua-mei-jie-tuan-dui-jie-suo-ying-xiao-xin-xiao-neng/) - 2026-07-17 (#growth)
 <!-- END_POSTS -->
