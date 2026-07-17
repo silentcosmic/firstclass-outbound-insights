@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [千米高楼技术已成熟：哈利法塔工程师揭示真正挑战](https://t.me/c/4392427626/1691) - 2026-07-17 (#dubai)
 - [UFC格斗之夜七月重燃：阿布扎比再迎巅峰对决](https://t.me/c/4392427626/1690) - 2026-07-17 (#dubai)
 - [️ 阿布扎比海上活动严监管：最高罚款3万迪拉姆](https://t.me/c/4392427626/1689) - 2026-07-17 (#dubai)
 - [5亿跨境传销大案主犯，潜逃泰国终落网](https://t.me/c/4392427626/1688) - 2026-07-17 (#dubai)
@@ -33,5 +34,4 @@
 - [湖南警方捣毁裸聊引流窝点：跨境诈骗链条曝光](https://t.me/c/4392427626/1664) - 2026-07-17 (#dubai)
 - [苹果加速布局AI算力：全球寻觅芯片收购标的](https://fcvoyage.com/ping-guo-jia-su-bu-ju-aisuan-li-quan-qiu-xun-mi-xin-pian-shou-gou-biao-de/) - 2026-07-17 (#growth)
 - [全球商业策略与市场前瞻：AI创新、产业变革与资本新局](https://fcvoyage.com/quan-qiu-shang-ye-ce-lue-yu-shi-chang-qian-zhan-aichuang-xin-chan-ye-bian-ge-yu-zi-ben-xin-ju/) - 2026-07-17 (#insights)
-- [全球产业前瞻 | 百度智能云领跑金融AI市场；腾讯云具身智能布局深化；半导体与社交媒体监管聚焦](https://fcvoyage.com/quan-qiu-chan-ye-qian-zhan-bai-du-zhi-neng-yun-ling-pao-jin-rong-aishi-chang-teng-xun-yun-ju-shen-zhi-neng-bu-ju-shen-hua-ban-dao-ti-yu-she-jiao-mei-ti-jian-guan-ju-jiao/) - 2026-07-17 (#insights)
 <!-- END_POSTS -->
