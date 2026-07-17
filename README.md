@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [全球商业策略与市场前瞻：AI创新、产业变革与资本新局](https://fcvoyage.com/quan-qiu-shang-ye-ce-lue-yu-shi-chang-qian-zhan-aichuang-xin-chan-ye-bian-ge-yu-zi-ben-xin-ju/) - 2026-07-17 (#insights)
 - [全球产业前瞻 | 百度智能云领跑金融AI市场；腾讯云具身智能布局深化；半导体与社交媒体监管聚焦](https://fcvoyage.com/quan-qiu-chan-ye-qian-zhan-bai-du-zhi-neng-yun-ling-pao-jin-rong-aishi-chang-teng-xun-yun-ju-shen-zhi-neng-bu-ju-shen-hua-ban-dao-ti-yu-she-jiao-mei-ti-jian-guan-ju-jiao/) - 2026-07-17 (#insights)
 - [AI重塑影视产业格局：非科班新锐崛起与资本竞逐新篇章](https://fcvoyage.com/aizhong-su-ying-shi-chan-ye-ge-ju-fei-ke-ban-xin-rui-jue-qi-yu-zi-ben-jing-zhu-xin-pian-zhang/) - 2026-07-17 (#insights)
 - [AI算力鸿沟：企业基础设施投资狂飙，成本效益洞察却迟滞不前](https://fcvoyage.com/aisuan-li-hong-gou-qi-ye-ji-chu-she-shi-tou-zi-kuang-biao-cheng-ben-xiao-yi-dong-cha-que-chi-zhi-bu-qian/) - 2026-07-17 (#ai)
@@ -33,5 +34,4 @@
 - [迪拜无人驾驶出租车上线：5迪拉姆体验未来出行](https://t.me/c/4392427626/1635) - 2026-07-17 (#dubai)
 - [柬埔寨波贝：抢劫盗窃团伙被成功打击](https://t.me/c/4392427626/1634) - 2026-07-17 (#dubai)
 - [️ 东南亚“捞人”骗局曝光：福建男子涉案3.15万U](https://t.me/c/4392427626/1633) - 2026-07-17 (#dubai)
-- [️ 迪拜跨境劳务警示：涉嫌诈骗与胁迫案件频发](https://t.me/c/4392427626/1632) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
