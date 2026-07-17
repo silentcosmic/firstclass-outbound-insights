@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [洞察潜意识：顶尖咨询机构Triggers如何解码消费者品牌关联，并质疑传统细分策略](https://fcvoyage.com/dong-cha-qian-yi-shi-ding-jian-zi-xun-ji-gou-triggersru-he-jie-ma-xiao-fei-zhe-pin-pai-guan-lian-bing-zhi-yi-chuan-tong-xi-fen-ce-lue/) - 2026-07-17 (#growth)
 - [出海情报速递 | 新加坡金管局警示加密企业反洗钱合规短板](https://fcvoyage.com/chu-hai-qing-bao-su-di-xin-jia-po-jin-guan-ju-jing-shi-jia-mi-qi-ye-fan-xi-qian-he-gui-duan-ban/) - 2026-07-17 (#insights)
 - [亚洲数十亿美元欺诈危机：金融科技如何重塑信任格局？](https://fcvoyage.com/ya-zhou-shu-shi-yi-mei-yuan-qi-zha-wei-ji-jin-rong-ke-ji-ru-he-zhong-su-xin-ren-ge-ju/) - 2026-07-17 (#insights)
 - [Triple-A获迪拜VARA初步许可，中东合规布局提速](https://t.me/c/4392427626/1648) - 2026-07-17 (#dubai)
@@ -33,5 +34,4 @@
 - [迪拜华人圈寻人：突发事件致联系中断，急寻旧友](https://t.me/c/4392427626/1624) - 2026-07-17 (#dubai)
 - [Uber巨资收购Delivery Hero：全球外卖市场重塑](https://t.me/c/4392427626/1623) - 2026-07-16 (#dubai)
 - [阿联酋七月罕见阵雨：酷暑暂停，后续或有更多降水](https://t.me/c/4392427626/1622) - 2026-07-16 (#dubai)
-- [中菲联手：跨境电诈头目林某落网，涉案数亿](https://t.me/c/4392427626/1621) - 2026-07-16 (#dubai)
 <!-- END_POSTS -->
