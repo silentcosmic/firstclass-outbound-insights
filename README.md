@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [东帝汶总理：网络诈骗威胁国安，将严打涉外犯罪](https://t.me/c/4392427626/1687) - 2026-07-17 (#dubai)
 - [伊朗突袭科威特电厂：中东局势骤然升级](https://t.me/c/4392427626/1686) - 2026-07-17 (#dubai)
 - [🇪 阿联酋重温建国誓言：传承团结与发展精神](https://t.me/c/4392427626/1685) - 2026-07-17 (#dubai)
 - [特朗普再抛重磅言论：中国欲阻其连任](https://t.me/c/4392427626/1684) - 2026-07-17 (#dubai)
@@ -33,5 +34,4 @@
 - [AI重塑影视产业格局：非科班新锐崛起与资本竞逐新篇章](https://fcvoyage.com/aizhong-su-ying-shi-chan-ye-ge-ju-fei-ke-ban-xin-rui-jue-qi-yu-zi-ben-jing-zhu-xin-pian-zhang/) - 2026-07-17 (#insights)
 - [AI算力鸿沟：企业基础设施投资狂飙，成本效益洞察却迟滞不前](https://fcvoyage.com/aisuan-li-hong-gou-qi-ye-ji-chu-she-shi-tou-zi-kuang-biao-cheng-ben-xiao-yi-dong-cha-que-chi-zhi-bu-qian/) - 2026-07-17 (#ai)
 - [行业风向 | The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials](https://fcvoyage.com/xing-ye-feng-xiang-the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials/) - 2026-07-17 (#ai)
-- [企业级AI信任危机：上下文鸿沟并非检索难题，而是治理挑战](https://fcvoyage.com/qi-ye-ji-aixin-ren-wei-ji-shang-xia-wen-hong-gou-bing-fei-jian-suo-nan-ti-er-shi-zhi-li-tiao-zhan/) - 2026-07-17 (#ai)
 <!-- END_POSTS -->
