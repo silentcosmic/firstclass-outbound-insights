@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [灰产老兵转型实体娃娃：从“键盘侠”到“娃娃老板”](https://t.me/c/4392427626/1665) - 2026-07-17 (#dubai)
 - [湖南警方捣毁裸聊引流窝点：跨境诈骗链条曝光](https://t.me/c/4392427626/1664) - 2026-07-17 (#dubai)
 - [苹果加速布局AI算力：全球寻觅芯片收购标的](https://fcvoyage.com/ping-guo-jia-su-bu-ju-aisuan-li-quan-qiu-xun-mi-xin-pian-shou-gou-biao-de/) - 2026-07-17 (#growth)
 - [全球商业策略与市场前瞻：AI创新、产业变革与资本新局](https://fcvoyage.com/quan-qiu-shang-ye-ce-lue-yu-shi-chang-qian-zhan-aichuang-xin-chan-ye-bian-ge-yu-zi-ben-xin-ju/) - 2026-07-17 (#insights)
@@ -33,5 +34,4 @@
 - [柬埔寨勋爵旗下赌场涉网络诈骗：路透社披露](https://t.me/c/4392427626/1638) - 2026-07-17 (#dubai)
 - [马来西亚A8体育陷管理泥潭，员工薪资停滞人心惶惶](https://t.me/c/4392427626/1637) - 2026-07-17 (#dubai)
 - [印尼警方突袭：15名中越籍涉案人员被捕](https://t.me/c/4392427626/1636) - 2026-07-17 (#dubai)
-- [迪拜无人驾驶出租车上线：5迪拉姆体验未来出行](https://t.me/c/4392427626/1635) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
