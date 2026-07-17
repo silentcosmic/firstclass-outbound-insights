@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [️ 东南亚电诈升级为现代奴役危机](https://t.me/c/4392427626/1675) - 2026-07-17 (#dubai)
 - [中老联合打击电诈：遣返人员引关注](https://t.me/c/4392427626/1674) - 2026-07-17 (#dubai)
 - [在柬华人汇旺血泪：从捐款到盼望“铲平”](https://t.me/c/4392427626/1673) - 2026-07-17 (#dubai)
 - [️ Coinbase放宽大陆注册：身份认证新动向](https://t.me/c/4392427626/1672) - 2026-07-17 (#dubai)
@@ -33,5 +34,4 @@
 - [Triple-A获迪拜VARA初步许可，中东合规布局提速](https://t.me/c/4392427626/1648) - 2026-07-17 (#dubai)
 - [迪拜虚拟资产监管局向Triple-A颁发经纪商牌照初步许可](https://fcvoyage.com/di-bai-xu-ni-zi-chan-jian-guan-ju-xiang-triple-aban-fa-jing-ji-shang-pai-zhao-chu-bu-xu-ke/) - 2026-07-17 (#insights)
 - [亚斯岛免费巴士开通：覆盖四大酋长国](https://t.me/c/4392427626/1646) - 2026-07-17 (#dubai)
-- [迪拜严打虚假信息：媒体机构需警惕](https://t.me/c/4392427626/1645) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
