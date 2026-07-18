@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [Netflix内容生产革新：生成式AI深度融入近三百部作品，后期制作成效显著](https://fcvoyage.com/netflixnei-rong-sheng-chan-ge-xin-sheng-cheng-shi-aishen-du-rong-ru-jin-san-bai-bu-zuo-pin-hou-qi-zhi-zuo-cheng-xiao-xian-zhu/) - 2026-07-18 (#growth)
 - [集成灶巨头浙江美大股权易主：创始家族13亿退场，跨境电商新贵接棒战略转型](https://fcvoyage.com/ji-cheng-zao-ju-tou-zhe-jiang-mei-da-gu-quan-yi-zhu-chuang-shi-jia-zu-13yi-tui-chang-kua-jing-dian-shang-xin-gui-jie-bang-zhan-lue-zhuan-xing/) - 2026-07-18 (#insights)
 - [人形机器人ODM方案商半醒具身斩获千万级融资，飞荣达与索辰科技接力布局具身智能赛道](https://fcvoyage.com/ren-xing-ji-qi-ren-odmfang-an-shang-ban-xing-ju-shen-zhan-huo-qian-mo-ji-rong-zi-fei-rong-da-yu-suo-chen-ke-ji-jie-li-bu-ju-ju-shen-zhi-neng-sai-dao/) - 2026-07-18 (#insights)
 - [行业风向 | The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem | and most are shipping to production anyway](https://fcvoyage.com/xing-ye-feng-xiang-the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway/) - 2026-07-18 (#ai)
@@ -33,5 +34,4 @@
 - [伊朗突袭科威特电厂：中东局势骤然升级](https://t.me/c/4392427626/1686) - 2026-07-17 (#dubai)
 - [🇪 阿联酋重温建国誓言：传承团结与发展精神](https://t.me/c/4392427626/1685) - 2026-07-17 (#dubai)
 - [特朗普再抛重磅言论：中国欲阻其连任](https://t.me/c/4392427626/1684) - 2026-07-17 (#dubai)
-- [️ 马来西亚入境警示：特定护照或面临严查与遣返](https://t.me/c/4392427626/1683) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
