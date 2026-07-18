@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [人形机器人ODM方案商半醒具身斩获千万级融资，飞荣达与索辰科技接力布局具身智能赛道](https://fcvoyage.com/ren-xing-ji-qi-ren-odmfang-an-shang-ban-xing-ju-shen-zhan-huo-qian-mo-ji-rong-zi-fei-rong-da-yu-suo-chen-ke-ji-jie-li-bu-ju-ju-shen-zhi-neng-sai-dao/) - 2026-07-18 (#insights)
 - [行业风向 | The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem | and most are shipping to production anyway](https://fcvoyage.com/xing-ye-feng-xiang-the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway/) - 2026-07-18 (#ai)
 - [Crypto.com 获 Citadel Securities 4亿美元战略投资，估值达200亿美元](https://fcvoyage.com/crypto-com-huo-citadel-securities-4yi-mei-yuan-zhan-lue-tou-zi-gu-zhi-da-200yi-mei-yuan/) - 2026-07-18 (#insights)
 - [亚马逊AWS核心高管变动：计算与机器学习负责人戴夫·布朗任期19年后离任](https://fcvoyage.com/ya-ma-xun-awshe-xin-gao-guan-bian-dong-ji-suan-yu-ji-qi-xue-xi-fu-ze-ren-dai-fu-bu-lang-ren-qi-19nian-hou-chi-ren/) - 2026-07-18 (#insights)
@@ -33,5 +34,4 @@
 - [特朗普再抛重磅言论：中国欲阻其连任](https://t.me/c/4392427626/1684) - 2026-07-17 (#dubai)
 - [️ 马来西亚入境警示：特定护照或面临严查与遣返](https://t.me/c/4392427626/1683) - 2026-07-17 (#dubai)
 - [老挝丰沙里省破获网络诈骗案：5名嫌犯落网](https://t.me/c/4392427626/1682) - 2026-07-17 (#dubai)
-- [️ 汇旺维权风波升级：幕后操盘手三路出击](https://t.me/c/4392427626/1681) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
