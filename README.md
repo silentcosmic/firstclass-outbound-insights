@@ -4,6 +4,7 @@
 
 ## 最新出海内参
 <!-- START_POSTS -->
+- [东南亚出海八年：一个时代的终结与转型启示](https://t.me/c/4392427626/1716) - 2026-07-18 (#dubai)
 - [直击WAIC：深度解析人工智能前沿创新与产业脉动](https://fcvoyage.com/zhi-ji-waic-shen-du-jie-xi-ren-gong-zhi-neng-qian-yan-chuang-xin-yu-chan-ye-mai-dong/) - 2026-07-18 (#growth)
 - [WAIC 2026深度观察：通用人工智能如何重塑未来商业图景](https://fcvoyage.com/waic-2026shen-du-guan-cha-tong-yong-ren-gong-zhi-neng-ru-he-zhong-su-wei-lai-shang-ye-tu-jing/) - 2026-07-18 (#growth)
 - [Netflix内容生产革新：生成式AI深度融入近三百部作品，后期制作成效显著](https://fcvoyage.com/netflixnei-rong-sheng-chan-ge-xin-sheng-cheng-shi-aishen-du-rong-ru-jin-san-bai-bu-zuo-pin-hou-qi-zhi-zuo-cheng-xiao-xian-zhu/) - 2026-07-18 (#growth)
@@ -33,5 +34,4 @@
 - [️ 阿布扎比海上活动严监管：最高罚款3万迪拉姆](https://t.me/c/4392427626/1689) - 2026-07-17 (#dubai)
 - [5亿跨境传销大案主犯，潜逃泰国终落网](https://t.me/c/4392427626/1688) - 2026-07-17 (#dubai)
 - [东帝汶总理：网络诈骗威胁国安，将严打涉外犯罪](https://t.me/c/4392427626/1687) - 2026-07-17 (#dubai)
-- [伊朗突袭科威特电厂：中东局势骤然升级](https://t.me/c/4392427626/1686) - 2026-07-17 (#dubai)
 <!-- END_POSTS -->
